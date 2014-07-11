@@ -77,8 +77,8 @@ should be inferred about the history of the quire from this formula. In the
 example above, the quire may have been a quire of 4 bifolia to which the last
 two singletons were later added; the formula is not concerned with this.
 
-# WAM to XML quire XSLT
+# Process XSLTs
 
-The file `xsl/wamtei_parse_collation.xsl` takes as input a Walters TEI file
-(see the `data` diretory for examples), and outputs quire XML as shown above.
+Use the processn.xslt files to run the full process. Start with process1.xslt, the output for process1.xslt is the input for process2.xslt. The output from process7.xslt builds the complete collation visualization website.
+
 
