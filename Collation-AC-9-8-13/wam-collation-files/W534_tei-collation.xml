@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quires xmlns:tei="http://www.tei-c.org/ns/1.0"
+        xmlns="http://www.schoenberginstitute.org/schema/collation"
+        idno="W534">
+<!--Formula: 1(8,-1,-2), 2-4(8), 5(8,-1), 6-9(8), 10(10,-3), 11-17(8), 19(8,-7), 20(8,-6), 21(8), 22(10,-3,-7), 23-32(8), 33(6), 34(10)-->
+<!--Quire string: 1(8,-1,-2),2-4(8),5(8,-1),6-9(8),10(10,-3),11-17(8),19(8,-7),20(8,-6),21(8),22(10,-3,-7),23-32(8),33(6),34(10)-->
+<quire n="1" positions="8">
+      <less>1</less>
+      <less>2</less>
+   </quire>
+   <quire n="2" positions="8"/>
+   <quire n="3" positions="8"/>
+   <quire n="4" positions="8"/>
+   <quire n="5" positions="8">
+      <less>1</less>
+   </quire>
+   <quire n="6" positions="8"/>
+   <quire n="7" positions="8"/>
+   <quire n="8" positions="8"/>
+   <quire n="9" positions="8"/>
+   <quire n="10" positions="10">
+      <less>3</less>
+   </quire>
+   <quire n="11" positions="8"/>
+   <quire n="12" positions="8"/>
+   <quire n="13" positions="8"/>
+   <quire n="14" positions="8"/>
+   <quire n="15" positions="8"/>
+   <quire n="16" positions="8"/>
+   <quire n="17" positions="8"/>
+   <quire n="19" positions="8">
+      <less>7</less>
+   </quire>
+   <quire n="20" positions="8">
+      <less>6</less>
+   </quire>
+   <quire n="21" positions="8"/>
+   <quire n="22" positions="10">
+      <less>3</less>
+      <less>7</less>
+   </quire>
+   <quire n="23" positions="8"/>
+   <quire n="24" positions="8"/>
+   <quire n="25" positions="8"/>
+   <quire n="26" positions="8"/>
+   <quire n="27" positions="8"/>
+   <quire n="28" positions="8"/>
+   <quire n="29" positions="8"/>
+   <quire n="30" positions="8"/>
+   <quire n="31" positions="8"/>
+   <quire n="32" positions="8"/>
+   <quire n="33" positions="6"/>
+   <quire n="34" positions="10"/>
+</quires>
