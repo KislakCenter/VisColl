@@ -352,9 +352,25 @@ float:right;
     fill-opacity:1;
 }
 
-.missingLeaf{
-    stroke:#666;
-    stroke-width:1pt;
+.replaced{
+    stroke-dasharray:4,1,1,1;
+    border-style:dotted;
+    border-color:#ffffff;
+}
+
+.added{
+    stroke-dasharray:4,1;
+    border-style:dashed;
+    border-color:#ffffff;
+}
+
+.missing{
+    stroke-dasharray:1,5;
+}
+
+.empty{
+    stroke:#415a6c;
+    stroke-width:1.2pt;
     fill:none;
     fill-opacity:1;
 }
