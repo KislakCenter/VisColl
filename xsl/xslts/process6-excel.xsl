@@ -83,12 +83,16 @@
             <xsl:variable name="the_folNo">
                 <xsl:value-of select="@folNo"/>
             </xsl:variable>
-            <xsl:if test="document(concat('../',$idno,'-imageList.xml'))//ss:Row/ss:Cell/ss:Data/$the_folNo"> <!--test="ancestor::quires/tei:facsimile/tei:surface[@n=$the_folNo]"-->
+            <!--<xsl:if test="document(concat('../',$idno,'-imageList.xml'))//ss:Row/ss:Cell/ss:Data/$the_folNo">
                 <xsl:attribute name="url">
-                    <!--<xsl:value-of
-                        select="document(concat($idno,'-imageList.xml'))//ss:Row/ss:Cell/ss:Data/$the_folNo/../following-sibling::ss:Cell[1]/ss:Data[1]/text()"/>-->
                     <xsl:value-of
                         select="document(concat('../',$idno,'-imageList.xml'))//ss:Row/ss:Cell/ss:Data[text()=$the_folNo]/../following-sibling::ss:Cell[1]/ss:Data[1]/text()"/>
+                </xsl:attribute>
+            </xsl:if>-->
+            <xsl:if test="document(http://dorpdev.library.upenn.edu/test/CottonMSClaudiusBIV-imageList.xml)//ss:Row/ss:Cell/ss:Data/$the_folNo">
+                <xsl:attribute name="url">
+                    <xsl:value-of
+                        select="document(http://dorpdev.library.upenn.edu/test/CottonMSClaudiusBIV-imageList.xml)//ss:Row/ss:Cell/ss:Data[text()=$the_folNo]/../following-sibling::ss:Cell[1]/ss:Data[1]/text()"/>
                 </xsl:attribute>
             </xsl:if>
             <xsl:if test="@mode='missing'">
