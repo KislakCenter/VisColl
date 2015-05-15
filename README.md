@@ -32,12 +32,15 @@ The output will be a set of HTML files, one for each quire, inside a folder name
 
 In addition to the Leaves XML file, you will also need to have a file listing URLs to images, matched with the folio or page number for those images. 
 
-The simplest way to create this file is using Excel. First, create a spreadsheet with folio or page numbers in the first column, and the corresponding image URL in the second column (*do not* includ column headings). For example:
+The simplest way to create this file is using Excel. First, create a spreadsheet with folio or page numbers in the first column, and the corresponding image URL in the second column (*do not* include column headings). For example:
 
-1r          http://project.org/image1r.jpg
-1v          http://project.org/image1v.jpg
-2r          http://project.org/image2r.jpg
-2v          http://project.org/image2v.jpg
+1r http://project.org/image1r.jpg
+
+1v http://project.org/image1v.jpg
+
+2r http://project.org/image2r.jpg
+
+2v http://project.org/image2v.jpg
 
 Then save this file as an XML file in Excel (Save As -> Excel 2004 XML Spreadsheet). As of right now, the image list file must be named according to the shelfmark in the Collation Modeler, but with all spaces removed. So for a Collation Modeler form with the shelfmark Cotton MS Claudius B IV, the image list file would be called:
 
