@@ -4,17 +4,17 @@ VisColl
 This project is for XSL transforms for visualization of quire structure  from
 a parsed collation formula. 
 
-# Download the files
+## Download the files
 
 On the right, click "Download Zip". Unzip that, and move the "data" directory and the "xslts" directory (which is inside the directory called "xsl") into the same folder. It is very important that you move xslts out of xsl, and that it sit alongside data! The other files mentioned below should be placed in the same folder that holds xslts and data.
 
-# Collation Model
+## Collation Model
 
 To create a collation model, use the Collation Modeler form (currently at https://protected-island-3361.herokuapp.com/ and described at https://github.com/demery/collation-modeling)
 
 To use the VisColl files, you will need to export the Leaves XML from the Collation Modeler.
 
-# Generate Collation Formula
+## Generate Collation Formula
 
 To generate a collation formula, process the xslts/generate_formula.xslt file against the Leaves XML file. On a Mac, using the Terminal, your command will look something like this:
 
@@ -24,7 +24,7 @@ The output will be an HTML file, with the same name as your input file, containi
 
 If you have a preferred formula and you would like to see it added to the output for generate-formula.xsl, please feel free to edit that file, or contact me and I will add it.
 
-# Generate Collation Visualization
+## Generate Collation Visualization
 
 To generate a collation visualization, process the collation_viz.sh file against the Leaves XML file. On a Mac, using the Terminal, your command will look something like this:
 
