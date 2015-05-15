@@ -4,6 +4,10 @@ VisColl
 This project is for XSL transforms for visualization of quire structure  from
 a parsed collation formula. 
 
+# Download the files
+
+On the right, click "Download Zip". Unzip that, and move the "data" directory and the "xslts" directory (which is inside the directory called "xsl") into the same folder. It is very important that you move xslts out of xsl, and that it sit alongside data! The other files mentioned below should be placed in the same folder that holds xslts and data.
+
 # Collation Model
 
 To create a collation model, use the Collation Modeler form (currently at https://protected-island-3361.herokuapp.com/ and described at https://github.com/demery/collation-modeling)
@@ -29,6 +33,7 @@ sh collation_viz.sh Cotton_MS_Claudius_B_IV.xml
 The output will be a set of HTML files, one for each quire, inside a folder named for the input file.
 
 ## Things to note
+### Image List File
 
 In addition to the Leaves XML file, you will also need to have a file listing URLs to images, matched with the folio or page number for those images. 
 
@@ -47,5 +52,6 @@ Then save this file as an XML file in Excel (Save As -> Excel 2004 XML Spreadshe
 CottonMSClaudiusBIV-imageList.xml
 
 If the image list is named incorrectly, the process won't work correctly.
+
 
 
