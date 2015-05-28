@@ -245,7 +245,9 @@
                             
                             <xsl:variable name="divsetNo" select="@n"/>
                             
-                            <div class="bititles">Quire
+                            <xsl:comment> If you would like to include the ability to show and hide quires, uncommend the code below </xsl:comment>
+                            
+                            <xsl:comment><div class="bititles">Quire
                                     <xsl:value-of select="$quireNo"/>, Unit <xsl:value-of
                                     select="$leftFol"/>, <xsl:value-of select="$rightFol"/>
                                 <xsl:text> </xsl:text><xsl:text> </xsl:text><a href="#"
@@ -254,7 +256,8 @@
                                     href="#"
                                     onclick="MM_changeProp('divset{$divsetNo}','','height','0px','DIV')"><img
                                         src="https://cdn.rawgit.com/leoba/VisColl/master/data/support/images/close.gif" alt="Close" class="closeimage"
-                                /></a></div>
+                                /></a></div></xsl:comment>
+                            <br/>
                             <div>
                                 <xsl:attribute name="id">divset<xsl:value-of select="$divsetNo"
                                     /></xsl:attribute>
