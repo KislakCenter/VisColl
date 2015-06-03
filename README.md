@@ -4,36 +4,19 @@ VisColl
 This project is for XSL transforms for visualization of quire structure  from
 a parsed collation formula. 
 
-## Download the files
+VisColl involves three steps: 
 
-On the right, click "Download Zip". Unzip that, and move the "data" directory and the "xslts" directory (which is inside the directory called "xsl") into the same folder. It is very important that you move xslts out of xsl, and that it sit alongside data! The other files mentioned below should be placed in the same folder that holds xslts and data.
+1. Create a Collation Model
+2. Create an Image List
+3. Generate a Collation Visualization
 
-## Collation Model
+## Create a Collation Model
 
 To create a collation model, use the Collation Modeler form (currently at https://protected-island-3361.herokuapp.com/ and described at https://github.com/demery/collation-modeling)
 
-To use the VisColl files, you will need to export the Leaves XML from the Collation Modeler.
+Export the Leaves XML from the Collation Modeler.
 
-## Generate Collation Formula
-
-To generate a collation formula, process the xslts/generate_formula.xslt file against the Leaves XML file. On a Mac, using the Terminal, your command will look something like this:
-
-saxon Cotton_MS_Claudius_B_IV.xml xslts/generate-formula.xsl
-
-The output will be an HTML file, with the same name as your input file, containing two different collation formulas.
-
-If you have a preferred formula and you would like to see it added to the output for generate-formula.xsl, please feel free to edit that file, or contact me and I will add it.
-
-## Generate Collation Visualization
-
-To generate a collation visualization, process the collation_viz.sh file against the Leaves XML file. On a Mac, using the Terminal, your command will look something like this:
-
-sh collation_viz.sh Cotton_MS_Claudius_B_IV.xml
-
-The output will be a set of HTML files, one for each quire, inside a folder named for the input file.
-
-## Things to note
-### Image List File
+## Create an Image List
 
 In addition to the Leaves XML file, you will also need to have a file listing URLs to images, matched with the folio or page number for those images. 
 
@@ -53,5 +36,26 @@ CottonMSClaudiusBIV-imageList.xml
 
 If the image list is named incorrectly, the process won't work correctly.
 
+## Generate Collation Visualization
+
+To generate a Collation Visualization, go here: http://45.55.178.234:8080/xproc-z/visualize-collation/
+
+Load the Collation Model and the Image List where indicated.
+
+Click "Submit". In a few moments, you will be asked to download a .zip file containing the full Collation Visualization (in HTML). There will be one HTML file for each quire, plus a folder of supporting materials. You will need to keep everything together in order for it to work.
+
+The Collation Visualization online tool uses Xproc-Z, developed by Conal Touhy and available at his github: https://github.com/Conal-Tuohy/XProc-Z
+
+Many thanks to Conal for incorporating the XSLT files found in this repository into the xproc pipeline that runs as Collation Visualization.
+
+## Generate Collation Formula
+
+To generate a collation formula, process the xslts/generate_formula.xslt file against the Leaves XML file. On a Mac, using the Terminal, your command will look something like this:
+
+saxon Cotton_MS_Claudius_B_IV.xml xslts/generate-formula.xsl
+
+The output will be an HTML file, with the same name as your input file, containing two different collation formulas.
+
+If you have a preferred formula and you would like to see it added to the output for generate-formula.xsl, please feel free to edit that file, or contact me and I will add it.
 
 
