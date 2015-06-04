@@ -44,9 +44,9 @@ Load the Collation Model and the Image List where indicated.
 
 Click "Submit". In a few moments, you will be asked to download a .zip file containing the full Collation Visualization (in HTML). There will be one HTML file for each quire, plus a folder of supporting materials. You will need to keep everything together in order for it to work.
 
-The Collation Visualization online tool uses Xproc-Z, developed by Conal Touhy and available at his github: https://github.com/Conal-Tuohy/XProc-Z
+The Collation Visualization online tool uses XProc-Z, developed by Conal Tuohy and available at his github: https://github.com/Conal-Tuohy/XProc-Z
 
-Many thanks to Conal for incorporating the XSLT files found in this repository into the xproc pipeline that runs as Collation Visualization.
+Many thanks to Conal for incorporating the XSLT files found in this repository into the XProc pipeline that runs as Collation Visualization.
 
 ## Generate Collation Formula
 
