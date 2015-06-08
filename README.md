@@ -12,7 +12,7 @@ VisColl involves three steps:
 
 ## Create a Collation Model
 
-To create a collation model, use the Collation Modeler form (currently at https://protected-island-3361.herokuapp.com/ and described at https://github.com/demery/collation-modeling)
+To create a collation model, use the Collation Modeler form (currently at http://tinyurl.com/CollModel/ and described at https://github.com/demery/collation-modeling)
 
 Export the Leaves XML from the Collation Modeler.
 
@@ -38,7 +38,7 @@ If the image list is named incorrectly, the process won't work correctly.
 
 ## Generate Collation Visualization
 
-To generate a Collation Visualization, go here: http://45.55.178.234:8080/xproc-z/visualize-collation/
+To generate a Collation Visualization, go here: http://tinyurl.com/VisColl/
 
 Load the Collation Model and the Image List where indicated.
 
