@@ -16,6 +16,10 @@ To create a collation model, use the Collation Modeler form (currently at http:/
 
 Export the Leaves XML from the Collation Modeler.
 
+Video tutorial online (building collation model): https://www.facebook.com/dot.porter.583/videos/vb.100005128847862/437456166435341/
+
+Video tutorial online (comparing Collation Modeler outputs - advanced): https://www.facebook.com/dot.porter.583/videos/vb.100005128847862/437464446434513/
+
 ## Create an Image List
 
 In addition to the Leaves XML file, you will also need to have a file listing URLs to images, matched with the folio or page number for those images. 
@@ -36,6 +40,8 @@ CottonMSClaudiusBIV-imageList.xml
 
 If the image list is named incorrectly, the process won't work correctly.
 
+Video tutorial online (create an image list using Excel): https://www.facebook.com/dot.porter.583/videos/vb.100005128847862/437458699768421/
+
 ## Generate Collation Visualization
 
 To generate a Collation Visualization, go here: http://tinyurl.com/VisColl/
@@ -47,6 +53,8 @@ Click "Submit". In a few moments, you will be asked to download a .zip file cont
 The Collation Visualization online tool uses XProc-Z, developed by Conal Tuohy and available at his github: https://github.com/Conal-Tuohy/XProc-Z
 
 Many thanks to Conal for incorporating the XSLT files found in this repository into the XProc pipeline that runs as Collation Visualization.
+
+Video tutorial online: https://www.facebook.com/dot.porter.583/videos/vb.100005128847862/437461726434785/
 
 ## Generate Collation Formula
 
