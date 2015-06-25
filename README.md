@@ -8,7 +8,7 @@ VisColl involves three steps:
 
 1. Create a Collation Model
 2. Create an Image List
-3. Generate a Collation Visualization
+3. Generate a Collation Visualization (see http://dorpdev.library.upenn.edu/collation/ for some examples of what the Collation Visualization looks like)
 
 ## Create a Collation Model
 
