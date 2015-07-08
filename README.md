@@ -50,6 +50,8 @@ Load the Collation Model and the Image List where indicated.
 
 Click "Submit". In a few moments, you will be asked to download a .zip file containing the full Collation Visualization (in HTML). There will be one HTML file for each quire, plus a folder of supporting materials. You will need to keep everything together in order for it to work.
 
+NOTE: Some computers are downloading the .zip file in which the file name is surrounded by single quotes (i.e., literally, 'VisColl.zip'). Your computer will not recognize the .zip' file extension and will be unable to open this file. You will need to edit the file name and remove the single quotes. Once you do this, your computer will recognize the file type and will be able to open it. So, if your computer can't open the file after downloading, check to see if it has single quotes around it.
+
 The Collation Visualization online tool uses XProc-Z, developed by Conal Tuohy and available at his github: https://github.com/Conal-Tuohy/XProc-Z
 
 Many thanks to Conal for incorporating the XSLT files found in this repository into the XProc pipeline that runs as Collation Visualization.
