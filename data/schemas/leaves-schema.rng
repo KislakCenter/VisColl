@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" xmlns:xlink="http://www.w3.org/1999/xlink"
+   datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://www.tei-c.org/ns/1.0">
+   <!--
+Schema generated from ODD source 2015-10-28T19:20:39Z. .
+TEI Edition: Version 2.9.1. Last updated on
+	15th October 2015, revision 46ac023
+TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 2.9.1/
+  
+-->
+   <!---->
+   <sch:ns xmlns:sch="http://purl.oclc.org/dsdl/schematron" prefix="tei"
+      uri="http://www.tei-c.org/ns/1.0"/>
+   <define name="url">
+      <element name="url" ns="http://schoenberginstitute.org/schema/collation">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">URL to a
+            record of the manuscript.</a:documentation>
+         <text/>
+      </element>
+   </define>
+   <define name="title">
+      <element name="title" ns="http://schoenberginstitute.org/schema/collation">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Title or
+            name of the manuscript.</a:documentation>
+         <text/>
+      </element>
+   </define>
+   <define name="shelfmark">
+      <element name="shelfmark" ns="http://schoenberginstitute.org/schema/collation">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Shelfmark of
+            the manuscript</a:documentation>
+         <text/>
+      </element>
+   </define>
+   <define name="quire">
+      <element name="quire" ns="http://schoenberginstitute.org/schema/collation">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Contains the
+            leaves for a single quire in the manuscript.</a:documentation>
+         <attribute name="n">
+            <text/>
+         </attribute>
+         <oneOrMore>
+            <ref name="leaf"/>
+         </oneOrMore>
+      </element>
+   </define>
+   <define name="leaf">
+      <element name="leaf" ns="http://schoenberginstitute.org/schema/collation">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Describes a
+            single leaf.</a:documentation>
+         <attribute name="n">
+            <choice>
+               <data type="integer"/>
+               <empty/>
+            </choice>
+         </attribute>
+         <optional>
+            <attribute name="mode">
+               <choice>
+                  <value>original</value>
+                  <value>missing</value>
+                  <value>added</value>
+                  <value>replaced</value>
+               </choice>
+            </attribute>
+            <attribute name="single">
+               <choice>
+                  <value>true</value>
+                  <value>false</value>
+               </choice>
+            </attribute>
+            <attribute name="folio_number">
+               <text/>
+            </attribute>
+         </optional>
+         <attribute name="conjoin">
+            <choice>
+               <data type="integer"/>
+               <empty/>
+            </choice>
+         </attribute>
+         <attribute name="position">
+            <choice>
+               <data type="integer"/>
+               <empty/>
+            </choice>
+         </attribute>
+      </element>
+   </define>
+   <define name="manuscript">
+      <element name="manuscript" ns="http://schoenberginstitute.org/schema/collation">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">The root
+            element, contains all quires in a manuscript.</a:documentation>
+         <ref name="url"/>
+         <ref name="title"/>
+         <ref name="shelfmark"/>
+         <oneOrMore>
+            <ref name="quire"/>
+         </oneOrMore>
+      </element>
+   </define>
+   <start>
+      <ref name="manuscript"/>
+   </start>
+</grammar>
