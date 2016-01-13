@@ -44,7 +44,7 @@ Video tutorial online (create an image list using Excel): https://www.facebook.c
 
 ## Generate Collation Visualization
 
-To generate a Collation Visualization, go here: http://tinyurl.com/VisColl/
+To generate a Collation Visualization, go here: http://tinyurl.com/VisColl/ (CURRENTLY OFFLINE - 1/13/2016)
 
 Load the Collation Model and the Image List where indicated.
 
