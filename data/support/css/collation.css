@@ -1,14 +1,12 @@
-﻿@charset "utf-8";
+@charset "utf-8";
 /* CSS Document */
 
 body {
 	font-family: Arial, Helvetica, sans-serif;
-	background-color: #ececec;
 	margin: 0px;
 	padding-left: 15px;
-	background-image: url(../pageback.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-image: none;
+	background-color: #fcfcfc;
 }
 
 .bif {
@@ -117,18 +115,6 @@ body {
 	margin-left: 5px;
 }
 
-
-.divset {
-	overflow: hidden;
-	position: static;
-	visibility: visible;
-	z-index: 0;
-	height: auto;
-	width: auto;
-}
-
-
-
 .openimage {
 	margin-bottom: -3px;	
 }
@@ -136,12 +122,7 @@ body {
 	margin-left: -11px;
 	margin-bottom: 7px;	
 }
-.showhideall a:link, .showhideall a:visited {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	color: #666;
-	text-decoration: none;
-}
+
 .spacer {
 	font-size: 12px;
 	margin-right: 90px;
@@ -198,6 +179,21 @@ body {
 	color: #333;
 }
 
+#divtop {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-variant: small-caps;
+	color: #FFF;
+	background-color: #600;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+	margin-left: -15px;
+	height: 32px;
+}
+
+
 #divtop .topheader a:link, #divtop .topheader a:visited {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 18px;
@@ -214,6 +210,7 @@ float:left;
 
 .right 
 {
+
 float:right;
 }
 
@@ -309,16 +306,51 @@ float:right;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 4px;
 	fill: #fff;
-}#divtop {
-	font-family: Georgia, "Times New Roman", Times, serif;
-	font-size: 20px;
-	font-variant: small-caps;
-	color: #FFF;
-	background-color: #600;
-	padding-top: 5px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 15px;
-	margin-left: -15px;
-	height: 32px;
 }
+
+
+.bititles a:link, .bititles a:visited {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	margin-left: 5px;
+	color: #000;
+}
+.quireset {
+	display: none;
+	
+}
+.newquire {
+	margin-top: 10px;
+	clear: both;
+
+}
+.btn1, .btn2, .totop a:link, .totop a:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	padding: 3px;
+	border-radius: 5px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #666;
+	border-right-color: #666;
+	border-bottom-color: #ccc;
+	border-left-color: #ccc;
+	cursor: pointer;
+	text-decoration: none;
+	background-color: #e1d9d9;	
+}
+
+.helptext {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #333;
+}
+

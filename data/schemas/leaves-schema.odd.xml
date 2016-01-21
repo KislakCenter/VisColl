@@ -128,7 +128,7 @@
                                                   <attDef ident="single" mode="add" usage="opt">
                                                   <desc>Is the leaf a singleton? True or false. If
                                                   this leaf is a "false conjoin" for a singleton,
-                                                  @mode will not exist.</desc>
+                                                  @single will not exist.</desc>
                                                   <defaultVal>false</defaultVal>
                                                   <valList type="closed">
                                                   <valItem ident="false"/>
@@ -139,7 +139,7 @@
                                                   usage="opt">
                                                   <desc>The number of the folio (may also be pages,
                                                   separated by a dash, e.g. 121-122). If this leaf
-                                                  is a "false conjoin" for a singleton, @mode will
+                                                  is a "false conjoin" for a singleton, @folio_number will
                                                   not exist.</desc>
                                                   <datatype minOccurs="1" maxOccurs="1">
                                                   <rng:text
@@ -147,9 +147,8 @@
                                                   </datatype>
                                                   </attDef>
                                                   <attDef ident="conjoin" mode="add" usage="req">
-                                                  <desc>The leaf@n of the leaf that is conjoined
-                                                  with this leaf. If there is no conjoin, this will
-                                                  be blank.</desc>
+                                                  <desc>The leaf@position of the leaf that is conjoined
+                                                  with this leaf. If there is no conjoin, a false leaf is created to act as conjoin.</desc>
                                                   </attDef>
                                                   <attDef ident="position" mode="add" usage="req">
                                                   <desc>Position of the leaf in the quire. All
