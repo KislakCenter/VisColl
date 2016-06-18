@@ -4,6 +4,8 @@ VisColl
 This project is for XSL transforms for visualization of quire structure  from
 a parsed collation formula. 
 
+![screenshot of VisColl output](https://raw.githubusercontent.com/leoba/VisColl/master/Screen%20Shot%202016-06-18%20at%208.27.34%20AM.png)
+
 VisColl involves three steps: 
 
 1. Create a Collation Model
