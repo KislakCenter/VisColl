@@ -46,7 +46,7 @@ Video tutorial online (create an image list using Excel): https://www.facebook.c
 
 ## Generate Collation Visualization
 
-To generate a Collation Visualization, go here: http://dorpdev.library.upenn.edu:8081/xproc-z/visualize-collation/ 
+To generate a Collation Visualization, go here: http://dorpdev.library.upenn.edu:8080/xproc-z/visualize-collation/ 
 
 Load the Collation Model and the Image List where indicated.
 
