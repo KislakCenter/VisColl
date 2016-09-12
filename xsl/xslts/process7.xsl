@@ -10,7 +10,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
-    xmlns="http://www.schoenberginstitute.org/schema/collation" exclude-result-prefixes="ss"
+    exclude-result-prefixes="ss"
     version="2.0">
 
     <xsl:output method="text"/>
@@ -55,7 +55,6 @@
             <!-- Multiple HTML Files output below -->
             
             <xsl:result-document href="{concat($idno,'/quires/',$filename)}" format="html">
-                <!-- NEED TO CHANGE PATHS TO UNITS FOLDER -->
                 
                 <html xmlns="http://www.w3.org/1999/xhtml">
                     <!--  -->
@@ -194,7 +193,7 @@
                                 </xsl:choose>
                             </xsl:variable>
                             <xsl:variable name="outsideRightFolNo"><xsl:choose>
-                                <xsl:when test="not($outsideRightFolNoTest)"><xsl:choose><xsl:when test="outdide/right/@mode='missing'"><xsl:value-of
+                                <xsl:when test="not($outsideRightFolNoTest)"><xsl:choose><xsl:when test="outside/right/@mode='missing'"><xsl:value-of
                                     select="$folNoX"/></xsl:when><xsl:otherwise/></xsl:choose></xsl:when>
                                     <xsl:otherwise><xsl:value-of select="$outsideRightFolNoTest"
                                         /></xsl:otherwise>
@@ -440,7 +439,7 @@
             
         </xsl:for-each>
         
-        <!-- Diagram HTML output below -->
+         <!--Diagram HTML output below--> 
         
         <xsl:variable name="filename-diagrams" select="concat($idno,'-diagrams.html')"/>
         <xsl:result-document href="{concat($idno,'/',$filename-diagrams)}" format="html">
@@ -533,7 +532,7 @@
                         </xsl:choose>
                         </xsl:variable>
                         <xsl:variable name="outsideRightFolNo"><xsl:choose>
-                            <xsl:when test="not($outsideRightFolNoTest)"><xsl:choose><xsl:when test="outdide/right/@mode='missing'"><xsl:value-of
+                            <xsl:when test="not($outsideRightFolNoTest)"><xsl:choose><xsl:when test="outside/right/@mode='missing'"><xsl:value-of
                                 select="$folNoX"/></xsl:when><xsl:otherwise/></xsl:choose></xsl:when>
                             <xsl:otherwise><xsl:value-of select="$outsideRightFolNoTest"
                             /></xsl:otherwise>
@@ -716,14 +715,17 @@
             
         </xsl:result-document>
         
-        <!-- One single page for all bifolia output below -->
+         <!--One single page for all bifolia output below -->
         
         <xsl:variable name="filename" select="concat($idno,'.html')"/>
 <xsl:result-document href="{concat($idno,'/',$filename)}" format="html">
 
             <!-- NEEDS DOCTYPE TO WORK: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> -->
-            <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;</xsl:text>
-            <html xmlns="http://www.w3.org/1999/xhtml"
+            <!--<xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;</xsl:text>
+           --> 
+    <xsl:comment>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;</xsl:comment>
+    
+    <html xmlns="http://www.w3.org/1999/xhtml"
                 xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
                 <!--  -->
                 <head>
@@ -912,7 +914,7 @@
                                     <xsl:when test="not($outsideRightFolNoTest)"/>
                                     <xsl:when test="$outsideRightFolNoTest[not(string())]">
                                         <xsl:choose>
-                                            <xsl:when test="outdide/right/@mode='missing'">
+                                            <xsl:when test="outside/right/@mode='missing'">
                                                 <xsl:value-of select="$folNoX"/>
                                             </xsl:when>
                                             <xsl:otherwise/>
@@ -1378,6 +1380,81 @@
 
             </html>
 
+        </xsl:result-document>
+        
+        <!-- Collation Formulas -->
+        
+        <xsl:variable name="filename-formulas" select="concat($idno,'-formulas.html')"/>
+        <xsl:result-document href="{concat($idno,'/',$filename-formulas)}" format="html">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+                <!--  -->
+                <head>
+                    <title>Collation Formulas - <xsl:value-of select="$msname"/></title>
+                    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+                    <script type="text/javascript" src="https://cdn.rawgit.com/leoba/VisColl/master/data/support/fancybox/lib/jquery-1.10.1.min.js">x</script>
+                    <script type="text/javascript" src="https://cdn.rawgit.com/leoba/VisColl/master/data/support/fancybox/source/jquery.fancybox.js?v=2.1.5">x</script>
+                    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/leoba/VisColl/master/data/support/fancybox/source/jquery.fancybox.css?v=2.1.5" media="screen"/>
+                    <link href="https://cdn.rawgit.com/leoba/VisColl/master/data/support/fancybox/source/jquery.fancybox.css" rel="stylesheet" type="text/css"/>
+                    <script type="text/javascript" src="https://cdn.rawgit.com/leoba/VisColl/master/data/support/fancybox/source/iframescript.js">x</script>
+                    <link href="https://cdn.rawgit.com/leoba/VisColl/master/data/support/css/collation.css" rel="stylesheet" type="text/css"/>
+                    <script type="text/javascript" src="https://cdn.rawgit.com/leoba/VisColl/master/data/support/fancybox/querys.js">x</script>
+                    <script type="text/javascript" src="https://cdn.rawgit.com/leoba/VisColl/master/data/support/fancybox/collation.js">x</script>
+                </head>
+                
+                    <!-- this div is the same for all quires -->
+                    <div id="divtop">
+                        <span class="topheader"><a href="http://www.library.upenn.edu" target="_blank">
+                            <img src="https://cdn.rawgit.com/leoba/VisColl/master/data/support/pennlogo.gif" width="28" height="27"
+                                style="align:left;" alt="UPenn"/>
+                        </a>Generated using the 
+                            
+                            <xsl:text> </xsl:text>
+                            <a href="http://www.schoenberginstitute.org" target="blank"
+                                ><xsl:text> </xsl:text><xsl:text> </xsl:text>Schoenberg Institute
+                                for Manuscript Studies</a> <a
+                                    href="https://github.com/leoba/VisColl" target="blank">
+                                    Collation Modeler</a></span>
+                    </div>
+                    
+                    <body>
+                        <p>Collation Formula for <a href="{$msurl}"><xsl:value-of select="$msname"/></a>
+                            </p>
+                        <p>Formula 1: 
+                            <xsl:for-each select="//quireCopy">
+                                <!-- to be in the format 1(8, -4, +3) -->
+                                <xsl:variable name="quire-no" select="@n"/>
+                                <xsl:variable name="no-leaves" select="child::leaf[last()]/@n"/>
+                                <xsl:value-of select="$quire-no"/> (<xsl:value-of select="$no-leaves"
+                                /><xsl:for-each select="child::leaf[@mode='missing']">, -<xsl:value-of
+                                    select="@n"/></xsl:for-each><xsl:for-each select="child::leaf[@mode='added']">, +<xsl:value-of
+                                        select="@n"/></xsl:for-each><xsl:for-each select="child::leaf[@mode='replaced']">, leaf in position <xsl:value-of
+                                            select="@n"/> has been replaced</xsl:for-each>),<xsl:text> </xsl:text>
+                            </xsl:for-each>
+                        </p>
+                        <p>Formula 2: 
+                            <xsl:for-each select="//quireCopy">
+                                <!-- to be in the format 1(8, leaf missing between fol. X and fol. Y, leaf added after fol. X) -->
+                                <xsl:variable name="quire-no" select="@n"/>
+                                <xsl:variable name="no-leaves" select="child::leaf[last()]/@n"/>
+                                <xsl:value-of select="$quire-no"/> (<xsl:value-of select="$no-leaves"
+                                />
+                                <xsl:for-each select="child::leaf[@mode='missing']"><xsl:choose>
+                                    <xsl:when test="preceding-sibling::leaf">, leaf missing after fol. <xsl:value-of
+                                        select="preceding-sibling::leaf[1]/@folio_number"/></xsl:when><xsl:otherwise>, first leaf is missing</xsl:otherwise></xsl:choose>
+                                </xsl:for-each>
+                                <xsl:for-each select="child::leaf[@mode='added']"><xsl:choose>
+                                    <xsl:when test="preceding-sibling::leaf">, leaf added after fol. <xsl:value-of
+                                        select="preceding-sibling::leaf[1]/@folio_number"/></xsl:when><xsl:otherwise>, first leaf is added</xsl:otherwise></xsl:choose>
+                                </xsl:for-each>
+                                <xsl:for-each select="child::leaf[@mode='replaced']"><xsl:choose><xsl:when test="preceding-sibling::leaf">, leaf replaced after fol. <xsl:value-of
+                                    select="preceding-sibling::leaf[1]/@folio_number"/></xsl:when><xsl:otherwise>, first leaf is replaced</xsl:otherwise></xsl:choose>
+                                </xsl:for-each>),<xsl:text> </xsl:text>
+                            </xsl:for-each>
+                        </p>
+                    </body>
+                
+                
+            </html>
         </xsl:result-document>
     </xsl:template>
     

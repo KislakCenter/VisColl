@@ -26,6 +26,7 @@
             <xsl:apply-templates select="@*|node()|comment()"/>
         </xsl:copy>
     </xsl:template>
+    
     <xsl:template match="manuscript">
         <xsl:variable name="idno" select="translate(shelfmark,' ','')"/>
         <xsl:variable name="msname" select="title"/>
@@ -36,7 +37,14 @@
                     <xsl:attribute name="n">
                         <xsl:value-of select="@n"/>
                     </xsl:attribute>
-                    <xsl:variable name="positions" select="child::leaf[last()]/@position"/>
+                    <xsl:variable name="positions">
+                        <xsl:choose>
+                            <xsl:when test="child::leaf">
+                                <xsl:value-of select="child::leaf[last()]/@position"/>
+                            </xsl:when>
+                            <xsl:otherwise>0</xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:variable>
                     <xsl:attribute name="positions">
                         <xsl:value-of select="$positions"/>
                     </xsl:attribute>
@@ -124,6 +132,7 @@
                     </units>
                 </quire>
             </xsl:for-each>
+            <xsl:call-template name="copy"/>
         </manuscript>
 
     </xsl:template>
@@ -131,6 +140,21 @@
     <xsl:template name="test" match="//quire">
         <xsl:for-each select=".">
             <xsl:apply-templates/>
+        </xsl:for-each>
+    </xsl:template>
+    
+    <xsl:template name="copy">
+        <xsl:for-each select="//quire">
+        <quireCopy>
+            <xsl:attribute name="n">
+                <xsl:value-of select="@n"/>
+            </xsl:attribute>
+            <xsl:variable name="positions" select="child::leaf[last()]/@position"/>
+            <xsl:attribute name="positions">
+                <xsl:value-of select="$positions"/>
+            </xsl:attribute>
+           <xsl:call-template name="test"/>
+        </quireCopy>
         </xsl:for-each>
     </xsl:template>
 
