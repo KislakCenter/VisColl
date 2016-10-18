@@ -6,6 +6,12 @@ a parsed collation formula.
 
 ![screenshot of VisColl output](https://raw.githubusercontent.com/leoba/VisColl/master/Screen%20Shot%202016-06-18%20at%208.27.34%20AM.png)
 
+VisColl is free and available for anyone to use.
+
+If you do use VisColl to build collation models or visualizations of manuscripts, please cite your use in the following format:
+
+**This visualization was created using VisColl (https://github.com/leoba/VisColl)**
+
 VisColl involves three steps: 
 
 1. Create a Collation Model
