@@ -10,7 +10,7 @@ VisColl is free and available for anyone to use.
 
 If you do use VisColl to build collation models or visualizations of manuscripts, please cite your use in the following format:
 
-**This visualization was created using VisColl (https://github.com/leoba/VisColl)**
+**This visualization was created using VisColl (https://github.com/leoba/VisColl) on [Date]**
 
 VisColl involves three steps: 
 
