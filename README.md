@@ -4,6 +4,14 @@ VisColl
 This project is for XSL transforms for visualization of quire structure  from
 a parsed collation formula. 
 
+![screenshot of VisColl output](https://raw.githubusercontent.com/leoba/VisColl/master/Screen%20Shot%202016-06-18%20at%208.27.34%20AM.png)
+
+VisColl is free and available for anyone to use.
+
+If you do use VisColl to build collation models or visualizations of manuscripts, please cite your use in the following format:
+
+**This visualization was created using VisColl (https://github.com/leoba/VisColl) on [Date]**
+
 VisColl involves three steps: 
 
 1. Create a Collation Model
@@ -44,7 +52,7 @@ Video tutorial online (create an image list using Excel): https://www.facebook.c
 
 ## Generate Collation Visualization
 
-To generate a Collation Visualization, go here: http://dorpdev.library.upenn.edu:8081/xproc-z/visualize-collation/ 
+To generate a Collation Visualization, go here: http://dorpdev.library.upenn.edu:8080/xproc-z/visualize-collation/ 
 
 Load the Collation Model and the Image List where indicated.
 

@@ -30,6 +30,27 @@ body {
 	margin-left: 15px;
 }
 
+.terms {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #FFF;
+	height: 295px;
+	text-decoration: none;
+	width: 800px;
+	position: static;
+	background-color: white;
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color: #acacac;
+	float: left;
+	margin-left: 5px;
+	text-align: left;
+	vertical-align: bottom;
+	padding-top: 15px;
+	padding-left: 10px;
+	overflow: auto;
+}
+
 .img1 {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 15px;
