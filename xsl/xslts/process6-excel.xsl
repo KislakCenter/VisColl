@@ -29,7 +29,7 @@
 
     
     <!--<xsl:variable name="image-list-spreadsheet-excel" select="/manuscript-and-images/ss:Workbook"/>-->
-    <xsl:variable name="image-list-spreadsheet-excel" select="document('NAL3245-imageList.xml')/ss:Workbook"/>
+    <xsl:variable name="image-list-spreadsheet-excel" select="document('MsLich01-imageList.xml')/ss:Workbook"/>
     <!--<xsl:variable name="image-list-spreadsheet-tei" select="/manuscript-and-images/tei:TEI"/>-->
     <xsl:variable name="manuscript" select="/manuscript-and-images/manuscript"/>
     

@@ -98,7 +98,8 @@
                             <xsl:if
                                 test="ancestor::quire/leaves/leaf[@position=$the_pos]/@folio_number">
                                 <xsl:attribute name="folNo">
-                                    <xsl:value-of select="$first_number"/>
+                                    <xsl:value-of
+                                        select="$second_number"/>
                                 </xsl:attribute>
                                 <xsl:attribute name="mode">
                                     <xsl:value-of
@@ -182,8 +183,7 @@
                             <xsl:if
                                 test="ancestor::quire/leaves/leaf[@position=$the_pos]/@folio_number">
                                 <xsl:attribute name="folNo">
-                                    <xsl:value-of
-                                        select="$second_number"/>
+                                    <xsl:value-of select="$first_number"/>
                                 </xsl:attribute>
                                 <xsl:attribute name="mode">
                                     <xsl:value-of
