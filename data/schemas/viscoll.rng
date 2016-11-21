@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="http://schoenberginstitute.org/schema/collation" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="viscoll">
+      <oneOrMore>
+        <element>
+          <name ns="http://schoenberginstitute.org/schema/taxonomy">taxonomy</name>
+          <optional>
+            <attribute name="ref">
+              <data type="anyURI"/>
+            </attribute>
+          </optional>
+          <attribute>
+            <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+            <data type="NCName"/>
+          </attribute>
+          <element>
+            <name ns="http://schoenberginstitute.org/schema/taxonomy">label</name>
+            <text/>
+          </element>
+          <oneOrMore>
+            <element>
+              <name ns="http://schoenberginstitute.org/schema/taxonomy">term</name>
+              <optional>
+                <attribute name="ref">
+                  <data type="anyURI"/>
+                </attribute>
+              </optional>
+              <attribute>
+                <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+                <data type="NCName"/>
+              </attribute>
+              <text/>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <element name="manuscript">
+        <element name="url">
+          <data type="anyURI"/>
+        </element>
+        <element name="title">
+          <text/>
+        </element>
+        <element name="shelfmark">
+          <text/>
+        </element>
+        <oneOrMore>
+          <element name="leaf">
+            <attribute>
+              <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+              <data type="NCName"/>
+            </attribute>
+            <element name="mode">
+              <attribute name="certainty">
+                <data type="integer"/>
+              </attribute>
+              <data type="NCName"/>
+            </element>
+              <optional><element name="folio_number">
+                <attribute name="certainty">
+                  <data type="integer"/>
+                </attribute>
+                <data type="integer"/>
+              </element></optional>
+              <optional><element name="stub">
+                <attribute name="certainty">
+                  <data type="integer"/>
+                </attribute>
+                <data type="NCName"/>
+              </element></optional>
+            
+            <element name="conjoin">
+              <attribute name="certainty">
+                <data type="integer"/>
+              </attribute>
+              <text/>
+            </element>
+            <element name="quire">
+              <attribute name="certainty">
+                <data type="integer"/>
+              </attribute>
+              <text/>
+            </element>
+            <optional>
+              <element name="attachment-method">
+                <attribute name="certainty">
+                  <data type="integer"/>
+                </attribute>
+                <data type="NCName"/>
+              </element>
+            </optional>
+          </element>
+        </oneOrMore>
+        <zeroOrMore><element name="certainty">
+          <attribute name="target"/>
+          <text/>
+        </element></zeroOrMore>
+      </element>
+      <element>
+        <name ns="http://schoenberginstitute.org/schema/mapping">mapping</name>
+        <oneOrMore>
+          <element>
+            <name ns="http://schoenberginstitute.org/schema/mapping">map</name>
+            <optional>
+              <attribute name="side">
+                <data type="NCName"/>
+              </attribute>
+            </optional>
+            <optional>
+              <attribute name="target"/>
+            </optional>
+            <element>
+              <name ns="http://schoenberginstitute.org/schema/mapping">term</name>
+              <attribute name="target"/>
+            </element>
+          </element>
+        </oneOrMore>
+      </element>
+    </element>
+  </start>
+</grammar>

@@ -9,7 +9,7 @@
         <xd:desc>
             <xd:p><xd:b>Created on:</xd:b>July 2, 2014</xd:p>
             <xd:p><xd:b>Author:</xd:b> Dot Porter</xd:p>
-            <xd:p><xd:b>Modified on:</xd:b>October 24, 2016</xd:p>
+            <xd:p><xd:b>Modified on:</xd:b>May 4, 2015</xd:p>
             <xd:p><xd:b>Modified by:</xd:b> Dot Porter</xd:p>
             <xd:p>This document takes as its input the output from the Collation Modeler.
                 It generates the collation frame, with a <quire/> element for each quire, 
@@ -60,66 +60,68 @@
                         <xsl:value-of select="$posNo + 1"/>
                     </xsl:variable>
                     <xsl:variable name="div2">
-                        <xsl:value-of select="$posNo div 2 + 1"/>
+                        <xsl:value-of select="$posNo div 2 - 1"/>
                     </xsl:variable>
 
                     <xsl:variable name="missing1">
-                        <xsl:value-of select="leaf[mode='missing'][1]/@position"/>
+                        <xsl:value-of select="leaf[not(@mode)][1]/@position"/>
                     </xsl:variable>
                     <xsl:variable name="missing2">
-                        <xsl:value-of select="leaf[mode='missing'][2]/@position"/>
+                        <xsl:value-of select="leaf[not(@mode)][2]/@position"/>
                     </xsl:variable>
                     <xsl:variable name="missing3">
-                        <xsl:value-of select="leaf[mode='missing'][3]/@position"/>
+                        <xsl:value-of select="leaf[not(@mode)][3]/@position"/>
                     </xsl:variable>
                     <xsl:variable name="missing4">
-                        <xsl:value-of select="leaf[mode='missing'][4]/@position"/>
+                        <xsl:value-of select="leaf[not(@mode)][4]/@position"/>
                     </xsl:variable>
                     <xsl:variable name="missing5">
-                        <xsl:value-of select="leaf[mode='missing'][5]/@position"/>
+                        <xsl:value-of select="leaf[not(@mode)][5]/@position"/>
                     </xsl:variable>
                     <xsl:variable name="missing6">
-                        <xsl:value-of select="leaf[mode='missing'][6]/@position"/>
+                        <xsl:value-of select="leaf[not(@mode)][6]/@position"/>
                     </xsl:variable>
                     <units>
-                    
-                        <xsl:for-each select="leaf[position() &lt; $div2]">
+                    <xsl:for-each select="0 to $div2">
                         
-                            <xsl:variable name="position">
-                                <xsl:value-of select="@position"/>
+                            <xsl:variable name="test">
+                                <xsl:value-of select="."/>
                             </xsl:variable>
-                            
-                            <xsl:variable name="conjoin">
-                                <xsl:value-of select="@conjoin"/>
+                            <xsl:variable name="lead">
+                                <xsl:value-of select="$sum - $posNo + $test"/>
+                            </xsl:variable>
+                            <xsl:variable name="trail">
+                                <xsl:value-of select="$posNo - $test"/>
                             </xsl:variable>
                         
                             <unit>
-                                <xsl:attribute name="n" select="$position"/>
+                                <xsl:attribute name="n" select="$test + 1"/>
                                 <inside>
                                     <left>
-                                        <xsl:if test="($position = $missing1) or ($position = $missing2) or ($position = $missing3) or ($position = $missing4) or ($position = $missing5) or ($position = $missing6)">
-                                            <xsl:attribute name="mode">missing</xsl:attribute>
-                                        </xsl:if>                                        <xsl:attribute name="pos"><xsl:value-of select="$position"/></xsl:attribute>
-                                    </left>
-                                    <right>
-                                        <xsl:if test="($conjoin = $missing1) or ($conjoin = $missing2) or ($conjoin = $missing3) or ($conjoin = $missing4) or ($conjoin = $missing5) or ($conjoin = $missing6)">
+                                        <xsl:if test="($lead = $missing1) or ($lead = $missing2) or ($lead = $missing3) or ($lead = $missing4) or ($lead = $missing5) or ($lead = $missing6)">
                                             <xsl:attribute name="mode">missing</xsl:attribute>
                                         </xsl:if>
-                                        <xsl:attribute name="pos"><xsl:value-of select="$conjoin"/></xsl:attribute>
+                                        <xsl:attribute name="pos"><xsl:value-of select="$lead"/></xsl:attribute>
+                                    </left>
+                                    <right>
+                                        <xsl:if test="($trail = $missing1) or ($trail = $missing2) or ($trail = $missing3) or ($trail = $missing4) or ($trail = $missing5) or ($trail = $missing6)">
+                                            <xsl:attribute name="mode">missing</xsl:attribute>
+                                        </xsl:if>
+                                        <xsl:attribute name="pos"><xsl:value-of select="$trail"/></xsl:attribute>
                                     </right>
                                 </inside>
                                 <outside>
                                     <left>
-                                        <xsl:if test="($conjoin = $missing1) or ($conjoin = $missing2) or ($conjoin = $missing3) or ($conjoin = $missing4) or ($conjoin = $missing5) or ($conjoin = $missing6)">
+                                        <xsl:if test="($trail = $missing1) or ($trail = $missing2) or ($trail = $missing3) or ($trail = $missing4) or ($trail = $missing5) or ($trail = $missing6)">
                                             <xsl:attribute name="mode">missing</xsl:attribute>
                                         </xsl:if>
-                                        <xsl:attribute name="pos"><xsl:value-of select="$conjoin"/></xsl:attribute>
+                                        <xsl:attribute name="pos"><xsl:value-of select="$trail"/></xsl:attribute>
                                     </left>
                                     <right>
-                                        <xsl:if test="($position = $missing1) or ($position = $missing2) or ($position = $missing3) or ($position = $missing4) or ($position = $missing5)  or ($position = $missing6)">
+                                        <xsl:if test="($lead = $missing1) or ($lead = $missing2) or ($lead = $missing3) or ($lead = $missing4) or ($lead = $missing5)  or ($lead = $missing6)">
                                             <xsl:attribute name="mode">missing</xsl:attribute>
                                         </xsl:if>
-                                        <xsl:attribute name="pos"><xsl:value-of select="$position"/></xsl:attribute>
+                                        <xsl:attribute name="pos"><xsl:value-of select="$lead"/></xsl:attribute>
                                     </right>
                                 </outside>
                             </unit>

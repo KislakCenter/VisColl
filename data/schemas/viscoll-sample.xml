@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viscoll xmlns="http://schoenberginstitute.org/schema/collation">
+    
+    <taxonomy xml:id="b" xmlns="http://schoenberginstitute.org/schema/taxonomy">
+        <label>Our project terms: Textual</label>
+        <term xml:id="b1"> General Prologue </term>
+        <term xml:id="b2"> Miller's Tale </term>
+        <term xml:id="b3"> Knight's Tale </term>
+        <term xml:id="b4"> Reeve's Tale </term>
+        <term xml:id="b5"> Cook's Tale </term>
+        <term xml:id="b6"> Wife of Bath's Tale </term>
+    </taxonomy>
+    <taxonomy xml:id="a" xmlns="http://schoenberginstitute.org/schema/taxonomy">
+        <label>Our project terms: Physical descriptors</label>
+        <term xml:id="a1"> paper </term>
+        <term xml:id="a2"> parchment </term>
+    </taxonomy>
+    <!-- I want to point to the main AAT and to the individual definitions -->
+    <taxonomy xml:id="c" xmlns="http://schoenberginstitute.org/schema/taxonomy" ref="http://www.getty.edu/research/tools/vocabularies/aat/">
+        <label>Getty Art and Architecture Thesaurus</label>
+        <term xml:id="c1" ref="http://vocab.getty.edu/aat/300011851"> Parchment </term>
+        <term xml:id="c2" ref="http://vocab.getty.edu/aat/300014179"> Paper </term>
+    </taxonomy>
+    <taxonomy xml:id="d" xmlns="http://schoenberginstitute.org/schema/taxonomy" ref="https://www.bl.uk/catalogues/illuminatedmanuscripts/glossary.asp">
+        <label>Michelle P. Brown, Understanding Illuminated Manuscripts: A Guide to Technical Terms (J.
+            Paul Getty Museum: Malibu and British Library: London, 1994), online on the British Library
+            website</label>
+        <term xml:id="d1" ref="https://www.bl.uk/catalogues/illuminatedmanuscripts/GlossH.asp#hairside"> Hair
+            side </term>
+        <term xml:id="d2" ref="https://www.bl.uk/catalogues/illuminatedmanuscripts/GlossF.asp#fleshside"> Flesh
+            side </term>
+    </taxonomy>
+    <taxonomy xml:id="e" xmlns="http://schoenberginstitute.org/schema/taxonomy">
+        <label>Requested by Michelle Brown, refers to Neil Ker's terminology. Used to indicate when a missing leaf was originally blank (e1) or when it had text (e2)</label>
+        <term xml:id="e1">wants, blank (missing leaf did not have text)</term>
+        <term xml:id="e2">lacks (missing leaf did have text)</term>
+    </taxonomy>
+    
+    
+<manuscript>
+    <url>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Claudius_B_IV</url>
+    <title>Illustrated Old English Hexateuch</title>
+    <shelfmark>Cotton MS Claudius B IV</shelfmark>
+    <leaf xml:id="ms1-1">
+        <mode certainty="1">missing</mode>
+        <stub certainty="1">yes</stub>
+        <conjoin certainty="1">#ms1-8</conjoin>
+        <quire certainty="1">1</quire>
+    </leaf>
+    <leaf xml:id="ms1-2">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">1</folio_number>
+        <conjoin certainty="1">#ms1-7</conjoin>
+        <quire certainty="1">1</quire>
+    </leaf>
+    <leaf xml:id="ms1-3">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">2</folio_number>
+        <conjoin certainty="1">#ms1-6</conjoin>
+        <quire certainty="1">1</quire>
+    </leaf>
+    <leaf xml:id="ms1-4">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">3</folio_number>
+        <conjoin certainty="1">#ms1-5</conjoin>
+        <quire certainty="1">1</quire>
+    </leaf>
+    <leaf xml:id="ms1-5">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">4</folio_number>
+        <conjoin certainty="1">#ms1-4</conjoin>
+        <quire certainty="1">1</quire>
+    </leaf>
+    <leaf xml:id="ms1-6">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">5</folio_number>
+        <conjoin certainty="1">#ms1-3</conjoin>
+        <quire certainty="1">1</quire>
+    </leaf>
+    <leaf xml:id="ms1-7">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">6</folio_number>
+        <conjoin certainty="1">#ms1-2</conjoin>
+        <quire certainty="1">1</quire>
+    </leaf>
+    <leaf xml:id="ms1-8">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">7</folio_number>
+        <conjoin certainty="1">#ms1-1</conjoin>
+        <quire certainty="1">1</quire>
+    </leaf>
+    <leaf xml:id="ms1-9">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">8</folio_number>
+        <conjoin certainty="1">#ms1-16</conjoin>
+        <quire certainty="1">2</quire>
+    </leaf>
+    <leaf xml:id="ms1-10">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">9</folio_number>
+        <conjoin certainty="1">#ms1-15</conjoin>
+        <quire certainty="1">2</quire>
+    </leaf>
+    <leaf xml:id="ms1-11">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">10</folio_number>
+        <conjoin certainty="1">#ms1-14</conjoin>
+        <quire certainty="1">2</quire>
+    </leaf>
+    <leaf xml:id="ms1-12">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">11</folio_number>
+        <conjoin certainty="1">#ms1-13</conjoin>
+        <quire certainty="1">2</quire>
+    </leaf>
+    <leaf xml:id="ms1-13">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">12</folio_number>
+        <conjoin certainty="1">#ms1-12</conjoin>
+        <quire certainty="1">2</quire>
+    </leaf>
+    <leaf xml:id="ms1-14">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">13</folio_number>
+        <conjoin certainty="1">#ms1-11</conjoin>
+        <quire certainty="1">2</quire>
+    </leaf>
+    <leaf xml:id="ms1-15">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">14</folio_number>
+        <conjoin certainty="1">#ms1-10</conjoin>
+        <quire certainty="1">2</quire>
+    </leaf>
+    <leaf xml:id="ms1-16">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">15</folio_number>
+        <conjoin certainty="1">#ms1-9</conjoin>
+        <quire certainty="1">2</quire>
+    </leaf>
+    <leaf xml:id="ms1-17">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">16</folio_number>
+        <conjoin certainty="1">#ms1-22</conjoin>
+        <quire certainty="1">3</quire>
+    </leaf>
+    <leaf xml:id="ms1-18">
+        <mode certainty="1">added</mode>
+        <folio_number certainty="1">17</folio_number>
+        <conjoin certainty="1">#ms1-21</conjoin>
+        <quire certainty="1">3</quire>
+    </leaf>
+    <leaf xml:id="ms1-19">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">18</folio_number>
+        <conjoin certainty="1">#ms1-20</conjoin>
+        <quire certainty="1">3</quire>
+    </leaf>
+    <leaf xml:id="ms1-20">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">19</folio_number>
+        <conjoin certainty="1">#ms1-19</conjoin>
+        <quire certainty="1">3</quire>
+    </leaf>
+    <leaf xml:id="ms1-22">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">20</folio_number>
+        <conjoin certainty="1">#ms1-17</conjoin>
+        <quire certainty="1">3</quire>
+    </leaf>
+    <leaf xml:id="ms1-23">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">21</folio_number>
+        <conjoin certainty="1">#ms1-30</conjoin>
+        <quire certainty="1">4</quire>
+    </leaf>
+    <leaf xml:id="ms1-24">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">22</folio_number>
+        <conjoin certainty="1">#ms1-27</conjoin>
+        <quire certainty="1">4</quire>
+    </leaf>
+    <leaf xml:id="ms1-25">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">23</folio_number>
+        <conjoin certainty="1">#ms1-26</conjoin>
+        <quire certainty="1">4</quire>
+    </leaf>
+    <leaf xml:id="ms1-26">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">24</folio_number>
+        <conjoin certainty="1">#ms1-25</conjoin>
+        <quire certainty="1">4</quire>
+    </leaf>
+    <leaf xml:id="ms1-27">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">25</folio_number>
+        <conjoin certainty="1">#ms1-24</conjoin>
+        <quire certainty="1">4</quire>
+    </leaf>
+    <leaf xml:id="ms1-28">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">26</folio_number>
+        <conjoin certainty="1">#ms1-29</conjoin>
+        <quire certainty="1">4.1</quire>
+    </leaf>
+    <leaf xml:id="ms1-29">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">27</folio_number>
+        <conjoin certainty="1">#ms1-28</conjoin>
+        <quire certainty="1">4.1</quire>
+    </leaf>
+    <leaf xml:id="ms1-30">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">28</folio_number>
+        <conjoin certainty="1">#ms1-23</conjoin>
+        <quire certainty="1">4</quire>
+    </leaf>
+    <leaf xml:id="ms1-31">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">29</folio_number>
+        <conjoin certainty="1">#ms1-43</conjoin>
+        <quire certainty="1">5</quire>
+    </leaf>
+    <leaf xml:id="ms1-32">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">30</folio_number>
+        <conjoin certainty="1">#ms1-42</conjoin>
+        <quire certainty="1">5</quire>
+    </leaf>
+    <leaf xml:id="ms1-33">
+        <mode certainty="1">added</mode>
+        <folio_number certainty="1">31</folio_number>
+        <conjoin certainty="1">#ms1-37</conjoin>
+        <quire certainty="1">5.1</quire>
+    </leaf>
+    <leaf xml:id="ms1-34">
+        <mode certainty="1">added</mode>
+        <folio_number certainty="1">32</folio_number>
+        <conjoin certainty="1">#ms1-35</conjoin>
+        <quire certainty="1">5.1</quire>
+    </leaf>
+    <leaf xml:id="ms1-35">
+        <mode certainty="1">added</mode>
+        <folio_number certainty="1">33</folio_number>
+        <conjoin certainty="1">#ms1-34</conjoin>
+        <quire certainty="1">5.1</quire>
+    </leaf>
+    <leaf xml:id="ms1-36">
+        <mode certainty="1">added</mode>
+        <folio_number certainty="1">34</folio_number>
+        <conjoin certainty="1"/>
+        <quire certainty="1">5.1</quire>
+        <attachment-method certainty="1">glued</attachment-method>
+    </leaf>
+    <leaf xml:id="ms1-37">
+        <mode certainty="1">added</mode>
+        <folio_number certainty="1">35</folio_number>
+        <conjoin certainty="1">#ms1-33</conjoin>
+        <quire certainty="1">5.1</quire>
+    </leaf>
+    <leaf xml:id="ms1-38">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">36</folio_number>
+        <conjoin certainty="1">#ms1-41</conjoin>
+        <quire certainty="1">5</quire>
+    </leaf>
+    <leaf xml:id="ms1-39">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">37</folio_number>
+        <conjoin certainty="1">#ms1-40</conjoin>
+        <quire certainty="1">5</quire>
+    </leaf>
+    <leaf xml:id="ms1-40">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">38</folio_number>
+        <conjoin certainty="1">#ms1-39</conjoin>
+        <quire certainty="1">5</quire>
+    </leaf>
+    <leaf xml:id="ms1-41">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">39</folio_number>
+        <conjoin certainty="1">#ms1-38</conjoin>
+        <quire certainty="1">5</quire>
+    </leaf>
+    <leaf xml:id="ms1-42">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">40</folio_number>
+        <conjoin certainty="1">#ms1-32</conjoin>
+        <quire certainty="1">5</quire>
+    </leaf>
+    <leaf xml:id="ms1-43">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">41</folio_number>
+        <conjoin certainty="1">#ms1-31</conjoin>
+        <quire certainty="1">5</quire>
+    </leaf>
+    <leaf xml:id="ms1-44">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">45</folio_number>
+        <conjoin certainty="1"/>
+        <quire certainty="1"/>
+    </leaf>
+    <leaf xml:id="ms1-45">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">46</folio_number>
+        <conjoin certainty="1">#ms1-51</conjoin>
+        <quire certainty="1">6</quire>
+    </leaf>
+    <leaf xml:id="ms1-46">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">47</folio_number>
+        <conjoin certainty="1">#ms1-50</conjoin>
+        <quire certainty="1">6</quire>
+    </leaf>
+    <leaf xml:id="ms1-47">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">48</folio_number>
+        <conjoin certainty="1">#ms1-49</conjoin>
+        <quire certainty="1">6</quire>
+    </leaf>
+    <leaf xml:id="ms1-48">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">49</folio_number>
+        <conjoin certainty="1"/>
+        <quire certainty="1">6</quire>
+        <attachment-method certainty="1">glued</attachment-method>
+    </leaf>
+    <leaf xml:id="ms1-49">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">50</folio_number>
+        <conjoin certainty="1">#ms1-47</conjoin>
+        <quire certainty="1">6</quire>
+    </leaf>
+    <leaf xml:id="ms1-50">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">51</folio_number>
+        <conjoin certainty="1">#ms1-46</conjoin>
+        <quire certainty="1">6</quire>
+    </leaf>
+    <leaf xml:id="ms1-51">
+        <mode certainty="1">original</mode>
+        <folio_number certainty="1">52</folio_number>
+        <conjoin certainty="1">#ms1-45</conjoin>
+        <quire certainty="1">6</quire>
+    </leaf>
+    <certainty target="#ms1-44">It is unclear whether folio 45 (a singleton) belongs with quire 5 or
+        quire 6</certainty>
+</manuscript>
+    
+    <mapping xmlns="http://schoenberginstitute.org/schema/mapping">
+        <!-- Mapping on the side level : what terms apply to which side of a leaf? -->
+        <!-- Mapping on the leaf level : what terms apply to which leaves? -->
+        <!-- Mapping on the multiple-leaf level : what terms apply to groups of leaves (not a whole quire) -->
+        <!-- Mapping on the quire level : what terms apply to what quires? -->
+        <!-- Mapping on the term level : what leaves/quires include which terms? -->
+        <!-- Doug sez: Compile information at the level of quire/leaf/side, but only map it on the level of the side - but indicate term levels somehow -->
+        <map>
+            <term target="#a2 #c1"/>
+        </map>
+        <map target="#ms-1 #ms-2 #ms-3 #ms-4 #ms-5 #ms-6 #ms-7 #ms-8">
+            <term target="#b1"/>
+        </map>
+        <map target="#ms-1" side="r">
+            <term target="#d1 #c4"/>
+        </map>
+        <map target="#ms-1" side="v">
+            <term target="#d2"/>
+        </map>
+    </mapping>
+</viscoll>
