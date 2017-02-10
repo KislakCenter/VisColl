@@ -278,10 +278,10 @@
      x="0"
      y="0"
      width="100mm"
-     height="75mm"
+     height="90mm"
      preserveAspectRatio="xMidYMid meet"
 	 style="background: #415a6c;"
-     viewBox="0 0 100 75">
+     viewBox="0 0 100 90">
      
    <defs>
       <filter id="f1" filterUnits="userSpaceOnUse">
@@ -593,10 +593,10 @@
                                     x="0"
                                     y="0"
                                     width="100mm"
-                                    height="75mm"
+                                    height="90mm"
                                     preserveAspectRatio="xMidYMid meet"
                                     style="background: #415a6c;"
-                                    viewBox="0 0 100 75">
+                                    viewBox="0 0 100 90">
                                     
                                     <defs>
                                         <filter id="f1" filterUnits="userSpaceOnUse">
@@ -1014,9 +1014,9 @@
 
                                     <svg xmlns="http://www.w3.org/2000/svg"
                                         xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
-                                        x="0" y="0" width="100mm" height="75mm"
+                                        x="0" y="0" width="100mm" height="90mm"
                                         preserveAspectRatio="xMidYMid meet"
-                                        style="background: #415a6c;" viewBox="0 0 100 75">
+                                        style="background: #415a6c;" viewBox="0 0 100 90">
 
                                         <defs>
                                             <filter id="f1" filterUnits="userSpaceOnUse">
