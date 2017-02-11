@@ -45,6 +45,11 @@
         <element name="shelfmark">
           <text/>
         </element>
+        <element name="quires">
+          <oneOrMore>
+            <ref name="quire"/>
+          </oneOrMore>
+        </element>
         <oneOrMore>
           <element name="leaf">
             <attribute>
@@ -52,36 +57,53 @@
               <data type="NCName"/>
             </attribute>
             <element name="mode">
-              <attribute name="certainty">
-                <data type="integer"/>
-              </attribute>
-              <data type="NCName"/>
+              <optional>
+                <attribute name="certainty">
+                  <data type="integer"/>
+                </attribute>
+              </optional>
+              <optional>
+                <attribute name="val">
+                  <data type="NCName"/>
+                </attribute>
+              </optional>
+              <text/>
             </element>
-              <optional><element name="folio_number">
+            <optional>
+              <element name="stub">
+                <attribute name="certainty">
+                  <data type="integer"/>
+                </attribute>
+                <attribute name="val">
+                  <data type="NCName"/>
+                </attribute>
+              </element>
+            </optional>
+            <optional>
+              <element name="single">
+                <attribute name="val">
+                  <data type="NCName"/>
+                </attribute>
+              </element>
+            </optional>
+            <optional>
+              <element name="folio_number">
                 <attribute name="certainty">
                   <data type="integer"/>
                 </attribute>
                 <data type="integer"/>
-              </element></optional>
-              <optional><element name="stub">
-                <attribute name="certainty">
-                  <data type="integer"/>
-                </attribute>
-                <data type="NCName"/>
-              </element></optional>
-            
+              </element>
+            </optional>
             <element name="conjoin">
               <attribute name="certainty">
                 <data type="integer"/>
               </attribute>
+              <attribute name="target"/>
               <text/>
             </element>
-            <element name="quire">
-              <attribute name="certainty">
-                <data type="integer"/>
-              </attribute>
-              <text/>
-            </element>
+            <oneOrMore>
+              <ref name="quire"/>
+            </oneOrMore>
             <optional>
               <element name="attachment-method">
                 <attribute name="certainty">
@@ -92,10 +114,14 @@
             </optional>
           </element>
         </oneOrMore>
-        <zeroOrMore><element name="certainty">
+        <element name="certainty">
           <attribute name="target"/>
           <text/>
-        </element></zeroOrMore>
+        </element>
+        <element name="note">
+          <attribute name="target"/>
+          <text/>
+        </element>
       </element>
       <element>
         <name ns="http://schoenberginstitute.org/schema/mapping">mapping</name>
@@ -119,4 +145,36 @@
       </element>
     </element>
   </start>
+  <define name="quire">
+    <element name="quire">
+      <optional>
+        <attribute name="certainty">
+          <data type="integer"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="n">
+          <data type="decimal"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="parent"/>
+      </optional>
+      <optional>
+        <attribute name="target"/>
+      </optional>
+      <optional>
+        <attribute name="type">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute>
+          <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <data type="decimal"/>
+    </element>
+  </define>
 </grammar>
