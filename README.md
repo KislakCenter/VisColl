@@ -1,4 +1,4 @@
-gVisColl
+VisColl
 =======
 
 This project is for building models of the physical collation of manuscript, and then visualizing them in various ways. The project is led by Dot Porter at the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) at the University of Pennsylvania, in collaboration with the [Old Books New Science](https://oldbooksnewscience.com/) lab at the University of Toronto.
