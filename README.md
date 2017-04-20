@@ -1,8 +1,9 @@
-VisColl
+gVisColl
 =======
 
-This project is for XSL transforms for visualization of quire structure  from
-a parsed collation formula. 
+This project is for building models of the physical collation of manuscript, and then visualizing them in various ways. The project is led by Dot Porter at the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) at the University of Pennsylvania, in collaboration with the [Old Books New Science](https://oldbooksnewscience.com/) lab at the University of Toronto.
+
+The core of VisColl is the data model, which is described below. There is a schema and example data models in the Data section of this repo. The Collation Modeler and Collation Visualization described here are SIMS-developed implementations, and serve as proof of concept for the project. For more information on the tools being developed by OBNS, visit [their website here](https://oldbooksnewscience.com/).
 
 ![screenshot of VisColl output](https://raw.githubusercontent.com/leoba/VisColl/master/Screen%20Shot%202016-06-18%20at%208.27.34%20AM.png)
 
