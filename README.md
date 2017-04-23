@@ -1,9 +1,9 @@
 VisColl
 =======
 
-This project is for building models of the physical collation of manuscript, and then visualizing them in various ways. The project is led by Dot Porter at the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) at the University of Pennsylvania, in collaboration with the [Old Books New Science](https://oldbooksnewscience.com/) lab at the University of Toronto. Collaborators include Alexandra Gillespie, Alberto Campagnolo, and Conal Tuohy.
+This project is for building models of the physical collation of manuscripts, and then visualizing them in various ways. The project is led by Dot Porter at the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) at the University of Pennsylvania, in collaboration with the [University of Toronto Libraries](https://onesearch.library.utoronto.ca/about) and the [Old Books New Science](https://oldbooksnewscience.com/) lab. Collaborators include Alexandra Gillespie, Alberto Campagnolo, and Conal Tuohy.
 
-The core of VisColl is the data model, which is described below. There is a schema and example data models in the Data section of this repo. The Collation Modeler and Collation Visualization described here are SIMS-developed implementations, and serve as proof of concept for the project. For more information on the Digital Tools for Manuscript Study under development at OBNS, visit [their website here](https://digitaltoolsmss.library.utoronto.ca/).
+The core of VisColl is the data model, which is described below. There is a schema and example data models in the Data section of this repo. The Collation Modeler and Collation Visualization described here are SIMS-developed implementations, and serve as proof of concept for the project. For more information on the Viscoll web application, currently under development at the University of Toronto, through the Digital Tools for Manuscript Study project, visit [their website here](https://digitaltoolsmss.library.utoronto.ca/).
 
 ![screenshot of VisColl output](https://raw.githubusercontent.com/leoba/VisColl/master/Screen%20Shot%202016-06-18%20at%208.27.34%20AM.png)
 
