@@ -1,7 +1,6 @@
-VisColl
-=======
+<img src="https://raw.githubusercontent.com/leoba/VisColl/master/viscoll-logo.png" align="center"/>
 
-This project is for building models of the physical collation of manuscripts, and then visualizing them in various ways. The project is led by Dot Porter at the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) at the University of Pennsylvania, in collaboration with the [University of Toronto Libraries](https://onesearch.library.utoronto.ca/about) and the [Old Books New Science](https://oldbooksnewscience.com/) lab. Collaborators include Alexandra Gillespie, Alberto Campagnolo, and Conal Tuohy.
+VisColl is for building models of the physical collation of manuscripts, and then visualizing them in various ways. The VisColl project is led by Dot Porter at the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) at the University of Pennsylvania, in collaboration with the [University of Toronto Libraries](https://onesearch.library.utoronto.ca/about) and the [Old Books New Science](https://oldbooksnewscience.com/) lab. Collaborators include Alexandra Gillespie, Alberto Campagnolo, and Conal Tuohy.
 
 The core of VisColl is the data model, which is described below. There is a schema and example data models in the Data section of this repo. The Collation Modeler and Collation Visualization described here are SIMS-developed implementations, and serve as proof of concept for the project. For more information on the Viscoll web application, currently under development at the University of Toronto, through the Digital Tools for Manuscript Study project, visit [their website here](https://digitaltoolsmss.library.utoronto.ca/).
 
