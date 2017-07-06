@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="http://schoenberginstitute.org/schema/collation" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="viscoll">
+      <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">viscoll element begins with an optional set of taxonomy definitions</documentation>
+      <zeroOrMore>
+        <element>
+          <name ns="http://schoenberginstitute.org/schema/taxonomy">taxonomy</name>
+          <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">if the taxonomy is defined externally, e.g. the Getty Art &amp; Architecture Thesaurus, include a @ref pointing to it</documentation>
+          <optional>
+            <attribute name="ref">
+              <data type="anyURI"/>
+            </attribute>
+          </optional>
+          <attribute>
+            <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+            <data type="NCName"/>
+          </attribute>
+          <!-- taxonomy elements must include a human-readable label -->
+          <element>
+            <name ns="http://schoenberginstitute.org/schema/taxonomy">label</name>
+            <text/>
+          </element>
+          <!-- Any defined taxonomy must include at least one term. If the taxonomy is defined external to the viscoll document, the term must have a @ref pointing to the external definition -->
+          <oneOrMore>
+            <element>
+              <name ns="http://schoenberginstitute.org/schema/taxonomy">term</name>
+              <optional>
+                <attribute name="ref">
+                  <data type="anyURI"/>
+                </attribute>
+              </optional>
+              <attribute>
+                <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+                <data type="NCName"/>
+              </attribute>
+              <text/>
+            </element>
+          </oneOrMore>
+        </element>
+      </zeroOrMore>
+      <!-- QUESTION. Does it make sense to have more than one manuscript described per viscoll document? -->
+      <!-- Use cases: palimpsests, manuscripts rearranged over time, manuscripts virtually reconstructed -->
+      <!-- Why not? -->
+      <oneOrMore>
+        <element name="manuscript">
+        <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">Optional @url points to a record describing the manuscript, e.g. a catalog record</documentation>
+        <optional>
+          <element name="url">
+          <data type="anyURI"/>
+        </element>
+        </optional>
+        <optional>
+          <element name="title">
+            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">Optional @title provides the title of the manuscript as defined by the people or group doing the cataloging (viscoll does not define title)</documentation>
+          <text/>
+        </element>
+        </optional>
+        <element name="shelfmark">
+          <text/>
+        </element>
+        <optional>
+          <element name="date">
+            <!-- How about date just by century? Could even have century tag instead of date tag -->
+            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">@date is optional and is undefined. Could be linked to a controlled vocabulary in tools</documentation>
+          <text/>
+        </element>
+        </optional>
+        <optional>
+          <element name="origPlace">
+            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">origPlace is optional and is undefined. Could be linked to a controlled vocabulary in tools</documentation>
+          <data type="NCName"/>
+        </element>
+        </optional>
+        
+       
+        <element name="direction">
+          <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">direction is required and the default value is l-r</documentation>
+          <attribute name="val">
+              <choice>
+                <value>l-r</value>
+                <value>r-l</value>
+              </choice>
+          </attribute>
+        </element>
+        
+        
+        <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">The manuscript begins with a list of quires</documentation>
+        <element name="quires">
+          <oneOrMore>
+            <ref name="quire"/>
+          </oneOrMore>
+        </element>
+        
+        <oneOrMore>
+          <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">One leaf element to describe each leaf in the manuscript</documentation>
+          <element name="leaf">
+            <optional>
+              <attribute name="stub">
+                <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">If a leaf is a stub, the value of @stub is "yes" - otherwise @stub is not there</documentation>
+                <value>yes</value>
+              </attribute>
+            </optional>
+            <attribute>
+              <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+              <data type="NCName"/>
+            </attribute>
+            <element name="mode">
+              <optional>
+                <ref name="certainty"/>
+              </optional>
+              <optional>
+                <attribute name="val">
+                  <data type="NCName"/>
+                </attribute>
+              </optional>
+              <choice>
+                <value>original</value>
+                <value>added</value>
+                <value>replaced</value>
+                <value>false</value>
+              </choice>
+            </element>
+            <optional>
+              <element name="single">
+                <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">single only has the value of "yes" and is only used if the leaf is a singleton</documentation>
+                <attribute name="val">
+                  <choice>
+                    <value>yes</value>
+                  </choice>
+                </attribute>
+              </element>
+            </optional>
+            <optional>
+              <element name="folioNumber">
+                <ref name="certainty"/>
+                <text/>
+              </element>
+            </optional>
+            <optional>
+              <element name="conjoin">
+                <ref name="certainty"/>
+                <ref name="target"/>
+                <text/>
+              </element>
+            </optional>
+            <oneOrMore>
+              <element name="q">
+                <optional>
+                  <ref name="certainty"/>
+                </optional>
+                <optional>
+                  <ref name="target"/>
+                </optional>
+                <optional>
+                  <attribute name="type">
+                    <data type="NCName"/>
+                  </attribute>
+                </optional>
+                <data type="NMTOKEN"/>
+              </element>
+            </oneOrMore>
+            <zeroOrMore>
+              <element name="attachment-method">
+                <ref name="certainty"/>
+                <optional>
+                  <ref name="target"/>
+                </optional>
+                <optional>
+                  <attribute name="type">
+                    <data type="NCName"/>
+                  </attribute>
+                </optional>
+                <data type="NCName"/>
+              </element>
+            </zeroOrMore>
+          </element>
+        </oneOrMore>
+        <zeroOrMore>
+          <element name="note">
+          <ref name="target"/>
+          <attribute name="type">
+            <choice>
+              <value>certainty</value>
+              <text/>
+            </choice>
+          </attribute>
+          <attribute>
+            <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+          </attribute>
+          <text/>
+        </element>
+        </zeroOrMore>
+      </element>
+      </oneOrMore>
+      <optional>
+        <element>
+        <name ns="http://schoenberginstitute.org/schema/mapping">mapping</name>
+        <oneOrMore>
+          <element>
+            <name ns="http://schoenberginstitute.org/schema/mapping">map</name>
+            <optional>
+              <attribute name="side">
+                <data type="NCName"/>
+              </attribute>
+            </optional>
+            <optional>
+              <ref name="target"/>
+            </optional>
+            <element>
+              <name ns="http://schoenberginstitute.org/schema/mapping">term</name>
+              <ref name="target"/>
+            </element>
+          </element>
+        </oneOrMore>
+      </element>
+      </optional>
+    </element>
+  </start>
+  <define name="certainty">
+    <attribute name="certainty">
+      <!-- values for @certainty: 1 = very certain, 2 = fairly certain, 3 = not certain -->
+      <choice>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+      </choice>
+    </attribute>
+  </define>
+  <define name="target">
+    <attribute name="target">
+      <list>
+        <oneOrMore>
+        <data type="anyURI"/>
+      </oneOrMore>
+      </list>
+    </attribute>
+  </define>
+  <define name="quire">
+    <element name="quire">
+      <optional>
+        <ref name="certainty"/>
+      </optional>
+      <optional>
+        <attribute name="n">
+          <data type="NMTOKEN"/>
+        </attribute>
+      </optional>
+      <!-- subquires must point to a parent quire -->
+      <optional>
+        <attribute name="parent"/>
+      </optional>
+      <optional>
+        <attribute>
+          <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <data type="NMTOKEN"/>
+    </element>
+  </define>
+</grammar>
