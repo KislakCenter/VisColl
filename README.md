@@ -42,6 +42,8 @@ The simplest way to create this file is using Excel. First, create a spreadsheet
 
 2v http://project.org/image2v.jpg
 
+If you are using manuscripts from OPenn, you can use the template spreadsheet here to build your image list using Excel: https://github.com/leoba/VisColl/blob/master/data/OPenn_imagelist_template.xlsx
+
 Then save this file as an XML file in Excel (Save As -> Excel 2004 XML Spreadsheet). As of right now, the image list file must be named according to the shelfmark in the Collation Modeler, but with all spaces removed. So for a Collation Modeler form with the shelfmark Cotton MS Claudius B IV, the image list file would be called:
 
 CottonMSClaudiusBIV-imageList.xml
