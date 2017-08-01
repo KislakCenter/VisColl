@@ -42,7 +42,7 @@ The simplest way to create this file is using Excel. First, create a spreadsheet
 
 2v http://project.org/image2v.jpg
 
-If you are using manuscripts from OPenn, you can use the template spreadsheet here to build your image list using Excel: https://github.com/leoba/VisColl/blob/master/data/OPenn_imagelist_template.xlsx
+If you are using manuscripts from OPenn, you can use the template spreadsheet here to build your image list using Excel: https://github.com/leoba/VisColl/blob/master/data/OPenn_imagelist_template.xlsx. Follow the instructions on the first tab.
 
 Then save this file as an XML file in Excel (Save As -> Excel 2004 XML Spreadsheet). As of right now, the image list file must be named according to the shelfmark in the Collation Modeler, but with all spaces removed. So for a Collation Modeler form with the shelfmark Cotton MS Claudius B IV, the image list file would be called:
 
@@ -54,7 +54,7 @@ Video tutorial online (create an image list using Excel): https://www.facebook.c
 
 ## Generate Collation Visualization
 
-To generate a Collation Visualization, go here: http://dorpdev.library.upenn.edu:8080/xproc-z/visualize-collation/ 
+To generate a Collation Visualization, go here: http://138.197.87.173:8080/xproc-z/visualize-collation/ (please email dorp@upenn.edu if the Collation Visualizer is not working)
 
 Load the Collation Model and the Image List where indicated.
 
