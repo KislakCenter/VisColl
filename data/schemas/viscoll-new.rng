@@ -105,38 +105,36 @@
               <name ns="http://www.w3.org/XML/1998/namespace">id</name>
               <data type="NCName"/>
             </attribute>
+            <element name="position">
+              <attribute name="val">
+                <data type="integer"/>
+              </attribute>
+            </element>
+            <optional>
+              <element name="folioNumber">
+                <attribute name="val">
+                  <data type="NMTOKEN"/>
+                </attribute>
+                <ref name="certainty"/>
+                <text/>
+              </element>
+            </optional>
             <element name="mode">
               <optional>
                 <ref name="certainty"/>
               </optional>
               <optional>
                 <attribute name="val">
-                  <data type="NCName"/>
-                </attribute>
-              </optional>
-              <choice>
-                <value>original</value>
-                <value>added</value>
-                <value>replaced</value>
-                <value>false</value>
-              </choice>
-            </element>
-            <optional>
-              <element name="single">
-                <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">single only has the value of "yes" and is only used if the leaf is a singleton</documentation>
-                <attribute name="val">
                   <choice>
-                    <value>yes</value>
+                    <value>original</value>
+                    <value>added</value>
+                    <value>replaced</value>
+                    <value>false</value>
+                    <value>missing</value>
                   </choice>
                 </attribute>
-              </element>
-            </optional>
-            <optional>
-              <element name="folioNumber">
-                <ref name="certainty"/>
-                <text/>
-              </element>
-            </optional>
+              </optional>
+            </element>
             <optional>
               <element name="conjoin">
                 <ref name="certainty"/>
@@ -160,6 +158,16 @@
                 <data type="NMTOKEN"/>
               </element>
             </oneOrMore>
+            <optional>
+              <element name="single">
+                <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">single only has the value of "yes" and is only used if the leaf is a singleton</documentation>
+                <attribute name="val">
+                  <choice>
+                    <value>yes</value>
+                  </choice>
+                </attribute>
+              </element>
+            </optional>
             <zeroOrMore>
               <element name="attachment-method">
                 <ref name="certainty"/>
