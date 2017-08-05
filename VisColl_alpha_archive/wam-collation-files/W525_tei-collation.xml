@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quires xmlns:tei="http://www.tei-c.org/ns/1.0"
+        xmlns="http://www.schoenberginstitute.org/schema/collation"
+        idno="W525">
+<!--Formula: 1(8), 2(2,-2), 3-7(8), 8(6), 9(2,-2), 10-12(8), 13(6), 14(2,-2), 15-19(8), 20(10), 21(2,-2), 22-24(8),  25(10,-10), 26-27(8), 28(4), 29-46(8), 47(6), 48(8) 49(2,-2), 50(2,-2), 51(2,-2)-->
+<!--Quire string: 1(8),2(2,-2),3-7(8),8(6),9(2,-2),10-12(8),13(6),14(2,-2),15-19(8),20(10),21(2,-2),22-24(8),25(10,-10),26-27(8),28(4),29-46(8),47(6),48(8)49(2,-2),50(2,-2),51(2,-2)-->
+<quire n="1" positions="8"/>
+   <quire n="2" positions="2">
+      <less>2</less>
+   </quire>
+   <quire n="3" positions="8"/>
+   <quire n="4" positions="8"/>
+   <quire n="5" positions="8"/>
+   <quire n="6" positions="8"/>
+   <quire n="7" positions="8"/>
+   <quire n="8" positions="6"/>
+   <quire n="9" positions="2">
+      <less>2</less>
+   </quire>
+   <quire n="10" positions="8"/>
+   <quire n="11" positions="8"/>
+   <quire n="12" positions="8"/>
+   <quire n="13" positions="6"/>
+   <quire n="14" positions="2">
+      <less>2</less>
+   </quire>
+   <quire n="15" positions="8"/>
+   <quire n="16" positions="8"/>
+   <quire n="17" positions="8"/>
+   <quire n="18" positions="8"/>
+   <quire n="19" positions="8"/>
+   <quire n="20" positions="10"/>
+   <quire n="21" positions="2">
+      <less>2</less>
+   </quire>
+   <quire n="22" positions="8"/>
+   <quire n="23" positions="8"/>
+   <quire n="24" positions="8"/>
+   <quire n="25" positions="10">
+      <less>10</less>
+   </quire>
+   <quire n="26" positions="8"/>
+   <quire n="27" positions="8"/>
+   <quire n="28" positions="4"/>
+   <quire n="29" positions="8"/>
+   <quire n="30" positions="8"/>
+   <quire n="31" positions="8"/>
+   <quire n="32" positions="8"/>
+   <quire n="33" positions="8"/>
+   <quire n="34" positions="8"/>
+   <quire n="35" positions="8"/>
+   <quire n="36" positions="8"/>
+   <quire n="37" positions="8"/>
+   <quire n="38" positions="8"/>
+   <quire n="39" positions="8"/>
+   <quire n="40" positions="8"/>
+   <quire n="41" positions="8"/>
+   <quire n="42" positions="8"/>
+   <quire n="43" positions="8"/>
+   <quire n="44" positions="8"/>
+   <quire n="45" positions="8"/>
+   <quire n="46" positions="8"/>
+   <quire n="47" positions="6"/>
+   <quire n="48" positions="8"/>
+   <quire n="50" positions="2">
+      <less>2</less>
+   </quire>
+   <quire n="51" positions="2">
+      <less>2</less>
+   </quire>
+</quires>
