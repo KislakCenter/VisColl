@@ -69,8 +69,8 @@
         <optional>
           <element name="origPlace">
             <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">origPlace is optional and is undefined. Could be linked to a controlled vocabulary in tools</documentation>
-          <data type="NCName"/>
-        </element>
+            <text/>
+          </element>
         </optional>
         
        
