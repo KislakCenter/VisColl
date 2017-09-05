@@ -72,6 +72,8 @@
             <text/>
           </element>
         </optional>
+          
+          
         <element name="direction">
           <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">direction is required and the default value is l-r</documentation>
           <attribute name="val">
@@ -81,12 +83,15 @@
               </choice>
           </attribute>
         </element>
+          
+          
         <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">The manuscript begins with a list of quires</documentation>
         <element name="quires">
           <oneOrMore>
             <ref name="quire"/>
           </oneOrMore>
         </element>
+          
         <oneOrMore>
           <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">One leaf element to describe each leaf in the manuscript</documentation>
           <element name="leaf">
