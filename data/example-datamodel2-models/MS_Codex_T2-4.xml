@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/viscoll-datamodel2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<viscoll xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://schoenberginstitute.org/schema/collation">
+  <manuscript>
+    <url>http://www.example.com</url>
+    <title>Test manuscript 2</title>
+    <shelfmark>MS Codex T2</shelfmark>
+    <direction val="l-r"/>
+    <quires>
+      <quire xml:id="quire-11" n="1">1</quire>
+      <quire xml:id="quire-12" n="2">2</quire>
+      <quire xml:id="quire-13" n="3">3</quire>
+      <quire xml:id="quire-14" n="4">4</quire>
+    </quires>
+    <leaf xml:id="leaf-5">
+      <folioNumber val="1" certainty="1">1</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-11" position="1" n="1">
+        <conjoin certainty="1" target="#leaf-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-6">
+      <folioNumber val="2" certainty="1">2</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-11" position="2" n="1">
+        <conjoin certainty="1" target="#leaf-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-7">
+      <folioNumber val="3" certainty="1">3</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-11" position="3" n="1">
+        <conjoin certainty="1" target="#leaf-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-8">
+      <folioNumber val="4" certainty="1">4</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-11" position="4" n="1">
+        <conjoin certainty="1" target="#leaf-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-15">
+      <folioNumber val="5" certainty="1">5</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-11" position="5" n="1"/>
+    </leaf>
+    <leaf xml:id="leaf-9">
+      <folioNumber val="6" certainty="1">6</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-12" position="1" n="2">
+        <conjoin certainty="1" target="#leaf-14"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-10">
+      <folioNumber val="7" certainty="1">7</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-12" position="2" n="2">
+        <conjoin certainty="1" target="#leaf-13"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-11">
+      <folioNumber val="8" certainty="1">8</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-12" position="3" n="2">
+        <conjoin certainty="1" target="#leaf-12"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-12">
+      <folioNumber val="9" certainty="1">9</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-12" position="4" n="2">
+        <conjoin certainty="1" target="#leaf-11"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-13">
+      <folioNumber val="10" certainty="1">10</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-12" position="5" n="2">
+        <conjoin certainty="1" target="#leaf-10"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-14">
+      <folioNumber val="11" certainty="1">11</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-12" position="6" n="2">
+        <conjoin certainty="1" target="#leaf-9"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-16">
+      <folioNumber val="12" certainty="1">12</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-13" position="1" n="3">
+        <conjoin certainty="1" target="#leaf-21"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-17">
+      <folioNumber val="13" certainty="1">13</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-13" position="2" n="3"/>
+    </leaf>
+    <leaf xml:id="leaf-18">
+      <folioNumber val="14" certainty="1">14</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-13" position="3" n="3">
+        <conjoin certainty="1" target="#leaf-20"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-19">
+      <folioNumber val="15" certainty="1">15</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-13" position="4" n="3"/>
+    </leaf>
+    <leaf xml:id="leaf-20">
+      <folioNumber val="16" certainty="1">16</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-13" position="5" n="3">
+        <conjoin certainty="1" target="#leaf-18"/>
+      </q>
+    </leaf>
+    <leaf xml:id="leaf-21">
+      <folioNumber val="17" certainty="1">17</folioNumber>
+      <mode val="original"/>
+      <q target="#quire-13" position="6" n="3">
+        <conjoin certainty="1" target="#leaf-16"/>
+      </q>
+    </leaf>
+  </manuscript>
+</viscoll>
