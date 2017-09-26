@@ -72,8 +72,8 @@
             <text/>
           </element>
         </optional>
-        
-       
+          
+          
         <element name="direction">
           <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">direction is required and the default value is l-r</documentation>
           <attribute name="val">
@@ -83,15 +83,15 @@
               </choice>
           </attribute>
         </element>
-        
-        
+          
+          
         <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">The manuscript begins with a list of quires</documentation>
         <element name="quires">
           <oneOrMore>
             <ref name="quire"/>
           </oneOrMore>
         </element>
-        
+          
         <oneOrMore>
           <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">One leaf element to describe each leaf in the manuscript</documentation>
           <element name="leaf">
@@ -132,8 +132,7 @@
             </element>
             <oneOrMore>
               <element name="q">
-                <ref name="position"/>
-                <ref name="n"/>
+                <optional><ref name="position"/></optional>
                 <optional>
                   <ref name="certainty"/>
                 </optional>
@@ -145,6 +144,13 @@
                     <data type="NCName"/>
                   </attribute>
                 </optional>
+                <!-- DE: Add @position to q element to accommodate multiple quires per leaf -->
+                <!-- DE: Move quire number from q body text to @n attribute -->
+                <!-- DE: q element body now contains conjoin element -->
+                <optional>
+                  <ref name="n"/>
+                </optional>
+                <!-- DE: Move conjoin element from parent leaf to q element to work with multiple quires per leaf -->
                 <optional>
                   <element name="conjoin">
                     <ref name="certainty"/>
@@ -164,7 +170,8 @@
                 </attribute>
               </element>
             </optional>
-            <zeroOrMore>
+            <!-- DE: Make @atthachment-method single rather than zeroOrMore -->
+            <optional>
               <element name="attachment-method">
                 <ref name="certainty"/>
                 <optional>
@@ -177,7 +184,7 @@
                 </optional>
                 <data type="NCName"/>
               </element>
-            </zeroOrMore>
+            </optional>
           </element>
         </oneOrMore>
         <zeroOrMore>
