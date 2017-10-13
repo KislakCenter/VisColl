@@ -72,8 +72,8 @@
             <text/>
           </element>
         </optional>
-          
-          
+
+
         <element name="direction">
           <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">direction is required and the default value is l-r</documentation>
           <attribute name="val">
@@ -83,15 +83,15 @@
               </choice>
           </attribute>
         </element>
-          
-          
+
+
         <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">The manuscript begins with a list of quires</documentation>
         <element name="quires">
           <oneOrMore>
             <ref name="quire"/>
           </oneOrMore>
         </element>
-          
+
         <oneOrMore>
           <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">One leaf element to describe each leaf in the manuscript</documentation>
           <element name="leaf">
@@ -150,6 +150,8 @@
                 <optional>
                   <ref name="n"/>
                 </optional>
+                <!-- DE: Add @leafno to label non-"false" leaves -->
+                <optional><ref name="leafno"/></optional>
                 <!-- DE: Move conjoin element from parent leaf to q element to work with multiple quires per leaf -->
                 <optional>
                   <element name="conjoin">
@@ -241,6 +243,12 @@
         <value>2</value>
         <value>3</value>
       </choice>
+    </attribute>
+  </define>
+  <!-- DE: Add leafno definition -->
+  <define name="leafno">
+    <attribute name="leafno">
+      <data type="positiveInteger"/>
     </attribute>
   </define>
   <define name="position">
