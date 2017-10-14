@@ -132,7 +132,10 @@
             </element>
             <oneOrMore>
               <element name="q">
-                <optional><ref name="position"/></optional>
+                <ref name="position"/>
+                <optional>
+                  <ref name="leafno"/>
+                </optional>
                 <optional>
                   <ref name="certainty"/>
                 </optional>
@@ -245,6 +248,11 @@
   </define>
   <define name="position">
     <attribute name="position">
+      <data type="positiveInteger"/>
+    </attribute>
+  </define>
+  <define name="leafno">
+    <attribute name="leafno">
       <data type="positiveInteger"/>
     </attribute>
   </define>
