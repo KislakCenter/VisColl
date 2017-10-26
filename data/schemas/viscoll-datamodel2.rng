@@ -5,7 +5,7 @@
       <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">viscoll element begins with an optional set of taxonomy definitions</documentation>
       <zeroOrMore>
         <element>
-          <name ns="http://schoenberginstitute.org/schema/taxonomy">taxonomy</name>
+          <name>taxonomy</name>
           <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">if the taxonomy is defined externally, e.g. the Getty Art &amp; Architecture Thesaurus, include a @ref pointing to it</documentation>
           <optional>
             <attribute name="ref">
@@ -18,13 +18,13 @@
           </attribute>
           <!-- taxonomy elements must include a human-readable label -->
           <element>
-            <name ns="http://schoenberginstitute.org/schema/taxonomy">label</name>
+            <name>label</name>
             <text/>
           </element>
           <!-- Any defined taxonomy must include at least one term. If the taxonomy is defined external to the viscoll document, the term must have a @ref pointing to the external definition -->
           <oneOrMore>
             <element>
-              <name ns="http://schoenberginstitute.org/schema/taxonomy">term</name>
+              <name>term</name>
               <optional>
                 <attribute name="ref">
                   <data type="anyURI"/>
@@ -108,7 +108,11 @@
             <optional>
               <element name="folioNumber">
                 <attribute name="val">
-                  <data type="NMTOKEN"/>
+                  <choice>
+                    <data type="NMTOKEN"/>
+                    <data type="string"/>
+                    <empty/>
+                  </choice>
                 </attribute>
                 <ref name="certainty"/>
                 <text/>
@@ -174,7 +178,8 @@
               </element>
             </optional>
             <!-- DE: Make @atthachment-method single rather than zeroOrMore -->
-            <optional>
+            <!-- DP: Not single - one leaf may have multiple things attached, so need to have more than one -->
+            <zeroOrMore>
               <element name="attachment-method">
                 <ref name="certainty"/>
                 <optional>
@@ -187,7 +192,7 @@
                 </optional>
                 <data type="NCName"/>
               </element>
-            </optional>
+            </zeroOrMore>
           </element>
         </oneOrMore>
         <zeroOrMore>
@@ -209,10 +214,10 @@
       </oneOrMore>
       <optional>
         <element>
-        <name ns="http://schoenberginstitute.org/schema/mapping">mapping</name>
+        <name>mapping</name>
         <oneOrMore>
           <element>
-            <name ns="http://schoenberginstitute.org/schema/mapping">map</name>
+            <name>map</name>
             <optional>
               <attribute name="side">
                 <data type="NCName"/>
@@ -222,7 +227,7 @@
               <ref name="target"/>
             </optional>
             <element>
-              <name ns="http://schoenberginstitute.org/schema/mapping">term</name>
+              <name>term</name>
               <ref name="target"/>
             </element>
           </element>
@@ -275,12 +280,14 @@
       </optional>
       <!-- subquires must point to a parent quire -->
       <optional>
-        <attribute name="parent"/>
+        <attribute name="parent">
+          <data type="IDREF"/>
+        </attribute>
       </optional>
       <optional>
         <attribute>
           <name ns="http://www.w3.org/XML/1998/namespace">id</name>
-          <data type="NCName"/>
+          <data type="ID"/>
         </attribute>
       </optional>
       <data type="NMTOKEN"/>
