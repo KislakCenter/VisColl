@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/leoba/VisColl/master/viscoll-logo.png" align="center"/>
 
 VisColl is for building models of the physical collation of manuscripts, and then visualizing them in various ways. The VisColl project is led by Dot Porter at the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) at the University of Pennsylvania, in collaboration with the [University of Toronto Libraries](https://onesearch.library.utoronto.ca/about) and the [Old Books New Science](https://oldbooksnewscience.com/) lab. Collaborators include Alexandra Gillespie, Alberto Campagnolo, and Conal Tuohy.
 
