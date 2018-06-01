@@ -5,10 +5,10 @@
     <start>
         <element name="viscoll">
             <oneOrMore>
-                <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">On viscoll document may contain multiple manuscript elements</documentation>
-                <element name="manuscript">
+                <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">On viscoll document may contain multiple textblock elements</documentation>
+                <element name="textblock">
                     <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                        >Optional @url points to a record describing the manuscript, e.g. a catalog
+                        >Optional @url points to a record describing the textblock, e.g. a catalog
                         record</documentation>
                     <optional>
                         <element name="url">
@@ -19,7 +19,7 @@
                         <element name="title">
                             <documentation
                                 xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">Optional
-                                @title provides the title of the manuscript as defined by the people
+                                @title provides the title of the textblock as defined by the people
                                 or group doing the cataloging (viscoll does not define
                                 title)</documentation>
                             <text/>
@@ -97,7 +97,7 @@
 
 
                     <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">The
-                        manuscript begins with a list of quires</documentation>
+                        textblock begins with a list of quires</documentation>
                     <element name="quires">
                         <oneOrMore>
                             <ref name="quire"/>
@@ -107,7 +107,7 @@
                     <oneOrMore>
                         <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
                             >One leaf element to describe each leaf in the
-                            manuscript</documentation>
+                            textblock</documentation>
                         <element name="leaf">
                             <optional>
                                 <attribute name="stub">
