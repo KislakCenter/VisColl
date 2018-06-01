@@ -3,7 +3,7 @@ VisColl is for building models of the physical collation of manuscripts, and the
 
 The core of VisColl is the data model, which is described below. There is a schema and example data models in the [data](https://github.com/leoba/VisColl/tree/master/data) section of this repo. The Collation Modeler and Collation Visualization described here are SIMS-developed implementations, and serve as proof of concept for the project. For more information on the VisColl web application, currently under development at the University of Toronto through the Digital Tools for Manuscript Study project, visit [the website here](https://digitaltoolsmss.library.utoronto.ca/).
 
-![screenshot of VisColl output](https://raw.githubusercontent.com/leoba/VisColl/master/Screen%20Shot%202016-06-18%20at%208.27.34%20AM.png)
+![screenshot of VisColl output](https://github.com/leoba/VisColl/blob/master/viscoll_output.png?raw=true)
 
 VisColl is free and available for anyone to use.
 
