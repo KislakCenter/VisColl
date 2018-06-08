@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quires xmlns:tei="http://www.tei-c.org/ns/1.0"
+        xmlns="http://www.schoenberginstitute.org/schema/collation"
+        idno="W421">
+<!--Formula: 1(2,-1), 2(8), 3-7(12), 8(10,-6,-7)-->
+<!--Quire string: 1(2,-1),2(8),3-7(12),8(10,-6,-7)-->
+<quire n="1" positions="2">
+      <less>1</less>
+   </quire>
+   <quire n="2" positions="8"/>
+   <quire n="3" positions="12"/>
+   <quire n="4" positions="12"/>
+   <quire n="5" positions="12"/>
+   <quire n="6" positions="12"/>
+   <quire n="7" positions="12"/>
+   <quire n="8" positions="10">
+      <less>6</less>
+      <less>7</less>
+   </quire>
+</quires>

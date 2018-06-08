@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<?xml-model href="joins-schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<manuscript xmlns="http://schoenberginstitute.org/schema/collation" url="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Claudius_B_IV">
+  <title>Illustrated Old English Hexateuch</title>
+  <shelfmark>Cotton MS Claudius B IV</shelfmark>
+  <quires>
+    <quire n="1">
+      <unit>
+        <leaf n="1" mode="missing" single="false" folio_number=""/>
+        <leaf n="8" mode="original" single="false" folio_number="8"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="1"/>
+        <leaf n="7" mode="original" single="false" folio_number="7"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="2"/>
+        <leaf n="6" mode="original" single="false" folio_number="6 (5)"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="3"/>
+        <leaf n="5" mode="original" single="false" folio_number="5 (4)"/>
+      </unit>
+    </quire>
+    <quire n="2">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="8"/>
+        <leaf n="8" mode="original" single="false" folio_number="15"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="9"/>
+        <leaf n="7" mode="original" single="false" folio_number="14"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="10"/>
+        <leaf n="6" mode="original" single="false" folio_number="13"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="11"/>
+        <leaf n="5" mode="original" single="false" folio_number="12"/>
+      </unit>
+    </quire>
+    <quire n="3">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="16"/>
+        <leaf n="5" mode="original" single="false" folio_number="20"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="added" single="true" folio_number="17"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="18"/>
+        <leaf n="4" mode="original" single="false" folio_number="19"/>
+      </unit>
+    </quire>
+    <quire n="4">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="21"/>
+        <leaf n="8" mode="original" single="false" folio_number="28"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="22"/>
+        <leaf n="7" mode="original" single="false" folio_number="27"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="23"/>
+        <leaf n="6" mode="original" single="false" folio_number="26"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="24"/>
+        <leaf n="5" mode="original" single="false" folio_number="25"/>
+      </unit>
+    </quire>
+    <quire n="5">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="29"/>
+        <leaf n="8" mode="original" single="false" folio_number="36"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="30"/>
+        <leaf n="7" mode="original" single="false" folio_number="35"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="31"/>
+        <leaf n="6" mode="original" single="false" folio_number="34"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="32"/>
+        <leaf n="5" mode="original" single="false" folio_number="33"/>
+      </unit>
+    </quire>
+    <quire n="6">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="37"/>
+        <leaf n="8" mode="original" single="false" folio_number="44"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="38"/>
+        <leaf n="7" mode="original" single="false" folio_number="43"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="39"/>
+        <leaf n="6" mode="original" single="false" folio_number="42"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="40"/>
+        <leaf n="5" mode="original" single="false" folio_number="41"/>
+      </unit>
+    </quire>
+    <quire n="7">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="45"/>
+        <leaf n="8" mode="original" single="false" folio_number="52"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="46"/>
+        <leaf n="7" mode="original" single="false" folio_number="51"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="47"/>
+        <leaf n="6" mode="original" single="false" folio_number="50"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="48"/>
+        <leaf n="5" mode="original" single="false" folio_number="49"/>
+      </unit>
+    </quire>
+    <quire n="8">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="53"/>
+        <leaf n="8" mode="original" single="false" folio_number="60"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="54"/>
+        <leaf n="7" mode="original" single="false" folio_number="59"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="55"/>
+        <leaf n="6" mode="original" single="false" folio_number="58"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="56"/>
+        <leaf n="5" mode="original" single="false" folio_number="57"/>
+      </unit>
+    </quire>
+    <quire n="9">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="61"/>
+        <leaf n="8" mode="original" single="false" folio_number="68"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="62"/>
+        <leaf n="7" mode="original" single="false" folio_number="67"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="63"/>
+        <leaf n="6" mode="original" single="false" folio_number="66"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="64"/>
+        <leaf n="5" mode="original" single="false" folio_number="65"/>
+      </unit>
+    </quire>
+    <quire n="10">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="69"/>
+        <leaf n="7" mode="original" single="false" folio_number="75"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="70"/>
+        <leaf n="5" mode="original" single="false" folio_number="73"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="71"/>
+        <leaf n="4" mode="original" single="false" folio_number="72"/>
+      </unit>
+      <unit>
+        <leaf n="6" mode="added" single="true" folio_number="74"/>
+      </unit>
+      <unit>
+        <leaf n="8" mode="added" single="true" folio_number="76"/>
+      </unit>
+    </quire>
+    <quire n="11">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="77"/>
+        <leaf n="8" mode="original" single="false" folio_number="84"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="78"/>
+        <leaf n="7" mode="original" single="false" folio_number="83"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="79"/>
+        <leaf n="6" mode="original" single="false" folio_number="82"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="80"/>
+        <leaf n="5" mode="original" single="false" folio_number="81"/>
+      </unit>
+    </quire>
+    <quire n="12">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="85"/>
+        <leaf n="8" mode="original" single="false" folio_number="92"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="86"/>
+        <leaf n="7" mode="original" single="false" folio_number="91"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="87"/>
+        <leaf n="6" mode="original" single="false" folio_number="90"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="88"/>
+        <leaf n="5" mode="original" single="false" folio_number="89"/>
+      </unit>
+    </quire>
+    <quire n="13">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="93"/>
+        <leaf n="8" mode="original" single="false" folio_number="100"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="94"/>
+        <leaf n="7" mode="original" single="false" folio_number="99"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="95"/>
+        <leaf n="6" mode="original" single="false" folio_number="98"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="96"/>
+        <leaf n="5" mode="original" single="false" folio_number="97"/>
+      </unit>
+    </quire>
+    <quire n="14">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="101"/>
+        <leaf n="8" mode="original" single="false" folio_number="108"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="102"/>
+        <leaf n="7" mode="original" single="false" folio_number="107"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="103"/>
+        <leaf n="6" mode="original" single="false" folio_number="106"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="104"/>
+        <leaf n="5" mode="original" single="false" folio_number="105"/>
+      </unit>
+    </quire>
+    <quire n="15">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="109"/>
+        <leaf n="9" mode="original" single="false" folio_number="117"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="110"/>
+        <leaf n="8" mode="original" single="false" folio_number="116"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="111"/>
+        <leaf n="7" mode="original" single="false" folio_number="115"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="112"/>
+        <leaf n="6" mode="original" single="false" folio_number="114"/>
+      </unit>
+      <unit>
+        <leaf n="5" mode="added" single="true" folio_number="113"/>
+      </unit>
+    </quire>
+    <quire n="16">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="118"/>
+        <leaf n="8" mode="original" single="false" folio_number="125"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="119"/>
+        <leaf n="7" mode="original" single="false" folio_number="124"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="120"/>
+        <leaf n="6" mode="original" single="false" folio_number="123"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="121"/>
+        <leaf n="5" mode="original" single="false" folio_number="122"/>
+      </unit>
+    </quire>
+    <quire n="17">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="126"/>
+        <leaf n="8" mode="original" single="false" folio_number="133"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="127"/>
+        <leaf n="7" mode="original" single="false" folio_number="132"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="128"/>
+        <leaf n="6" mode="original" single="false" folio_number="131"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="129"/>
+        <leaf n="5" mode="original" single="false" folio_number="130"/>
+      </unit>
+    </quire>
+    <quire n="18">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="134"/>
+        <leaf n="8" mode="original" single="false" folio_number="141"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="135"/>
+        <leaf n="7" mode="original" single="false" folio_number="140"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="136"/>
+        <leaf n="6" mode="original" single="false" folio_number="139"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="137"/>
+        <leaf n="5" mode="original" single="false" folio_number="138"/>
+      </unit>
+    </quire>
+    <quire n="19">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="142"/>
+        <leaf n="9" mode="original" single="false" folio_number="150"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="143"/>
+        <leaf n="8" mode="original" single="false" folio_number="149"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="144"/>
+        <leaf n="7" mode="original" single="false" folio_number="148"/>
+      </unit>
+      <unit>
+        <leaf n="4" mode="original" single="false" folio_number="145"/>
+        <leaf n="5" mode="original" single="false" folio_number="146"/>
+      </unit>
+      <unit>
+        <leaf n="6" mode="added" single="true" folio_number="147"/>
+      </unit>
+    </quire>
+    <quire n="20">
+      <unit>
+        <leaf n="1" mode="original" single="false" folio_number="151"/>
+        <leaf n="6" mode="original" single="false" folio_number="156"/>
+      </unit>
+      <unit>
+        <leaf n="2" mode="original" single="false" folio_number="152"/>
+        <leaf n="5" mode="original" single="false" folio_number="155"/>
+      </unit>
+      <unit>
+        <leaf n="3" mode="original" single="false" folio_number="153"/>
+        <leaf n="4" mode="original" single="false" folio_number="154"/>
+      </unit>
+    </quire>
+  </quires>
+</manuscript>

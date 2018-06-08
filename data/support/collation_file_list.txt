@@ -1,0 +1,36 @@
+Collation Project Files
+Doctype
+-------------
+For all html pages, including the pages in the Units directory, the 2 line doctype should be:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  mlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+
+Javascript
+----------------
+<script type="text/javascript" src="jquery-1.10.1.min.js"></script>
+ <script type="text/javascript" src="querys.js"></script> 
+ <script type="text/javascript" src="jquery.fancybox.js?v=2.1.5"></script>
+  <link href="jquery.fancybox.css" rel="stylesheet" type="text/css"></link>
+   <script type="text/javascript" src="iframescript.js"></script>
+   <script type="text/javascript" src="collation.js"></script>
+
+CSS
+-----
+  <link href="jquery.fancybox.css" rel="stylesheet" type="text/css"></link>
+   <link href="css/collation.css" rel="stylesheet" type="text/css">
+
+Document Top and Head
+-------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  mlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<head>
+      <title>Quires - Illustrated Old English Hexateuch</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+      <script type="text/javascript" src="jquery-1.10.1.min.js"></script>
+      <script type="text/javascript" src="querys.js"></script> 
+      <script type="text/javascript" src="jquery.fancybox.js?v=2.1.5"></script>
+      <script type="text/javascript" src="iframescript.js"></script>
+      <script type="text/javascript" src="collation.js"></script>
+      <link href="jquery.fancybox.css" rel="stylesheet" type="text/css"></link>
+      <link href="collation.css" rel="stylesheet" type="text/css">
+</head>

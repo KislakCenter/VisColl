@@ -1,0 +1,2327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen type="xml" RNGSchema="tei_walters_ms.rng"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="n398.100343" version="5.0"><teiHeader type="text" xml:id="n398.100344"><fileDesc xml:id="n398.100345"><titleStmt xml:id="n398.100346"><title type="common" xml:id="n398.100347">Walters Ms. W.835, Gondar Homiliary</title>
+<title type="work" n="item 445" xml:id="n398.100348">Twelve homilies</title>
+<title type="work" n="item 446" xml:id="n398.100349">Twelve Miracles of the Archangel</title>
+<title type="work" n="item 364" xml:id="n398.100350">Homiliary and Miracles of the Archangel Michael (Dǝrsanä Mika’el)</title>
+<title type="work-vernacular" n="item 364" xml:lang="gez" xml:id="n398.100351">ድርሳነ፡ ሚካኤል፡</title>
+<respStmt xml:id="scribe_667"><resp xml:id="n398.100352">scribe</resp>
+<name type="as-written" xml:id="n398.100353">Zämänfäs Qǝddus</name>
+<name type="vernacular" xml:lang="gez" xml:id="n398.100354">ዘመንፈስ፡ ቅዱስ፡</name>
+<name type="note" xml:id="n398.100355">Scribe named on fol. 26r, col. 2. He was not the careful copyist of the captions, which are in superb Gǝ‛ǝz.</name>
+</respStmt>
+<respStmt xml:id="n398.100356"><resp xml:id="n398.100357">Principal cataloger</resp>
+<name xml:id="n398.100358">Getatchew Haile, .</name>
+</respStmt>
+<respStmt xml:id="n398.100359"><resp xml:id="n398.100360">Cataloger</resp>
+<name xml:id="n398.100361">Herbert, Lynley</name>
+</respStmt>
+<respStmt xml:id="n398.100362"><resp xml:id="n398.100363">Contributor</resp>
+<name xml:id="n398.100364">Bockrath, Diane</name>
+</respStmt>
+<respStmt xml:id="n398.100365"><resp xml:id="n398.100366">Contributor</resp>
+<name xml:id="n398.100367">Emery, Doug</name>
+</respStmt>
+<respStmt xml:id="n398.100368"><resp xml:id="n398.100369">Contributor</resp>
+<name xml:id="n398.100370">Isaac, Ephraim</name>
+</respStmt>
+<respStmt xml:id="n398.100371"><resp xml:id="n398.100372">Contributor</resp>
+<name xml:id="n398.100373">Noel, William</name>
+</respStmt>
+<respStmt xml:id="n398.100374"><resp xml:id="n398.100375">Contributor</resp>
+<name xml:id="n398.100376">Pizzinato, Riccardo</name>
+</respStmt>
+<respStmt xml:id="n398.100377"><resp xml:id="n398.100378">Contributor</resp>
+<name xml:id="n398.100379">Tabritha, Ariel</name>
+</respStmt>
+<respStmt xml:id="n398.100380"><resp xml:id="n398.100381">Contributor</resp>
+<name xml:id="n398.100382">Toth, Michael B.</name>
+</respStmt>
+<respStmt xml:id="n398.100383"><resp xml:id="n398.100384">Conservator</resp>
+<name xml:id="n398.100385">Owen, Linda</name>
+</respStmt>
+<respStmt xml:id="n398.100386"><resp xml:id="n398.100387">Conservator</resp>
+<name xml:id="n398.100388">Quandt, Abigail</name>
+</respStmt>
+</titleStmt>
+<publicationStmt xml:id="n398.100389"><publisher xml:id="pub-wam">The Walters Art Museum</publisher>
+<availability xml:id="n398.100390"><p xml:id="n398.100391">Licensed for use under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported Access Rights, http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode. It is requested that copies of any published articles based on the information in this data set be sent to the curator of manuscripts, The Walters Art Museum, 600 North Charles Street, Baltimore MD 21201.</p>
+</availability>
+</publicationStmt>
+<notesStmt xml:id="n398.100392"><note type="abstract" xml:id="n398.100393">This Homiliary was created in Gondar, Ethiopia, during a period of artistic flowering in the late seventeenth century. The Imperial court and its accompanying aristocracy took up permanent residence in Gondar at this time, and the taste of these wealthy patrons for paintings and extensive image cycles is exemplified by this richly illuminated manuscript. The text, a Homiliary focused on the Miracles of the Archangel Michael, combines liturgical readings with forty-nine brightly colored renderings of God, St. Michael, and the miracles related in the text. Sections of the manuscript would have been read aloud on monthly feast days of the Archangel, and the images would have punctuated the readings. The artists were likely trained as painters, rather than solely as manuscript illuminators, and their art can therefore be linked stylistically to contemporary mural painting.</note>
+</notesStmt>
+<sourceDesc xml:id="n398.100394"><msDesc xml:id="n398.100395"><msIdentifier xml:id="n398.100396"><settlement xml:id="n398.100397">Baltimore</settlement>
+<repository xml:id="n398.100398">The Walters Art Museum</repository>
+<idno xml:id="n398.100399">W.835</idno>
+</msIdentifier>
+<msContents xml:id="n398.100400"><textLang xml:id="n398.100401" mainLang="gez">The primary language in this manuscript is Geez.</textLang>
+<msItem n="item 364" xml:id="n398.100402"><locus from="2v" to="126r" xml:id="n398.100403">2v - 126r</locus>
+<title type="work" xml:id="n398.100404">Homiliary and Miracles of the Archangel Michael (Dǝrsanä Mika’el)</title>
+<title type="work-vernacular" xml:lang="gez" xml:id="n398.100405">ድርሳነ፡ ሚካኤል፡</title>
+<note type="text" xml:id="n398.100406">The standard Dǝrsanä Mika’el is composed of a homily, a miracle, a Synaxary entry, and a salutation hymn for each of the twelve monthly holy days of the Archangel. This Dǝrsanä Mika’el has only the homilies and miracles. However, the stories of the Synaxary entries, e.g. Samson (fol. 32v), the Three Holy Children (fol. 60r), and Hezekiah/Sennacherib (fol. 80r), are illustrated, apparently taking some of the stories from the missions of the Archangel listed in the homily by Rǝtu‛a Haymanot (fols. 53r-58r).</note>
+<msItem n="item 445" xml:id="n398.100407"><locus from="2v" to="95r" xml:id="n398.100408">2v - 95r</locus>
+<title type="work" xml:id="n398.100409">Twelve homilies</title>
+<incipit xml:lang="gez" xml:id="n398.100410">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ፩ አምላክ፡ ድርሳን፡ ወነገር፡ ዘቅዱስ፡ አባ፡ ደማቴዎስ፡ ሊቀ፡ጳጳሳት፡ ዘእስክንድርያ፡ ዘይትነበብ፡ በበዓለ፡ ...</incipit>
+<note type="contents" xml:id="n398.100411">Twelve homilies, one for each monthly feast of the Archangel Michael; the feast falls on the 12th of each month, the annual feast being on the 12th of the second month, i.e. Ḫǝdar 12; homilies are as follows: 1) fols. 4r-9v: Ḫǝdar: Homily by Dämatewos (Demetrius), Archbishop of Alexandria on the glory of Saint Michael በስመ፡ አብ፡ . . . ድርሳን፡ ወነገር፡ ዘቅዱስ፡ አባ፡ ደማቴዎስ፡ ሊቀ፡ ጳጳሳት፡ ዘእለ፡ እስክንድርያ፡ . . . ያርእየነ፡ እግዚአብሔር፡ ክብረ፡ ወብዕለ፡  ዘወሀቦሙ፡ እግዚእነ፡ እምኲሎሙ፡. . .; 2) fols. 12r-17r: Taḫśaś: Anonymous homily (some copies ascribe it to John, Metropolitan of Aksum, capital of ancient Ethiopia) on the family of Dorotheus and Theopista
+ድርሳን፡ ወነገር፡ ዘይትነበብ፡ በበዓለ፡ ሊቀ፡ መላእክት፡. . . ስምዑ፡ ዘንተ፡ ኲልክሙ፡ እለ፡ ትነብሩ፡ ውስተ፡ ዓለም፡ . . . ወሀሎ፡ ፩ብእሲ፡ ዘርቱዕ፡ ሃይማኖቱ፡ ዘስሙ፡ ደራትዮስ፡ . . .; 3) fols. 19r-27v: Ţǝrr: Anonymous homily  on the glory of St. Michael በስመ፡ አብ፡ . . . ሥሉስ፡ ዘኢይትሌለይ፡ ዕሩይ፡ ዘኢይሰደቅ፡ ታሉት፡ ዘኢይነድፍ። ርድአነ፡ ከመ፡ ንንግር፡ ዕበዮ፡ . . . አሜን። መፍትው፡ ይስምዕዎ፡ በለብዎ፡ ከመ፡ ታእምሩ፡ ዕበዮ፡ ለቅዱስ፡ . . .;  4) fols. 29v-32v: Yäkkatit: Anonymous homily on the idle/sluggish man who prayed to the Archangel for his needs instead of working ድርሳን፡ ዘቅዱስ፡ ሚካኤል፡ . . . አሜን። ወሀሎ፡ ፩ ነዳይ፡ ወዓቢይ፡ ሃይማኖቱ፡ . . .  ወይስእል፡ ወይጸሊ፡ (Sic) መዓልተ፡ ወሌሊተ፡ ወይብል፡ ሚካኤል፡ ሊቅየ፡ ተሣሃለኒ፡ ወሀካይ፡ ውእቱ፡ ብእሲሁ፡ . . .; 5) fols. 34v-51r: Mäggabit: Homily by (John) Archbishop of Antioch on St. Michael's love to people and on the family of Matthew the traveler ድርሳን፡ ዘደረሰ፡ ሊቀ፡ ጳጳሳት፡ ዘአንጺኪያ፡ በእንተ፡ ሊቀ፡ መላእክት፡ ሚካኤል፡ ወአፍቅሮቱ፡ ለሰብእ፡ ወተናገረ፡ በዕለተ፡ ሰንበት፡ ቅድስት፡ . . . ወካዕበ፡ ተናገረ፡ በእንተ፡ ማቴዎስ፡ ነግድ፡ ወበእንተ፡ . . .; 6) fols. 53r-58r: Miyazya: Homily by Rǝtu‛a Haymanot (= of the Orthodox faith) on the Archangel's missions and his obedience, while Satan disobeyed, to the order of God that angels pay homage to Adam ድርሳን፡ ዘርቱዕ፡ [sic] ሃይማኖት፡ ዘደረሰ፡ በእንተ፡ ቅዱስ፡ ወክቡር፡ ሊቀ፡ መላእክት፡ ቅዱስ፡ ሚካኤል፡ . . . መፍትው፡ እንከ፡ ኦአኃው፡ ዘከመዝ፡ ንዘከር፡ ዕበየ፡ ዘአብ፡ ኂሩት፡ [sic] ዘወልድ፡ ወክብረ፡ ዘመንፈስ፡ . . .; 7) fols. 61r-62v: Gǝnbot: Homily by Yoḥannǝs, Metropolitan of the country of Ethiopia, who came after Abunä Yǝsḥaq, on the Archangel's help to John Chysostom when he was persecuted by Empress Eudoxia ድርሳን፡ ዘቅዱስ፡ ሚካኤል፡ ሊቀ፡ መላእክት፡ ነገር፡ ዘበእንተ፡ ዮሐንስ፡ ጳጳስ፡ ዘብሔረ፡ ኢትዮጵያ፡ ዘወፅአ፡ እምድኅረ፡ አቡነ፡ ይስሐቅ፡ . . . ከመ፡ ያይድዕ፡ ዕበዮ፡ . . .  ወኮነ፡ በመዋዕለ፡ አርቃድዮስ፡ . . .; 8) fols. 64v-71v: Säne: Homily by the Metropolitan of Aksum on the Archangel's help to Astäraniqos and his wife Euphemia ድርሳን፡ ዘቅዱስ፡ ሚካኤል፡ . . ዘደረሰ፡ ጳጳስ፡ ዘብሔረ፡ አክሱም፡ ቀዳሜ፡ ኲሉ፡ አብያተ፡ ክርስቲያናት፡ ዘቤተ፡ ሚካኤል፡ . . . ወሀሎ፡ ፩መኰንን፡ ርቱዓ፡ ሃይማኖት፡ ዘስሙ፡ አስተራኒቆስ፡...; 9) fols. 73v-78r: Ḥamle: Anonymous homily (some copies ascribe it to a certain  Metropolitan Yoḥannǝs) on the Archangel's help to a child (Tälason/Baḥran) of a poor family that inherited the property of a wicked rich neighbor ድርሳን፡ ዘቅዱስ፡ ሚካኤል፡  ሊቀ፡ መላእክት፡  .  .  . ወሀሎ፡ ፩ብእሲ፡ ባዕል፡ ውስተ፡ አሐቲ፡ ሀገር። ወልቡ፡ ጸዋግ፡ ወጽኑዕ፡ ከመ፡ ፈርዖን። . . . ወሀሎ፡ ነዳይ፡  ፩ [sic] ወይነብር፡ በጐረቤቱ፡ . . .; 10) fols. 81r-84r: Näḥase: Anonymous homily about the book on the glory of the Archangels Michael and Gabriel that came from Jerusalem ድርሳን፡ ዘቅዱስ፡ ሚካኤል፡  . . . ዛቲ፡ መጽሐፍ፡ ዘወፅአት፡ እምኢየሩሳሌም፡ ከመ፡ ይትናገር፡ ዕበዮሙ፡ ወክብሮሙ፡ ወሢመቶሙ፡ ለሚካኤል፡ ወገብርኤል፡ ወለ፬እንስሳ፡ ወለ፳ወ፬ካህናተ፡ ሰማይ፡ ኦዘማርያን፡ . . .; 11) fols. 86r-89r: Mäskäräm: Anonymous homily on the king who tried to escape from the Angel of death by hiding in a box ድርሳን፡ ዘቅዱስ፡ ሚካኤል፡  . . . ወይቤ፡ እግዚአብሐር፡ ኢታምልኩ፡ ባዕደ፡ አምላከ፡ ዘእንበሌየ፡ . . . ወኢሰማዕክሙ፡ ዘከመ፡ ኮነ፡ ለ፩ባዕል፡ ዘያመልክ፡ አማልክተ፡ . . .; 12) fols. 91r-95r: Ţǝqǝmt: Anonymous homily honoring the angels so there would be sureties for the souls in heaven ድርሳን፡ ዘይትነበብ፡ በወርኃ፡ ጥቅምት፡ ከመ፡ ንዜከር፡ ዕበዮ፡ ለቅዱስ፡ ሚካኤል፡ . . . ዘኢኃሠሠት፡ ዘይትወሐስ፡ በነፍስ፡ [sic] በሕይወታ፡ [ዘይትሐወሳ፡] ወኢትረክቡ፡ [sic] በሰማያት፡ አመ፡ ዕለተ፡ ሞታ፡</note>
+</msItem>
+<msItem n="item 446" xml:id="n398.100412"><locus from="95v" to="126r" xml:id="n398.100413">95v - 126r</locus>
+<title type="work" xml:id="n398.100414">Twelve Miracles of the Archangel</title>
+<incipit xml:lang="gez" xml:id="n398.100415">በስመ፡ አብ፡ . . . ንቀድም፡ በረድኤተ፡ እግዚአብሔር፡ አብ፡ ጽሒፈ፡ ተአምሪሁ፡ . . . በስመ፡ እግዚአብሔር፡ ስቡሕ፡ ጥቀ፡ ልዑል፡ ዲበ፡ ኲሉ፡ ፍጥረት፡ . . .</incipit>
+<note type="contents" xml:id="n398.100416">Twelve Miracles of the Archangel, one for each of his monthly holy days; miracles are as follows: 1) fols. 97r-99r: Ḫǝdar: (a) Introduction on what the Creator made angels do (fol. 97r-v) በስመ፡ አብ፡ . . . ንቀድም፡ በረድኤተ፡ እግዚአብሔር፡ አብ፡ ጽሒፈ፡ ተአምሪሁ፡ . . . በስመ፡ እግዚአብሔር፡ ስቡሕ፡ ጥቀ፡ ልዑል፡ ዲበ፡ ኲሉ፡ ፍጥረት፡ . . . (b) Text of the miracle: how the Archangel rescued the Egyptians whose boat was troubled by a high wind (fols. 98r-99r) ፩ተእምሪሁ፡ ለሚካኤል፡ ክቡር፡ ሊቆሙ፡ ለሠራዊተ፡ መላእክት፡ ትንብልናሁ፡  የሀሉ፡ ምስለ፡ . . . አሜን። እከሥት፡ በምሳሌ፡ አፉየ፡ ወእነግር፡ ኅቡአተ፡ ዘእምትካት፡  . . . አመ፡ ጌሡ፡ ብዙኃ፡ ሰብእ፡; 2) fols. 100r-101r: Taḫśaś: The peasant who was asked in a dream to go fishing when he was without means to celebrate the feast of the Archangel ተእምሪሁ፡ ለሊቀ፡ መላእክት፡ ሚካኤል፡ . . . ወሀሎ፡ ፩ብእሲ፡ መሃይምን፡ ዘይሴፎ፡ ምሕረቶ፡ ለእግዚአብሔር፡  ወትንብልናሁ፡ ለሊቀ፡ መላእክት፡ ሚካኤል፡ ወይገብር፡ ተዝካሮ፡ አመ፡ ፲ወ፪ ለለኲሉ፡ አውራኅ፡ ወዝኩ፡ ብእሲ፡ ይትገበር፡ ማኅረሰ፡ . . .; 3) fols. 102r-103r: Ţǝrr: The Christian farmer who neglected making the feast of the Archangel ተእምሪሁ፡ . . . ወሀሎ፡ ፩ብእሲ፡ ክርስቲያናዊ፡ ፈራሄ፡ እግዚአብሔር፡ ወጥቀ፡ ያፈቅሮ፡  ለሚካኤል፡ ሊቀ፡ መላእክት፡ . . . ወበአሐቲ፡ ዓመት፡ ተገበረ፡ ግብረ፡ ማኅረስ፡ ዝንቱ፡ ብእሲ፡ . . .; 4) fols. 104r-105v: Yäkkatit: The generous man on whom Satan brought a paralyzing illness  ተእምሪሁ፡ . . . ወሀሎ፡ ፩ብእሲ፡ ዘይገብር፡ ምሕረተ፡ ለነዳያን ወለምስኪናን፡ . . . ወሶበ፡ ርእየ፡ ጸላኤ፡ ሠናያት፡ ኂሩቶ፡ ተጓሕልዎ፡ (Sic) በቅንዓት፡ ወአምጽአ፡ ላዕሌሁ፡ ደዌ፡ . . .; 5) fols. 106r-108r: Mäggabit: The wealthy and generous woman who suffered from skin disease
+ተእምሪሁ፡ . . . ወሀለወት፡ አሐቲ፡ ብእሲት፡ ብዕልት፡ [sic] ወተእኅዘት፡ ሕማመ፡ [sic] ዝልጋሴ፡  ወሐብጠ፡ ኲሉ፡ ሥጋሃ፡ ወአኅለቀት፡ ኲሎ፡ ንዋያ፡ . . .; 6) fols. 108v-111r: Miyazya: The Christian who lied that he has borrowed money from a Jew ተእምሪሁ፡ . . . ተብህለ፡ ከመ፡ ሀሎ፡ ፩ብእሲ፡ አረማዊ፡ ባዕል፡ ጥቀ፡ በንዋየ፡ ዝንቱ፡ ዓለም፡ . . . ወነዋ፡ ዓዲ፡ ረከበ፡ ብእሲ፡ ክርስቲያናዊ፡ . . .; 7) fols. 111v-113v: Gǝnbot: The Roman (Greek) noble man whose wife was barren; ተእምሪሁ፡ . . . ተብህለ፡ ከመ፡ ሀሎ፡ ፩ [ብእሲ፡] ክርስቲያናዊ፡ እምዓበይተ፡ ሮሜ። ወመካን፡ ብእሲቱ፡ . . ; 8) fols. 114r-116r: Säne: The Jew who was cleansed from his leprosy in a church of the Archangel in Cyprus ተእምሪሁ፡ . . .  ሀሎ፡ ፩ ብእሲ፡ ክርስቲያናዊ፡ ወአስተሐመመ፡ ከመ፡ ይሕንጽ፡ ቤተ፡ ክርስቲያን፡ በዘይሤኒ፡ ውስተ፡ ደሴተ፡ ቆጵሮስ፡ በስሙ፡ ለሊቀ፡ መላእክት፡ . . .; 9) fols. 116v-117v: Ḥamle: The man from whom the evil spirit was cast out during Mass service ተአምሪሁ፡. . . ወኮነ፡ ካዕበ፡ በሐቲ፡ ዕለት፡ አመ፡ በዓሉ፡ ለሊቀ፡ መላእክት፡ ሚካኤል፡ ወአብ፡ ኤጲስ፡ እንዘ፡ ሀለወ፡ ምስለ፡ ሕዝበ፡  ክርስቲያን፡ . . .; 10) fols. 118r-119r: Näḥase: The blind man whose sight was restored ተእምሪሁ፡ . . .  ወካዕበ፡ ሀሎ፡ ፩ ክርስቲያናዊ፡ ወረከቦ፡ ዕፁበ፡ ደዌ፡ ወዖረ፡ [sic] ክልኤሆን፡ አዕይንቲሁ። ወሶበ፡ ኮነ፡ በዓሉ፡ ለሊቀ፡ መላእክት፡ . . .; 11) fols. 120r-122v: Mäskäräm: The righteous family of Dorotheus and Theopista who gave all their money to the poor leaving nothing for making the feast of the Archangel ተእምሪሁ፡ . . . ተብህለ፡ ከመ፡ ሀሎ፡ ፩ ብእሲ፡ በአሐቲ፡ ሀገር፡ እምአህጉራተ፡ ግብጽ፡ ዘትሰመይ፡ እስክንድርያ። ወይሰመይ፡ ውእቱ፡ ብእሲ፡ ዱራታኦስ፡ ወስመ፡ ብእሲቱ፡ ተዎብስታ፡ . . .; 12) fols. 123r-126r: Ţǝqǝmt: The idle man who prayed to the Archangel for his needs but never worked ተእምሪሁ፡ . . . ተብህለ፡ ካዕበ፡ ከመ፡ ሀሎ፡ ፩ ነዳይ፡ ወበጥቃሁ፡ ይነብር፡ [sic] ቤተ፡ ክርስቲያን፡ ዘሕንጽት፡ በስመ፡ ሚካኤል፡ . . . ወለለዕለቱ፡ ይገይስ፡ ኀቤሃ፡ ወይቀውም፡ ቅድመ፡ ሥዕሉ፡</note>
+</msItem>
+</msItem>
+</msContents>
+<physDesc xml:id="n398.100417"><objectDesc form="book" xml:id="n398.100418"><supportDesc material="parchment" xml:id="n398.100419"><support xml:id="n398.100420"><p xml:id="n398.100421">Medium weight/quality parchment with yellowed edges</p>
+</support>
+<extent xml:id="n398.100422">Foliation: 127<dimensions type="leaves" xml:id="n398.100423"><height xml:id="n398.100424" unit="cm">25.4</height>
+<width xml:id="n398.100425" unit="cm">23.0</width>
+</dimensions>
+<dimensions type="written" n="item 364" xml:id="n398.100426"><height xml:id="n398.100427" unit="cm">17.0</height>
+<width xml:id="n398.100428" unit="cm">17.7</width>
+</dimensions>
+</extent>
+<collation xml:id="n398.100429"><p xml:id="n398.100430"><formula xml:id="n398.100431">1(8,-2,3,4,5,6), 2-5(8), 6(8,-2,6), 7-8(8), 9(10,-8), 10(8), 11(10,-4), 12(8), 13(8,-7), 14-16(8), 17(8,-5,6,7)</formula>
+<signatures xml:id="n398.100432">None</signatures>
+<catchwords xml:id="n398.100433">None</catchwords>
+Quires begin on fols. 1(1), 4(2), 12(3), 20(4), 28(5), 36(6), 42(7), 50(8), 58(9), 67(10), 75(11), 84(12), 92(13), 99(14), 107(15), 115(16), and 123(17)</p>
+</collation>
+</supportDesc>
+<layoutDesc xml:id="n398.100434"><layout n="item 364" columns="2" ruledLines="17 18" xml:id="n398.100435">Hard-point ruling; layout does not apply to miniatures</layout>
+</layoutDesc>
+</objectDesc>
+<handDesc xml:id="n398.100436"><handNote n="item 445" xml:id="n398.100437">Second column of fol. 9v copied by a different hand</handNote>
+<handNote n="item 364" xml:id="n398.100438">Fols. 2r, 126v, and 127r had translations in Amharic of some items, now erased</handNote>
+</handDesc>
+<decoDesc xml:id="n398.100439"><decoNote n="item 445" xml:id="n398.100440">Half-page miniature fol. 32v; full-page miniatures fols. 2v, 10v, 11r, 17v, 18r, 28r-v, 29r, 33r-v, 34r, 51v, 52r, 58v, 59r-v, 60r-v, 63v, 72r-v, 73r, 78v, 79r-v, 80r, 84v, 85r-v, 89v, and 90r</decoNote>
+<decoNote n="item 446" xml:id="n398.100441">Half-page miniature fol. 110v; full-page miniatures fols. 95v, 99r, 101r, 103r, 105v, 107v, 108r, 111r, 113v, 115v, 116r, 117v, 119r, 122v, 125v, and 126r</decoNote>
+<decoNote n="item 364" xml:id="n398.100442">Forty-nine illuminations, most covered by cloth curtains: forty-seven full-page miniatures; two half-page miniatures; miniatures painted in bright yellow, red, orange, green, blue, and black tempera against unpainted grounds; wide variety of textile patterns created in images; horizontal red and black dotted lines enclosing titles at beginning of texts and dotted crosses at end of texts; beginning with the first, every other line of the beginning of a section and the names of the Archangel copied in red ink; text in black ink</decoNote>
+<decoNote n="fol. 2v" xml:id="n398.100443"><title xml:id="n398.100444">How his God appointed St. Michael Angel of Compassion and Mercy</title>
+<note type="text-identifier" xml:id="n398.100445">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100446">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100447"><p xml:id="n398.100448">The inscription reads "ወዘከመ፡ ሤሞ፡ አምላኩ፡ ለቅዱስ፡ ሚካኤል፡ መልአከ፡ ሣህል፡  ወምሕረት፡," or "And how the God of Saint Michael appointed him an Angel of Compassion and Mercy."</p>
+<p xml:id="n398.100449">According to tradition, Michael is Angel of Mercy and Gabriel Angel of Glad Tidings. See Marcos Daoud and Marsie Hazen. The Liturgy of the Ethiopian Church. Cairo: The Egyptian Book Press, 1959, pp. 49, 163.</p>
+</note>
+</decoNote>
+<decoNote n="fol. 10v" xml:id="n398.100450"><title xml:id="n398.100451">St. Michael rescues the faithful from the flames of Hell</title>
+<note type="text-identifier" xml:id="n398.100452">Homily I</note>
+<note type="decoration-form" xml:id="n398.100453">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100454"><p xml:id="n398.100455">The inscription reads "ቅዱስ፡ ሚካኤል፡ ሊቀ፡ መላእክት፡ ዘሤሞ፡ አምላኩ፡ መልዕልተ፡ ኲሉ፡ ድኅረ፡ ወድቀ፡ ዲያብሎስ፡ እመንበሩ፡ በሥምረተ፡ ርእሱ፡ ዘከመ፡ አውፅኦሙ፡ ለነፍሳት፡ እምገሃነም፤," or "The Archangel Saint Michael, whom his God appointed (head) over all after the fall of the Devil from his throne on his own volition: how he brought out souls from Hell."</p>
+<p xml:id="n398.100456">The story of how the Archangel went down to hell and rescued countless souls is told in the first homily.</p>
+</note>
+</decoNote>
+<decoNote n="fol. 11r" xml:id="n398.100457"><title xml:id="n398.100458">The faithful saved by St. Michael in Paradise</title>
+<note type="text-identifier" xml:id="n398.100459">Homily I</note>
+<note type="decoration-form" xml:id="n398.100460">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100461"><p xml:id="n398.100462">The inscription reads "ወዘከመ፡ አብኦሙ፡ ውስተ፡ ገነት፡," or "And how he brought them into Paradise."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 17v" xml:id="n398.100463"><title xml:id="n398.100464">Dorotheus and his wife depressed when the feast of St. Michael was to be cancelled due to the month's want and hardship</title>
+<note type="text-identifier" xml:id="n398.100465">Homily II</note>
+<note type="decoration-form" xml:id="n398.100466">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100467"><p xml:id="n398.100468">The inscription at the top reads "ዶርታዎስ፡ ወብእሲቱ፡ ዘከመ፡ ኀዘኑ፡ ሶበ፡ ተጸርዓ፡ ቦሙ፡ በዓሉ፡ ለቅዱስ፡ ሚካኤል፡ በወርኃ፡ ንዴት፡ ወዓጸባ፡," or "Dorotheus and his wife: how they were depressed when the feast of Saint Michael was to be cancelled due to the month's want and hardship." The inscription at the middle left reads "ወዘከመ፡ አኀዘ፡ ልብሰ፡ ብእሲቱ፡ ከመ፡ ይሢጥ፡," or "And how he held the garment of his wife to sell it (to use the money for the feast)." The inscription at the middle right reads 'ወዘከመ፡ አምጽአ፡ ቅዱስ፡ ሚካኤል፡ ፫ተ፡ አባግዓ፡ ሎሙ፡," or "And how Saint Michael brought them three sheep (for the feast)."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 18r" xml:id="n398.100469"><title xml:id="n398.100470">St. Michael appearing on horseback to demonstrate his force</title>
+<note type="text-identifier" xml:id="n398.100471">Homily II</note>
+<note type="decoration-form" xml:id="n398.100472">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100473"><p xml:id="n398.100474">The inscription at the top reads "ወዘከመ፡ መጽአ፡ ቅዱስ፡ ሚካኤል፡ ምስለ፡ ሠራዊቱ፡ በአምሳለ፡ ንጉሥ፡ እንዘ፡ ይፄዓን፡ ፈረሰ፡ ከመ፡ ያርኢ፡ ኀይሎ።," or "And how Saint Michael came with his army on horseback like a king to show his power." The inscription at the middle left reads "ወዘከመ፡ አኀዘ፡ ዓሣ፡ በእዴሁ፡ ደርታዎስ፡," or "And how Dorotheus caught a fish with his hand." The inscription at the lower left reads "ወዘከመ፡ አኀዘ፡ በየማናይ፡ በእዴሁ፡ ፩ደ፡ በግዓ፡," or "And how he held one sheep with his right hand." The inscription in the middle reads "ወበፀጋማይ፡ እዴሁ፡ ፩ደ፡ ዓሣ፡ በከመ፡ አዘዞ፡ ቅዱስ፡ ሚካኤል፡," or "And one fish with his left hand."
+The inscription at the middle right reads "ወዘከመ፡ ይቤሎ፡ ቅዱስ፡ ሚካኤል፡ ሥጥጥ፡ ከርሦ፡ ለዓሣ፡ ወሠጠጠ፡ ከርሦ፡ ለዓሣ፡ ዶርታዎስ፡ ወረከበ፡ ውሳጤሁ፡ መቅጹተ፡ ዘምሉእ ወርቀ፡," or "And how Saint Michael said to him, 'Tear the belly of the fish.' And Dorotheus tore the belly of the fish and found inside it a jar full of gold."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 28r" xml:id="n398.100475"><title xml:id="n398.100476">The Archangel rescuing the child from drowning</title>
+<note type="text-identifier" xml:id="n398.100477">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100478">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100479"><p xml:id="n398.100480">The inscription at the top left reads "ባሕር፡," or "Body of water." The inscription at the top right reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ አውፅኦ፡ በእደ፡ ኖትያዊ፡ ዘተገፍዓ፡ ለ፩፡ ሕፃን፡ እምሣፁን፡," or "Saint Michael: how he brought out the oppressed child from a box in the hand of a sailor." The inscription at the middle right reads "ዘከመ፡ አሕቀፎ፡ ቅዱስ፡ ሚካኤል፡ ለውእቱ፡ ሕፃን፡ በሕፅነ፡ ጸላእቱ፡ በኀይለ፡ ቅዱስ፡ ሚካኤል፡," or "How Saint Michael caused, by his power, the child to be embraced in the bosom of his enemy." The inscription at the bottom left reads "ዘከመ፡ ተቀረመት፡ ገራህተ፡ እሙ፡ ለተላፍኖስ፡ በዘመነ፡ ንዴት፡ ወዓፀባ፡ ኀዚላ፡ ሕፃና፡," or "How the mother of (the child) Tälafnos gleaned the farm field in the time of want and hardship carrying a baby on her back."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 28v" xml:id="n398.100481"><title xml:id="n398.100482">The nobleman ordering the marriage of Tälafnos to his daughter</title>
+<note type="text-identifier" xml:id="n398.100483">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100484">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100485"><p xml:id="n398.100486">The inscription reads "ዘከመ፡ አዘዘ፡ መኰንን፡ በኢያእምሮቱ፡ ከመ፡ ያስተዋስብዎ፡ ወለቶ፡ በትእዛዘ፡ እግዚአብሔር፡ ውስተ፡ ጽርሐ፡ ቤቱ፡ በትእዛዘ፡ ቅዱስ፡ ሚካኤል፡," or "How the nobleman ordered, unknowingly by the order of God, that [Tälafnos] be married to his daughter in the hall of his house by the order of Saint Michael."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 29r" xml:id="n398.100487"><title xml:id="n398.100488">The nobleman depressed when he realized that his property passed to the child</title>
+<note type="text-identifier" xml:id="n398.100489">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100490">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100491"><p xml:id="n398.100492">The inscription on the top reads "ወዘከመ፡ ተከዘ፡ ውእቱ፡ ባዕል፡ ምስለ፡ ኲሉ፡ ሰብአ፡ ቤቱ፡ ሶበ፡ ወሀቦ፡ እግዚአብሔር፡ በምስጢር፡ ኲሎ፡ ንዋዮ፡ ለውእቱ፡ ሕፃን፡," or "And how the wealthy man was depressed with all the people of his household, when God gave mysteriously all his property to the child." The inscription at the middle left reads "ዘከመ፡ መጠዋ፡ ለብእሲተ፡ መኰንን፡ ውእቱ፡ ሕፃን፡ ማኅተመ።," or "How the child handed over a sealed letter to the wife of the nobleman." The inscription at the middle right reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ ወለጦ፡ ለውእቱ፡ ማኅተም፡," or "Saint Michael: how he changed (the message in) the sealed letter." The inscription at the bottom left reads "ወዘከመ፡ ተፈትሐት፡ ይእቲ፡ ማኅተም፡," or "And how the sealed letter was opened."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 32v" xml:id="n398.100493"><title xml:id="n398.100494">The Archangel giving water to Samson</title>
+<note type="text-identifier" xml:id="n398.100495">Homily IV</note>
+<note type="decoration-form" xml:id="n398.100496">Half-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100497"><p xml:id="n398.100498">The inscription reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ አስተዮ፡ ማየ፡ ለሶምሶን፡ እመንከሰ ፡ አድግ፡ ሶበ፡ ጸምአ፡," or "Saint Michael: how he gave Samson water to drink in a jaw bone of an ass when he was thirsty."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 33r" xml:id="n398.100499"><title xml:id="n398.100500">The Archangel helping Samson to kill his enemies</title>
+<note type="text-identifier" xml:id="n398.100501">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100502">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100503"><p xml:id="n398.100504">The inscription reads "ወዘከመ፡ ተራድኦ፡ ከመ፡ ይቅትል፡ ብዙኃነ፡ በአሐቲ፡ መንከሰ፡ አድግ፡," or "And how he helped him kill multitudes with a jaw bone of an ass."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 33v" xml:id="n398.100505"><title xml:id="n398.100506">The Archangel admonishing the idle man</title>
+<note type="text-identifier" xml:id="n398.100507">Homily IV</note>
+<note type="decoration-form" xml:id="n398.100508">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100509"><p xml:id="n398.100510">The inscription at the top reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ ገሠጾ፡ ለብእሲ፡ ሀካይ፡," or "Saint Michael: how he admonished the idle man." The inscription at the middle left reads "ወዘከመ፡ ተለቅሐ፡ ወርቀ፡ ውእቱ፡ ሀካይ፡ እምነ፡ ብእሲ፡ ባዕል፡," or "And how the idle man borrowed (money in) gold from a rich man."
+The inscription at the middle left reads "ወዘከመ፡ ጸለየ፡ ውስተ፡ ቤተ፡ ክርስቲያን፡," or "And how he prayed in church." The inscription on the bottom reads "በመዳልው," or "[Loaning gold] with weight."</p>
+<p xml:id="n398.100511">The man had prayed for his needs instead of working. The Archangel told the man that people work first, not pray for their needs.</p>
+</note>
+</decoNote>
+<decoNote n="fol. 34r" xml:id="n398.100512"><title xml:id="n398.100513">The debtor who lived in a far country paying the creditor from where he was</title>
+<note type="text-identifier" xml:id="n398.100514">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100515">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100516"><p xml:id="n398.100517">The inscription at the top left reads "ዘከመ፡ ሰአለ፡," or "How he prayed." The inscription at the middle left reads "ወዘከመ፡ ተመጠወ፡ ወርቀ፡," or "And how he got (money in) gold." The inscription at the bottom left reads "ወዘከመ፡ ወገረ፡ ውስተ፡ ባሕር፡," or "And how he dropped (the money) in the sea." The inscription on the bottom right reads "ወዘከመ፡ አውፅእዎ፡ ለዓሣ፡," or "And how they brought out the fish." The inscription at the top right reads "ወዘከመ፡ ተረክበ፡ ውእቱ፡ ሣፁን፡ እምከርሠ፡ ውእቱ፡ ዓሣ፡," or "And how the box was found in the belly of the fish."</p>
+<p xml:id="n398.100518">With the help of the Archangel, the debtor could pay his debt in time.</p>
+</note>
+</decoNote>
+<decoNote n="fol. 51v" xml:id="n398.100519"><title xml:id="n398.100520">The clergy chanting in church on the feast of the Archangel</title>
+<note type="text-identifier" xml:id="n398.100521">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100522">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100523"><p xml:id="n398.100524">The inscription at the top left reads "ዘከመ፡ ዘመሩ፡ ካህናት፡ ውስተ፡ ቤተ፡ ክርስቲያን፡ በዕለተ፡ በዓሉ፡ ለቅዱስ፡ ሚካኤል፡," or "How the clergy chanted in church on the feast day of Saint Michael." The inscription at the top right reads "ሊቀ፡ ቤተ፡ ክርስቲያን፡," or "Dean of the church." The inscription at the bottom left reads "ዘከመ፡ ኖመ፡ ቂሶን፡ እንዘ፡ ያነክር፡ ሶበ፡ ሰምዓ፡ ዝማሬሆሙ፡ ለካህናት፡," or "How Qison slept as he was admiring the singing of the clergy." The inscription at the bottom reads "ወዘከመ፡ አድኃኖ፡ ለቂሶን፡ እማዕበለ፡ ባሕር፡," or "And how he saved Qison from the wave of the sea." The inscription at the top right reads "ቂሶን፡ ወብእሲቱ፡ ዘከመ፡ ተማከሩ፡ ይኩኑ፡ ክርስቲያነ፡," or "Qison and his wife: how they counseled each other to be Christians."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 52r" xml:id="n398.100525"><title xml:id="n398.100526">The story of Qison continues</title>
+<note type="text-identifier" xml:id="n398.100527">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100528">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100529"><p xml:id="n398.100530">The inscription at the top reads "ወዘከመ፡ ሖሩ፡ መልዕልተ ሐመር፡ ውስተ፡ ቤተ፡ ጳጳስ፡ ምስለ፡ ሰብአ፡ ቤቶሙ፡," or "And how they went by boat to the residence of the Metropolitan with the people of their house." The inscription in the middle reads  "ወዘከመ፡ መሀሮሙ፡ ጳጳስ፡ ምሥጢረ፡ ሃይማኖት፡," or "And how the Metropolitan taught them the mystery of the faith." The inscription on the bottom reads "ወዘከመ፡ አጥመቆ፡ ለቂሶን፡ ምስለ፡ ኲሉ፡ ሰብአ፡ ቤቱ፡ በትእዛዘ፡ ቅዱስ፡ ሚካኤል፡," or "And how he baptized Qison with all the people of his household by the order of Saint Michael."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 58v" xml:id="n398.100531"><title xml:id="n398.100532">The Archangel paying tribute to Adam</title>
+<note type="text-identifier" xml:id="n398.100533">Homily VI</note>
+<note type="decoration-form" xml:id="n398.100534">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100535"><p xml:id="n398.100536">The inscription at the top left reads "ዘከመ፡ ተፈጥረ፡ አዳም፡," or "How Adam was created." The inscription at the top right, and continued at the middle right, reads "ዘከመ፡ ተናገሮ፡ እግዚአብሔር፡ ለቅዱስ፡ ሚካኤል፡," or "How God spoke to Saint Michael." The inscription in the middle reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ ተትሕተ፡ ቅድመ፡ አዳም፡ እንዘ፡ ያነክር፡ ግብሮ፡ ለእግዚአብሔር፡," or "Saint Michael: how he showed humility before Adam, admiring the work of God." The inscription at the bottom reads "ድኅረ፡ ወድቀ፡ ዲያብሎስ፡," or "The Devil: after he fell."</p>
+<p xml:id="n398.100537">There is a tradition that one of the reasons why Satan fell was because he refused to pay tribute to Adam.</p>
+</note>
+</decoNote>
+<decoNote n="fol. 59r" xml:id="n398.100538"><title xml:id="n398.100539">Above: St. Michael with Moses at the Burning Bush;
+Below: St. Michael instructs Moses to touch his staff to the Red Sea</title>
+<note type="text-identifier" xml:id="n398.100540">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100541">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100542"><p xml:id="n398.100543">The inscription on the top reads "ዘከመ፡ አስተርአዮ፡ ለሙሴ፡ በኀበ፡ ዕፀ፡ ጳጦስ፡ ቅዱስ፡ ሚካኤል፡," or "How Saint Michael appeared to Moses at the Patos tree."
+The inscriptions at the middle right read "ዘከመ፡ አውፅኦሙ፡ ለእስራኤል፡ እምባሕረ፡ ኤርትራ፡" or "How he brought out the Israelites from the Red Sea," and "ወአሥጠሞ፡ ለፈርዖን፡," or "and drowned the Pharaoh."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 59v" xml:id="n398.100544"><title xml:id="n398.100545">The Archangel appearing to Prophet Daniel, helping Peter to come out of imprisonment and rescuing Lot's family from the brimstone</title>
+<note type="text-identifier" xml:id="n398.100546">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100547">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100548"><p xml:id="n398.100549">The inscriptions at the top read "ዘከመ፡ መጽአ፡ ቅዱስ፡ ሚካኤል፡ ኀበ፡ ዳንኤል፡," or "How Saint Michael came to Daniel," and "ማእከለ፡ ደመና፡ ምስለ፡ አምላኩ፡," or "in the clouds with his God." The inscription at the bottom left reads "ወዘከመ፡ አንከረ፡ ጴጥሮስ፡ ሶበ፡ አውፅኦ፡ እምቤተ፡ ሞቅሕ፡," or "And how Peter admired when he brought him out of a prison house." The inscription at the bottom right reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ አድኃኖ፡ ለሎጥ፡ ምስለ፡ ክልኤ፡ አዋልዲሁ፡ እምእሳት፡," or "Saint Michael: how he saved Lot and his two daughters from fire."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 60r" xml:id="n398.100550"><title xml:id="n398.100551">The Archangel rescuing the Three Holy Children</title>
+<note type="text-identifier" xml:id="n398.100552">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100553">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100554"><p xml:id="n398.100555">The inscription on the top reads "ወዘከመ፡ አውፅኦሙ፡ እምእሳት፡," or "And how he brought them out of fire." The inscription on the bottom reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ አቊረረ፡ እሳተ፡ ለ፫ቱ፡ ደቂቅ፡," or "Saint Michael: how he cooled the fire for the Three (Holy) Children."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 60v" xml:id="n398.100556"><title xml:id="n398.100557">The Archangel appearing to St. Peter in prison</title>
+<note type="text-identifier" xml:id="n398.100558">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100559">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100560"><p xml:id="n398.100561">The inscription reads "ወዘከመ፡ ተርእዮ፡ ለጴጥሮስ፡ እንዘ፡ ሀሎ፡ ውስተ፡ ቤተ፡ ሞቅሕ፡," or "And how he appeared to Peter as he was in a prison house."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 63v" xml:id="n398.100562"><title xml:id="n398.100563">Empress Eudoxia judging John Chrysostom</title>
+<note type="text-identifier" xml:id="n398.100564">Homily VII</note>
+<note type="decoration-form" xml:id="n398.100565">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100566"><p xml:id="n398.100567">The inscription on the top reads "ዘከመ፡ ነበረት፡ አውዶክስያ፡ ከመ፡ ትኰንኖ፡ ለዮሐንስ፡ አፈ፡ ወርቅ፡," or "How Eudoxia sat to judge John Chrysostom." The inscription on the bottom reads "ወዘከመ፡ ተሞቅሐ፡ ዮሐንስ፡ እንዘ፡ ያጸንዖ፡ ቅዱስ፡ ሚካኤል፡," or "And how John was imprisoned as Saint Michael strengthened/comforted him."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 72r" xml:id="n398.100568"><title xml:id="n398.100569">Astäraniqos and his wife Euphemia feeding the poor on the feast day of the Archangel</title>
+<note type="text-identifier" xml:id="n398.100570">Homily VIII</note>
+<note type="decoration-form" xml:id="n398.100571">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100572"><p xml:id="n398.100573">The inscription on the top reads "ዘከመ፡ አጽገቡ፡ ነዳያነ፡ በዕለተ፡ በዓሉ፡ ለቅዱስ፡ ሚካኤል፡ አትራኒቆስ፡ [sic] ወኤፎምያ፡," or "How Astäraniqos [MS 'Atraniqos'] and Euphemia satiated the poor on the feast day of Saint Michael." The inscription at the bottom reads "ወዘከመ፡ አስተዩ፡ ቀዲሖሙ፡," or "And how they gave drink pouring."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 72v" xml:id="n398.100574"><title xml:id="n398.100575">Above: How Astäraniqos slept on his bed using the picture of St. Michael as a pillow;
+Below: How a blacksmith toiled in making a panel for the picture of St. Michael</title>
+<note type="text-identifier" xml:id="n398.100576">Homily VIII</note>
+<note type="decoration-form" xml:id="n398.100577">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100578"><p xml:id="n398.100579">The inscriptions at the top read "ወዘከመ፡ ኖመ፡ አስተራኒቆስ፡ ዲበ፡ ዓራቱ፡ ተተርኢሶ፡ ሥዕለ፡ ቅዱስ፡ ሚካኤል፡," or "And how Astäraniqos slept on his bed using the picture of Saint Michael as a pillow," and "ወዘከመ፡ አንከረት፡," or "and how she marveled." The inscription in the middle reads "ወዘከመ፡ አኀዘት፡ሥዕለ፡ ቅዱስ፡ ሚካኤል፡," or "And how she held the picture of Saint Michael." The inscription at the bottom reads "ወዘከመ፡ ጻመወ፡ ነሀቢ፡ በገቢረ፡ ሰሌዳ፡ ለሥዕለ፡ ቅዱስ፡ ሚካኤል፡," or "And how a blacksmith toiled in making a panel for the picture of Saint Michael."</p>
+<p xml:id="n398.100580">The man on the left is operating bellows to make fire.</p>
+</note>
+</decoNote>
+<decoNote n="fol. 73r" xml:id="n398.100581"><title xml:id="n398.100582">Above: How Satan flew away like a raven/crow when Euphemia showed him the picture of St. Michael;
+Below: How Satan came (again) looking like four women and St. Michael trod on him</title>
+<note type="text-identifier" xml:id="n398.100583">Homily VIII</note>
+<note type="decoration-form" xml:id="n398.100584">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100585"><p xml:id="n398.100586">The inscription at the top left reads "ዘከመ፡ አርአየቶ፡ ለሰይጣን፡ ሥዕሎ፡ ለቅዱስ፡ ሚካኤል፡," or "How she showed the picture of Saint Michael to Satan." The inscription at the top middle reads "ወዘከመ፡ ሰረረ፡ ሰይጣን፡ በአምሳለ፡ ቋዕ፡ ሶበ፡ ነጸረ፡ ሥዕለ፡ ቅዱስ፡ ሚካኤል፡," or "And how Satan flew away like a raven/crow when he saw the picture of Saint Michael." The inscription at the middle left reads "ወዘከመ፡ መጽአ፡ ሰይጣን፡ ተመሲሎ፡ ፬ተ፡ አንስተ፡," or "And how Satan came (again) looking like four women." The inscription at the middle right reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ ረገጾ፡ ለሰይጣን፡," or "Saint Michael: how he trod on Satan." The inscription at the bottom left reads "ወዘከመ፡ አዕረፈት፡ ኤፎሚያ፡ ታሕተ፡ እገሪሁ፡ ለጳጳስ፡," or "And how Euphomia rested (eternally) under the feet of the Metropolitan."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 78v" xml:id="n398.100587"><title xml:id="n398.100588">The story of the child Baḥran</title>
+<note type="text-identifier" xml:id="n398.100589">Homily IX</note>
+<note type="decoration-form" xml:id="n398.100590">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100591"><p xml:id="n398.100592">The inscription at the top left reads "ዘከመ፡ ሐቀፈቶ፡ ለባሕራን፡ እሙ፡ ድኅረ፡ ወለደቶ፡ በሥዕለቱ፡ ለቅዱስ፡ ሚካኤል፡," or "How his mother embraced Baḥran after she gave birth to him by the petition of Saint Michael." The inscription in the house, from left to right, reads "ቅዱስ፡ ሚካኤል፡ ቅዱስ፡ ገብርኤል፡," or "Saint Michael; Saint Gabriel." The inscription at the top right reads "ዘከመ፡ ሰምዓ፡ ባዕል፡ ዘምግባሪሁ፡ እኩይ፡ ከመ፡ ይወርስ፡ ንዋዮ፡ ውእቱ፡ ሕፃን፡ ወደንገፀ፡," or "How the wealthy man of wicked deeds heard that the child will inherit his property, and was shocked." The inscription at the bottom left reads "ወዘከመ፡ ሤጠቶ፡ እሙ፡ ለባሕራን፡ ሶበ፡ አገበራ፡ በነገረ፡ ኂጣን፡ ውእቱ፡ ባዕል፡," or "And how his mother sold Baḥran when the wealthy man lured her with deceptive words." The inscription at the bottom middle reads "ወዘከመ፡ መጠዋ፡ ወርቀ፡ በመዳልው፡," or "And how he gave her (the price in) gold in weight." The inscription at the bottom right reads "ወዘከመ፡ ሐቀፎ፡ ውእቱ፡ መኰንን፡ ለውእቱ፡ ሕፃን፡ ተመጢዎ፡ እምእሙ፡," or "And how the nobleman embraced the child receiving (him) from his mother."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 79r" xml:id="n398.100593"><title xml:id="n398.100594">Above: How he put Baḥran in a body of water, and how a shepherd found the child and brought him from the body of water;
+Below: How the shepherd delivered the child, and the nobleman gave a sealed letter to Baḥran</title>
+<note type="text-identifier" xml:id="n398.100595">Homily IX</note>
+<note type="decoration-form" xml:id="n398.100596">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100597"><p xml:id="n398.100598">The inscription at the top left reads "ዘከመ፡ ወደዮ፡ ውስተ፡ ባሕር፡ በመሰንቅት፡ እስመ፡ ኢያእመረ፡ ከመ፡ ፈቃደ፡ እግዚአብሔር፡ ይመውእ፡ ኲሎ፡," or "How he put him in a body of water in a coffer because he did not know that the will of God defeats all." The inscription at the top, close to the middle, reads "ወዘከመ፡ ረከበ፡ ሣፁነ፡ ኖላዌ፡ አባግዕ፡ በውስቴቱ፡ ሕፃን፡," or "And how a shepherd found a box in which was a child." The inscription at the top right reads "ወዘከመ፡ አውፅኦ፡ እምባሕር፡ ውእቱ፡ ኖላዊ፡ ለውእቱ፡ ሕፃን፡," or "And how the shepherd brought out the child from the body of water." The inscription at the bottom left reads "ወዘከመ፡ መጠዎ፡ ውእቱ፡ ኖላዊ፡ ለውእቱ፡ ሕፃን፡ እንዘ፡ ይቴክዝ፡," or "And how the shepherd delivered the child, with sorrow." The inscription at the bottom right reads "ወዘከመ፡ መጠዎ፡ ማኅተመ፡ ውእቱ፡ መኰንን፡ ለባሕራን፡ ዘውእቱ፡ ዘተረክበ፡ እምባሕር፡," or "And how the nobleman gave a sealed letter to Baḥran, who was found in a body of water."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 79v" xml:id="n398.100599"><title xml:id="n398.100600">Above: How St. Michael came on horseback to change the bad content of the sealed letter to good, and how the wife of the nobleman received the letter; Middle: How the wealthy man heard that they married Baḥran to his daughter; Below: How the wealthy man fell from his horse when what he planned did not happen, and how he and his wife died of shock</title>
+<note type="text-identifier" xml:id="n398.100601">Homily IX</note>
+<note type="decoration-form" xml:id="n398.100602">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100603"><p xml:id="n398.100604">The inscriptions at the top left and middle read "ወዘከመ፡ መጽአ፡ ቅዱስ፡ ሚካኤል፡ ተፅዒኖ፡ ፈረሰ፡," or "And how Saint Michael came on horseback," and "ከመ፡ ይወልጦ፡ ለውእቱ፡ ማኅተም፡ እኩይ፡ ኀበ፡ ሠናይ፡," or "to change the bad [content of] the sealed letter to good." The inscription at the top right reads "ዘከመ፡ ተመጠወቶ፡ ብእሲተ፡ መኰንን፡ ለማኅተም፡," or "How the wife of the nobleman received the sealed letter." The inscription in the middle, to the left, reads "ወዘከመ፡ ሰምዓ፡ ውእቱ፡ ባዕል፡ ከመ፡ አስተዋሰብዎ፡ ወለቶ፡ ለባሕራን፡," or "And how the wealthy man heard that they married Baḥran to his daughter." The inscription at the bottom middle reads "ወዘከመ፡ ወድቀ፡ ውእቱ፡ ባዕል፡ እምነ፡ ፈረሱ፡ ሶበ፡ ኢኮነ፡ ሎቱ፡ ዘሐለየ፡ በኀይሉ፡ ለቅዱስ፡ ሚካኤል፡," or "And how the wealthy man fell from his horse when, by the power of Saint Michael, what he planned did not happen for him." The inscription at the bottom left reads "ወዘከመ፡ ሞተ፡ ድንጉፀ፡," or "And how he died shocked," and at the bottom right "ወዘከመ፡ ሞተት፡ ብእሲቱ፡ በድንጋፄ፡," or "And how his wife died in shock."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 80r" xml:id="n398.100605"><title xml:id="n398.100606">The Archangel helping Hezekiah of Judah defeat Sennacherib of Assyria</title>
+<note type="text-identifier" xml:id="n398.100607">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100608">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100609"><p xml:id="n398.100610">The inscription at the top reads "ቅዱስ፡ ሚካኤል፡ ሊቀ፡ መላእክት፡ ዘከመ፡ ተርእየ፡ መሊሖ፡ ሰይፈ፡ መዓት፡," or "The Archangel Saint Michael: how he appeared brandishing a sword of wrath." The inscriptions in the Temple read "ወዘከመ፡ ጸለየ፡ሕዝቅያስ፡ ውስተ፡ ቤተ፡ መቅደስ፡," or "And how Hezekiah prayed in the Temple," and "ወዘከመ፡ ሐልቁ፡ ሠራዊተ፡ ሰናክሬም፡ በሰይፈ፡ ቅዱስ፡ ሚካኤል፡," or "And how the army of Sennacherib was consumed by the sword of Saint Michael." The inscription at the middle right reads "ወዘከመ፡ ጐየ፡ ሰናክሬም፡ ባሕቲቱ፡," or "And how Sennacherib fled alone."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 84v" xml:id="n398.100611"><title xml:id="n398.100612">The Archangel helping Susanna preserve her purity</title>
+<note type="text-identifier" xml:id="n398.100613">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100614">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100615"><p xml:id="n398.100616">The inscription at the left reads "ዘከመ፡ አኀዝዋ፡ ለሶስና፡ ረበናት፡ ማእከለ፡ ተክል፡," or "How the rabbi arrested Susanna in a garden." The inscription at the right reads "ሶበ፡ ኢፈጸመት፡ ፈቃዶሙ፡," or "When she did not fulfill their [evil] will."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 85r" xml:id="n398.100617"><title xml:id="n398.100618">How Susanna prayed and St. Michael appeared to save her</title>
+<note type="text-identifier" xml:id="n398.100619">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100620">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100621"><p xml:id="n398.100622">The inscription on the left reads "ወዘከመ፡ ጸለየት፡ ሶስና፡ ኀበ፡ እግዚአብሔር፡," or "And how Susanna prayed to God." The inscription on the right reads "ወዘከመ፡ አስተርአየ፡ ቅዱስ፡ ሚካኤል፡ ለቅድስት፡ ሶስና፡ ከመ፡ ያድኅና፡," or "And how Saint Michael appeared to save/rescue Saint Susanna."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 85v" xml:id="n398.100623"><title xml:id="n398.100624">The Archangel helping Emperor Constantine the Great against his enemies</title>
+<note type="text-identifier" xml:id="n398.100625">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100626">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100627"><p xml:id="n398.100628">The inscription reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ አስተርአዮ፡ ለቈስጠንጢኖስ፡ በሀገረ፡ ሮሜ፡ ወወሀቦ፡ ኀይለ፡ ላዕለ፡ ኲሉ፡ ጸላእቱ፡," or "Saint Michael: how he appeared to Constantine in the city of [New] Rome and gave him power over all his enemies."</p>
+<p xml:id="n398.100629">Traditionally Constantinople is also call Rome, Rome of the Greeks, and New Rome.</p>
+</note>
+</decoNote>
+<decoNote n="fol. 89v" xml:id="n398.100630"><title xml:id="n398.100631">God the Father with the Twenty-four Elders and the Archangels Michael and Gabriel</title>
+<note type="text-identifier" xml:id="n398.100632">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100633">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100634"><p xml:id="n398.100635">The inscription at the top left reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ ጸለየ፡ ቅድመ፡ መንበሩ፡ ለአብ፡," or "Saint Michael: how he prayed before the throne of the Father." The inscription at the top right reads "፬ቱ፡ እንስሳ፡," or "The Four Living Creatures." The inscription at the middle left reads "፳ራ፡ ወ፬ቱ፡ ካህናተ፡ ሰማይ፡ አንጋደ፡ ቅዱስ፡ ሚካኤል፡," or "The Twenty-Four Priests of Heaven, the host/army of Saint Michael."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 90r" xml:id="n398.100636"><title xml:id="n398.100637">Archangels Michael and Gabriel</title>
+<note type="text-identifier" xml:id="n398.100638">Homilies of the Archangel Michael</note>
+<note type="decoration-form" xml:id="n398.100639">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100640"><p xml:id="n398.100641">The inscriptions from left to right read "ቅዱስ፡ ሚካኤል፡ ሥዩም፡ ዲበ፡ ካህናተ፡ ሰማይ፡," or "Saint Michael: he is appointed over the Priests of Heaven," and "ቅዱስ፡ ገብርኤል፡ ሥዩም፡ ዲበ፡ ፬ቱ፡ እንስሳ፡ ሰማይ፡," or "Saint Gabriel: he is appointed over the Four Living Creatures."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 95v" xml:id="n398.100642"><title xml:id="n398.100643">The Archangel interceding on behalf of sinners</title>
+<note type="text-identifier" xml:id="n398.100644">Homily XII</note>
+<note type="decoration-form" xml:id="n398.100645">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100646"><p xml:id="n398.100647">The inscription reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ ይተነብል፡ በእንተ፡ ኃጥአን፡ እንዘ፡ በየማኑ፡ ወበፀጋሙ፡ አእላፍ፡ መላእክት፡ ሰማይ፡," or "Saint Michael: how he intercedes on behalf of sinners, with myriads of angels on his right and left."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 99r" xml:id="n398.100648"><title xml:id="n398.100649">The Archangel helping seafarers</title>
+<note type="text-identifier" xml:id="n398.100650">Miracle I</note>
+<note type="decoration-form" xml:id="n398.100651">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100652"><p xml:id="n398.100653">The inscriptions read from left to right "ዘከመ፡ ጸለዩ፡ ነጋድያን፡ ኀበ፡ ቅዱስ፡ ሚካኤል፡ እንዘ፡ ያሌዕሉ፡ሥራዓ፡ ሶበ፡ ተንሥአ፡ ቦሙ፡ ሞገድ፡," or "How travelers prayed to Saint Michael raising the mast when a wave faced them," and "ወዘከመ፡ አውፅኦሙ፡ እምባሕር፡ እንዘ፡ ይስሕብ፡ ሐመረ፡ እስከ፡ ሐይቅ፡," or "And how he brought them out of the sea pulling [the boat with] a rope to the shore."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 101r" xml:id="n398.100654"><title xml:id="n398.100655">The Archangel helping a needy man celebrate his feast day</title>
+<note type="text-identifier" xml:id="n398.100656">Miracle II</note>
+<note type="decoration-form" xml:id="n398.100657">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100658"><p xml:id="n398.100659">The inscription at the top left reads "ቅዱስ፡ ሚካኤል፡," or "Saint Michael." The inscription at the top middle reads "ዘከመ፡ ጸለየ፡ ብእሲ፡ መፍቀሬ፡ በዓሉ፡ ለቅዱስ፡ ሚካኤል፡ ውስተ፡ ቤተ፡ ክርስቲያን፡ ሶበ፡ ኃጥአ፡ ዘይሁብ፡ ለነዳያን፡ ቅድመ፡ ሥዕሉ፡ ለቅዱስ፡ ሚካኤል፡," or "How a man, who is a lover of the feast day of Saint Michael, prayed in church before the picture of Saint Michael when he was in need of what he would give to the poor." The inscription at the bottom left reads "ዘከመ፡ ኖመ፡ ተርኢሶ፡ እዴሁ፡ ውእቱ፡ [ብእሲ፡] ሶበ፡ ኀዘነ፡," or "How the [man] slept using his hand as a pillow when he was depressed." The inscription in the middle reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ አመሮ፡ በእዴሁ፡," or "Saint Michael: how he beckoned him with his hand." The inscription at the right reads "ዘከመ፡ አውፅአ፡ እምነ፡ ባሕር፡ ፩ደ፡ ዓሣ፡ ዘምሉዕ፡ ውስተ፡ ከርሡ፡ ወርቀ፡," or "How he brought out of the sea a fish whose belly was filled with gold."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 103r" xml:id="n398.100660"><title xml:id="n398.100661">The Archangel helping the man who thought observing his feast might be cancelled</title>
+<note type="text-identifier" xml:id="n398.100662">Miracle III</note>
+<note type="decoration-form" xml:id="n398.100663">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100664"><p xml:id="n398.100665">The inscription at the top left reads "ዘከመ፡ ተከዘ፡ ፩ዱ፡ ክርስቲያናዊ፡ ሶበ፡ ተሐየየ፡ ገቢረ፡ በዓሉ፡ ለቅዱስ፡ ሚካኤል፡ እንበለ፡ ልማዱ፡," or "How a certain Christian was depressed when observing the feast of Saint Michael was to be cancelled." The inscriptions at the bottom read, from left to right "ወዘከመ፡ ሐረሰ፡ ገራህተ፡," or "And how he plowed the farm field," and "በጽምደ፡ ብዕራይ፡," or "with a pair of yoked cows." The inscription at the top right reads "ወዘከመ፡ አጽገበ፡ ነዳያነ፡ በዕለተ፡ በዓሉ፡ ለቅዱስ፡ ሚካኤል፡," or "And how he satiated the poor on the feast day of Saint Michael."</p>
+<p xml:id="n398.100666">The farmer is typically covered with a goat skin.</p>
+</note>
+</decoNote>
+<decoNote n="fol. 105v" xml:id="n398.100667"><title xml:id="n398.100668">The Archangel healing a sick man</title>
+<note type="text-identifier" xml:id="n398.100669">Miracle IV</note>
+<note type="decoration-form" xml:id="n398.100670">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100671"><p xml:id="n398.100672">The inscription at the top left reads "ዘከመ፡ ፈወሶ፡ ቅዱስ፡ ሚካኤል፡ ለ፩ሕሙም፡ ዘያከብር፡ በዓሎ፡ በተጠናቅቆ፡ ኀበ፡ ወድቀ፡ ታሕተ፡ ሥዕሉ፡," or "How Saint Michael healed a certain sick man, who observed his feast with care, from where he threw himself under his picture." The inscription at the top right reads "ወዘከመ፡ ቆመ፡ በእገሪሁ፡ ተንሢኦ፡ እምንዋሙ፡ በኀይለ፡ ጸሎቱ፡ ለቅዱስ፡ ሚካኤል፡," or "And how he stood up on his feet, rising up from his sleep by the power of the prayer of Saint Michael."
+The inscription at the bottom left reads "ወዘከመ፡ ወሰድዎ፡ ለውእቱ፡ ሕሙም፡ ውስተ፡ ቤተ፡ ክርስቲያን፡ ጸዊሮሙ፡ ዲበ፡ አራት፡," or "And how they took the sick man to church carrying him on a bed." The inscription at the bottom right reads "ወዘከመ፡ ኀዘነ፡ ወዓሊሁ፡," or "And how his attendant was sad."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 107v" xml:id="n398.100673"><title xml:id="n398.100674">The Archangel healing a sick woman</title>
+<note type="text-identifier" xml:id="n398.100675">Miracle V</note>
+<note type="decoration-form" xml:id="n398.100676">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100677"><p xml:id="n398.100678">The inscription at the left reads "ዘከመ፡ ሐመት፡ አሐቲ፡ ብእሲት፡ ዘታፈቅሮ፡ ለቅዱስ፡ ሚካኤል፡ በሕማመ፡ ዝልጋስ፡," or "How a certain woman who loved Saint Michael was sick with skin disease." The inscription at the bottom right reads "ወዘከመ፡ ወሀባ፡ ዓቃቤ፡ ሥራይ፡ መድኃኒተ፡," or "And how the physician gave her medicine." The inscription at the top right reads "ወዘከመ፡ ጸለየት፡ ኀበ፡ እግዚአብሔር፡ ሶበ፡ ኃጥአት፡ በቊዔተ፡ እምዓቃቤ፡ ሥራይ፡," or "And how she prayed to God when she did not find benefit from the physician."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 108r" xml:id="n398.100679"><title xml:id="n398.100680">Above: How the sick woman slept under a picture of St. Michael and he appeared to her; Below: How her household gave her a painting of St. Michael, and how she embraced it and offered gold to the church of St. Michael</title>
+<note type="text-identifier" xml:id="n398.100681">Miracle V</note>
+<note type="decoration-form" xml:id="n398.100682">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100683"><p xml:id="n398.100684">The inscription at the top reads "ወዘከመ፡ አስተርአያ፡ ቅዱስ፡ ሚካኤል፡," or "And how Saint Michael appeared to her." The inscription inside the church reads "ወዘከመ፡ ኖመት፡ ታሕተ፡ ሥዕሉ፡ ለቅዱስ፡ ሚካኤል፡," or "And how she slept under the picture of Saint Michael." The inscription on the left reads "ወዘከመ፡ ወሀብዋ፡ ሰብአ፡ ቤታ፡ ሰሌዳ፡ ዘሥዑል፡ ዲቤሁ፡ ሥዕሉ፡ ለቅዱስ፡ ሚካኤል፡ ወዘከመ፡ ሐቀፈቶ፡," or "And how the people of her household gave her a panel on which the picture of Saint Michael was painted, and how she embraced it." The inscription on the right reads "ወዘከመ፡ አውፅአት፡ ወርቀ፡ እምሣፁን፡ ከመ፡ ተሀብ፡ ለቤተ፡ ክርስቲያነ፡ ቅዱስ፡ ሚካኤል፡," or "And how she brought out from a box [money in] gold to offer [it] to the church of Saint Michael."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 110v" xml:id="n398.100685"><title xml:id="n398.100686">The Archangel admonishing the man who swore in him when lying</title>
+<note type="text-identifier" xml:id="n398.100687">Miracle VI</note>
+<note type="decoration-form" xml:id="n398.100688">Half-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100689"><p xml:id="n398.100690">The inscriptions read, from the top "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ ገሠጾ፡ ለ፩ዱ፡ ክርስቲያናዊ፡ ሶበ፡ መሐለ፡ በሐሰት፡ በስሙ፡," or "Saint Michael: how he admonished a certain Christian when he swore in his name lying," and "ወዘከመ፡ ኖመ፡ እምብዝሐ፡ ሕማሙ፡," or "And how he slept because of his great pain."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 111r" xml:id="n398.100691"><title xml:id="n398.100692">Above: How the Heathen made the Christian swear when he loaned him gold, and one of his hands was paralyzed; Below: How the Heathen was baptized when he saw the power of St. Michael, and how he served with the Christian inside the church of St. Michael</title>
+<note type="text-identifier" xml:id="n398.100693">Miracle VI</note>
+<note type="decoration-form" xml:id="n398.100694">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100695"><p xml:id="n398.100696">The inscription at the left reads "ወዘከመ፡ አምሐሎ፡ አረማዊ፡ ለውእቱ፡ ክርስቲያናዊ፡ ሶበ፡ ወሀቦ፡ ወርቀ፡ ተአሚኖ፡ በቤተ፡ ክርስቲያኑ፡ ለቅዱስ፡ ሚካኤል፡," or "And how the Heathen [=Muslim] made the Christian swear when he loaned him [money in gold, trusting in [the power of] the church of Saint Michael." The inscription in the middle reads "ወዘከመ፡ አይበሳ፡ ለአሐቲ፡ እዱ፡," or "And how he dried [= paralyzed] one of his hands." The inscription at the right reads "ወዘከመ፡ ተልእኩ፡ ውእቱ፡ አረማዊ፡ ወውእቱ፡  ክርስቲያናዊ፡ ድኅረ፡ ኮኑ፡ ፩ደ፡ በሃይማኖት፡ ውሳጤ፡ ቤተ፡ ክርስቲያኑ፡ ለቅዱስ፡ ሚካኤል፡," or "And how the Heathen [=Muslim] and the Christian served inside the church of Saint Michael after they became one in the faith."
+The inscription at the middle right reads "ወዘከመ፡ መጠዎ፡ ወርቀ፡ በመዳልው፡ ውእቱ፡ አረማዊ፡," or "And how the Heathen [=Muslim] gave him [the money in] gold in weight." The inscription on the bottom left reads "ዘከመ፡ አንከረ፡," or "How he marveled."
+The inscription at the bottom reads "ወዘከመ፡ ተጠምቀ፡ ውእቱ፡ አረማዊ፡ ሶበ፡ ነጸረ፡ ኀይሎ፡ ለቅዱስ፡ ሚካኤል፡," or "And how the Heathen [=Muslim] was baptized when he saw the power of Saint Michael."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 113v" xml:id="n398.100697"><title xml:id="n398.100698">The Archangel helping the barren woman have a child</title>
+<note type="text-identifier" xml:id="n398.100699">Miracle VII</note>
+<note type="decoration-form" xml:id="n398.100700">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100701"><p xml:id="n398.100702">The inscription at the top left reads "ዘከመ፡ አንከረት፡ አሐቲ፡ ብእሲት፡ መካን፡ ሐቂፋ፡ ሕፃና፡ ዘተወልደ፡ በኀይለ፡ ቅዱስ፡ ሚካኤል፡," or "How a certain woman, who was barren, marveled embracing her child whom she bore by the power of Saint Michael."
+The inscription at the top right reads "ወዘከመ፡ ጸለየት፡ ይእቲ፡ መካን፡ ምስለ፡ ብእሲሃ፡ ከመ፡ የሀባ፡ ወልደ፡ ውስተ፡ ቤተ፡ ክርስቲያኑ፡ ለቅዱስ፡ ሚካኤል፡," or "And how the barren [woman] prayed with her husband in the church of Saint Michael that he may give her a son." The inscriptions at the bottom left and middle read "ወዘከመ፡ ወሀባ፡ ብስራተ፡ ቅዱስ፡ ሚካኤል፡ ከመ፡ የሀባ፡ ወልደ፡," or "And how Saint Michael gave her the glad tiding that he will give her a son," and "ሶበ፡ ኖመት፡ ታሕተ፡ መድረከ፡  ቤተ፡ ክርስቲያን፡," or "when she slept under the threshold of the church." The inscription at the bottom reads "ዘከመ፡ ሐቀፈቶ፡ ለሕፃን፡ ሶበ፡ ሐመ፡ ከመ፡ ይንበር፡ በቤተ፡ ክርስቲያን፡ እስመ፡ ውእቱ፡ ወልደ፡ ብፅዓት፡," or "How she embraced the child when he was sick to live at church because he was a vow child."</p>
+<p xml:id="n398.100703">Barren mothers promise [vow] to the saint, to whom they pray to give them a child, to give the child, if they bear one, to the church of the saint to serve there.</p>
+</note>
+</decoNote>
+<decoNote n="fol. 115v" xml:id="n398.100704"><title xml:id="n398.100705">The Archangel healing a Jew</title>
+<note type="text-identifier" xml:id="n398.100706">Miracle VIII</note>
+<note type="decoration-form" xml:id="n398.100707">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100708"><p xml:id="n398.100709">The inscriptions read, from the top "ዘከመ፡ አሕነጸ፡ ቤተ፡ ክርስቲያነ፡ ቅዱስ፡ ሚካኤል፡ ፩ዱ፡ ክርስቲያናዊ፡ በተጠናቅቆ፡," or "How a certain Christian commissioned the building of a church for Saint Michael with care," "ወዘከመ፡ ተጋብኡ፡," or "And how they assembled," and "ወዘከመ፡ ነሥአ፡ አይሁዳዊ፡ እምቅብዓ፡ ዘይት፡ ዘይውኅዝ፡ እምነ፡ ሥዕሉ፡ ለቅዱስ፡ ሚካኤል፡ ወረቀየ፡ ሥጋሁ፡," or "And how a Jew took olive oil that flows from the picture of Saint Michael and sprinkled it on his [sick] body."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 116r" xml:id="n398.100710"><title xml:id="n398.100711">Above: How the Jew went to the residence of the Metropolitan when he was cured; Below: How the Metropolitan baptized the Jew</title>
+<note type="text-identifier" xml:id="n398.100712">Miracle VIII</note>
+<note type="decoration-form" xml:id="n398.100713">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100714"><p xml:id="n398.100715">The inscription at the top left reads "ወዘከመ፡ ሖረ፡ ውእቱ፡ አይሁዳዊ፡ ሶበ፡ ተፈወሰ፡ ውስተ፡ ቤተ፡ ጳጳስ፡," or "And how the Jew went to the residence of the Metropolitan when he was cured." The inscription at the top right reads "ወዓሊሁ፡ ለጳጳስ፡," or "The attendant of the Metropolitan." The inscription at the bottom left reads "ወዓሊሁ፡," or "His attendant."
+The inscription at the bottom right reads "ወዘከመ፡ አጥመቆ፡ ውእቱ፡ ጳጳስ፡ ለውእቱ፡ አይሁዳዊ፡," or "And how the Metropolitan baptized the Jew."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 117v" xml:id="n398.100716"><title xml:id="n398.100717">The Archangel casting an evil spirit from his church</title>
+<note type="text-identifier" xml:id="n398.100718">Miracle IX</note>
+<note type="decoration-form" xml:id="n398.100719">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100720"><p xml:id="n398.100721">The inscription reads, from left, "ዘከመ፡ ነበረ፡ ኤጲስ፡ ቆጶስ፡ ውሣጤ፡ ቤተ፡ ክርስቲያኑ፡ ለቅዱስ፡ ሚካኤል፡," or "How the bishop lived inside the church of Saint Michael." The inscription reads, from right to middle, "ወዘከመ፡ አስተርእዮ፡ ቅዱስ፡ ሚካኤል፡ እኂዞ፡ ሥራዓ፡ ዘመስቀል፡ ለሰይጣን፡ ወአደንገፆ፡," or "And how Saint Michael appeared to Satan carrying the mast/emblem of the cross and shocked him."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 119r" xml:id="n398.100722"><title xml:id="n398.100723">The Archangel giving light to a blind man</title>
+<note type="text-identifier" xml:id="n398.100724">Miracle X</note>
+<note type="decoration-form" xml:id="n398.100725">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100726"><p xml:id="n398.100727">The inscription reads, from the left, "ዘከመ፡ ፈወሶ፡ ለ፩ዱ፡ ዕውር፡ ገሢሦ፡ ርእሶ፡ በእዴሁ፡ ቅዱስ፡ ሚካኤል፡," or "How Saint Michael healed a certain blind man, feeling his head with his hand,"  "ወዘከመ፡ ቦአ፡ ውእቱ፡ ዕውር፡ ከመ፡ ይጸሊ፡ ውሣጤ፡ ክርስቲያነ፡ ቅዱስ፡ ሚካኤል፡," or "And how the blind [man] entered inside the church of Saint Michael to pay," and
+"ወዘከመ፡ ኖመ፡ ታሕተ፡  መድረከ፡ ቤተ፡ ክርስቲያን፡ ተተርኢሶ፡ እዴሁ፡," or "And how he slept under the threshold of the church using his hand as a pillow."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 122v" xml:id="n398.100728"><title xml:id="n398.100729">The Archangel helping Dorotheus and his wife Theopista to observe his feast</title>
+<note type="text-identifier" xml:id="n398.100730">Miracle XI</note>
+<note type="decoration-form" xml:id="n398.100731">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100732"><p xml:id="n398.100733">The inscription at the top left reads "ዘከመ፡ አመራ፡ ደርታዎስ (Sic) ለብእሲቱ፡ ከመ፡ ትትአመን፡ በስመ፡  ቅዱስ፡ ሚካኤል፡," or "How Dorotheus beckoned to his wife [reminding her] to trust in the name of Saint Michael." The inscription at the top right reads "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ አዘዞ፡ ለኖላዌ፡ አባግዕ፡ ከመ፡ የሀቦ፡ ፫ተ፡ አባግዓ፡ ለዶርታዎስ፡," or "Saint Michael: how he commanded the shepherd to give Dorotheus three sheep." The first middle inscription reads "ወዘከመ፡ አኀዘ፡ ፩ደ፡ ዓሣ፡ ወ፩ደ፡ በግዓ፡," or "And how he caught one fish and one sheep." The second middle inscription on the left reads "ወዘከመ፡ አውፅአ፡ ፩ደ፡ [ዓሣ፡] እምነ፡ ባሕር፡," or "And how he drew one [fish] from the sea/river." The second middle inscription on the right reads "ወዘከመ፡ ተርእየ፡ ቅዱስ፡ ሚካኤል፡ በአምሳለ፡ ሐራዊ፡ ተፅዒኖ፡ ፈረሰ፡," or "And how Saint Michael appeared on horseback in the likeness of a soldier." The inscription at the bottom left reads ") "ዘከመ፡ አጽገቡ፡ ነዳያነ፡ በዕለተ፡ በዓሉ፡ ለቅዱስ፡ ሚካኤል፡," or "How they satiated the poor on the feast day of Saint Michael." The inscription at the bottom right reads "ወዘከመ፡ አመሮሙ፡ በእዴሁ፡ ደርታዎስ፡," or "And how Dorotheus beckoned them with his hand."</p>
+</note>
+</decoNote>
+<decoNote n="fol. 125v" xml:id="n398.100734"><title xml:id="n398.100735">The Archangel admonishing the idle man</title>
+<note type="text-identifier" xml:id="n398.100736">Miracle XII</note>
+<note type="decoration-form" xml:id="n398.100737">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100738"><p xml:id="n398.100739">The first three inscriptions make one sentence: "ቅዱስ፡ ሚካኤል፡ ዘከመ፡ አመሮ፡ ለ፩ዱ፡ ሀካይ፡ ከመ፡ ይንግድ፡ ኀበ፡ ኖመ፡ በመድረከ፡ ቤተ፡ ክርስቲያን፡ ፈጺሞ፡ ጸሎቶ፡," or "Saint Michael: how he beckoned to the idle/sluggish man to trade, as he was asleep at the threshold of the church having finished his prayer." The inscription on the bottom reads "ወዘከመ፡ ተለቅሐ፡ ወርቀ፡ በመዳልው፡," or "And how he borrowed [money in] gold in weight."</p>
+<p xml:id="n398.100740">Cf. fol. 33v</p>
+</note>
+</decoNote>
+<decoNote n="fol. 126r" xml:id="n398.100741"><title xml:id="n398.100742">The Archangel admonishing the idle man, continued</title>
+<note type="text-identifier" xml:id="n398.100743">Miracle XII</note>
+<note type="decoration-form" xml:id="n398.100744">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n398.100745"><p xml:id="n398.100746">The inscription on the top reads "ወዘከመ፡ አመሮ፡ በእዴሁ፡ ዓቃቢ፡ ለነጋዲ፡," or "And how the custodian beckoned with his hand to the trader." The inscription in the middle reads "ወዘከመ፡ ተረክበ፡ ሣፁን፡ እምነ፡ ባሕር፡ ዘምሉእ፡ ወርቀ፡ እምአፈ፡ ዓሣ፡," or "And how the box, filled with gold, was found in the sea out of the mouth of a fish." The inscription on the bottom reads "ወዘከመ፡ አውፅኦ፡ ለዓሣ፡ እምነ፡ ባሕር፡," or "And how he brought out the fish from the sea."</p>
+</note>
+</decoNote>
+</decoDesc>
+<bindingDesc xml:id="n398.100747"><binding contemporary="unknown" xml:id="n398.100748"><p xml:id="n398.100749">Fabric-covered wooden end boards</p>
+</binding>
+</bindingDesc>
+</physDesc>
+<history xml:id="n398.100750"><origin notBefore="1675" xml:id="n398.100751" notAfter="1700"><origDate xml:id="n398.100752">Late 17th century CE</origDate>
+<origPlace xml:id="n398.100753">Gondar, Ethiopia</origPlace>
+</origin>
+<provenance xml:id="n398.100754">Name of original owner erased and replaced at an unknown date by Gäbrä Śǝllase ገብረ፡ ሥላሴ፡ and his wife [. . .] Giyorgis [. . . ] ጊዮርጊስ፡ (fols. 17r and passim)</provenance>
+<provenance xml:id="n398.100755">Later owned by Kidanä Maryam ኪዳነ፡ ማርያም፡, whose wife was Śählä Maryam ሣህለ፡ ማርያም፡, and whose father was Wäldä Tǝnśa’e ወልደ፡ ትንሣኤ፡ (fol. 4r and passim)</provenance>
+<provenance xml:id="n398.100756">Joseph Knopfelmacher Collection, New York, no. 2; collection sold by the Wright Gallery, New York, in 1995-1996</provenance>
+<acquisition xml:id="n398.100757">Museum purchase, the W. Alton Jones Foundation Acquisition Fund, 1996</acquisition>
+</history>
+</msDesc>
+<listBibl xml:id="n398.100758"><head xml:id="n398.100759">Relevant Works</head>
+<bibl xml:id="n398.100760">African Zion: the sacred art of Ethiopia. Catalogue by Marilyn Heldman with Stuart C. Munro-Hay; edited by Roderick Grierson. New Haven; London: Yale University Press in association with InterCultura Fort Worth, Walters Art Gallery Baltimore, Institute of Ethiopian Studies Addis Ababa, 1993.</bibl>
+<bibl xml:id="n398.100761">The Homiliary is one of the most widely copied texts. As such, many European libraries and the Hill Museum &amp; Manuscript Library have many copies of it. Also it has been printed in Ethiopia several times, e.g. ድርሳነ፡ ሚካኤል፡ ወድርሳነ፡ ሩፋኤል፡ መልክአ፡ ሚካኤል፡ ወመልክአ፡ ሩፋኤል Artistic Press, Addis Ababa 1940 EC (= 1947/8AD)</bibl>
+<bibl xml:id="n398.100762">Ethiopian Art: The Walters Art Museum. Lingfield, Surrey: Third Millennium Publishing, 2001, pp. 108-111, cat. no. 15 (fols. 10v-11r, 59r, 89v-90r).</bibl>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc xml:id="n398.100763"><classDecl xml:id="n398.100764"><taxonomy xml:id="keywords"><category xml:id="keyword_3"><catDesc xml:id="n398.100765">Art</catDesc>
+</category>
+<category xml:id="keyword_26"><catDesc xml:id="n398.100766">Medicine</catDesc>
+</category>
+<category xml:id="keyword_29"><catDesc xml:id="n398.100767">Museum</catDesc>
+</category>
+<category xml:id="keyword_34"><catDesc xml:id="n398.100768">Poetry</catDesc>
+</category>
+<category xml:id="keyword_39"><catDesc xml:id="n398.100769">Script</catDesc>
+</category>
+<category xml:id="keyword_54"><catDesc xml:id="n398.100770">Muhammad, the Prophet</catDesc>
+</category>
+<category xml:id="keyword_83"><catDesc xml:id="n398.100771">Kashmiri</catDesc>
+</category>
+<category xml:id="keyword_84"><catDesc xml:id="n398.100772">Horses</catDesc>
+</category>
+<category xml:id="keyword_45"><catDesc xml:id="n398.100773">Walters Art Museum</catDesc>
+</category>
+<category xml:id="keyword_139"><catDesc xml:id="n398.100774">Document</catDesc>
+</category>
+<category xml:id="keyword_62"><catDesc xml:id="n398.100775">Astrology</catDesc>
+</category>
+<category xml:id="keyword_87"><catDesc xml:id="n398.100776">Devotion</catDesc>
+</category>
+<category xml:id="keyword_15"><catDesc xml:id="n398.100777">History</catDesc>
+</category>
+<category xml:id="keyword_88"><catDesc xml:id="n398.100778">Legal</catDesc>
+</category>
+<category xml:id="keyword_89"><catDesc xml:id="n398.100779">Literature -- Poetry</catDesc>
+</category>
+<category xml:id="keyword_90"><catDesc xml:id="n398.100780">Literature -- Prose</catDesc>
+</category>
+<category xml:id="keyword_91"><catDesc xml:id="n398.100781">Liturgy</catDesc>
+</category>
+<category xml:id="keyword_92"><catDesc xml:id="n398.100782">Philosophy</catDesc>
+</category>
+<category xml:id="keyword_38"><catDesc xml:id="n398.100783">Science</catDesc>
+</category>
+<category xml:id="keyword_93"><catDesc xml:id="n398.100784">Science -- Medicine</catDesc>
+</category>
+<category xml:id="keyword_40"><catDesc xml:id="n398.100785">Scripture</catDesc>
+</category>
+<category xml:id="keyword_55"><catDesc xml:id="n398.100786">Sufism</catDesc>
+</category>
+<category xml:id="keyword_94"><catDesc xml:id="n398.100787">Theology</catDesc>
+</category>
+<category xml:id="keyword_53"><catDesc xml:id="n398.100788">Mineralogy</catDesc>
+</category>
+<category xml:id="keyword_60"><catDesc xml:id="n398.100789">Logic</catDesc>
+</category>
+<category xml:id="keyword_50"><catDesc xml:id="n398.100790">Geography</catDesc>
+</category>
+<category xml:id="keyword_64"><catDesc xml:id="n398.100791">Geomancy</catDesc>
+</category>
+<category xml:id="keyword_10"><catDesc xml:id="n398.100792">Cosmology</catDesc>
+</category>
+<category xml:id="keyword_49"><catDesc xml:id="n398.100793">Cartography</catDesc>
+</category>
+<category xml:id="keyword_63"><catDesc xml:id="n398.100794">Fortune-telling</catDesc>
+</category>
+<category xml:id="keyword_23"><catDesc xml:id="n398.100795">Koran</catDesc>
+</category>
+<category xml:id="keyword_36"><catDesc xml:id="n398.100796">Qur`an</catDesc>
+</category>
+<category xml:id="keyword_77"><catDesc xml:id="n398.100797">Firman</catDesc>
+</category>
+<category xml:id="keyword_61"><catDesc xml:id="n398.100798">Palimpsest</catDesc>
+</category>
+<category xml:id="keyword_35"><catDesc xml:id="n398.100799">Prayer</catDesc>
+</category>
+<category xml:id="keyword_95"><catDesc xml:id="n398.100800">Bible</catDesc>
+</category>
+<category xml:id="keyword_96"><catDesc xml:id="n398.100801">Gospels</catDesc>
+</category>
+<category xml:id="keyword_97"><catDesc xml:id="n398.100802">Psalter</catDesc>
+</category>
+<category xml:id="keyword_98"><catDesc xml:id="n398.100803">Missal</catDesc>
+</category>
+<category xml:id="keyword_99"><catDesc xml:id="n398.100804">Lectionary</catDesc>
+</category>
+<category xml:id="keyword_100"><catDesc xml:id="n398.100805">Book of Hours</catDesc>
+</category>
+<category xml:id="keyword_101"><catDesc xml:id="n398.100806">Antiphonary</catDesc>
+</category>
+<category xml:id="keyword_104"><catDesc xml:id="n398.100807">Homilary</catDesc>
+</category>
+<category xml:id="keyword_105"><catDesc xml:id="n398.100808">Processional</catDesc>
+</category>
+<category xml:id="keyword_106"><catDesc xml:id="n398.100809">Horologion</catDesc>
+</category>
+<category xml:id="keyword_107"><catDesc xml:id="n398.100810">Breviary</catDesc>
+</category>
+<category xml:id="keyword_108"><catDesc xml:id="n398.100811">Hymnal</catDesc>
+</category>
+<category xml:id="keyword_109"><catDesc xml:id="n398.100812">Chronicle</catDesc>
+</category>
+<category xml:id="keyword_51"><catDesc xml:id="n398.100813">Maghreb</catDesc>
+</category>
+<category xml:id="keyword_56"><catDesc xml:id="n398.100814">Sub-Saharan (West) Africa</catDesc>
+</category>
+<category xml:id="keyword_42"><catDesc xml:id="n398.100815">Turkey</catDesc>
+</category>
+<category xml:id="keyword_81"><catDesc xml:id="n398.100816">Afghanistan</catDesc>
+</category>
+<category xml:id="keyword_57"><catDesc xml:id="n398.100817">Central Asia</catDesc>
+</category>
+<category xml:id="keyword_11"><catDesc xml:id="n398.100818">Egypt</catDesc>
+</category>
+<category xml:id="keyword_69"><catDesc xml:id="n398.100819">England</catDesc>
+</category>
+<category xml:id="keyword_18"><catDesc xml:id="n398.100820">India</catDesc>
+</category>
+<category xml:id="keyword_20"><catDesc xml:id="n398.100821">Iran</catDesc>
+</category>
+<category xml:id="keyword_21"><catDesc xml:id="n398.100822">Iraq</catDesc>
+</category>
+<category xml:id="keyword_80"><catDesc xml:id="n398.100823">Pakistan</catDesc>
+</category>
+<category xml:id="keyword_111"><catDesc xml:id="n398.100824">Germany</catDesc>
+</category>
+<category xml:id="keyword_112"><catDesc xml:id="n398.100825">France</catDesc>
+</category>
+<category xml:id="keyword_113"><catDesc xml:id="n398.100826">Austria</catDesc>
+</category>
+<category xml:id="keyword_114"><catDesc xml:id="n398.100827">Netherlands</catDesc>
+</category>
+<category xml:id="keyword_115"><catDesc xml:id="n398.100828">Ethiopia</catDesc>
+</category>
+<category xml:id="keyword_116"><catDesc xml:id="n398.100829">Armenia</catDesc>
+</category>
+<category xml:id="keyword_117"><catDesc xml:id="n398.100830">Flanders</catDesc>
+</category>
+<category xml:id="keyword_118"><catDesc xml:id="n398.100831">Greece</catDesc>
+</category>
+<category xml:id="keyword_52"><catDesc xml:id="n398.100832">Mamluk</catDesc>
+</category>
+<category xml:id="keyword_28"><catDesc xml:id="n398.100833">Mughal</catDesc>
+</category>
+<category xml:id="keyword_31"><catDesc xml:id="n398.100834">Ottoman</catDesc>
+</category>
+<category xml:id="keyword_68"><catDesc xml:id="n398.100835">Ottonian</catDesc>
+</category>
+<category xml:id="keyword_78"><catDesc xml:id="n398.100836">Armenian</catDesc>
+</category>
+<category xml:id="keyword_73"><catDesc xml:id="n398.100837">Byzantine</catDesc>
+</category>
+<category xml:id="keyword_1"><catDesc xml:id="n398.100838">Abbasid</catDesc>
+</category>
+<category xml:id="keyword_79"><catDesc xml:id="n398.100839">Qajar</catDesc>
+</category>
+<category xml:id="keyword_65"><catDesc xml:id="n398.100840">Rajput</catDesc>
+</category>
+<category xml:id="keyword_7"><catDesc xml:id="n398.100841">Christian</catDesc>
+</category>
+<category xml:id="keyword_2"><catDesc xml:id="n398.100842">Arabic</catDesc>
+</category>
+<category xml:id="keyword_74"><catDesc xml:id="n398.100843">Austrian</catDesc>
+</category>
+<category xml:id="keyword_75"><catDesc xml:id="n398.100844">Dutch</catDesc>
+</category>
+<category xml:id="keyword_12"><catDesc xml:id="n398.100845">Egyptian</catDesc>
+</category>
+<category xml:id="keyword_13"><catDesc xml:id="n398.100846">Fatimid</catDesc>
+</category>
+<category xml:id="keyword_70"><catDesc xml:id="n398.100847">German</catDesc>
+</category>
+<category xml:id="keyword_19"><catDesc xml:id="n398.100848">Indian</catDesc>
+</category>
+<category xml:id="keyword_22"><catDesc xml:id="n398.100849">Islamic</catDesc>
+</category>
+<category xml:id="keyword_33"><catDesc xml:id="n398.100850">Persian</catDesc>
+</category>
+<category xml:id="keyword_37"><catDesc xml:id="n398.100851">Safavid</catDesc>
+</category>
+<category xml:id="keyword_41"><catDesc xml:id="n398.100852">Timurid</catDesc>
+</category>
+<category xml:id="keyword_43"><catDesc xml:id="n398.100853">Turkish</catDesc>
+</category>
+<category xml:id="keyword_44"><catDesc xml:id="n398.100854">Umayyad</catDesc>
+</category>
+<category xml:id="keyword_119"><catDesc xml:id="n398.100855">English</catDesc>
+</category>
+<category xml:id="keyword_120"><catDesc xml:id="n398.100856">French</catDesc>
+</category>
+<category xml:id="keyword_121"><catDesc xml:id="n398.100857">Flemish</catDesc>
+</category>
+<category xml:id="keyword_122"><catDesc xml:id="n398.100858">Ethiopian</catDesc>
+</category>
+<category xml:id="keyword_86"><catDesc xml:id="n398.100859">Carolingian</catDesc>
+</category>
+<category xml:id="keyword_6"><catDesc xml:id="n398.100860">Calligraphy</catDesc>
+</category>
+<category xml:id="keyword_9"><catDesc xml:id="n398.100861">Colophon</catDesc>
+</category>
+<category xml:id="keyword_14"><catDesc xml:id="n398.100862">Headpiece</catDesc>
+</category>
+<category xml:id="keyword_16"><catDesc xml:id="n398.100863">Illumination</catDesc>
+</category>
+<category xml:id="keyword_17"><catDesc xml:id="n398.100864">Illustration</catDesc>
+</category>
+<category xml:id="keyword_25"><catDesc xml:id="n398.100865">Medallion</catDesc>
+</category>
+<category xml:id="keyword_27"><catDesc xml:id="n398.100866">Miniature</catDesc>
+</category>
+<category xml:id="keyword_30"><catDesc xml:id="n398.100867">Ornament</catDesc>
+</category>
+<category xml:id="keyword_32"><catDesc xml:id="n398.100868">Painting</catDesc>
+</category>
+<category xml:id="keyword_59"><catDesc xml:id="n398.100869">Early Abbasid script</catDesc>
+</category>
+<category xml:id="keyword_76"><catDesc xml:id="n398.100870">Ragini</catDesc>
+</category>
+<category xml:id="keyword_71"><catDesc xml:id="n398.100871">Romanesque</catDesc>
+</category>
+<category xml:id="keyword_72"><catDesc xml:id="n398.100872">Gothic</catDesc>
+</category>
+<category xml:id="keyword_123"><catDesc xml:id="n398.100873">Watermark</catDesc>
+</category>
+<category xml:id="keyword_127"><catDesc xml:id="n398.100874">Grotesques</catDesc>
+</category>
+<category xml:id="keyword_128"><catDesc xml:id="n398.100875">Historiated initial</catDesc>
+</category>
+<category xml:id="keyword_129"><catDesc xml:id="n398.100876">Inhabited initial</catDesc>
+</category>
+<category xml:id="keyword_132"><catDesc xml:id="n398.100877">White-vine lettering</catDesc>
+</category>
+<category xml:id="keyword_134"><catDesc xml:id="n398.100878">Textura</catDesc>
+</category>
+<category xml:id="keyword_135"><catDesc xml:id="n398.100879">Batarda</catDesc>
+</category>
+<category xml:id="keyword_136"><catDesc xml:id="n398.100880">Humanistic</catDesc>
+</category>
+<category xml:id="keyword_137"><catDesc xml:id="n398.100881">Uncial</catDesc>
+</category>
+<category xml:id="keyword_66"><catDesc xml:id="n398.100882">Accordion book</catDesc>
+</category>
+<category xml:id="keyword_67"><catDesc xml:id="n398.100883">Album</catDesc>
+</category>
+<category xml:id="keyword_5"><catDesc xml:id="n398.100884">Book</catDesc>
+</category>
+<category xml:id="keyword_8"><catDesc xml:id="n398.100885">Codex</catDesc>
+</category>
+<category xml:id="keyword_24"><catDesc xml:id="n398.100886">Manuscript</catDesc>
+</category>
+<category xml:id="keyword_138"><catDesc xml:id="n398.100887">Heraldry</catDesc>
+</category>
+<category xml:id="keyword_103"><catDesc xml:id="n398.100888">Saint's Life</catDesc>
+</category>
+<category xml:id="keyword_143"><catDesc xml:id="n398.100889">Drawing</catDesc>
+</category>
+<category xml:id="keyword_140"><catDesc xml:id="n398.100890">Grisaille</catDesc>
+</category>
+<category xml:id="keyword_126"><catDesc xml:id="n398.100891">Binding</catDesc>
+</category>
+<category xml:id="keyword_58"><catDesc xml:id="n398.100892">New Abbasid style</catDesc>
+</category>
+<category xml:id="keyword_158"><catDesc xml:id="n398.100893">Musical notation</catDesc>
+</category>
+<category xml:id="keyword_159"><catDesc xml:id="n398.100894">Russia</catDesc>
+</category>
+<category xml:id="keyword_85"><catDesc xml:id="n398.100895">Romania</catDesc>
+</category>
+<category xml:id="keyword_144"><catDesc xml:id="n398.100896">Charter</catDesc>
+</category>
+<category xml:id="keyword_160"><catDesc xml:id="n398.100897">Russian</catDesc>
+</category>
+<category xml:id="keyword_141"><catDesc xml:id="n398.100898">Genealogy</catDesc>
+</category>
+<category xml:id="keyword_161"><catDesc xml:id="n398.100899">Mass book</catDesc>
+</category>
+<category xml:id="keyword_102"><catDesc xml:id="n398.100900">Prayer book</catDesc>
+</category>
+<category xml:id="keyword_162"><catDesc xml:id="n398.100901">Gospel Lectionary</catDesc>
+</category>
+<category xml:id="keyword_110"><catDesc xml:id="n398.100902">Psalter-Hours</catDesc>
+</category>
+<category xml:id="keyword_163"><catDesc xml:id="n398.100903">Treatise</catDesc>
+</category>
+<category xml:id="keyword_164"><catDesc xml:id="n398.100904">Grammar</catDesc>
+</category>
+<category xml:id="keyword_165"><catDesc xml:id="n398.100905">Gloss</catDesc>
+</category>
+<category xml:id="keyword_166"><catDesc xml:id="n398.100906">Pontifical</catDesc>
+</category>
+<category xml:id="keyword_167"><catDesc xml:id="n398.100907">Private devotional text</catDesc>
+</category>
+<category xml:id="keyword_168"><catDesc xml:id="n398.100908">Gradual</catDesc>
+</category>
+<category xml:id="keyword_169"><catDesc xml:id="n398.100909">Protective scroll</catDesc>
+</category>
+<category xml:id="keyword_170"><catDesc xml:id="n398.100910">Scroll</catDesc>
+</category>
+<category xml:id="keyword_147"><catDesc xml:id="n398.100911">10th century</catDesc>
+</category>
+<category xml:id="keyword_148"><catDesc xml:id="n398.100912">11th century</catDesc>
+</category>
+<category xml:id="keyword_149"><catDesc xml:id="n398.100913">12th century</catDesc>
+</category>
+<category xml:id="keyword_150"><catDesc xml:id="n398.100914">13th century</catDesc>
+</category>
+<category xml:id="keyword_151"><catDesc xml:id="n398.100915">14th century</catDesc>
+</category>
+<category xml:id="keyword_152"><catDesc xml:id="n398.100916">15th century</catDesc>
+</category>
+<category xml:id="keyword_153"><catDesc xml:id="n398.100917">16th century</catDesc>
+</category>
+<category xml:id="keyword_154"><catDesc xml:id="n398.100918">17th century</catDesc>
+</category>
+<category xml:id="keyword_155"><catDesc xml:id="n398.100919">18th century</catDesc>
+</category>
+<category xml:id="keyword_156"><catDesc xml:id="n398.100920">19th century</catDesc>
+</category>
+<category xml:id="keyword_157"><catDesc xml:id="n398.100921">20th century</catDesc>
+</category>
+<category xml:id="keyword_145"><catDesc xml:id="n398.100922">8th century</catDesc>
+</category>
+<category xml:id="keyword_146"><catDesc xml:id="n398.100923">9th century</catDesc>
+</category>
+<category xml:id="keyword_142"><catDesc xml:id="n398.100924">Block book</catDesc>
+</category>
+<category xml:id="keyword_130"><catDesc xml:id="n398.100925">Caroline minuscule</catDesc>
+</category>
+<category xml:id="keyword_48"><catDesc xml:id="n398.100926">Central Arab lands (Near East)</catDesc>
+</category>
+<category xml:id="keyword_82"><catDesc xml:id="n398.100927">Chart</catDesc>
+</category>
+<category xml:id="keyword_133"><catDesc xml:id="n398.100928">English secretary hand</catDesc>
+</category>
+<category xml:id="keyword_47"><catDesc xml:id="n398.100929">Kufic</catDesc>
+</category>
+<category xml:id="keyword_131"><catDesc xml:id="n398.100930">Gothic book hand</catDesc>
+</category>
+<category xml:id="keyword_125"><catDesc xml:id="n398.100931">Original binding</catDesc>
+</category>
+<category xml:id="keyword_124"><catDesc xml:id="n398.100932">Treasure binding</catDesc>
+</category>
+<category xml:id="keyword_171"><catDesc xml:id="n398.100933">Gospel Book</catDesc>
+</category>
+<category xml:id="keyword_172"><catDesc xml:id="n398.100934">Spanish</catDesc>
+</category>
+<category xml:id="keyword_173"><catDesc xml:id="n398.100935">Spain</catDesc>
+</category>
+<category xml:id="keyword_174"><catDesc xml:id="n398.100936">Italian</catDesc>
+</category>
+<category xml:id="keyword_175"><catDesc xml:id="n398.100937">Italy</catDesc>
+</category>
+</taxonomy>
+<taxonomy xml:id="genres"><category xml:id="genre_1"><catDesc xml:id="n398.100938">Liturgical</catDesc>
+</category>
+<category xml:id="genre_2"><catDesc xml:id="n398.100939">Devotional</catDesc>
+</category>
+<category xml:id="genre_3"><catDesc xml:id="n398.100940">Scriptural</catDesc>
+</category>
+<category xml:id="genre_4"><catDesc xml:id="n398.100941">Theological</catDesc>
+</category>
+<category xml:id="genre_5"><catDesc xml:id="n398.100942">Legal</catDesc>
+</category>
+<category xml:id="genre_6"><catDesc xml:id="n398.100943">Historical</catDesc>
+</category>
+<category xml:id="genre_7"><catDesc xml:id="n398.100944">Scientific</catDesc>
+</category>
+<category xml:id="genre_8"><catDesc xml:id="n398.100945">Scientific -- Medical</catDesc>
+</category>
+<category xml:id="genre_9"><catDesc xml:id="n398.100946">Literary -- Prose</catDesc>
+</category>
+<category xml:id="genre_10"><catDesc xml:id="n398.100947">Literary -- Poetry</catDesc>
+</category>
+<category xml:id="genre_11"><catDesc xml:id="n398.100948">Philosophical</catDesc>
+</category>
+<category xml:id="genre_12"><catDesc xml:id="n398.100949">Astrological</catDesc>
+</category>
+<category xml:id="genre_13"><catDesc xml:id="n398.100950">Sufi</catDesc>
+</category>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc xml:id="n398.100951"><langUsage xml:id="n398.100952"><language xml:id="n398.100953" ident="en">English</language>
+</langUsage>
+<textClass xml:id="n398.100954"><catRef target="#genre_4" scheme="#genres" xml:id="n398.100955"/>
+<keywords scheme="#keywords" xml:id="n398.100956"><list xml:id="n398.100957"><item xml:id="n398.100958">Book</item>
+<item xml:id="n398.100959">Christian</item>
+<item xml:id="n398.100960">Codex</item>
+<item xml:id="n398.100961">Illumination</item>
+<item xml:id="n398.100962">Illustration</item>
+<item xml:id="n398.100963">Manuscript</item>
+<item xml:id="n398.100964">Miniature</item>
+<item xml:id="n398.100965">Painting</item>
+<item xml:id="n398.100966">Walters Art Museum</item>
+<item xml:id="n398.100967">Theology</item>
+<item xml:id="n398.100968">Homilary</item>
+<item xml:id="n398.100969">Ethiopia</item>
+<item xml:id="n398.100970">Ethiopian</item>
+<item xml:id="n398.100971">17th century</item>
+</list>
+</keywords>
+</textClass>
+</profileDesc>
+</teiHeader>
+<facsimile xml:id="n398.100972"><surface n="Upper board outside" xml:id="n398.098853"><graphic url="master/W835_000001_820.tif" xml:id="n398.098854"/>
+<graphic url="300/W835_000001_300.tif" xml:id="n398.098855"/>
+<graphic url="sap/W835_000001_sap.jpg" xml:id="n398.098856"/>
+<graphic url="thumb/W835_000001_thumb.jpg" xml:id="n398.098857"/>
+</surface>
+<surface n="Upper board inside" xml:id="n398.098858"><graphic url="master/W835_000002_820.tif" xml:id="n398.098859"/>
+<graphic url="300/W835_000002_300.tif" xml:id="n398.098860"/>
+<graphic url="sap/W835_000002_sap.jpg" xml:id="n398.098861"/>
+<graphic url="thumb/W835_000002_thumb.jpg" xml:id="n398.098862"/>
+</surface>
+<surface n="fol. 1r" xml:id="n398.098863"><graphic url="master/W835_000003_600.tif" xml:id="n398.098864"/>
+<graphic url="300/W835_000003_300.tif" xml:id="n398.098865"/>
+<graphic url="sap/W835_000003_sap.jpg" xml:id="n398.098866"/>
+<graphic url="thumb/W835_000003_thumb.jpg" xml:id="n398.098867"/>
+</surface>
+<surface n="fol. 1v" xml:id="n398.098868"><graphic url="master/W835_000004_820.tif" xml:id="n398.098869"/>
+<graphic url="300/W835_000004_300.tif" xml:id="n398.098870"/>
+<graphic url="sap/W835_000004_sap.jpg" xml:id="n398.098871"/>
+<graphic url="thumb/W835_000004_thumb.jpg" xml:id="n398.098872"/>
+</surface>
+<surface n="fol. 2r" xml:id="n398.098873"><graphic url="master/W835_000005_600.tif" xml:id="n398.098874"/>
+<graphic url="300/W835_000005_300.tif" xml:id="n398.098875"/>
+<graphic url="sap/W835_000005_sap.jpg" xml:id="n398.098876"/>
+<graphic url="thumb/W835_000005_thumb.jpg" xml:id="n398.098877"/>
+</surface>
+<surface n="2v, curtain closed" xml:id="n398.098878"><graphic url="master/W835_000263_600.tif" xml:id="n398.098879"/>
+<graphic url="300/W835_000263_300.tif" xml:id="n398.098880"/>
+<graphic url="sap/W835_000263_sap.jpg" xml:id="n398.098881"/>
+<graphic url="thumb/W835_000263_thumb.jpg" xml:id="n398.098882"/>
+</surface>
+<surface n="fol. 2v" xml:id="n398.098883"><graphic url="master/W835_000006_820.tif" xml:id="n398.098884"/>
+<graphic url="300/W835_000006_300.tif" xml:id="n398.098885"/>
+<graphic url="sap/W835_000006_sap.jpg" xml:id="n398.098886"/>
+<graphic url="thumb/W835_000006_thumb.jpg" xml:id="n398.098887"/>
+</surface>
+<surface n="fol. 3r" xml:id="n398.098888"><graphic url="master/W835_000007_600.tif" xml:id="n398.098889"/>
+<graphic url="300/W835_000007_300.tif" xml:id="n398.098890"/>
+<graphic url="sap/W835_000007_sap.jpg" xml:id="n398.098891"/>
+<graphic url="thumb/W835_000007_thumb.jpg" xml:id="n398.098892"/>
+</surface>
+<surface n="fol. 3v" xml:id="n398.098893"><graphic url="master/W835_000008_600.tif" xml:id="n398.098894"/>
+<graphic url="300/W835_000008_300.tif" xml:id="n398.098895"/>
+<graphic url="sap/W835_000008_sap.jpg" xml:id="n398.098896"/>
+<graphic url="thumb/W835_000008_thumb.jpg" xml:id="n398.098897"/>
+</surface>
+<surface n="fol. 4r" xml:id="n398.098898"><graphic url="master/W835_000009_600.tif" xml:id="n398.098899"/>
+<graphic url="300/W835_000009_300.tif" xml:id="n398.098900"/>
+<graphic url="sap/W835_000009_sap.jpg" xml:id="n398.098901"/>
+<graphic url="thumb/W835_000009_thumb.jpg" xml:id="n398.098902"/>
+</surface>
+<surface n="fol. 4v" xml:id="n398.098903"><graphic url="master/W835_000010_600.tif" xml:id="n398.098904"/>
+<graphic url="300/W835_000010_300.tif" xml:id="n398.098905"/>
+<graphic url="sap/W835_000010_sap.jpg" xml:id="n398.098906"/>
+<graphic url="thumb/W835_000010_thumb.jpg" xml:id="n398.098907"/>
+</surface>
+<surface n="fol. 5r" xml:id="n398.098908"><graphic url="master/W835_000011_600.tif" xml:id="n398.098909"/>
+<graphic url="300/W835_000011_300.tif" xml:id="n398.098910"/>
+<graphic url="sap/W835_000011_sap.jpg" xml:id="n398.098911"/>
+<graphic url="thumb/W835_000011_thumb.jpg" xml:id="n398.098912"/>
+</surface>
+<surface n="fol. 5v" xml:id="n398.098913"><graphic url="master/W835_000012_600.tif" xml:id="n398.098914"/>
+<graphic url="300/W835_000012_300.tif" xml:id="n398.098915"/>
+<graphic url="sap/W835_000012_sap.jpg" xml:id="n398.098916"/>
+<graphic url="thumb/W835_000012_thumb.jpg" xml:id="n398.098917"/>
+</surface>
+<surface n="fol. 6r" xml:id="n398.098918"><graphic url="master/W835_000013_600.tif" xml:id="n398.098919"/>
+<graphic url="300/W835_000013_300.tif" xml:id="n398.098920"/>
+<graphic url="sap/W835_000013_sap.jpg" xml:id="n398.098921"/>
+<graphic url="thumb/W835_000013_thumb.jpg" xml:id="n398.098922"/>
+</surface>
+<surface n="fol. 6v" xml:id="n398.098923"><graphic url="master/W835_000014_600.tif" xml:id="n398.098924"/>
+<graphic url="300/W835_000014_300.tif" xml:id="n398.098925"/>
+<graphic url="sap/W835_000014_sap.jpg" xml:id="n398.098926"/>
+<graphic url="thumb/W835_000014_thumb.jpg" xml:id="n398.098927"/>
+</surface>
+<surface n="fol. 7r" xml:id="n398.098928"><graphic url="master/W835_000015_600.tif" xml:id="n398.098929"/>
+<graphic url="300/W835_000015_300.tif" xml:id="n398.098930"/>
+<graphic url="sap/W835_000015_sap.jpg" xml:id="n398.098931"/>
+<graphic url="thumb/W835_000015_thumb.jpg" xml:id="n398.098932"/>
+</surface>
+<surface n="fol. 7v" xml:id="n398.098933"><graphic url="master/W835_000016_600.tif" xml:id="n398.098934"/>
+<graphic url="300/W835_000016_300.tif" xml:id="n398.098935"/>
+<graphic url="sap/W835_000016_sap.jpg" xml:id="n398.098936"/>
+<graphic url="thumb/W835_000016_thumb.jpg" xml:id="n398.098937"/>
+</surface>
+<surface n="fol. 8r" xml:id="n398.098938"><graphic url="master/W835_000017_600.tif" xml:id="n398.098939"/>
+<graphic url="300/W835_000017_300.tif" xml:id="n398.098940"/>
+<graphic url="sap/W835_000017_sap.jpg" xml:id="n398.098941"/>
+<graphic url="thumb/W835_000017_thumb.jpg" xml:id="n398.098942"/>
+</surface>
+<surface n="fol. 8v" xml:id="n398.098943"><graphic url="master/W835_000018_600.tif" xml:id="n398.098944"/>
+<graphic url="300/W835_000018_300.tif" xml:id="n398.098945"/>
+<graphic url="sap/W835_000018_sap.jpg" xml:id="n398.098946"/>
+<graphic url="thumb/W835_000018_thumb.jpg" xml:id="n398.098947"/>
+</surface>
+<surface n="fol. 9r" xml:id="n398.098948"><graphic url="master/W835_000019_600.tif" xml:id="n398.098949"/>
+<graphic url="300/W835_000019_300.tif" xml:id="n398.098950"/>
+<graphic url="sap/W835_000019_sap.jpg" xml:id="n398.098951"/>
+<graphic url="thumb/W835_000019_thumb.jpg" xml:id="n398.098952"/>
+</surface>
+<surface n="fol. 9v" xml:id="n398.098953"><graphic url="master/W835_000020_600.tif" xml:id="n398.098954"/>
+<graphic url="300/W835_000020_300.tif" xml:id="n398.098955"/>
+<graphic url="sap/W835_000020_sap.jpg" xml:id="n398.098956"/>
+<graphic url="thumb/W835_000020_thumb.jpg" xml:id="n398.098957"/>
+</surface>
+<surface n="fol. 10r" xml:id="n398.098958"><graphic url="master/W835_000021_600.tif" xml:id="n398.098959"/>
+<graphic url="300/W835_000021_300.tif" xml:id="n398.098960"/>
+<graphic url="sap/W835_000021_sap.jpg" xml:id="n398.098961"/>
+<graphic url="thumb/W835_000021_thumb.jpg" xml:id="n398.098962"/>
+</surface>
+<surface n="10v, curtain closed" xml:id="n398.098963"><graphic url="master/W835_000264_600.tif" xml:id="n398.098964"/>
+<graphic url="300/W835_000264_300.tif" xml:id="n398.098965"/>
+<graphic url="sap/W835_000264_sap.jpg" xml:id="n398.098966"/>
+<graphic url="thumb/W835_000264_thumb.jpg" xml:id="n398.098967"/>
+</surface>
+<surface n="fol. 10v" xml:id="n398.098968"><graphic url="master/W835_000022_820.tif" xml:id="n398.098969"/>
+<graphic url="300/W835_000022_300.tif" xml:id="n398.098970"/>
+<graphic url="sap/W835_000022_sap.jpg" xml:id="n398.098971"/>
+<graphic url="thumb/W835_000022_thumb.jpg" xml:id="n398.098972"/>
+</surface>
+<surface n="fol. 11r" xml:id="n398.098973"><graphic url="master/W835_000023_820.tif" xml:id="n398.098974"/>
+<graphic url="300/W835_000023_300.tif" xml:id="n398.098975"/>
+<graphic url="sap/W835_000023_sap.jpg" xml:id="n398.098976"/>
+<graphic url="thumb/W835_000023_thumb.jpg" xml:id="n398.098977"/>
+</surface>
+<surface n="fol. 11v" xml:id="n398.098978"><graphic url="master/W835_000024_600.tif" xml:id="n398.098979"/>
+<graphic url="300/W835_000024_300.tif" xml:id="n398.098980"/>
+<graphic url="sap/W835_000024_sap.jpg" xml:id="n398.098981"/>
+<graphic url="thumb/W835_000024_thumb.jpg" xml:id="n398.098982"/>
+</surface>
+<surface n="fol. 12r" xml:id="n398.098983"><graphic url="master/W835_000025_600.tif" xml:id="n398.098984"/>
+<graphic url="300/W835_000025_300.tif" xml:id="n398.098985"/>
+<graphic url="sap/W835_000025_sap.jpg" xml:id="n398.098986"/>
+<graphic url="thumb/W835_000025_thumb.jpg" xml:id="n398.098987"/>
+</surface>
+<surface n="fol. 12v" xml:id="n398.098988"><graphic url="master/W835_000026_600.tif" xml:id="n398.098989"/>
+<graphic url="300/W835_000026_300.tif" xml:id="n398.098990"/>
+<graphic url="sap/W835_000026_sap.jpg" xml:id="n398.098991"/>
+<graphic url="thumb/W835_000026_thumb.jpg" xml:id="n398.098992"/>
+</surface>
+<surface n="fol. 13r" xml:id="n398.098993"><graphic url="master/W835_000027_600.tif" xml:id="n398.098994"/>
+<graphic url="300/W835_000027_300.tif" xml:id="n398.098995"/>
+<graphic url="sap/W835_000027_sap.jpg" xml:id="n398.098996"/>
+<graphic url="thumb/W835_000027_thumb.jpg" xml:id="n398.098997"/>
+</surface>
+<surface n="fol. 13v" xml:id="n398.098998"><graphic url="master/W835_000028_600.tif" xml:id="n398.098999"/>
+<graphic url="300/W835_000028_300.tif" xml:id="n398.099000"/>
+<graphic url="sap/W835_000028_sap.jpg" xml:id="n398.099001"/>
+<graphic url="thumb/W835_000028_thumb.jpg" xml:id="n398.099002"/>
+</surface>
+<surface n="fol. 14r" xml:id="n398.099003"><graphic url="master/W835_000029_600.tif" xml:id="n398.099004"/>
+<graphic url="300/W835_000029_300.tif" xml:id="n398.099005"/>
+<graphic url="sap/W835_000029_sap.jpg" xml:id="n398.099006"/>
+<graphic url="thumb/W835_000029_thumb.jpg" xml:id="n398.099007"/>
+</surface>
+<surface n="fol. 14v" xml:id="n398.099008"><graphic url="master/W835_000030_600.tif" xml:id="n398.099009"/>
+<graphic url="300/W835_000030_300.tif" xml:id="n398.099010"/>
+<graphic url="sap/W835_000030_sap.jpg" xml:id="n398.099011"/>
+<graphic url="thumb/W835_000030_thumb.jpg" xml:id="n398.099012"/>
+</surface>
+<surface n="fol. 15r" xml:id="n398.099013"><graphic url="master/W835_000031_600.tif" xml:id="n398.099014"/>
+<graphic url="300/W835_000031_300.tif" xml:id="n398.099015"/>
+<graphic url="sap/W835_000031_sap.jpg" xml:id="n398.099016"/>
+<graphic url="thumb/W835_000031_thumb.jpg" xml:id="n398.099017"/>
+</surface>
+<surface n="fol. 15v" xml:id="n398.099018"><graphic url="master/W835_000032_600.tif" xml:id="n398.099019"/>
+<graphic url="300/W835_000032_300.tif" xml:id="n398.099020"/>
+<graphic url="sap/W835_000032_sap.jpg" xml:id="n398.099021"/>
+<graphic url="thumb/W835_000032_thumb.jpg" xml:id="n398.099022"/>
+</surface>
+<surface n="fol. 16r" xml:id="n398.099023"><graphic url="master/W835_000033_600.tif" xml:id="n398.099024"/>
+<graphic url="300/W835_000033_300.tif" xml:id="n398.099025"/>
+<graphic url="sap/W835_000033_sap.jpg" xml:id="n398.099026"/>
+<graphic url="thumb/W835_000033_thumb.jpg" xml:id="n398.099027"/>
+</surface>
+<surface n="fol. 16v" xml:id="n398.099028"><graphic url="master/W835_000034_600.tif" xml:id="n398.099029"/>
+<graphic url="300/W835_000034_300.tif" xml:id="n398.099030"/>
+<graphic url="sap/W835_000034_sap.jpg" xml:id="n398.099031"/>
+<graphic url="thumb/W835_000034_thumb.jpg" xml:id="n398.099032"/>
+</surface>
+<surface n="fol. 17r" xml:id="n398.099033"><graphic url="master/W835_000035_600.tif" xml:id="n398.099034"/>
+<graphic url="300/W835_000035_300.tif" xml:id="n398.099035"/>
+<graphic url="sap/W835_000035_sap.jpg" xml:id="n398.099036"/>
+<graphic url="thumb/W835_000035_thumb.jpg" xml:id="n398.099037"/>
+</surface>
+<surface n="17v, curtain closed" xml:id="n398.099038"><graphic url="master/W835_000265_600.tif" xml:id="n398.099039"/>
+<graphic url="300/W835_000265_300.tif" xml:id="n398.099040"/>
+<graphic url="sap/W835_000265_sap.jpg" xml:id="n398.099041"/>
+<graphic url="thumb/W835_000265_thumb.jpg" xml:id="n398.099042"/>
+</surface>
+<surface n="fol. 17v" xml:id="n398.099043"><graphic url="master/W835_000036_820.tif" xml:id="n398.099044"/>
+<graphic url="300/W835_000036_300.tif" xml:id="n398.099045"/>
+<graphic url="sap/W835_000036_sap.jpg" xml:id="n398.099046"/>
+<graphic url="thumb/W835_000036_thumb.jpg" xml:id="n398.099047"/>
+</surface>
+<surface n="fol. 18r" xml:id="n398.099048"><graphic url="master/W835_000037_820.tif" xml:id="n398.099049"/>
+<graphic url="300/W835_000037_300.tif" xml:id="n398.099050"/>
+<graphic url="sap/W835_000037_sap.jpg" xml:id="n398.099051"/>
+<graphic url="thumb/W835_000037_thumb.jpg" xml:id="n398.099052"/>
+</surface>
+<surface n="fol. 18v" xml:id="n398.099053"><graphic url="master/W835_000038_600.tif" xml:id="n398.099054"/>
+<graphic url="300/W835_000038_300.tif" xml:id="n398.099055"/>
+<graphic url="sap/W835_000038_sap.jpg" xml:id="n398.099056"/>
+<graphic url="thumb/W835_000038_thumb.jpg" xml:id="n398.099057"/>
+</surface>
+<surface n="fol. 19r" xml:id="n398.099058"><graphic url="master/W835_000039_600.tif" xml:id="n398.099059"/>
+<graphic url="300/W835_000039_300.tif" xml:id="n398.099060"/>
+<graphic url="sap/W835_000039_sap.jpg" xml:id="n398.099061"/>
+<graphic url="thumb/W835_000039_thumb.jpg" xml:id="n398.099062"/>
+</surface>
+<surface n="fol. 19v" xml:id="n398.099063"><graphic url="master/W835_000040_600.tif" xml:id="n398.099064"/>
+<graphic url="300/W835_000040_300.tif" xml:id="n398.099065"/>
+<graphic url="sap/W835_000040_sap.jpg" xml:id="n398.099066"/>
+<graphic url="thumb/W835_000040_thumb.jpg" xml:id="n398.099067"/>
+</surface>
+<surface n="fol. 20r" xml:id="n398.099068"><graphic url="master/W835_000041_600.tif" xml:id="n398.099069"/>
+<graphic url="300/W835_000041_300.tif" xml:id="n398.099070"/>
+<graphic url="sap/W835_000041_sap.jpg" xml:id="n398.099071"/>
+<graphic url="thumb/W835_000041_thumb.jpg" xml:id="n398.099072"/>
+</surface>
+<surface n="fol. 20v" xml:id="n398.099073"><graphic url="master/W835_000042_600.tif" xml:id="n398.099074"/>
+<graphic url="300/W835_000042_300.tif" xml:id="n398.099075"/>
+<graphic url="sap/W835_000042_sap.jpg" xml:id="n398.099076"/>
+<graphic url="thumb/W835_000042_thumb.jpg" xml:id="n398.099077"/>
+</surface>
+<surface n="fol. 21r" xml:id="n398.099078"><graphic url="master/W835_000043_600.tif" xml:id="n398.099079"/>
+<graphic url="300/W835_000043_300.tif" xml:id="n398.099080"/>
+<graphic url="sap/W835_000043_sap.jpg" xml:id="n398.099081"/>
+<graphic url="thumb/W835_000043_thumb.jpg" xml:id="n398.099082"/>
+</surface>
+<surface n="fol. 21v" xml:id="n398.099083"><graphic url="master/W835_000044_600.tif" xml:id="n398.099084"/>
+<graphic url="300/W835_000044_300.tif" xml:id="n398.099085"/>
+<graphic url="sap/W835_000044_sap.jpg" xml:id="n398.099086"/>
+<graphic url="thumb/W835_000044_thumb.jpg" xml:id="n398.099087"/>
+</surface>
+<surface n="fol. 22r" xml:id="n398.099088"><graphic url="master/W835_000045_600.tif" xml:id="n398.099089"/>
+<graphic url="300/W835_000045_300.tif" xml:id="n398.099090"/>
+<graphic url="sap/W835_000045_sap.jpg" xml:id="n398.099091"/>
+<graphic url="thumb/W835_000045_thumb.jpg" xml:id="n398.099092"/>
+</surface>
+<surface n="fol. 22v" xml:id="n398.099093"><graphic url="master/W835_000046_600.tif" xml:id="n398.099094"/>
+<graphic url="300/W835_000046_300.tif" xml:id="n398.099095"/>
+<graphic url="sap/W835_000046_sap.jpg" xml:id="n398.099096"/>
+<graphic url="thumb/W835_000046_thumb.jpg" xml:id="n398.099097"/>
+</surface>
+<surface n="fol. 23r" xml:id="n398.099098"><graphic url="master/W835_000047_600.tif" xml:id="n398.099099"/>
+<graphic url="300/W835_000047_300.tif" xml:id="n398.099100"/>
+<graphic url="sap/W835_000047_sap.jpg" xml:id="n398.099101"/>
+<graphic url="thumb/W835_000047_thumb.jpg" xml:id="n398.099102"/>
+</surface>
+<surface n="fol. 23v" xml:id="n398.099103"><graphic url="master/W835_000048_600.tif" xml:id="n398.099104"/>
+<graphic url="300/W835_000048_300.tif" xml:id="n398.099105"/>
+<graphic url="sap/W835_000048_sap.jpg" xml:id="n398.099106"/>
+<graphic url="thumb/W835_000048_thumb.jpg" xml:id="n398.099107"/>
+</surface>
+<surface n="fol. 24r" xml:id="n398.099108"><graphic url="master/W835_000049_600.tif" xml:id="n398.099109"/>
+<graphic url="300/W835_000049_300.tif" xml:id="n398.099110"/>
+<graphic url="sap/W835_000049_sap.jpg" xml:id="n398.099111"/>
+<graphic url="thumb/W835_000049_thumb.jpg" xml:id="n398.099112"/>
+</surface>
+<surface n="fol. 24v" xml:id="n398.099113"><graphic url="master/W835_000050_600.tif" xml:id="n398.099114"/>
+<graphic url="300/W835_000050_300.tif" xml:id="n398.099115"/>
+<graphic url="sap/W835_000050_sap.jpg" xml:id="n398.099116"/>
+<graphic url="thumb/W835_000050_thumb.jpg" xml:id="n398.099117"/>
+</surface>
+<surface n="fol. 25r" xml:id="n398.099118"><graphic url="master/W835_000051_600.tif" xml:id="n398.099119"/>
+<graphic url="300/W835_000051_300.tif" xml:id="n398.099120"/>
+<graphic url="sap/W835_000051_sap.jpg" xml:id="n398.099121"/>
+<graphic url="thumb/W835_000051_thumb.jpg" xml:id="n398.099122"/>
+</surface>
+<surface n="fol. 25v" xml:id="n398.099123"><graphic url="master/W835_000052_600.tif" xml:id="n398.099124"/>
+<graphic url="300/W835_000052_300.tif" xml:id="n398.099125"/>
+<graphic url="sap/W835_000052_sap.jpg" xml:id="n398.099126"/>
+<graphic url="thumb/W835_000052_thumb.jpg" xml:id="n398.099127"/>
+</surface>
+<surface n="fol. 26r" xml:id="n398.099128"><graphic url="master/W835_000053_600.tif" xml:id="n398.099129"/>
+<graphic url="300/W835_000053_300.tif" xml:id="n398.099130"/>
+<graphic url="sap/W835_000053_sap.jpg" xml:id="n398.099131"/>
+<graphic url="thumb/W835_000053_thumb.jpg" xml:id="n398.099132"/>
+</surface>
+<surface n="fol. 26v" xml:id="n398.099133"><graphic url="master/W835_000054_600.tif" xml:id="n398.099134"/>
+<graphic url="300/W835_000054_300.tif" xml:id="n398.099135"/>
+<graphic url="sap/W835_000054_sap.jpg" xml:id="n398.099136"/>
+<graphic url="thumb/W835_000054_thumb.jpg" xml:id="n398.099137"/>
+</surface>
+<surface n="fol. 27r" xml:id="n398.099138"><graphic url="master/W835_000055_600.tif" xml:id="n398.099139"/>
+<graphic url="300/W835_000055_300.tif" xml:id="n398.099140"/>
+<graphic url="sap/W835_000055_sap.jpg" xml:id="n398.099141"/>
+<graphic url="thumb/W835_000055_thumb.jpg" xml:id="n398.099142"/>
+</surface>
+<surface n="fol. 27v" xml:id="n398.099143"><graphic url="master/W835_000056_600.tif" xml:id="n398.099144"/>
+<graphic url="300/W835_000056_300.tif" xml:id="n398.099145"/>
+<graphic url="sap/W835_000056_sap.jpg" xml:id="n398.099146"/>
+<graphic url="thumb/W835_000056_thumb.jpg" xml:id="n398.099147"/>
+</surface>
+<surface n="28r, curtain closed" xml:id="n398.099148"><graphic url="master/W835_000266_600.tif" xml:id="n398.099149"/>
+<graphic url="300/W835_000266_300.tif" xml:id="n398.099150"/>
+<graphic url="sap/W835_000266_sap.jpg" xml:id="n398.099151"/>
+<graphic url="thumb/W835_000266_thumb.jpg" xml:id="n398.099152"/>
+</surface>
+<surface n="fol. 28r" xml:id="n398.099153"><graphic url="master/W835_000057_820.tif" xml:id="n398.099154"/>
+<graphic url="300/W835_000057_300.tif" xml:id="n398.099155"/>
+<graphic url="sap/W835_000057_sap.jpg" xml:id="n398.099156"/>
+<graphic url="thumb/W835_000057_thumb.jpg" xml:id="n398.099157"/>
+</surface>
+<surface n="fol. 28v" xml:id="n398.099158"><graphic url="master/W835_000058_820.tif" xml:id="n398.099159"/>
+<graphic url="300/W835_000058_300.tif" xml:id="n398.099160"/>
+<graphic url="sap/W835_000058_sap.jpg" xml:id="n398.099161"/>
+<graphic url="thumb/W835_000058_thumb.jpg" xml:id="n398.099162"/>
+</surface>
+<surface n="29r, curtain closed" xml:id="n398.099163"><graphic url="master/W835_000267_600.tif" xml:id="n398.099164"/>
+<graphic url="300/W835_000267_300.tif" xml:id="n398.099165"/>
+<graphic url="sap/W835_000267_sap.jpg" xml:id="n398.099166"/>
+<graphic url="thumb/W835_000267_thumb.jpg" xml:id="n398.099167"/>
+</surface>
+<surface n="fol. 29r" xml:id="n398.099168"><graphic url="master/W835_000059_820.tif" xml:id="n398.099169"/>
+<graphic url="300/W835_000059_300.tif" xml:id="n398.099170"/>
+<graphic url="sap/W835_000059_sap.jpg" xml:id="n398.099171"/>
+<graphic url="thumb/W835_000059_thumb.jpg" xml:id="n398.099172"/>
+</surface>
+<surface n="fol. 29v" xml:id="n398.099173"><graphic url="master/W835_000060_600.tif" xml:id="n398.099174"/>
+<graphic url="300/W835_000060_300.tif" xml:id="n398.099175"/>
+<graphic url="sap/W835_000060_sap.jpg" xml:id="n398.099176"/>
+<graphic url="thumb/W835_000060_thumb.jpg" xml:id="n398.099177"/>
+</surface>
+<surface n="fol. 30r" xml:id="n398.099178"><graphic url="master/W835_000061_600.tif" xml:id="n398.099179"/>
+<graphic url="300/W835_000061_300.tif" xml:id="n398.099180"/>
+<graphic url="sap/W835_000061_sap.jpg" xml:id="n398.099181"/>
+<graphic url="thumb/W835_000061_thumb.jpg" xml:id="n398.099182"/>
+</surface>
+<surface n="fol. 30v" xml:id="n398.099183"><graphic url="master/W835_000062_600.tif" xml:id="n398.099184"/>
+<graphic url="300/W835_000062_300.tif" xml:id="n398.099185"/>
+<graphic url="sap/W835_000062_sap.jpg" xml:id="n398.099186"/>
+<graphic url="thumb/W835_000062_thumb.jpg" xml:id="n398.099187"/>
+</surface>
+<surface n="fol. 31r" xml:id="n398.099188"><graphic url="master/W835_000063_600.tif" xml:id="n398.099189"/>
+<graphic url="300/W835_000063_300.tif" xml:id="n398.099190"/>
+<graphic url="sap/W835_000063_sap.jpg" xml:id="n398.099191"/>
+<graphic url="thumb/W835_000063_thumb.jpg" xml:id="n398.099192"/>
+</surface>
+<surface n="fol. 31v" xml:id="n398.099193"><graphic url="master/W835_000064_600.tif" xml:id="n398.099194"/>
+<graphic url="300/W835_000064_300.tif" xml:id="n398.099195"/>
+<graphic url="sap/W835_000064_sap.jpg" xml:id="n398.099196"/>
+<graphic url="thumb/W835_000064_thumb.jpg" xml:id="n398.099197"/>
+</surface>
+<surface n="fol. 32r" xml:id="n398.099198"><graphic url="master/W835_000065_600.tif" xml:id="n398.099199"/>
+<graphic url="300/W835_000065_300.tif" xml:id="n398.099200"/>
+<graphic url="sap/W835_000065_sap.jpg" xml:id="n398.099201"/>
+<graphic url="thumb/W835_000065_thumb.jpg" xml:id="n398.099202"/>
+</surface>
+<surface n="32v, curtain closed" xml:id="n398.099203"><graphic url="master/W835_000268_600.tif" xml:id="n398.099204"/>
+<graphic url="300/W835_000268_300.tif" xml:id="n398.099205"/>
+<graphic url="sap/W835_000268_sap.jpg" xml:id="n398.099206"/>
+<graphic url="thumb/W835_000268_thumb.jpg" xml:id="n398.099207"/>
+</surface>
+<surface n="fol. 32v" xml:id="n398.099208"><graphic url="master/W835_000066_820.tif" xml:id="n398.099209"/>
+<graphic url="300/W835_000066_300.tif" xml:id="n398.099210"/>
+<graphic url="sap/W835_000066_sap.jpg" xml:id="n398.099211"/>
+<graphic url="thumb/W835_000066_thumb.jpg" xml:id="n398.099212"/>
+</surface>
+<surface n="fol. 33r" xml:id="n398.099213"><graphic url="master/W835_000067_820.tif" xml:id="n398.099214"/>
+<graphic url="300/W835_000067_300.tif" xml:id="n398.099215"/>
+<graphic url="sap/W835_000067_sap.jpg" xml:id="n398.099216"/>
+<graphic url="thumb/W835_000067_thumb.jpg" xml:id="n398.099217"/>
+</surface>
+<surface n="33v, curtain closed" xml:id="n398.099218"><graphic url="master/W835_000269_600.tif" xml:id="n398.099219"/>
+<graphic url="300/W835_000269_300.tif" xml:id="n398.099220"/>
+<graphic url="sap/W835_000269_sap.jpg" xml:id="n398.099221"/>
+<graphic url="thumb/W835_000269_thumb.jpg" xml:id="n398.099222"/>
+</surface>
+<surface n="fol. 33v" xml:id="n398.099223"><graphic url="master/W835_000068_820.tif" xml:id="n398.099224"/>
+<graphic url="300/W835_000068_300.tif" xml:id="n398.099225"/>
+<graphic url="sap/W835_000068_sap.jpg" xml:id="n398.099226"/>
+<graphic url="thumb/W835_000068_thumb.jpg" xml:id="n398.099227"/>
+</surface>
+<surface n="fol. 34r" xml:id="n398.099228"><graphic url="master/W835_000069_820.tif" xml:id="n398.099229"/>
+<graphic url="300/W835_000069_300.tif" xml:id="n398.099230"/>
+<graphic url="sap/W835_000069_sap.jpg" xml:id="n398.099231"/>
+<graphic url="thumb/W835_000069_thumb.jpg" xml:id="n398.099232"/>
+</surface>
+<surface n="fol. 34v" xml:id="n398.099233"><graphic url="master/W835_000070_600.tif" xml:id="n398.099234"/>
+<graphic url="300/W835_000070_300.tif" xml:id="n398.099235"/>
+<graphic url="sap/W835_000070_sap.jpg" xml:id="n398.099236"/>
+<graphic url="thumb/W835_000070_thumb.jpg" xml:id="n398.099237"/>
+</surface>
+<surface n="fol. 35r" xml:id="n398.099238"><graphic url="master/W835_000071_600.tif" xml:id="n398.099239"/>
+<graphic url="300/W835_000071_300.tif" xml:id="n398.099240"/>
+<graphic url="sap/W835_000071_sap.jpg" xml:id="n398.099241"/>
+<graphic url="thumb/W835_000071_thumb.jpg" xml:id="n398.099242"/>
+</surface>
+<surface n="fol. 35v" xml:id="n398.099243"><graphic url="master/W835_000072_600.tif" xml:id="n398.099244"/>
+<graphic url="300/W835_000072_300.tif" xml:id="n398.099245"/>
+<graphic url="sap/W835_000072_sap.jpg" xml:id="n398.099246"/>
+<graphic url="thumb/W835_000072_thumb.jpg" xml:id="n398.099247"/>
+</surface>
+<surface n="fol. 36r" xml:id="n398.099248"><graphic url="master/W835_000073_600.tif" xml:id="n398.099249"/>
+<graphic url="300/W835_000073_300.tif" xml:id="n398.099250"/>
+<graphic url="sap/W835_000073_sap.jpg" xml:id="n398.099251"/>
+<graphic url="thumb/W835_000073_thumb.jpg" xml:id="n398.099252"/>
+</surface>
+<surface n="fol. 36v" xml:id="n398.099253"><graphic url="master/W835_000074_600.tif" xml:id="n398.099254"/>
+<graphic url="300/W835_000074_300.tif" xml:id="n398.099255"/>
+<graphic url="sap/W835_000074_sap.jpg" xml:id="n398.099256"/>
+<graphic url="thumb/W835_000074_thumb.jpg" xml:id="n398.099257"/>
+</surface>
+<surface n="fol. 37r" xml:id="n398.099258"><graphic url="master/W835_000075_600.tif" xml:id="n398.099259"/>
+<graphic url="300/W835_000075_300.tif" xml:id="n398.099260"/>
+<graphic url="sap/W835_000075_sap.jpg" xml:id="n398.099261"/>
+<graphic url="thumb/W835_000075_thumb.jpg" xml:id="n398.099262"/>
+</surface>
+<surface n="fol. 37v" xml:id="n398.099263"><graphic url="master/W835_000076_600.tif" xml:id="n398.099264"/>
+<graphic url="300/W835_000076_300.tif" xml:id="n398.099265"/>
+<graphic url="sap/W835_000076_sap.jpg" xml:id="n398.099266"/>
+<graphic url="thumb/W835_000076_thumb.jpg" xml:id="n398.099267"/>
+</surface>
+<surface n="fol. 38r" xml:id="n398.099268"><graphic url="master/W835_000077_600.tif" xml:id="n398.099269"/>
+<graphic url="300/W835_000077_300.tif" xml:id="n398.099270"/>
+<graphic url="sap/W835_000077_sap.jpg" xml:id="n398.099271"/>
+<graphic url="thumb/W835_000077_thumb.jpg" xml:id="n398.099272"/>
+</surface>
+<surface n="fol. 38v" xml:id="n398.099273"><graphic url="master/W835_000078_600.tif" xml:id="n398.099274"/>
+<graphic url="300/W835_000078_300.tif" xml:id="n398.099275"/>
+<graphic url="sap/W835_000078_sap.jpg" xml:id="n398.099276"/>
+<graphic url="thumb/W835_000078_thumb.jpg" xml:id="n398.099277"/>
+</surface>
+<surface n="fol. 39r" xml:id="n398.099278"><graphic url="master/W835_000079_600.tif" xml:id="n398.099279"/>
+<graphic url="300/W835_000079_300.tif" xml:id="n398.099280"/>
+<graphic url="sap/W835_000079_sap.jpg" xml:id="n398.099281"/>
+<graphic url="thumb/W835_000079_thumb.jpg" xml:id="n398.099282"/>
+</surface>
+<surface n="fol. 39v" xml:id="n398.099283"><graphic url="master/W835_000080_600.tif" xml:id="n398.099284"/>
+<graphic url="300/W835_000080_300.tif" xml:id="n398.099285"/>
+<graphic url="sap/W835_000080_sap.jpg" xml:id="n398.099286"/>
+<graphic url="thumb/W835_000080_thumb.jpg" xml:id="n398.099287"/>
+</surface>
+<surface n="fol. 40r" xml:id="n398.099288"><graphic url="master/W835_000081_600.tif" xml:id="n398.099289"/>
+<graphic url="300/W835_000081_300.tif" xml:id="n398.099290"/>
+<graphic url="sap/W835_000081_sap.jpg" xml:id="n398.099291"/>
+<graphic url="thumb/W835_000081_thumb.jpg" xml:id="n398.099292"/>
+</surface>
+<surface n="fol. 40v" xml:id="n398.099293"><graphic url="master/W835_000082_600.tif" xml:id="n398.099294"/>
+<graphic url="300/W835_000082_300.tif" xml:id="n398.099295"/>
+<graphic url="sap/W835_000082_sap.jpg" xml:id="n398.099296"/>
+<graphic url="thumb/W835_000082_thumb.jpg" xml:id="n398.099297"/>
+</surface>
+<surface n="fol. 41r" xml:id="n398.099298"><graphic url="master/W835_000083_600.tif" xml:id="n398.099299"/>
+<graphic url="300/W835_000083_300.tif" xml:id="n398.099300"/>
+<graphic url="sap/W835_000083_sap.jpg" xml:id="n398.099301"/>
+<graphic url="thumb/W835_000083_thumb.jpg" xml:id="n398.099302"/>
+</surface>
+<surface n="fol. 41v" xml:id="n398.099303"><graphic url="master/W835_000084_600.tif" xml:id="n398.099304"/>
+<graphic url="300/W835_000084_300.tif" xml:id="n398.099305"/>
+<graphic url="sap/W835_000084_sap.jpg" xml:id="n398.099306"/>
+<graphic url="thumb/W835_000084_thumb.jpg" xml:id="n398.099307"/>
+</surface>
+<surface n="fol. 42r" xml:id="n398.099308"><graphic url="master/W835_000085_600.tif" xml:id="n398.099309"/>
+<graphic url="300/W835_000085_300.tif" xml:id="n398.099310"/>
+<graphic url="sap/W835_000085_sap.jpg" xml:id="n398.099311"/>
+<graphic url="thumb/W835_000085_thumb.jpg" xml:id="n398.099312"/>
+</surface>
+<surface n="fol. 42v" xml:id="n398.099313"><graphic url="master/W835_000086_600.tif" xml:id="n398.099314"/>
+<graphic url="300/W835_000086_300.tif" xml:id="n398.099315"/>
+<graphic url="sap/W835_000086_sap.jpg" xml:id="n398.099316"/>
+<graphic url="thumb/W835_000086_thumb.jpg" xml:id="n398.099317"/>
+</surface>
+<surface n="fol. 43r" xml:id="n398.099318"><graphic url="master/W835_000087_600.tif" xml:id="n398.099319"/>
+<graphic url="300/W835_000087_300.tif" xml:id="n398.099320"/>
+<graphic url="sap/W835_000087_sap.jpg" xml:id="n398.099321"/>
+<graphic url="thumb/W835_000087_thumb.jpg" xml:id="n398.099322"/>
+</surface>
+<surface n="fol. 43v" xml:id="n398.099323"><graphic url="master/W835_000088_600.tif" xml:id="n398.099324"/>
+<graphic url="300/W835_000088_300.tif" xml:id="n398.099325"/>
+<graphic url="sap/W835_000088_sap.jpg" xml:id="n398.099326"/>
+<graphic url="thumb/W835_000088_thumb.jpg" xml:id="n398.099327"/>
+</surface>
+<surface n="fol. 44r" xml:id="n398.099328"><graphic url="master/W835_000089_600.tif" xml:id="n398.099329"/>
+<graphic url="300/W835_000089_300.tif" xml:id="n398.099330"/>
+<graphic url="sap/W835_000089_sap.jpg" xml:id="n398.099331"/>
+<graphic url="thumb/W835_000089_thumb.jpg" xml:id="n398.099332"/>
+</surface>
+<surface n="fol. 44v" xml:id="n398.099333"><graphic url="master/W835_000090_600.tif" xml:id="n398.099334"/>
+<graphic url="300/W835_000090_300.tif" xml:id="n398.099335"/>
+<graphic url="sap/W835_000090_sap.jpg" xml:id="n398.099336"/>
+<graphic url="thumb/W835_000090_thumb.jpg" xml:id="n398.099337"/>
+</surface>
+<surface n="fol. 45r" xml:id="n398.099338"><graphic url="master/W835_000091_600.tif" xml:id="n398.099339"/>
+<graphic url="300/W835_000091_300.tif" xml:id="n398.099340"/>
+<graphic url="sap/W835_000091_sap.jpg" xml:id="n398.099341"/>
+<graphic url="thumb/W835_000091_thumb.jpg" xml:id="n398.099342"/>
+</surface>
+<surface n="fol. 45v" xml:id="n398.099343"><graphic url="master/W835_000092_600.tif" xml:id="n398.099344"/>
+<graphic url="300/W835_000092_300.tif" xml:id="n398.099345"/>
+<graphic url="sap/W835_000092_sap.jpg" xml:id="n398.099346"/>
+<graphic url="thumb/W835_000092_thumb.jpg" xml:id="n398.099347"/>
+</surface>
+<surface n="fol. 46r" xml:id="n398.099348"><graphic url="master/W835_000093_600.tif" xml:id="n398.099349"/>
+<graphic url="300/W835_000093_300.tif" xml:id="n398.099350"/>
+<graphic url="sap/W835_000093_sap.jpg" xml:id="n398.099351"/>
+<graphic url="thumb/W835_000093_thumb.jpg" xml:id="n398.099352"/>
+</surface>
+<surface n="fol. 46v" xml:id="n398.099353"><graphic url="master/W835_000094_600.tif" xml:id="n398.099354"/>
+<graphic url="300/W835_000094_300.tif" xml:id="n398.099355"/>
+<graphic url="sap/W835_000094_sap.jpg" xml:id="n398.099356"/>
+<graphic url="thumb/W835_000094_thumb.jpg" xml:id="n398.099357"/>
+</surface>
+<surface n="fol. 47r" xml:id="n398.099358"><graphic url="master/W835_000095_600.tif" xml:id="n398.099359"/>
+<graphic url="300/W835_000095_300.tif" xml:id="n398.099360"/>
+<graphic url="sap/W835_000095_sap.jpg" xml:id="n398.099361"/>
+<graphic url="thumb/W835_000095_thumb.jpg" xml:id="n398.099362"/>
+</surface>
+<surface n="fol. 47v" xml:id="n398.099363"><graphic url="master/W835_000096_600.tif" xml:id="n398.099364"/>
+<graphic url="300/W835_000096_300.tif" xml:id="n398.099365"/>
+<graphic url="sap/W835_000096_sap.jpg" xml:id="n398.099366"/>
+<graphic url="thumb/W835_000096_thumb.jpg" xml:id="n398.099367"/>
+</surface>
+<surface n="fol. 48r" xml:id="n398.099368"><graphic url="master/W835_000097_600.tif" xml:id="n398.099369"/>
+<graphic url="300/W835_000097_300.tif" xml:id="n398.099370"/>
+<graphic url="sap/W835_000097_sap.jpg" xml:id="n398.099371"/>
+<graphic url="thumb/W835_000097_thumb.jpg" xml:id="n398.099372"/>
+</surface>
+<surface n="fol. 48v" xml:id="n398.099373"><graphic url="master/W835_000098_600.tif" xml:id="n398.099374"/>
+<graphic url="300/W835_000098_300.tif" xml:id="n398.099375"/>
+<graphic url="sap/W835_000098_sap.jpg" xml:id="n398.099376"/>
+<graphic url="thumb/W835_000098_thumb.jpg" xml:id="n398.099377"/>
+</surface>
+<surface n="fol. 49r" xml:id="n398.099378"><graphic url="master/W835_000099_600.tif" xml:id="n398.099379"/>
+<graphic url="300/W835_000099_300.tif" xml:id="n398.099380"/>
+<graphic url="sap/W835_000099_sap.jpg" xml:id="n398.099381"/>
+<graphic url="thumb/W835_000099_thumb.jpg" xml:id="n398.099382"/>
+</surface>
+<surface n="fol. 49v" xml:id="n398.099383"><graphic url="master/W835_000100_600.tif" xml:id="n398.099384"/>
+<graphic url="300/W835_000100_300.tif" xml:id="n398.099385"/>
+<graphic url="sap/W835_000100_sap.jpg" xml:id="n398.099386"/>
+<graphic url="thumb/W835_000100_thumb.jpg" xml:id="n398.099387"/>
+</surface>
+<surface n="fol. 50r" xml:id="n398.099388"><graphic url="master/W835_000101_600.tif" xml:id="n398.099389"/>
+<graphic url="300/W835_000101_300.tif" xml:id="n398.099390"/>
+<graphic url="sap/W835_000101_sap.jpg" xml:id="n398.099391"/>
+<graphic url="thumb/W835_000101_thumb.jpg" xml:id="n398.099392"/>
+</surface>
+<surface n="fol. 50v" xml:id="n398.099393"><graphic url="master/W835_000102_600.tif" xml:id="n398.099394"/>
+<graphic url="300/W835_000102_300.tif" xml:id="n398.099395"/>
+<graphic url="sap/W835_000102_sap.jpg" xml:id="n398.099396"/>
+<graphic url="thumb/W835_000102_thumb.jpg" xml:id="n398.099397"/>
+</surface>
+<surface n="fol. 51r" xml:id="n398.099398"><graphic url="master/W835_000103_600.tif" xml:id="n398.099399"/>
+<graphic url="300/W835_000103_300.tif" xml:id="n398.099400"/>
+<graphic url="sap/W835_000103_sap.jpg" xml:id="n398.099401"/>
+<graphic url="thumb/W835_000103_thumb.jpg" xml:id="n398.099402"/>
+</surface>
+<surface n="51v, curtain closed" xml:id="n398.099403"><graphic url="master/W835_000270_600.tif" xml:id="n398.099404"/>
+<graphic url="300/W835_000270_300.tif" xml:id="n398.099405"/>
+<graphic url="sap/W835_000270_sap.jpg" xml:id="n398.099406"/>
+<graphic url="thumb/W835_000270_thumb.jpg" xml:id="n398.099407"/>
+</surface>
+<surface n="fol. 51v" xml:id="n398.099408"><graphic url="master/W835_000104_820.tif" xml:id="n398.099409"/>
+<graphic url="300/W835_000104_300.tif" xml:id="n398.099410"/>
+<graphic url="sap/W835_000104_sap.jpg" xml:id="n398.099411"/>
+<graphic url="thumb/W835_000104_thumb.jpg" xml:id="n398.099412"/>
+</surface>
+<surface n="fol. 52r" xml:id="n398.099413"><graphic url="master/W835_000105_820.tif" xml:id="n398.099414"/>
+<graphic url="300/W835_000105_300.tif" xml:id="n398.099415"/>
+<graphic url="sap/W835_000105_sap.jpg" xml:id="n398.099416"/>
+<graphic url="thumb/W835_000105_thumb.jpg" xml:id="n398.099417"/>
+</surface>
+<surface n="fol. 52v" xml:id="n398.099418"><graphic url="master/W835_000106_600.tif" xml:id="n398.099419"/>
+<graphic url="300/W835_000106_300.tif" xml:id="n398.099420"/>
+<graphic url="sap/W835_000106_sap.jpg" xml:id="n398.099421"/>
+<graphic url="thumb/W835_000106_thumb.jpg" xml:id="n398.099422"/>
+</surface>
+<surface n="fol. 53r" xml:id="n398.099423"><graphic url="master/W835_000107_600.tif" xml:id="n398.099424"/>
+<graphic url="300/W835_000107_300.tif" xml:id="n398.099425"/>
+<graphic url="sap/W835_000107_sap.jpg" xml:id="n398.099426"/>
+<graphic url="thumb/W835_000107_thumb.jpg" xml:id="n398.099427"/>
+</surface>
+<surface n="fol. 53v" xml:id="n398.099428"><graphic url="master/W835_000108_600.tif" xml:id="n398.099429"/>
+<graphic url="300/W835_000108_300.tif" xml:id="n398.099430"/>
+<graphic url="sap/W835_000108_sap.jpg" xml:id="n398.099431"/>
+<graphic url="thumb/W835_000108_thumb.jpg" xml:id="n398.099432"/>
+</surface>
+<surface n="fol. 54r" xml:id="n398.099433"><graphic url="master/W835_000109_600.tif" xml:id="n398.099434"/>
+<graphic url="300/W835_000109_300.tif" xml:id="n398.099435"/>
+<graphic url="sap/W835_000109_sap.jpg" xml:id="n398.099436"/>
+<graphic url="thumb/W835_000109_thumb.jpg" xml:id="n398.099437"/>
+</surface>
+<surface n="fol. 54v" xml:id="n398.099438"><graphic url="master/W835_000110_600.tif" xml:id="n398.099439"/>
+<graphic url="300/W835_000110_300.tif" xml:id="n398.099440"/>
+<graphic url="sap/W835_000110_sap.jpg" xml:id="n398.099441"/>
+<graphic url="thumb/W835_000110_thumb.jpg" xml:id="n398.099442"/>
+</surface>
+<surface n="fol. 55r" xml:id="n398.099443"><graphic url="master/W835_000111_600.tif" xml:id="n398.099444"/>
+<graphic url="300/W835_000111_300.tif" xml:id="n398.099445"/>
+<graphic url="sap/W835_000111_sap.jpg" xml:id="n398.099446"/>
+<graphic url="thumb/W835_000111_thumb.jpg" xml:id="n398.099447"/>
+</surface>
+<surface n="fol. 55v" xml:id="n398.099448"><graphic url="master/W835_000112_600.tif" xml:id="n398.099449"/>
+<graphic url="300/W835_000112_300.tif" xml:id="n398.099450"/>
+<graphic url="sap/W835_000112_sap.jpg" xml:id="n398.099451"/>
+<graphic url="thumb/W835_000112_thumb.jpg" xml:id="n398.099452"/>
+</surface>
+<surface n="fol. 56r" xml:id="n398.099453"><graphic url="master/W835_000113_600.tif" xml:id="n398.099454"/>
+<graphic url="300/W835_000113_300.tif" xml:id="n398.099455"/>
+<graphic url="sap/W835_000113_sap.jpg" xml:id="n398.099456"/>
+<graphic url="thumb/W835_000113_thumb.jpg" xml:id="n398.099457"/>
+</surface>
+<surface n="fol. 56v" xml:id="n398.099458"><graphic url="master/W835_000114_600.tif" xml:id="n398.099459"/>
+<graphic url="300/W835_000114_300.tif" xml:id="n398.099460"/>
+<graphic url="sap/W835_000114_sap.jpg" xml:id="n398.099461"/>
+<graphic url="thumb/W835_000114_thumb.jpg" xml:id="n398.099462"/>
+</surface>
+<surface n="fol. 57r" xml:id="n398.099463"><graphic url="master/W835_000115_600.tif" xml:id="n398.099464"/>
+<graphic url="300/W835_000115_300.tif" xml:id="n398.099465"/>
+<graphic url="sap/W835_000115_sap.jpg" xml:id="n398.099466"/>
+<graphic url="thumb/W835_000115_thumb.jpg" xml:id="n398.099467"/>
+</surface>
+<surface n="fol. 57v" xml:id="n398.099468"><graphic url="master/W835_000116_600.tif" xml:id="n398.099469"/>
+<graphic url="300/W835_000116_300.tif" xml:id="n398.099470"/>
+<graphic url="sap/W835_000116_sap.jpg" xml:id="n398.099471"/>
+<graphic url="thumb/W835_000116_thumb.jpg" xml:id="n398.099472"/>
+</surface>
+<surface n="fol. 58r" xml:id="n398.099473"><graphic url="master/W835_000117_600.tif" xml:id="n398.099474"/>
+<graphic url="300/W835_000117_300.tif" xml:id="n398.099475"/>
+<graphic url="sap/W835_000117_sap.jpg" xml:id="n398.099476"/>
+<graphic url="thumb/W835_000117_thumb.jpg" xml:id="n398.099477"/>
+</surface>
+<surface n="58v, curtain closed" xml:id="n398.099478"><graphic url="master/W835_000271_600.tif" xml:id="n398.099479"/>
+<graphic url="300/W835_000271_300.tif" xml:id="n398.099480"/>
+<graphic url="sap/W835_000271_sap.jpg" xml:id="n398.099481"/>
+<graphic url="thumb/W835_000271_thumb.jpg" xml:id="n398.099482"/>
+</surface>
+<surface n="fol. 58v" xml:id="n398.099483"><graphic url="master/W835_000118_820.tif" xml:id="n398.099484"/>
+<graphic url="300/W835_000118_300.tif" xml:id="n398.099485"/>
+<graphic url="sap/W835_000118_sap.jpg" xml:id="n398.099486"/>
+<graphic url="thumb/W835_000118_thumb.jpg" xml:id="n398.099487"/>
+</surface>
+<surface n="fol. 59r" xml:id="n398.099488"><graphic url="master/W835_000119_820.tif" xml:id="n398.099489"/>
+<graphic url="300/W835_000119_300.tif" xml:id="n398.099490"/>
+<graphic url="sap/W835_000119_sap.jpg" xml:id="n398.099491"/>
+<graphic url="thumb/W835_000119_thumb.jpg" xml:id="n398.099492"/>
+</surface>
+<surface n="59v, curtain closed" xml:id="n398.099493"><graphic url="master/W835_000272_600.tif" xml:id="n398.099494"/>
+<graphic url="300/W835_000272_300.tif" xml:id="n398.099495"/>
+<graphic url="sap/W835_000272_sap.jpg" xml:id="n398.099496"/>
+<graphic url="thumb/W835_000272_thumb.jpg" xml:id="n398.099497"/>
+</surface>
+<surface n="fol. 59v" xml:id="n398.099498"><graphic url="master/W835_000120_820.tif" xml:id="n398.099499"/>
+<graphic url="300/W835_000120_300.tif" xml:id="n398.099500"/>
+<graphic url="sap/W835_000120_sap.jpg" xml:id="n398.099501"/>
+<graphic url="thumb/W835_000120_thumb.jpg" xml:id="n398.099502"/>
+</surface>
+<surface n="fol. 60r" xml:id="n398.099503"><graphic url="master/W835_000121_820.tif" xml:id="n398.099504"/>
+<graphic url="300/W835_000121_300.tif" xml:id="n398.099505"/>
+<graphic url="sap/W835_000121_sap.jpg" xml:id="n398.099506"/>
+<graphic url="thumb/W835_000121_thumb.jpg" xml:id="n398.099507"/>
+</surface>
+<surface n="60v, curtain closed" xml:id="n398.099508"><graphic url="master/W835_000273_600.tif" xml:id="n398.099509"/>
+<graphic url="300/W835_000273_300.tif" xml:id="n398.099510"/>
+<graphic url="sap/W835_000273_sap.jpg" xml:id="n398.099511"/>
+<graphic url="thumb/W835_000273_thumb.jpg" xml:id="n398.099512"/>
+</surface>
+<surface n="fol. 60v" xml:id="n398.099513"><graphic url="master/W835_000122_820.tif" xml:id="n398.099514"/>
+<graphic url="300/W835_000122_300.tif" xml:id="n398.099515"/>
+<graphic url="sap/W835_000122_sap.jpg" xml:id="n398.099516"/>
+<graphic url="thumb/W835_000122_thumb.jpg" xml:id="n398.099517"/>
+</surface>
+<surface n="fol. 61r" xml:id="n398.099518"><graphic url="master/W835_000123_600.tif" xml:id="n398.099519"/>
+<graphic url="300/W835_000123_300.tif" xml:id="n398.099520"/>
+<graphic url="sap/W835_000123_sap.jpg" xml:id="n398.099521"/>
+<graphic url="thumb/W835_000123_thumb.jpg" xml:id="n398.099522"/>
+</surface>
+<surface n="fol. 61v" xml:id="n398.099523"><graphic url="master/W835_000124_600.tif" xml:id="n398.099524"/>
+<graphic url="300/W835_000124_300.tif" xml:id="n398.099525"/>
+<graphic url="sap/W835_000124_sap.jpg" xml:id="n398.099526"/>
+<graphic url="thumb/W835_000124_thumb.jpg" xml:id="n398.099527"/>
+</surface>
+<surface n="fol. 62r" xml:id="n398.099528"><graphic url="master/W835_000125_600.tif" xml:id="n398.099529"/>
+<graphic url="300/W835_000125_300.tif" xml:id="n398.099530"/>
+<graphic url="sap/W835_000125_sap.jpg" xml:id="n398.099531"/>
+<graphic url="thumb/W835_000125_thumb.jpg" xml:id="n398.099532"/>
+</surface>
+<surface n="fol. 62v" xml:id="n398.099533"><graphic url="master/W835_000126_600.tif" xml:id="n398.099534"/>
+<graphic url="300/W835_000126_300.tif" xml:id="n398.099535"/>
+<graphic url="sap/W835_000126_sap.jpg" xml:id="n398.099536"/>
+<graphic url="thumb/W835_000126_thumb.jpg" xml:id="n398.099537"/>
+</surface>
+<surface n="fol. 63r" xml:id="n398.099538"><graphic url="master/W835_000127_600.tif" xml:id="n398.099539"/>
+<graphic url="300/W835_000127_300.tif" xml:id="n398.099540"/>
+<graphic url="sap/W835_000127_sap.jpg" xml:id="n398.099541"/>
+<graphic url="thumb/W835_000127_thumb.jpg" xml:id="n398.099542"/>
+</surface>
+<surface n="63v, curtain closed" xml:id="n398.099543"><graphic url="master/W835_000274_600.tif" xml:id="n398.099544"/>
+<graphic url="300/W835_000274_300.tif" xml:id="n398.099545"/>
+<graphic url="sap/W835_000274_sap.jpg" xml:id="n398.099546"/>
+<graphic url="thumb/W835_000274_thumb.jpg" xml:id="n398.099547"/>
+</surface>
+<surface n="fol. 63v" xml:id="n398.099548"><graphic url="master/W835_000128_820.tif" xml:id="n398.099549"/>
+<graphic url="300/W835_000128_300.tif" xml:id="n398.099550"/>
+<graphic url="sap/W835_000128_sap.jpg" xml:id="n398.099551"/>
+<graphic url="thumb/W835_000128_thumb.jpg" xml:id="n398.099552"/>
+</surface>
+<surface n="fol. 64r" xml:id="n398.099553"><graphic url="master/W835_000129_600.tif" xml:id="n398.099554"/>
+<graphic url="300/W835_000129_300.tif" xml:id="n398.099555"/>
+<graphic url="sap/W835_000129_sap.jpg" xml:id="n398.099556"/>
+<graphic url="thumb/W835_000129_thumb.jpg" xml:id="n398.099557"/>
+</surface>
+<surface n="fol. 64v" xml:id="n398.099558"><graphic url="master/W835_000130_600.tif" xml:id="n398.099559"/>
+<graphic url="300/W835_000130_300.tif" xml:id="n398.099560"/>
+<graphic url="sap/W835_000130_sap.jpg" xml:id="n398.099561"/>
+<graphic url="thumb/W835_000130_thumb.jpg" xml:id="n398.099562"/>
+</surface>
+<surface n="fol. 65r" xml:id="n398.099563"><graphic url="master/W835_000131_600.tif" xml:id="n398.099564"/>
+<graphic url="300/W835_000131_300.tif" xml:id="n398.099565"/>
+<graphic url="sap/W835_000131_sap.jpg" xml:id="n398.099566"/>
+<graphic url="thumb/W835_000131_thumb.jpg" xml:id="n398.099567"/>
+</surface>
+<surface n="fol. 65v" xml:id="n398.099568"><graphic url="master/W835_000132_600.tif" xml:id="n398.099569"/>
+<graphic url="300/W835_000132_300.tif" xml:id="n398.099570"/>
+<graphic url="sap/W835_000132_sap.jpg" xml:id="n398.099571"/>
+<graphic url="thumb/W835_000132_thumb.jpg" xml:id="n398.099572"/>
+</surface>
+<surface n="fol. 66r" xml:id="n398.099573"><graphic url="master/W835_000133_600.tif" xml:id="n398.099574"/>
+<graphic url="300/W835_000133_300.tif" xml:id="n398.099575"/>
+<graphic url="sap/W835_000133_sap.jpg" xml:id="n398.099576"/>
+<graphic url="thumb/W835_000133_thumb.jpg" xml:id="n398.099577"/>
+</surface>
+<surface n="fol. 66v" xml:id="n398.099578"><graphic url="master/W835_000134_600.tif" xml:id="n398.099579"/>
+<graphic url="300/W835_000134_300.tif" xml:id="n398.099580"/>
+<graphic url="sap/W835_000134_sap.jpg" xml:id="n398.099581"/>
+<graphic url="thumb/W835_000134_thumb.jpg" xml:id="n398.099582"/>
+</surface>
+<surface n="fol. 67r" xml:id="n398.099583"><graphic url="master/W835_000135_600.tif" xml:id="n398.099584"/>
+<graphic url="300/W835_000135_300.tif" xml:id="n398.099585"/>
+<graphic url="sap/W835_000135_sap.jpg" xml:id="n398.099586"/>
+<graphic url="thumb/W835_000135_thumb.jpg" xml:id="n398.099587"/>
+</surface>
+<surface n="fol. 67v" xml:id="n398.099588"><graphic url="master/W835_000136_600.tif" xml:id="n398.099589"/>
+<graphic url="300/W835_000136_300.tif" xml:id="n398.099590"/>
+<graphic url="sap/W835_000136_sap.jpg" xml:id="n398.099591"/>
+<graphic url="thumb/W835_000136_thumb.jpg" xml:id="n398.099592"/>
+</surface>
+<surface n="fol. 68r" xml:id="n398.099593"><graphic url="master/W835_000137_600.tif" xml:id="n398.099594"/>
+<graphic url="300/W835_000137_300.tif" xml:id="n398.099595"/>
+<graphic url="sap/W835_000137_sap.jpg" xml:id="n398.099596"/>
+<graphic url="thumb/W835_000137_thumb.jpg" xml:id="n398.099597"/>
+</surface>
+<surface n="fol. 68v" xml:id="n398.099598"><graphic url="master/W835_000138_600.tif" xml:id="n398.099599"/>
+<graphic url="300/W835_000138_300.tif" xml:id="n398.099600"/>
+<graphic url="sap/W835_000138_sap.jpg" xml:id="n398.099601"/>
+<graphic url="thumb/W835_000138_thumb.jpg" xml:id="n398.099602"/>
+</surface>
+<surface n="fol. 69r" xml:id="n398.099603"><graphic url="master/W835_000139_600.tif" xml:id="n398.099604"/>
+<graphic url="300/W835_000139_300.tif" xml:id="n398.099605"/>
+<graphic url="sap/W835_000139_sap.jpg" xml:id="n398.099606"/>
+<graphic url="thumb/W835_000139_thumb.jpg" xml:id="n398.099607"/>
+</surface>
+<surface n="fol. 69v" xml:id="n398.099608"><graphic url="master/W835_000140_600.tif" xml:id="n398.099609"/>
+<graphic url="300/W835_000140_300.tif" xml:id="n398.099610"/>
+<graphic url="sap/W835_000140_sap.jpg" xml:id="n398.099611"/>
+<graphic url="thumb/W835_000140_thumb.jpg" xml:id="n398.099612"/>
+</surface>
+<surface n="fol. 70r" xml:id="n398.099613"><graphic url="master/W835_000141_600.tif" xml:id="n398.099614"/>
+<graphic url="300/W835_000141_300.tif" xml:id="n398.099615"/>
+<graphic url="sap/W835_000141_sap.jpg" xml:id="n398.099616"/>
+<graphic url="thumb/W835_000141_thumb.jpg" xml:id="n398.099617"/>
+</surface>
+<surface n="fol. 70v" xml:id="n398.099618"><graphic url="master/W835_000142_600.tif" xml:id="n398.099619"/>
+<graphic url="300/W835_000142_300.tif" xml:id="n398.099620"/>
+<graphic url="sap/W835_000142_sap.jpg" xml:id="n398.099621"/>
+<graphic url="thumb/W835_000142_thumb.jpg" xml:id="n398.099622"/>
+</surface>
+<surface n="fol. 71r" xml:id="n398.099623"><graphic url="master/W835_000143_600.tif" xml:id="n398.099624"/>
+<graphic url="300/W835_000143_300.tif" xml:id="n398.099625"/>
+<graphic url="sap/W835_000143_sap.jpg" xml:id="n398.099626"/>
+<graphic url="thumb/W835_000143_thumb.jpg" xml:id="n398.099627"/>
+</surface>
+<surface n="fol. 71v" xml:id="n398.099628"><graphic url="master/W835_000144_600.tif" xml:id="n398.099629"/>
+<graphic url="300/W835_000144_300.tif" xml:id="n398.099630"/>
+<graphic url="sap/W835_000144_sap.jpg" xml:id="n398.099631"/>
+<graphic url="thumb/W835_000144_thumb.jpg" xml:id="n398.099632"/>
+</surface>
+<surface n="72r, curtain closed" xml:id="n398.099633"><graphic url="master/W835_000275_600.tif" xml:id="n398.099634"/>
+<graphic url="300/W835_000275_300.tif" xml:id="n398.099635"/>
+<graphic url="sap/W835_000275_sap.jpg" xml:id="n398.099636"/>
+<graphic url="thumb/W835_000275_thumb.jpg" xml:id="n398.099637"/>
+</surface>
+<surface n="fol. 72r" xml:id="n398.099638"><graphic url="master/W835_000145_820.tif" xml:id="n398.099639"/>
+<graphic url="300/W835_000145_300.tif" xml:id="n398.099640"/>
+<graphic url="sap/W835_000145_sap.jpg" xml:id="n398.099641"/>
+<graphic url="thumb/W835_000145_thumb.jpg" xml:id="n398.099642"/>
+</surface>
+<surface n="fol. 72v" xml:id="n398.099643"><graphic url="master/W835_000146_820.tif" xml:id="n398.099644"/>
+<graphic url="300/W835_000146_300.tif" xml:id="n398.099645"/>
+<graphic url="sap/W835_000146_sap.jpg" xml:id="n398.099646"/>
+<graphic url="thumb/W835_000146_thumb.jpg" xml:id="n398.099647"/>
+</surface>
+<surface n="73r, curtain closed" xml:id="n398.099648"><graphic url="master/W835_000276_600.tif" xml:id="n398.099649"/>
+<graphic url="300/W835_000276_300.tif" xml:id="n398.099650"/>
+<graphic url="sap/W835_000276_sap.jpg" xml:id="n398.099651"/>
+<graphic url="thumb/W835_000276_thumb.jpg" xml:id="n398.099652"/>
+</surface>
+<surface n="fol. 73r" xml:id="n398.099653"><graphic url="master/W835_000147_820.tif" xml:id="n398.099654"/>
+<graphic url="300/W835_000147_300.tif" xml:id="n398.099655"/>
+<graphic url="sap/W835_000147_sap.jpg" xml:id="n398.099656"/>
+<graphic url="thumb/W835_000147_thumb.jpg" xml:id="n398.099657"/>
+</surface>
+<surface n="fol. 73v" xml:id="n398.099658"><graphic url="master/W835_000148_600.tif" xml:id="n398.099659"/>
+<graphic url="300/W835_000148_300.tif" xml:id="n398.099660"/>
+<graphic url="sap/W835_000148_sap.jpg" xml:id="n398.099661"/>
+<graphic url="thumb/W835_000148_thumb.jpg" xml:id="n398.099662"/>
+</surface>
+<surface n="fol. 74r" xml:id="n398.099663"><graphic url="master/W835_000149_600.tif" xml:id="n398.099664"/>
+<graphic url="300/W835_000149_300.tif" xml:id="n398.099665"/>
+<graphic url="sap/W835_000149_sap.jpg" xml:id="n398.099666"/>
+<graphic url="thumb/W835_000149_thumb.jpg" xml:id="n398.099667"/>
+</surface>
+<surface n="fol. 74v" xml:id="n398.099668"><graphic url="master/W835_000150_600.tif" xml:id="n398.099669"/>
+<graphic url="300/W835_000150_300.tif" xml:id="n398.099670"/>
+<graphic url="sap/W835_000150_sap.jpg" xml:id="n398.099671"/>
+<graphic url="thumb/W835_000150_thumb.jpg" xml:id="n398.099672"/>
+</surface>
+<surface n="fol. 75r" xml:id="n398.099673"><graphic url="master/W835_000151_600.tif" xml:id="n398.099674"/>
+<graphic url="300/W835_000151_300.tif" xml:id="n398.099675"/>
+<graphic url="sap/W835_000151_sap.jpg" xml:id="n398.099676"/>
+<graphic url="thumb/W835_000151_thumb.jpg" xml:id="n398.099677"/>
+</surface>
+<surface n="fol. 75v" xml:id="n398.099678"><graphic url="master/W835_000152_600.tif" xml:id="n398.099679"/>
+<graphic url="300/W835_000152_300.tif" xml:id="n398.099680"/>
+<graphic url="sap/W835_000152_sap.jpg" xml:id="n398.099681"/>
+<graphic url="thumb/W835_000152_thumb.jpg" xml:id="n398.099682"/>
+</surface>
+<surface n="fol. 76r" xml:id="n398.099683"><graphic url="master/W835_000153_600.tif" xml:id="n398.099684"/>
+<graphic url="300/W835_000153_300.tif" xml:id="n398.099685"/>
+<graphic url="sap/W835_000153_sap.jpg" xml:id="n398.099686"/>
+<graphic url="thumb/W835_000153_thumb.jpg" xml:id="n398.099687"/>
+</surface>
+<surface n="fol. 76v" xml:id="n398.099688"><graphic url="master/W835_000154_600.tif" xml:id="n398.099689"/>
+<graphic url="300/W835_000154_300.tif" xml:id="n398.099690"/>
+<graphic url="sap/W835_000154_sap.jpg" xml:id="n398.099691"/>
+<graphic url="thumb/W835_000154_thumb.jpg" xml:id="n398.099692"/>
+</surface>
+<surface n="fol. 77r" xml:id="n398.099693"><graphic url="master/W835_000155_600.tif" xml:id="n398.099694"/>
+<graphic url="300/W835_000155_300.tif" xml:id="n398.099695"/>
+<graphic url="sap/W835_000155_sap.jpg" xml:id="n398.099696"/>
+<graphic url="thumb/W835_000155_thumb.jpg" xml:id="n398.099697"/>
+</surface>
+<surface n="fol. 77v" xml:id="n398.099698"><graphic url="master/W835_000156_600.tif" xml:id="n398.099699"/>
+<graphic url="300/W835_000156_300.tif" xml:id="n398.099700"/>
+<graphic url="sap/W835_000156_sap.jpg" xml:id="n398.099701"/>
+<graphic url="thumb/W835_000156_thumb.jpg" xml:id="n398.099702"/>
+</surface>
+<surface n="fol. 78r" xml:id="n398.099703"><graphic url="master/W835_000157_600.tif" xml:id="n398.099704"/>
+<graphic url="300/W835_000157_300.tif" xml:id="n398.099705"/>
+<graphic url="sap/W835_000157_sap.jpg" xml:id="n398.099706"/>
+<graphic url="thumb/W835_000157_thumb.jpg" xml:id="n398.099707"/>
+</surface>
+<surface n="78v, curtain closed" xml:id="n398.099708"><graphic url="master/W835_000277_600.tif" xml:id="n398.099709"/>
+<graphic url="300/W835_000277_300.tif" xml:id="n398.099710"/>
+<graphic url="sap/W835_000277_sap.jpg" xml:id="n398.099711"/>
+<graphic url="thumb/W835_000277_thumb.jpg" xml:id="n398.099712"/>
+</surface>
+<surface n="fol. 78v" xml:id="n398.099713"><graphic url="master/W835_000158_820.tif" xml:id="n398.099714"/>
+<graphic url="300/W835_000158_300.tif" xml:id="n398.099715"/>
+<graphic url="sap/W835_000158_sap.jpg" xml:id="n398.099716"/>
+<graphic url="thumb/W835_000158_thumb.jpg" xml:id="n398.099717"/>
+</surface>
+<surface n="fol. 79r" xml:id="n398.099718"><graphic url="master/W835_000159_820.tif" xml:id="n398.099719"/>
+<graphic url="300/W835_000159_300.tif" xml:id="n398.099720"/>
+<graphic url="sap/W835_000159_sap.jpg" xml:id="n398.099721"/>
+<graphic url="thumb/W835_000159_thumb.jpg" xml:id="n398.099722"/>
+</surface>
+<surface n="79v, curtain closed" xml:id="n398.099723"><graphic url="master/W835_000278_600.tif" xml:id="n398.099724"/>
+<graphic url="300/W835_000278_300.tif" xml:id="n398.099725"/>
+<graphic url="sap/W835_000278_sap.jpg" xml:id="n398.099726"/>
+<graphic url="thumb/W835_000278_thumb.jpg" xml:id="n398.099727"/>
+</surface>
+<surface n="fol. 79v" xml:id="n398.099728"><graphic url="master/W835_000160_820.tif" xml:id="n398.099729"/>
+<graphic url="300/W835_000160_300.tif" xml:id="n398.099730"/>
+<graphic url="sap/W835_000160_sap.jpg" xml:id="n398.099731"/>
+<graphic url="thumb/W835_000160_thumb.jpg" xml:id="n398.099732"/>
+</surface>
+<surface n="fol. 80r" xml:id="n398.099733"><graphic url="master/W835_000161_820.tif" xml:id="n398.099734"/>
+<graphic url="300/W835_000161_300.tif" xml:id="n398.099735"/>
+<graphic url="sap/W835_000161_sap.jpg" xml:id="n398.099736"/>
+<graphic url="thumb/W835_000161_thumb.jpg" xml:id="n398.099737"/>
+</surface>
+<surface n="fol. 80v" xml:id="n398.099738"><graphic url="master/W835_000162_600.tif" xml:id="n398.099739"/>
+<graphic url="300/W835_000162_300.tif" xml:id="n398.099740"/>
+<graphic url="sap/W835_000162_sap.jpg" xml:id="n398.099741"/>
+<graphic url="thumb/W835_000162_thumb.jpg" xml:id="n398.099742"/>
+</surface>
+<surface n="fol. 81r" xml:id="n398.099743"><graphic url="master/W835_000163_600.tif" xml:id="n398.099744"/>
+<graphic url="300/W835_000163_300.tif" xml:id="n398.099745"/>
+<graphic url="sap/W835_000163_sap.jpg" xml:id="n398.099746"/>
+<graphic url="thumb/W835_000163_thumb.jpg" xml:id="n398.099747"/>
+</surface>
+<surface n="fol. 81v" xml:id="n398.099748"><graphic url="master/W835_000164_600.tif" xml:id="n398.099749"/>
+<graphic url="300/W835_000164_300.tif" xml:id="n398.099750"/>
+<graphic url="sap/W835_000164_sap.jpg" xml:id="n398.099751"/>
+<graphic url="thumb/W835_000164_thumb.jpg" xml:id="n398.099752"/>
+</surface>
+<surface n="fol. 82r" xml:id="n398.099753"><graphic url="master/W835_000165_600.tif" xml:id="n398.099754"/>
+<graphic url="300/W835_000165_300.tif" xml:id="n398.099755"/>
+<graphic url="sap/W835_000165_sap.jpg" xml:id="n398.099756"/>
+<graphic url="thumb/W835_000165_thumb.jpg" xml:id="n398.099757"/>
+</surface>
+<surface n="fol. 82v" xml:id="n398.099758"><graphic url="master/W835_000166_600.tif" xml:id="n398.099759"/>
+<graphic url="300/W835_000166_300.tif" xml:id="n398.099760"/>
+<graphic url="sap/W835_000166_sap.jpg" xml:id="n398.099761"/>
+<graphic url="thumb/W835_000166_thumb.jpg" xml:id="n398.099762"/>
+</surface>
+<surface n="fol. 83r" xml:id="n398.099763"><graphic url="master/W835_000167_600.tif" xml:id="n398.099764"/>
+<graphic url="300/W835_000167_300.tif" xml:id="n398.099765"/>
+<graphic url="sap/W835_000167_sap.jpg" xml:id="n398.099766"/>
+<graphic url="thumb/W835_000167_thumb.jpg" xml:id="n398.099767"/>
+</surface>
+<surface n="fol. 83v" xml:id="n398.099768"><graphic url="master/W835_000168_600.tif" xml:id="n398.099769"/>
+<graphic url="300/W835_000168_300.tif" xml:id="n398.099770"/>
+<graphic url="sap/W835_000168_sap.jpg" xml:id="n398.099771"/>
+<graphic url="thumb/W835_000168_thumb.jpg" xml:id="n398.099772"/>
+</surface>
+<surface n="fol. 84r" xml:id="n398.099773"><graphic url="master/W835_000169_600.tif" xml:id="n398.099774"/>
+<graphic url="300/W835_000169_300.tif" xml:id="n398.099775"/>
+<graphic url="sap/W835_000169_sap.jpg" xml:id="n398.099776"/>
+<graphic url="thumb/W835_000169_thumb.jpg" xml:id="n398.099777"/>
+</surface>
+<surface n="84v, curtain closed" xml:id="n398.099778"><graphic url="master/W835_000279_600.tif" xml:id="n398.099779"/>
+<graphic url="300/W835_000279_300.tif" xml:id="n398.099780"/>
+<graphic url="sap/W835_000279_sap.jpg" xml:id="n398.099781"/>
+<graphic url="thumb/W835_000279_thumb.jpg" xml:id="n398.099782"/>
+</surface>
+<surface n="fol. 84v" xml:id="n398.099783"><graphic url="master/W835_000170_820.tif" xml:id="n398.099784"/>
+<graphic url="300/W835_000170_300.tif" xml:id="n398.099785"/>
+<graphic url="sap/W835_000170_sap.jpg" xml:id="n398.099786"/>
+<graphic url="thumb/W835_000170_thumb.jpg" xml:id="n398.099787"/>
+</surface>
+<surface n="fol. 85r" xml:id="n398.099788"><graphic url="master/W835_000171_820.tif" xml:id="n398.099789"/>
+<graphic url="300/W835_000171_300.tif" xml:id="n398.099790"/>
+<graphic url="sap/W835_000171_sap.jpg" xml:id="n398.099791"/>
+<graphic url="thumb/W835_000171_thumb.jpg" xml:id="n398.099792"/>
+</surface>
+<surface n="85v, curtain closed" xml:id="n398.099793"><graphic url="master/W835_000280_600.tif" xml:id="n398.099794"/>
+<graphic url="300/W835_000280_300.tif" xml:id="n398.099795"/>
+<graphic url="sap/W835_000280_sap.jpg" xml:id="n398.099796"/>
+<graphic url="thumb/W835_000280_thumb.jpg" xml:id="n398.099797"/>
+</surface>
+<surface n="fol. 85v" xml:id="n398.099798"><graphic url="master/W835_000172_820.tif" xml:id="n398.099799"/>
+<graphic url="300/W835_000172_300.tif" xml:id="n398.099800"/>
+<graphic url="sap/W835_000172_sap.jpg" xml:id="n398.099801"/>
+<graphic url="thumb/W835_000172_thumb.jpg" xml:id="n398.099802"/>
+</surface>
+<surface n="fol. 86r" xml:id="n398.099803"><graphic url="master/W835_000173_600.tif" xml:id="n398.099804"/>
+<graphic url="300/W835_000173_300.tif" xml:id="n398.099805"/>
+<graphic url="sap/W835_000173_sap.jpg" xml:id="n398.099806"/>
+<graphic url="thumb/W835_000173_thumb.jpg" xml:id="n398.099807"/>
+</surface>
+<surface n="fol. 86v" xml:id="n398.099808"><graphic url="master/W835_000174_600.tif" xml:id="n398.099809"/>
+<graphic url="300/W835_000174_300.tif" xml:id="n398.099810"/>
+<graphic url="sap/W835_000174_sap.jpg" xml:id="n398.099811"/>
+<graphic url="thumb/W835_000174_thumb.jpg" xml:id="n398.099812"/>
+</surface>
+<surface n="fol. 87r" xml:id="n398.099813"><graphic url="master/W835_000175_600.tif" xml:id="n398.099814"/>
+<graphic url="300/W835_000175_300.tif" xml:id="n398.099815"/>
+<graphic url="sap/W835_000175_sap.jpg" xml:id="n398.099816"/>
+<graphic url="thumb/W835_000175_thumb.jpg" xml:id="n398.099817"/>
+</surface>
+<surface n="fol. 87v" xml:id="n398.099818"><graphic url="master/W835_000176_600.tif" xml:id="n398.099819"/>
+<graphic url="300/W835_000176_300.tif" xml:id="n398.099820"/>
+<graphic url="sap/W835_000176_sap.jpg" xml:id="n398.099821"/>
+<graphic url="thumb/W835_000176_thumb.jpg" xml:id="n398.099822"/>
+</surface>
+<surface n="fol. 88r" xml:id="n398.099823"><graphic url="master/W835_000177_600.tif" xml:id="n398.099824"/>
+<graphic url="300/W835_000177_300.tif" xml:id="n398.099825"/>
+<graphic url="sap/W835_000177_sap.jpg" xml:id="n398.099826"/>
+<graphic url="thumb/W835_000177_thumb.jpg" xml:id="n398.099827"/>
+</surface>
+<surface n="fol. 88v" xml:id="n398.099828"><graphic url="master/W835_000178_600.tif" xml:id="n398.099829"/>
+<graphic url="300/W835_000178_300.tif" xml:id="n398.099830"/>
+<graphic url="sap/W835_000178_sap.jpg" xml:id="n398.099831"/>
+<graphic url="thumb/W835_000178_thumb.jpg" xml:id="n398.099832"/>
+</surface>
+<surface n="fol. 89r" xml:id="n398.099833"><graphic url="master/W835_000179_600.tif" xml:id="n398.099834"/>
+<graphic url="300/W835_000179_300.tif" xml:id="n398.099835"/>
+<graphic url="sap/W835_000179_sap.jpg" xml:id="n398.099836"/>
+<graphic url="thumb/W835_000179_thumb.jpg" xml:id="n398.099837"/>
+</surface>
+<surface n="89v, curtain closed" xml:id="n398.099838"><graphic url="master/W835_000281_600.tif" xml:id="n398.099839"/>
+<graphic url="300/W835_000281_300.tif" xml:id="n398.099840"/>
+<graphic url="sap/W835_000281_sap.jpg" xml:id="n398.099841"/>
+<graphic url="thumb/W835_000281_thumb.jpg" xml:id="n398.099842"/>
+</surface>
+<surface n="fol. 89v" xml:id="n398.099843"><graphic url="master/W835_000180_820.tif" xml:id="n398.099844"/>
+<graphic url="300/W835_000180_300.tif" xml:id="n398.099845"/>
+<graphic url="sap/W835_000180_sap.jpg" xml:id="n398.099846"/>
+<graphic url="thumb/W835_000180_thumb.jpg" xml:id="n398.099847"/>
+</surface>
+<surface n="fol. 90r" xml:id="n398.099848"><graphic url="master/W835_000181_820.tif" xml:id="n398.099849"/>
+<graphic url="300/W835_000181_300.tif" xml:id="n398.099850"/>
+<graphic url="sap/W835_000181_sap.jpg" xml:id="n398.099851"/>
+<graphic url="thumb/W835_000181_thumb.jpg" xml:id="n398.099852"/>
+</surface>
+<surface n="fol. 90v" xml:id="n398.099853"><graphic url="master/W835_000182_600.tif" xml:id="n398.099854"/>
+<graphic url="300/W835_000182_300.tif" xml:id="n398.099855"/>
+<graphic url="sap/W835_000182_sap.jpg" xml:id="n398.099856"/>
+<graphic url="thumb/W835_000182_thumb.jpg" xml:id="n398.099857"/>
+</surface>
+<surface n="fol. 91r" xml:id="n398.099858"><graphic url="master/W835_000183_600.tif" xml:id="n398.099859"/>
+<graphic url="300/W835_000183_300.tif" xml:id="n398.099860"/>
+<graphic url="sap/W835_000183_sap.jpg" xml:id="n398.099861"/>
+<graphic url="thumb/W835_000183_thumb.jpg" xml:id="n398.099862"/>
+</surface>
+<surface n="fol. 91v" xml:id="n398.099863"><graphic url="master/W835_000184_600.tif" xml:id="n398.099864"/>
+<graphic url="300/W835_000184_300.tif" xml:id="n398.099865"/>
+<graphic url="sap/W835_000184_sap.jpg" xml:id="n398.099866"/>
+<graphic url="thumb/W835_000184_thumb.jpg" xml:id="n398.099867"/>
+</surface>
+<surface n="fol. 92r" xml:id="n398.099868"><graphic url="master/W835_000185_600.tif" xml:id="n398.099869"/>
+<graphic url="300/W835_000185_300.tif" xml:id="n398.099870"/>
+<graphic url="sap/W835_000185_sap.jpg" xml:id="n398.099871"/>
+<graphic url="thumb/W835_000185_thumb.jpg" xml:id="n398.099872"/>
+</surface>
+<surface n="fol. 92v" xml:id="n398.099873"><graphic url="master/W835_000186_600.tif" xml:id="n398.099874"/>
+<graphic url="300/W835_000186_300.tif" xml:id="n398.099875"/>
+<graphic url="sap/W835_000186_sap.jpg" xml:id="n398.099876"/>
+<graphic url="thumb/W835_000186_thumb.jpg" xml:id="n398.099877"/>
+</surface>
+<surface n="fol. 93r" xml:id="n398.099878"><graphic url="master/W835_000187_600.tif" xml:id="n398.099879"/>
+<graphic url="300/W835_000187_300.tif" xml:id="n398.099880"/>
+<graphic url="sap/W835_000187_sap.jpg" xml:id="n398.099881"/>
+<graphic url="thumb/W835_000187_thumb.jpg" xml:id="n398.099882"/>
+</surface>
+<surface n="fol. 93v" xml:id="n398.099883"><graphic url="master/W835_000188_600.tif" xml:id="n398.099884"/>
+<graphic url="300/W835_000188_300.tif" xml:id="n398.099885"/>
+<graphic url="sap/W835_000188_sap.jpg" xml:id="n398.099886"/>
+<graphic url="thumb/W835_000188_thumb.jpg" xml:id="n398.099887"/>
+</surface>
+<surface n="fol. 94r" xml:id="n398.099888"><graphic url="master/W835_000189_600.tif" xml:id="n398.099889"/>
+<graphic url="300/W835_000189_300.tif" xml:id="n398.099890"/>
+<graphic url="sap/W835_000189_sap.jpg" xml:id="n398.099891"/>
+<graphic url="thumb/W835_000189_thumb.jpg" xml:id="n398.099892"/>
+</surface>
+<surface n="fol. 94v" xml:id="n398.099893"><graphic url="master/W835_000190_600.tif" xml:id="n398.099894"/>
+<graphic url="300/W835_000190_300.tif" xml:id="n398.099895"/>
+<graphic url="sap/W835_000190_sap.jpg" xml:id="n398.099896"/>
+<graphic url="thumb/W835_000190_thumb.jpg" xml:id="n398.099897"/>
+</surface>
+<surface n="fol. 95r" xml:id="n398.099898"><graphic url="master/W835_000191_600.tif" xml:id="n398.099899"/>
+<graphic url="300/W835_000191_300.tif" xml:id="n398.099900"/>
+<graphic url="sap/W835_000191_sap.jpg" xml:id="n398.099901"/>
+<graphic url="thumb/W835_000191_thumb.jpg" xml:id="n398.099902"/>
+</surface>
+<surface n="95v, curtain closed" xml:id="n398.099903"><graphic url="master/W835_000282_600.tif" xml:id="n398.099904"/>
+<graphic url="300/W835_000282_300.tif" xml:id="n398.099905"/>
+<graphic url="sap/W835_000282_sap.jpg" xml:id="n398.099906"/>
+<graphic url="thumb/W835_000282_thumb.jpg" xml:id="n398.099907"/>
+</surface>
+<surface n="fol. 95v" xml:id="n398.099908"><graphic url="master/W835_000192_820.tif" xml:id="n398.099909"/>
+<graphic url="300/W835_000192_300.tif" xml:id="n398.099910"/>
+<graphic url="sap/W835_000192_sap.jpg" xml:id="n398.099911"/>
+<graphic url="thumb/W835_000192_thumb.jpg" xml:id="n398.099912"/>
+</surface>
+<surface n="fol. 96r" xml:id="n398.099913"><graphic url="master/W835_000193_600.tif" xml:id="n398.099914"/>
+<graphic url="300/W835_000193_300.tif" xml:id="n398.099915"/>
+<graphic url="sap/W835_000193_sap.jpg" xml:id="n398.099916"/>
+<graphic url="thumb/W835_000193_thumb.jpg" xml:id="n398.099917"/>
+</surface>
+<surface n="fol. 96v" xml:id="n398.099918"><graphic url="master/W835_000194_600.tif" xml:id="n398.099919"/>
+<graphic url="300/W835_000194_300.tif" xml:id="n398.099920"/>
+<graphic url="sap/W835_000194_sap.jpg" xml:id="n398.099921"/>
+<graphic url="thumb/W835_000194_thumb.jpg" xml:id="n398.099922"/>
+</surface>
+<surface n="fol. 97r" xml:id="n398.099923"><graphic url="master/W835_000195_600.tif" xml:id="n398.099924"/>
+<graphic url="300/W835_000195_300.tif" xml:id="n398.099925"/>
+<graphic url="sap/W835_000195_sap.jpg" xml:id="n398.099926"/>
+<graphic url="thumb/W835_000195_thumb.jpg" xml:id="n398.099927"/>
+</surface>
+<surface n="fol. 97v" xml:id="n398.099928"><graphic url="master/W835_000196_600.tif" xml:id="n398.099929"/>
+<graphic url="300/W835_000196_300.tif" xml:id="n398.099930"/>
+<graphic url="sap/W835_000196_sap.jpg" xml:id="n398.099931"/>
+<graphic url="thumb/W835_000196_thumb.jpg" xml:id="n398.099932"/>
+</surface>
+<surface n="fol. 98r" xml:id="n398.099933"><graphic url="master/W835_000197_600.tif" xml:id="n398.099934"/>
+<graphic url="300/W835_000197_300.tif" xml:id="n398.099935"/>
+<graphic url="sap/W835_000197_sap.jpg" xml:id="n398.099936"/>
+<graphic url="thumb/W835_000197_thumb.jpg" xml:id="n398.099937"/>
+</surface>
+<surface n="fol. 98v" xml:id="n398.099938"><graphic url="master/W835_000198_600.tif" xml:id="n398.099939"/>
+<graphic url="300/W835_000198_300.tif" xml:id="n398.099940"/>
+<graphic url="sap/W835_000198_sap.jpg" xml:id="n398.099941"/>
+<graphic url="thumb/W835_000198_thumb.jpg" xml:id="n398.099942"/>
+</surface>
+<surface n="99r, curtain closed" xml:id="n398.099943"><graphic url="master/W835_000283_600.tif" xml:id="n398.099944"/>
+<graphic url="300/W835_000283_300.tif" xml:id="n398.099945"/>
+<graphic url="sap/W835_000283_sap.jpg" xml:id="n398.099946"/>
+<graphic url="thumb/W835_000283_thumb.jpg" xml:id="n398.099947"/>
+</surface>
+<surface n="fol. 99r" xml:id="n398.099948"><graphic url="master/W835_000199_820.tif" xml:id="n398.099949"/>
+<graphic url="300/W835_000199_300.tif" xml:id="n398.099950"/>
+<graphic url="sap/W835_000199_sap.jpg" xml:id="n398.099951"/>
+<graphic url="thumb/W835_000199_thumb.jpg" xml:id="n398.099952"/>
+</surface>
+<surface n="fol. 99v" xml:id="n398.099953"><graphic url="master/W835_000200_600.tif" xml:id="n398.099954"/>
+<graphic url="300/W835_000200_300.tif" xml:id="n398.099955"/>
+<graphic url="sap/W835_000200_sap.jpg" xml:id="n398.099956"/>
+<graphic url="thumb/W835_000200_thumb.jpg" xml:id="n398.099957"/>
+</surface>
+<surface n="fol. 100r" xml:id="n398.099958"><graphic url="master/W835_000201_600.tif" xml:id="n398.099959"/>
+<graphic url="300/W835_000201_300.tif" xml:id="n398.099960"/>
+<graphic url="sap/W835_000201_sap.jpg" xml:id="n398.099961"/>
+<graphic url="thumb/W835_000201_thumb.jpg" xml:id="n398.099962"/>
+</surface>
+<surface n="fol. 100v" xml:id="n398.099963"><graphic url="master/W835_000202_600.tif" xml:id="n398.099964"/>
+<graphic url="300/W835_000202_300.tif" xml:id="n398.099965"/>
+<graphic url="sap/W835_000202_sap.jpg" xml:id="n398.099966"/>
+<graphic url="thumb/W835_000202_thumb.jpg" xml:id="n398.099967"/>
+</surface>
+<surface n="101r, curtain closed" xml:id="n398.099968"><graphic url="master/W835_000284_600.tif" xml:id="n398.099969"/>
+<graphic url="300/W835_000284_300.tif" xml:id="n398.099970"/>
+<graphic url="sap/W835_000284_sap.jpg" xml:id="n398.099971"/>
+<graphic url="thumb/W835_000284_thumb.jpg" xml:id="n398.099972"/>
+</surface>
+<surface n="fol. 101r" xml:id="n398.099973"><graphic url="master/W835_000203_820.tif" xml:id="n398.099974"/>
+<graphic url="300/W835_000203_300.tif" xml:id="n398.099975"/>
+<graphic url="sap/W835_000203_sap.jpg" xml:id="n398.099976"/>
+<graphic url="thumb/W835_000203_thumb.jpg" xml:id="n398.099977"/>
+</surface>
+<surface n="fol. 101v" xml:id="n398.099978"><graphic url="master/W835_000204_600.tif" xml:id="n398.099979"/>
+<graphic url="300/W835_000204_300.tif" xml:id="n398.099980"/>
+<graphic url="sap/W835_000204_sap.jpg" xml:id="n398.099981"/>
+<graphic url="thumb/W835_000204_thumb.jpg" xml:id="n398.099982"/>
+</surface>
+<surface n="fol. 102r" xml:id="n398.099983"><graphic url="master/W835_000205_600.tif" xml:id="n398.099984"/>
+<graphic url="300/W835_000205_300.tif" xml:id="n398.099985"/>
+<graphic url="sap/W835_000205_sap.jpg" xml:id="n398.099986"/>
+<graphic url="thumb/W835_000205_thumb.jpg" xml:id="n398.099987"/>
+</surface>
+<surface n="fol. 102v" xml:id="n398.099988"><graphic url="master/W835_000206_600.tif" xml:id="n398.099989"/>
+<graphic url="300/W835_000206_300.tif" xml:id="n398.099990"/>
+<graphic url="sap/W835_000206_sap.jpg" xml:id="n398.099991"/>
+<graphic url="thumb/W835_000206_thumb.jpg" xml:id="n398.099992"/>
+</surface>
+<surface n="103r, curtain closed" xml:id="n398.099993"><graphic url="master/W835_000285_600.tif" xml:id="n398.099994"/>
+<graphic url="300/W835_000285_300.tif" xml:id="n398.099995"/>
+<graphic url="sap/W835_000285_sap.jpg" xml:id="n398.099996"/>
+<graphic url="thumb/W835_000285_thumb.jpg" xml:id="n398.099997"/>
+</surface>
+<surface n="fol. 103r" xml:id="n398.099998"><graphic url="master/W835_000207_820.tif" xml:id="n398.099999"/>
+<graphic url="300/W835_000207_300.tif" xml:id="n398.100000"/>
+<graphic url="sap/W835_000207_sap.jpg" xml:id="n398.100001"/>
+<graphic url="thumb/W835_000207_thumb.jpg" xml:id="n398.100002"/>
+</surface>
+<surface n="fol. 103v" xml:id="n398.100003"><graphic url="master/W835_000208_600.tif" xml:id="n398.100004"/>
+<graphic url="300/W835_000208_300.tif" xml:id="n398.100005"/>
+<graphic url="sap/W835_000208_sap.jpg" xml:id="n398.100006"/>
+<graphic url="thumb/W835_000208_thumb.jpg" xml:id="n398.100007"/>
+</surface>
+<surface n="fol. 104r" xml:id="n398.100008"><graphic url="master/W835_000209_600.tif" xml:id="n398.100009"/>
+<graphic url="300/W835_000209_300.tif" xml:id="n398.100010"/>
+<graphic url="sap/W835_000209_sap.jpg" xml:id="n398.100011"/>
+<graphic url="thumb/W835_000209_thumb.jpg" xml:id="n398.100012"/>
+</surface>
+<surface n="fol. 104v" xml:id="n398.100013"><graphic url="master/W835_000210_600.tif" xml:id="n398.100014"/>
+<graphic url="300/W835_000210_300.tif" xml:id="n398.100015"/>
+<graphic url="sap/W835_000210_sap.jpg" xml:id="n398.100016"/>
+<graphic url="thumb/W835_000210_thumb.jpg" xml:id="n398.100017"/>
+</surface>
+<surface n="fol. 105r" xml:id="n398.100018"><graphic url="master/W835_000211_600.tif" xml:id="n398.100019"/>
+<graphic url="300/W835_000211_300.tif" xml:id="n398.100020"/>
+<graphic url="sap/W835_000211_sap.jpg" xml:id="n398.100021"/>
+<graphic url="thumb/W835_000211_thumb.jpg" xml:id="n398.100022"/>
+</surface>
+<surface n="105v, curtain closed" xml:id="n398.100023"><graphic url="master/W835_000286_600.tif" xml:id="n398.100024"/>
+<graphic url="300/W835_000286_300.tif" xml:id="n398.100025"/>
+<graphic url="sap/W835_000286_sap.jpg" xml:id="n398.100026"/>
+<graphic url="thumb/W835_000286_thumb.jpg" xml:id="n398.100027"/>
+</surface>
+<surface n="fol. 105v" xml:id="n398.100028"><graphic url="master/W835_000212_820.tif" xml:id="n398.100029"/>
+<graphic url="300/W835_000212_300.tif" xml:id="n398.100030"/>
+<graphic url="sap/W835_000212_sap.jpg" xml:id="n398.100031"/>
+<graphic url="thumb/W835_000212_thumb.jpg" xml:id="n398.100032"/>
+</surface>
+<surface n="fol. 106r" xml:id="n398.100033"><graphic url="master/W835_000213_600.tif" xml:id="n398.100034"/>
+<graphic url="300/W835_000213_300.tif" xml:id="n398.100035"/>
+<graphic url="sap/W835_000213_sap.jpg" xml:id="n398.100036"/>
+<graphic url="thumb/W835_000213_thumb.jpg" xml:id="n398.100037"/>
+</surface>
+<surface n="fol. 106v" xml:id="n398.100038"><graphic url="master/W835_000214_600.tif" xml:id="n398.100039"/>
+<graphic url="300/W835_000214_300.tif" xml:id="n398.100040"/>
+<graphic url="sap/W835_000214_sap.jpg" xml:id="n398.100041"/>
+<graphic url="thumb/W835_000214_thumb.jpg" xml:id="n398.100042"/>
+</surface>
+<surface n="fol. 107r" xml:id="n398.100043"><graphic url="master/W835_000215_600.tif" xml:id="n398.100044"/>
+<graphic url="300/W835_000215_300.tif" xml:id="n398.100045"/>
+<graphic url="sap/W835_000215_sap.jpg" xml:id="n398.100046"/>
+<graphic url="thumb/W835_000215_thumb.jpg" xml:id="n398.100047"/>
+</surface>
+<surface n="fol. 107v" xml:id="n398.100048"><graphic url="master/W835_000216_820.tif" xml:id="n398.100049"/>
+<graphic url="300/W835_000216_300.tif" xml:id="n398.100050"/>
+<graphic url="sap/W835_000216_sap.jpg" xml:id="n398.100051"/>
+<graphic url="thumb/W835_000216_thumb.jpg" xml:id="n398.100052"/>
+</surface>
+<surface n="108r, curtain closed" xml:id="n398.100053"><graphic url="master/W835_000287_600.tif" xml:id="n398.100054"/>
+<graphic url="300/W835_000287_300.tif" xml:id="n398.100055"/>
+<graphic url="sap/W835_000287_sap.jpg" xml:id="n398.100056"/>
+<graphic url="thumb/W835_000287_thumb.jpg" xml:id="n398.100057"/>
+</surface>
+<surface n="fol. 108r" xml:id="n398.100058"><graphic url="master/W835_000217_820.tif" xml:id="n398.100059"/>
+<graphic url="300/W835_000217_300.tif" xml:id="n398.100060"/>
+<graphic url="sap/W835_000217_sap.jpg" xml:id="n398.100061"/>
+<graphic url="thumb/W835_000217_thumb.jpg" xml:id="n398.100062"/>
+</surface>
+<surface n="fol. 108v" xml:id="n398.100063"><graphic url="master/W835_000218_600.tif" xml:id="n398.100064"/>
+<graphic url="300/W835_000218_300.tif" xml:id="n398.100065"/>
+<graphic url="sap/W835_000218_sap.jpg" xml:id="n398.100066"/>
+<graphic url="thumb/W835_000218_thumb.jpg" xml:id="n398.100067"/>
+</surface>
+<surface n="fol. 109r" xml:id="n398.100068"><graphic url="master/W835_000219_600.tif" xml:id="n398.100069"/>
+<graphic url="300/W835_000219_300.tif" xml:id="n398.100070"/>
+<graphic url="sap/W835_000219_sap.jpg" xml:id="n398.100071"/>
+<graphic url="thumb/W835_000219_thumb.jpg" xml:id="n398.100072"/>
+</surface>
+<surface n="fol. 109v" xml:id="n398.100073"><graphic url="master/W835_000220_600.tif" xml:id="n398.100074"/>
+<graphic url="300/W835_000220_300.tif" xml:id="n398.100075"/>
+<graphic url="sap/W835_000220_sap.jpg" xml:id="n398.100076"/>
+<graphic url="thumb/W835_000220_thumb.jpg" xml:id="n398.100077"/>
+</surface>
+<surface n="fol. 110r" xml:id="n398.100078"><graphic url="master/W835_000221_600.tif" xml:id="n398.100079"/>
+<graphic url="300/W835_000221_300.tif" xml:id="n398.100080"/>
+<graphic url="sap/W835_000221_sap.jpg" xml:id="n398.100081"/>
+<graphic url="thumb/W835_000221_thumb.jpg" xml:id="n398.100082"/>
+</surface>
+<surface n="fol. 110v" xml:id="n398.100083"><graphic url="master/W835_000222_820.tif" xml:id="n398.100084"/>
+<graphic url="300/W835_000222_300.tif" xml:id="n398.100085"/>
+<graphic url="sap/W835_000222_sap.jpg" xml:id="n398.100086"/>
+<graphic url="thumb/W835_000222_thumb.jpg" xml:id="n398.100087"/>
+</surface>
+<surface n="111r, curtain closed" xml:id="n398.100088"><graphic url="master/W835_000288_600.tif" xml:id="n398.100089"/>
+<graphic url="300/W835_000288_300.tif" xml:id="n398.100090"/>
+<graphic url="sap/W835_000288_sap.jpg" xml:id="n398.100091"/>
+<graphic url="thumb/W835_000288_thumb.jpg" xml:id="n398.100092"/>
+</surface>
+<surface n="fol. 111r" xml:id="n398.100093"><graphic url="master/W835_000223_820.tif" xml:id="n398.100094"/>
+<graphic url="300/W835_000223_300.tif" xml:id="n398.100095"/>
+<graphic url="sap/W835_000223_sap.jpg" xml:id="n398.100096"/>
+<graphic url="thumb/W835_000223_thumb.jpg" xml:id="n398.100097"/>
+</surface>
+<surface n="fol. 111v" xml:id="n398.100098"><graphic url="master/W835_000224_600.tif" xml:id="n398.100099"/>
+<graphic url="300/W835_000224_300.tif" xml:id="n398.100100"/>
+<graphic url="sap/W835_000224_sap.jpg" xml:id="n398.100101"/>
+<graphic url="thumb/W835_000224_thumb.jpg" xml:id="n398.100102"/>
+</surface>
+<surface n="fol. 112r" xml:id="n398.100103"><graphic url="master/W835_000225_600.tif" xml:id="n398.100104"/>
+<graphic url="300/W835_000225_300.tif" xml:id="n398.100105"/>
+<graphic url="sap/W835_000225_sap.jpg" xml:id="n398.100106"/>
+<graphic url="thumb/W835_000225_thumb.jpg" xml:id="n398.100107"/>
+</surface>
+<surface n="fol. 112v" xml:id="n398.100108"><graphic url="master/W835_000226_600.tif" xml:id="n398.100109"/>
+<graphic url="300/W835_000226_300.tif" xml:id="n398.100110"/>
+<graphic url="sap/W835_000226_sap.jpg" xml:id="n398.100111"/>
+<graphic url="thumb/W835_000226_thumb.jpg" xml:id="n398.100112"/>
+</surface>
+<surface n="fol. 113r" xml:id="n398.100113"><graphic url="master/W835_000227_600.tif" xml:id="n398.100114"/>
+<graphic url="300/W835_000227_300.tif" xml:id="n398.100115"/>
+<graphic url="sap/W835_000227_sap.jpg" xml:id="n398.100116"/>
+<graphic url="thumb/W835_000227_thumb.jpg" xml:id="n398.100117"/>
+</surface>
+<surface n="113v, curtain closed" xml:id="n398.100118"><graphic url="master/W835_000289_600.tif" xml:id="n398.100119"/>
+<graphic url="300/W835_000289_300.tif" xml:id="n398.100120"/>
+<graphic url="sap/W835_000289_sap.jpg" xml:id="n398.100121"/>
+<graphic url="thumb/W835_000289_thumb.jpg" xml:id="n398.100122"/>
+</surface>
+<surface n="fol. 113v" xml:id="n398.100123"><graphic url="master/W835_000228_820.tif" xml:id="n398.100124"/>
+<graphic url="300/W835_000228_300.tif" xml:id="n398.100125"/>
+<graphic url="sap/W835_000228_sap.jpg" xml:id="n398.100126"/>
+<graphic url="thumb/W835_000228_thumb.jpg" xml:id="n398.100127"/>
+</surface>
+<surface n="fol. 114r" xml:id="n398.100128"><graphic url="master/W835_000229_600.tif" xml:id="n398.100129"/>
+<graphic url="300/W835_000229_300.tif" xml:id="n398.100130"/>
+<graphic url="sap/W835_000229_sap.jpg" xml:id="n398.100131"/>
+<graphic url="thumb/W835_000229_thumb.jpg" xml:id="n398.100132"/>
+</surface>
+<surface n="fol. 114v" xml:id="n398.100133"><graphic url="master/W835_000230_600.tif" xml:id="n398.100134"/>
+<graphic url="300/W835_000230_300.tif" xml:id="n398.100135"/>
+<graphic url="sap/W835_000230_sap.jpg" xml:id="n398.100136"/>
+<graphic url="thumb/W835_000230_thumb.jpg" xml:id="n398.100137"/>
+</surface>
+<surface n="fol. 115r" xml:id="n398.100138"><graphic url="master/W835_000231_600.tif" xml:id="n398.100139"/>
+<graphic url="300/W835_000231_300.tif" xml:id="n398.100140"/>
+<graphic url="sap/W835_000231_sap.jpg" xml:id="n398.100141"/>
+<graphic url="thumb/W835_000231_thumb.jpg" xml:id="n398.100142"/>
+</surface>
+<surface n="fol. 115v" xml:id="n398.100143"><graphic url="master/W835_000232_820.tif" xml:id="n398.100144"/>
+<graphic url="300/W835_000232_300.tif" xml:id="n398.100145"/>
+<graphic url="sap/W835_000232_sap.jpg" xml:id="n398.100146"/>
+<graphic url="thumb/W835_000232_thumb.jpg" xml:id="n398.100147"/>
+</surface>
+<surface n="116r, curtain closed" xml:id="n398.100148"><graphic url="master/W835_000290_600.tif" xml:id="n398.100149"/>
+<graphic url="300/W835_000290_300.tif" xml:id="n398.100150"/>
+<graphic url="sap/W835_000290_sap.jpg" xml:id="n398.100151"/>
+<graphic url="thumb/W835_000290_thumb.jpg" xml:id="n398.100152"/>
+</surface>
+<surface n="fol. 116r" xml:id="n398.100153"><graphic url="master/W835_000233_820.tif" xml:id="n398.100154"/>
+<graphic url="300/W835_000233_300.tif" xml:id="n398.100155"/>
+<graphic url="sap/W835_000233_sap.jpg" xml:id="n398.100156"/>
+<graphic url="thumb/W835_000233_thumb.jpg" xml:id="n398.100157"/>
+</surface>
+<surface n="fol. 116v" xml:id="n398.100158"><graphic url="master/W835_000234_600.tif" xml:id="n398.100159"/>
+<graphic url="300/W835_000234_300.tif" xml:id="n398.100160"/>
+<graphic url="sap/W835_000234_sap.jpg" xml:id="n398.100161"/>
+<graphic url="thumb/W835_000234_thumb.jpg" xml:id="n398.100162"/>
+</surface>
+<surface n="fol. 117r" xml:id="n398.100163"><graphic url="master/W835_000235_600.tif" xml:id="n398.100164"/>
+<graphic url="300/W835_000235_300.tif" xml:id="n398.100165"/>
+<graphic url="sap/W835_000235_sap.jpg" xml:id="n398.100166"/>
+<graphic url="thumb/W835_000235_thumb.jpg" xml:id="n398.100167"/>
+</surface>
+<surface n="117v, curtain closed" xml:id="n398.100168"><graphic url="master/W835_000291_600.tif" xml:id="n398.100169"/>
+<graphic url="300/W835_000291_300.tif" xml:id="n398.100170"/>
+<graphic url="sap/W835_000291_sap.jpg" xml:id="n398.100171"/>
+<graphic url="thumb/W835_000291_thumb.jpg" xml:id="n398.100172"/>
+</surface>
+<surface n="fol. 117v" xml:id="n398.100173"><graphic url="master/W835_000236_820.tif" xml:id="n398.100174"/>
+<graphic url="300/W835_000236_300.tif" xml:id="n398.100175"/>
+<graphic url="sap/W835_000236_sap.jpg" xml:id="n398.100176"/>
+<graphic url="thumb/W835_000236_thumb.jpg" xml:id="n398.100177"/>
+</surface>
+<surface n="fol. 118r" xml:id="n398.100178"><graphic url="master/W835_000237_600.tif" xml:id="n398.100179"/>
+<graphic url="300/W835_000237_300.tif" xml:id="n398.100180"/>
+<graphic url="sap/W835_000237_sap.jpg" xml:id="n398.100181"/>
+<graphic url="thumb/W835_000237_thumb.jpg" xml:id="n398.100182"/>
+</surface>
+<surface n="fol. 118v" xml:id="n398.100183"><graphic url="master/W835_000238_600.tif" xml:id="n398.100184"/>
+<graphic url="300/W835_000238_300.tif" xml:id="n398.100185"/>
+<graphic url="sap/W835_000238_sap.jpg" xml:id="n398.100186"/>
+<graphic url="thumb/W835_000238_thumb.jpg" xml:id="n398.100187"/>
+</surface>
+<surface n="119r, curtain closed" xml:id="n398.100188"><graphic url="master/W835_000292_600.tif" xml:id="n398.100189"/>
+<graphic url="300/W835_000292_300.tif" xml:id="n398.100190"/>
+<graphic url="sap/W835_000292_sap.jpg" xml:id="n398.100191"/>
+<graphic url="thumb/W835_000292_thumb.jpg" xml:id="n398.100192"/>
+</surface>
+<surface n="fol. 119r" xml:id="n398.100193"><graphic url="master/W835_000239_820.tif" xml:id="n398.100194"/>
+<graphic url="300/W835_000239_300.tif" xml:id="n398.100195"/>
+<graphic url="sap/W835_000239_sap.jpg" xml:id="n398.100196"/>
+<graphic url="thumb/W835_000239_thumb.jpg" xml:id="n398.100197"/>
+</surface>
+<surface n="fol. 119v" xml:id="n398.100198"><graphic url="master/W835_000240_600.tif" xml:id="n398.100199"/>
+<graphic url="300/W835_000240_300.tif" xml:id="n398.100200"/>
+<graphic url="sap/W835_000240_sap.jpg" xml:id="n398.100201"/>
+<graphic url="thumb/W835_000240_thumb.jpg" xml:id="n398.100202"/>
+</surface>
+<surface n="fol. 120r" xml:id="n398.100203"><graphic url="master/W835_000241_600.tif" xml:id="n398.100204"/>
+<graphic url="300/W835_000241_300.tif" xml:id="n398.100205"/>
+<graphic url="sap/W835_000241_sap.jpg" xml:id="n398.100206"/>
+<graphic url="thumb/W835_000241_thumb.jpg" xml:id="n398.100207"/>
+</surface>
+<surface n="fol. 120v" xml:id="n398.100208"><graphic url="master/W835_000242_600.tif" xml:id="n398.100209"/>
+<graphic url="300/W835_000242_300.tif" xml:id="n398.100210"/>
+<graphic url="sap/W835_000242_sap.jpg" xml:id="n398.100211"/>
+<graphic url="thumb/W835_000242_thumb.jpg" xml:id="n398.100212"/>
+</surface>
+<surface n="fol. 121r" xml:id="n398.100213"><graphic url="master/W835_000243_600.tif" xml:id="n398.100214"/>
+<graphic url="300/W835_000243_300.tif" xml:id="n398.100215"/>
+<graphic url="sap/W835_000243_sap.jpg" xml:id="n398.100216"/>
+<graphic url="thumb/W835_000243_thumb.jpg" xml:id="n398.100217"/>
+</surface>
+<surface n="fol. 121v" xml:id="n398.100218"><graphic url="master/W835_000244_600.tif" xml:id="n398.100219"/>
+<graphic url="300/W835_000244_300.tif" xml:id="n398.100220"/>
+<graphic url="sap/W835_000244_sap.jpg" xml:id="n398.100221"/>
+<graphic url="thumb/W835_000244_thumb.jpg" xml:id="n398.100222"/>
+</surface>
+<surface n="fol. 122r" xml:id="n398.100223"><graphic url="master/W835_000245_600.tif" xml:id="n398.100224"/>
+<graphic url="300/W835_000245_300.tif" xml:id="n398.100225"/>
+<graphic url="sap/W835_000245_sap.jpg" xml:id="n398.100226"/>
+<graphic url="thumb/W835_000245_thumb.jpg" xml:id="n398.100227"/>
+</surface>
+<surface n="122v, curtain closed" xml:id="n398.100228"><graphic url="master/W835_000293_600.tif" xml:id="n398.100229"/>
+<graphic url="300/W835_000293_300.tif" xml:id="n398.100230"/>
+<graphic url="sap/W835_000293_sap.jpg" xml:id="n398.100231"/>
+<graphic url="thumb/W835_000293_thumb.jpg" xml:id="n398.100232"/>
+</surface>
+<surface n="fol. 122v" xml:id="n398.100233"><graphic url="master/W835_000246_820.tif" xml:id="n398.100234"/>
+<graphic url="300/W835_000246_300.tif" xml:id="n398.100235"/>
+<graphic url="sap/W835_000246_sap.jpg" xml:id="n398.100236"/>
+<graphic url="thumb/W835_000246_thumb.jpg" xml:id="n398.100237"/>
+</surface>
+<surface n="fol. 123r" xml:id="n398.100238"><graphic url="master/W835_000247_600.tif" xml:id="n398.100239"/>
+<graphic url="300/W835_000247_300.tif" xml:id="n398.100240"/>
+<graphic url="sap/W835_000247_sap.jpg" xml:id="n398.100241"/>
+<graphic url="thumb/W835_000247_thumb.jpg" xml:id="n398.100242"/>
+</surface>
+<surface n="fol. 123v" xml:id="n398.100243"><graphic url="master/W835_000248_600.tif" xml:id="n398.100244"/>
+<graphic url="300/W835_000248_300.tif" xml:id="n398.100245"/>
+<graphic url="sap/W835_000248_sap.jpg" xml:id="n398.100246"/>
+<graphic url="thumb/W835_000248_thumb.jpg" xml:id="n398.100247"/>
+</surface>
+<surface n="fol. 124r" xml:id="n398.100248"><graphic url="master/W835_000249_600.tif" xml:id="n398.100249"/>
+<graphic url="300/W835_000249_300.tif" xml:id="n398.100250"/>
+<graphic url="sap/W835_000249_sap.jpg" xml:id="n398.100251"/>
+<graphic url="thumb/W835_000249_thumb.jpg" xml:id="n398.100252"/>
+</surface>
+<surface n="fol. 124v" xml:id="n398.100253"><graphic url="master/W835_000250_600.tif" xml:id="n398.100254"/>
+<graphic url="300/W835_000250_300.tif" xml:id="n398.100255"/>
+<graphic url="sap/W835_000250_sap.jpg" xml:id="n398.100256"/>
+<graphic url="thumb/W835_000250_thumb.jpg" xml:id="n398.100257"/>
+</surface>
+<surface n="fol. 125r" xml:id="n398.100258"><graphic url="master/W835_000251_600.tif" xml:id="n398.100259"/>
+<graphic url="300/W835_000251_300.tif" xml:id="n398.100260"/>
+<graphic url="sap/W835_000251_sap.jpg" xml:id="n398.100261"/>
+<graphic url="thumb/W835_000251_thumb.jpg" xml:id="n398.100262"/>
+</surface>
+<surface n="125v, curtain closed" xml:id="n398.100263"><graphic url="master/W835_000294_600.tif" xml:id="n398.100264"/>
+<graphic url="300/W835_000294_300.tif" xml:id="n398.100265"/>
+<graphic url="sap/W835_000294_sap.jpg" xml:id="n398.100266"/>
+<graphic url="thumb/W835_000294_thumb.jpg" xml:id="n398.100267"/>
+</surface>
+<surface n="fol. 125v" xml:id="n398.100268"><graphic url="master/W835_000252_820.tif" xml:id="n398.100269"/>
+<graphic url="300/W835_000252_300.tif" xml:id="n398.100270"/>
+<graphic url="sap/W835_000252_sap.jpg" xml:id="n398.100271"/>
+<graphic url="thumb/W835_000252_thumb.jpg" xml:id="n398.100272"/>
+</surface>
+<surface n="fol. 126r" xml:id="n398.100273"><graphic url="master/W835_000253_820.tif" xml:id="n398.100274"/>
+<graphic url="300/W835_000253_300.tif" xml:id="n398.100275"/>
+<graphic url="sap/W835_000253_sap.jpg" xml:id="n398.100276"/>
+<graphic url="thumb/W835_000253_thumb.jpg" xml:id="n398.100277"/>
+</surface>
+<surface n="fol. 126v" xml:id="n398.100278"><graphic url="master/W835_000254_600.tif" xml:id="n398.100279"/>
+<graphic url="300/W835_000254_300.tif" xml:id="n398.100280"/>
+<graphic url="sap/W835_000254_sap.jpg" xml:id="n398.100281"/>
+<graphic url="thumb/W835_000254_thumb.jpg" xml:id="n398.100282"/>
+</surface>
+<surface n="fol. 127r" xml:id="n398.100283"><graphic url="master/W835_000255_600.tif" xml:id="n398.100284"/>
+<graphic url="300/W835_000255_300.tif" xml:id="n398.100285"/>
+<graphic url="sap/W835_000255_sap.jpg" xml:id="n398.100286"/>
+<graphic url="thumb/W835_000255_thumb.jpg" xml:id="n398.100287"/>
+</surface>
+<surface n="fol. 127v" xml:id="n398.100288"><graphic url="master/W835_000256_600.tif" xml:id="n398.100289"/>
+<graphic url="300/W835_000256_300.tif" xml:id="n398.100290"/>
+<graphic url="sap/W835_000256_sap.jpg" xml:id="n398.100291"/>
+<graphic url="thumb/W835_000256_thumb.jpg" xml:id="n398.100292"/>
+</surface>
+<surface n="Lower board inside" xml:id="n398.100293"><graphic url="master/W835_000257_820.tif" xml:id="n398.100294"/>
+<graphic url="300/W835_000257_300.tif" xml:id="n398.100295"/>
+<graphic url="sap/W835_000257_sap.jpg" xml:id="n398.100296"/>
+<graphic url="thumb/W835_000257_thumb.jpg" xml:id="n398.100297"/>
+</surface>
+<surface n="Lower board outside" xml:id="n398.100298"><graphic url="master/W835_000258_820.tif" xml:id="n398.100299"/>
+<graphic url="300/W835_000258_300.tif" xml:id="n398.100300"/>
+<graphic url="sap/W835_000258_sap.jpg" xml:id="n398.100301"/>
+<graphic url="thumb/W835_000258_thumb.jpg" xml:id="n398.100302"/>
+</surface>
+<surface n="Spine" xml:id="n398.100303"><graphic url="master/W835_000259_1153.tif" xml:id="n398.100304"/>
+<graphic url="300/W835_000259_300.tif" xml:id="n398.100305"/>
+<graphic url="sap/W835_000259_sap.jpg" xml:id="n398.100306"/>
+<graphic url="thumb/W835_000259_thumb.jpg" xml:id="n398.100307"/>
+</surface>
+<surface n="Spine, wrap on" xml:id="n398.100308"><graphic url="master/W835_000295_1153.tif" xml:id="n398.100309"/>
+<graphic url="300/W835_000295_300.tif" xml:id="n398.100310"/>
+<graphic url="sap/W835_000295_sap.jpg" xml:id="n398.100311"/>
+<graphic url="thumb/W835_000295_thumb.jpg" xml:id="n398.100312"/>
+</surface>
+<surface n="Fore-edge" xml:id="n398.100313"><graphic url="master/W835_000260_1153.tif" xml:id="n398.100314"/>
+<graphic url="300/W835_000260_300.tif" xml:id="n398.100315"/>
+<graphic url="sap/W835_000260_sap.jpg" xml:id="n398.100316"/>
+<graphic url="thumb/W835_000260_thumb.jpg" xml:id="n398.100317"/>
+</surface>
+<surface n="Fore-edge, wrap on" xml:id="n398.100318"><graphic url="master/W835_000296_1153.tif" xml:id="n398.100319"/>
+<graphic url="300/W835_000296_300.tif" xml:id="n398.100320"/>
+<graphic url="sap/W835_000296_sap.jpg" xml:id="n398.100321"/>
+<graphic url="thumb/W835_000296_thumb.jpg" xml:id="n398.100322"/>
+</surface>
+<surface n="Head" xml:id="n398.100323"><graphic url="master/W835_000261_1200.tif" xml:id="n398.100324"/>
+<graphic url="300/W835_000261_300.tif" xml:id="n398.100325"/>
+<graphic url="sap/W835_000261_sap.jpg" xml:id="n398.100326"/>
+<graphic url="thumb/W835_000261_thumb.jpg" xml:id="n398.100327"/>
+</surface>
+<surface n="Head, wrap on" xml:id="n398.100328"><graphic url="master/W835_000297_1200.tif" xml:id="n398.100329"/>
+<graphic url="300/W835_000297_300.tif" xml:id="n398.100330"/>
+<graphic url="sap/W835_000297_sap.jpg" xml:id="n398.100331"/>
+<graphic url="thumb/W835_000297_thumb.jpg" xml:id="n398.100332"/>
+</surface>
+<surface n="Tail" xml:id="n398.100333"><graphic url="master/W835_000262_1200.tif" xml:id="n398.100334"/>
+<graphic url="300/W835_000262_300.tif" xml:id="n398.100335"/>
+<graphic url="sap/W835_000262_sap.jpg" xml:id="n398.100336"/>
+<graphic url="thumb/W835_000262_thumb.jpg" xml:id="n398.100337"/>
+</surface>
+<surface n="Tail, wrap on" xml:id="n398.100338"><graphic url="master/W835_000298_1200.tif" xml:id="n398.100339"/>
+<graphic url="300/W835_000298_300.tif" xml:id="n398.100340"/>
+<graphic url="sap/W835_000298_sap.jpg" xml:id="n398.100341"/>
+<graphic url="thumb/W835_000298_thumb.jpg" xml:id="n398.100342"/>
+</surface>
+</facsimile>
+</TEI>

@@ -1,0 +1,2844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen type="xml" RNGSchema="tei_walters_ms.rng"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="n348.024390" version="5.0"><teiHeader type="text" xml:id="n348.024391"><fileDesc xml:id="n348.024392"><titleStmt xml:id="n348.024393"><title type="common" xml:id="n348.024394">Walters Ms. W.4, Freising Gospels</title>
+<title type="work" n="item 136" xml:id="n348.024395">List of readings for the liturgical year</title>
+<title type="work" n="item 137" xml:id="n348.024396">Prologue to the Gospels</title>
+<title type="work" n="item 138" xml:id="n348.024397">Epistle to Damasus (Novum opus)</title>
+<title type="work" n="item 139" xml:id="n348.024398">Seventy-four chapter list to the Gospel of Matthew</title>
+<title type="work" n="item 140" xml:id="n348.024399">Canon tables</title>
+<title type="work" n="item 141" xml:id="n348.024400">Gospels</title>
+<title type="work" n="item 169" xml:id="n348.024401">Gospel Book</title>
+<author xml:id="author_686"><name type="authority" xml:id="n348.024402">Jerome, Saint, d. 419 or 20</name>
+</author>
+<respStmt xml:id="n348.024403"><resp xml:id="n348.024404">Principal cataloger</resp>
+<name xml:id="n348.024405">Walters Art Museum curatorial staff and researchers since 1934</name>
+</respStmt>
+<respStmt xml:id="n348.024406"><resp xml:id="n348.024407">Editor</resp>
+<name xml:id="n348.024408">Herbert, Lynley</name>
+</respStmt>
+<respStmt xml:id="n348.024409"><resp xml:id="n348.024410">Editor</resp>
+<name xml:id="n348.024411">Noel, William</name>
+</respStmt>
+<respStmt xml:id="n348.024412"><resp xml:id="n348.024413">Copy editor</resp>
+<name xml:id="n348.024414">Bockrath, Diane</name>
+</respStmt>
+<respStmt xml:id="n348.024415"><resp xml:id="n348.024416">Contributor</resp>
+<name xml:id="n348.024417">Bockrath, Diane</name>
+</respStmt>
+<respStmt xml:id="n348.024418"><resp xml:id="n348.024419">Contributor</resp>
+<name xml:id="n348.024420">Emery, Doug</name>
+</respStmt>
+<respStmt xml:id="n348.024421"><resp xml:id="n348.024422">Contributor</resp>
+<name xml:id="n348.024423">Hamburger, Jeffrey</name>
+</respStmt>
+<respStmt xml:id="n348.024424"><resp xml:id="n348.024425">Contributor</resp>
+<name xml:id="n348.024426">Noel, William</name>
+</respStmt>
+<respStmt xml:id="n348.024427"><resp xml:id="n348.024428">Contributor</resp>
+<name xml:id="n348.024429">Tabritha, Ariel</name>
+</respStmt>
+<respStmt xml:id="n348.024430"><resp xml:id="n348.024431">Contributor</resp>
+<name xml:id="n348.024432">Toth, Michael B.</name>
+</respStmt>
+<respStmt xml:id="n348.024433"><resp xml:id="n348.024434">Conservator</resp>
+<name xml:id="n348.024435">Owen, Linda</name>
+</respStmt>
+<respStmt xml:id="n348.024436"><resp xml:id="n348.024437">Conservator</resp>
+<name xml:id="n348.024438">Quandt, Abigail</name>
+</respStmt>
+</titleStmt>
+<publicationStmt xml:id="n348.024439"><publisher xml:id="pub-wam">The Walters Art Museum</publisher>
+<availability xml:id="n348.024440"><p xml:id="n348.024441">Licensed for use under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported Access Rights, http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode. It is requested that copies of any published articles based on the information in this data set be sent to the curator of manuscripts, The Walters Art Museum, 600 North Charles Street, Baltimore MD 21201.</p>
+</availability>
+</publicationStmt>
+<notesStmt xml:id="n348.024442"><note type="abstract" xml:id="n348.024443">This Gospel Book was written in the diocese of Freising, Germany, ca. 875. Surprisingly small for a Gospel Book, it is nonetheless richly illuminated and offers an excellent example of Carolingian art and Caroline minuscule script. The expressive and emotive quality of the Evangelist portraits, characterized by quick, sketchy brushwork, recalls the style developed by the Carolingian school of Reims in northern France. The canon tables, however, derive from a different tradition, and recall Franco-Saxon imagery in their use of interlace within the columns and of acanthus springing from the top corners. The manuscript is one of a small group of codices produced at Freising at this time, among them another Gospel Book, Munich, Bayerische Staatsbibliothek Clm 6215. It is complete, consisting of 215 folios and includes readings for the liturgical year, Jerome's Plures fuisse and Novum opus letters, decorated canon tables, and Evangelist portraits.</note>
+</notesStmt>
+<sourceDesc xml:id="n348.024444"><msDesc xml:id="n348.024445"><msIdentifier xml:id="n348.024446"><settlement xml:id="n348.024447">Baltimore</settlement>
+<repository xml:id="n348.024448">The Walters Art Museum</repository>
+<idno xml:id="n348.024449">W.4</idno>
+</msIdentifier>
+<msContents xml:id="n348.024450"><textLang xml:id="n348.024451" mainLang="lat">The primary language in this manuscript is Latin.</textLang>
+<msItem n="item 169" xml:id="n348.024452"><locus from="1r" to="215v" xml:id="n348.024453">1r - 215v</locus>
+<title type="work" xml:id="n348.024454">Gospel Book</title>
+<msItem n="item 136" xml:id="n348.024455"><locus from="1v" to="18v" xml:id="n348.024456">1v - 18v</locus>
+<title type="work" xml:id="n348.024457">List of readings for the liturgical year</title>
+<rubric xml:lang="lat" xml:id="n348.024458">Incipiunt capitula lectionum Evangelii anni circuli</rubric>
+<incipit xml:lang="lat" xml:id="n348.024459">In vigilia natalis domini secundum Matheum</incipit>
+</msItem>
+<msItem n="item 137" xml:id="n348.024460"><locus from="18v" to="20r" xml:id="n348.024461">18v - 20r</locus>
+<title type="work" xml:id="n348.024462">Prologue to the Gospels</title>
+<rubric xml:lang="lat" xml:id="n348.024463">Incipit prologus iiii evangeliorum</rubric>
+<incipit xml:lang="lat" xml:id="n348.024464">Plures fuisse [Stegmüller 596]</incipit>
+<author xml:id="n348.024465" sameAs="#author_686"/>
+</msItem>
+<msItem n="item 138" xml:id="n348.024466"><locus from="20r" to="21v" xml:id="n348.024467">20r - 21v</locus>
+<title type="work" xml:id="n348.024468">Epistle to Damasus (Novum opus)</title>
+<rubric xml:lang="lat" xml:id="n348.024469">Incipit Epistola Sancti Hieronimi</rubric>
+<incipit xml:lang="lat" xml:id="n348.024470">Beatissimo Papae Damaso Hieronimus novum opus [Stegmüller 595]</incipit>
+<author xml:id="n348.024471" sameAs="#author_686"/>
+</msItem>
+<msItem n="item 139" xml:id="n348.024472"><locus from="21v" to="23v" xml:id="n348.024473">21v - 23v</locus>
+<title type="work" xml:id="n348.024474">Seventy-four chapter list to the Gospel of Matthew</title>
+<rubric xml:lang="lat" xml:id="n348.024475">Incipiunt capitula secundum Mattheum</rubric>
+<incipit xml:lang="lat" xml:id="n348.024476">De generatione Christi</incipit>
+</msItem>
+<msItem n="item 140" xml:id="n348.024477"><locus from="24v" to="32v" xml:id="n348.024478">24v - 32v</locus>
+<title type="work" xml:id="n348.024479">Canon tables</title>
+<rubric xml:lang="lat" xml:id="n348.024480">Canon I in quo quattuor</rubric>
+<note type="text" xml:id="n348.024481">Section comprised of Eusebian canon tables I-X spread over eight folios</note>
+</msItem>
+<msItem n="item 141" xml:id="n348.024482"><locus from="33r" to="215v" xml:id="n348.024483">33r - 215v</locus>
+<title type="work" xml:id="n348.024484">Gospels</title>
+<note type="contents" xml:id="n348.024485">Contents: fol. 33r: Incipit prologus secundum Mattheum (Mattheus ex Iudaea sicut in ordine primus ponitur [Stegmüller 590]); fols. 34r-89v: Matthew; fol. 91r-v: Incipit prologus secundum Marcum (Marcus Evangelista Dei electus [Stegmüller 607]); fols. 92r-93r: Incipiunt capitula (De Iohanne et de victu); fols. 93v-125r: Mark; fol. 125v: Incipit argumentum secundum Lucam (Lucas syrus antiochensis, arte medicus [Stegmüller 615]); fols. 127r-130v: Incipiunt capitula secundum Lucam (Zacharias viso angelo); fols. 131r-178r: Luke; fol. 179r-v: Incipit prologus (Iohannes Evangelista unus ex discipulis Dei [Stegmüller 624]); fols. 179v-180r: Incipit elencus brevis Evangelii secundum Iohannem (Phariseorum levitae); fols. 180v-215v: John</note>
+<note type="text" xml:id="n348.024486">Ammonian sections marked in margins of text throughout</note>
+</msItem>
+</msItem>
+</msContents>
+<physDesc xml:id="n348.024487"><objectDesc form="book" xml:id="n348.024488"><supportDesc material="parchment" xml:id="n348.024489"><support xml:id="n348.024490"><p xml:id="n348.024491">Closely cropped; parchment ranges from thin to thick, scrape marks often visible on hair side; thicker parchment on folios with decoration</p>
+</support>
+<extent xml:id="n348.024492">Foliation: 215<dimensions type="leaves" xml:id="n348.024493"><height xml:id="n348.024494" unit="cm">17.5</height>
+<width xml:id="n348.024495" unit="cm">12.2</width>
+</dimensions>
+<dimensions type="written" n="item 169" xml:id="n348.024496"><height xml:id="n348.024497" unit="cm">12.0</height>
+<width xml:id="n348.024498" unit="cm">7.5</width>
+</dimensions>
+<dimensions type="written" n="item 140" xml:id="n348.024499"><height xml:id="n348.024500" unit="cm">15.0</height>
+<width xml:id="n348.024501" unit="cm">12.0</width>
+</dimensions>
+</extent>
+<foliation xml:id="n348.024502">Two sets of numbers present: nineteenth-century black ink pagination in upper corners, modern penciled foliation written just below (followed here)</foliation>
+<collation xml:id="n348.024503"><p xml:id="n348.024504"><formula xml:id="n348.024505">1(8,-1), 2(8), 3(8), 4(10), 5-11(8), 12(10,-10), 11-12(8), 13-14(8), 15-16(6), 17-26(8), 27(10,-10)</formula>
+<signatures xml:id="n348.024506">One partially extant mark on fol. 65v: a centered, four-dot diamond in brown ink</signatures>
+<catchwords xml:id="n348.024507">None</catchwords>
+Quires begin on fols. 1(1), 7(2), 17(3), 24(4), 34(5), 42(6), 50(7), 58(8), 66(9), 74(10), 82(11), 90(12), 99(13), 107(14), 115(15), 121(16), 127(17), 135(18), 143(19), 151(20), 159(21), 167(22), 175(23), 183(24), 191(25), 199(26), 207(27)</p>
+</collation>
+</supportDesc>
+<layoutDesc xml:id="n348.024508"><layout n="item 140" xml:id="n348.024509">Above measurements for fols. 24v-32v refer to the average height and width of the framing arches of the canon  tables; due to cropping, the height is about .5 cm shorter than it would have been originally</layout>
+<layout n="item 169" columns="1" ruledLines="20" xml:id="n348.024510">Hard point ruling</layout>
+</layoutDesc>
+</objectDesc>
+<handDesc xml:id="n348.024511"><handNote n="item 169" xml:id="n348.024512">Written in Caroline minuscule script; headings, opening lines of textual divisions, and running headlines in square and rustic capitals</handNote>
+</handDesc>
+<decoDesc xml:id="n348.024513"><decoNote n="item 140" xml:id="n348.024514">Eusebian numbers divided into columns of three or four by framing arches and columns topped with stylized classical capitals; springing acroteria with stylized acanthus; inner double arch divided into two arches on folios with four written columns, each smaller arch above a set of text columns; areas of yellow, maroon, green, and orange alternating with dark brown sections containing plaited designs; colored braided bands in columns separating chapter numbers; chapter numbers written in alternating black and red</decoNote>
+<decoNote n="item 141" xml:id="n348.024515">Full-page Evangelist portraits: Matthew before his Gospel, fol. 33v; Mark before his prologue, fol. 90v; Luke before his capitula, fol. 126v; John before his prologue, fol. 178v</decoNote>
+<decoNote n="item 169" xml:id="n348.024516">Full-page Evangelist portraits, eccentrically placed; canon tables spread over eight folios; enlarged initials at a height of 2 lines throughout in red, orange, black, and blue; headings above Gospel texts done in same colors at a height of 1 line</decoNote>
+<decoNote n="fol. 24r" xml:id="n348.024517"><title xml:id="n348.024518">Canon table</title>
+<note type="text-identifier" xml:id="n348.024519">Part of Eusebian canon I</note>
+<note type="decoration-form" xml:id="n348.024520">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 24v" xml:id="n348.024521"><title xml:id="n348.024522">Canon table</title>
+<note type="text-identifier" xml:id="n348.024523">Part of Eusebian canon I</note>
+<note type="decoration-form" xml:id="n348.024524">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 25r" xml:id="n348.024525"><title xml:id="n348.024526">Canon table</title>
+<note type="text-identifier" xml:id="n348.024527">Part of Eusebian canon I</note>
+<note type="decoration-form" xml:id="n348.024528">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 25v" xml:id="n348.024529"><title xml:id="n348.024530">Canon table</title>
+<note type="text-identifier" xml:id="n348.024531">Parts of Eusebian canons I and II</note>
+<note type="decoration-form" xml:id="n348.024532">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 26r" xml:id="n348.024533"><title xml:id="n348.024534">Canon table</title>
+<note type="text-identifier" xml:id="n348.024535">Part of Eusebian canon II</note>
+<note type="decoration-form" xml:id="n348.024536">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 26v" xml:id="n348.024537"><title xml:id="n348.024538">Canon table</title>
+<note type="text-identifier" xml:id="n348.024539">Part of Eusebian canon II</note>
+<note type="decoration-form" xml:id="n348.024540">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 27r" xml:id="n348.024541"><title xml:id="n348.024542">Canon table</title>
+<note type="text-identifier" xml:id="n348.024543">Part of Eusebian canon II</note>
+<note type="decoration-form" xml:id="n348.024544">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 27v" xml:id="n348.024545"><title xml:id="n348.024546">Canon table</title>
+<note type="text-identifier" xml:id="n348.024547">Part of Eusebian canon II</note>
+<note type="decoration-form" xml:id="n348.024548">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 28r" xml:id="n348.024549"><title xml:id="n348.024550">Canon table</title>
+<note type="text-identifier" xml:id="n348.024551">Part of Eusebian canon II</note>
+<note type="decoration-form" xml:id="n348.024552">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 28v" xml:id="n348.024553"><title xml:id="n348.024554">Canon table</title>
+<note type="text-identifier" xml:id="n348.024555">Part of Eusebian canon III</note>
+<note type="decoration-form" xml:id="n348.024556">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 29r" xml:id="n348.024557"><title xml:id="n348.024558">Canon table</title>
+<note type="text-identifier" xml:id="n348.024559">Eusebian canon IV</note>
+<note type="decoration-form" xml:id="n348.024560">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 29v" xml:id="n348.024561"><title xml:id="n348.024562">Canon table</title>
+<note type="text-identifier" xml:id="n348.024563">Part of Eusebian canon V</note>
+<note type="decoration-form" xml:id="n348.024564">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 30r" xml:id="n348.024565"><title xml:id="n348.024566">Canon table</title>
+<note type="text-identifier" xml:id="n348.024567">Part of Eusebian canon V</note>
+<note type="decoration-form" xml:id="n348.024568">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 30v" xml:id="n348.024569"><title xml:id="n348.024570">Canon table</title>
+<note type="text-identifier" xml:id="n348.024571">Eusebian canon VI</note>
+<note type="decoration-form" xml:id="n348.024572">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 31r" xml:id="n348.024573"><title xml:id="n348.024574">Canon table</title>
+<note type="text-identifier" xml:id="n348.024575">Eusebian canons VII, VIII, and IX [here written VIIII]</note>
+<note type="decoration-form" xml:id="n348.024576">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 31v" xml:id="n348.024577"><title xml:id="n348.024578">Canon table</title>
+<note type="text-identifier" xml:id="n348.024579">Part of Eusebian canon X</note>
+<note type="decoration-form" xml:id="n348.024580">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 32r" xml:id="n348.024581"><title xml:id="n348.024582">Canon table</title>
+<note type="text-identifier" xml:id="n348.024583">Part of Eusebian canon X</note>
+<note type="decoration-form" xml:id="n348.024584">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 32v" xml:id="n348.024585"><title xml:id="n348.024586">Canon table</title>
+<note type="text-identifier" xml:id="n348.024587">Part of Eusebian canon X</note>
+<note type="decoration-form" xml:id="n348.024588">Full-page miniature</note>
+</decoNote>
+<decoNote n="fol. 33v" xml:id="n348.024589"><title xml:id="n348.024590">Portrait of the Evangelist Matthew</title>
+<note type="text-identifier" xml:id="n348.024591">Gospel of Matthew</note>
+<note type="decoration-form" xml:id="n348.024592">Full-page miniature</note>
+<note type="decoration-label" xml:id="n348.024593">The Evangelist Matthew is seated on a cushioned bench, his pen poised to write in a book supported by an elaborate animal-shaped lectern. He looks for inspiration to his symbol, the winged man. Matthew's drapery, which is drawn from the tradition of classical author portraits, cascades around him, lending the figure a sense of nervous energy as he prepares to write, an energy that is echoed in the tumultuous red and orange clouds behind him. This is a late example of the artistic style developed at the Carolingian school of Reims in the 830s and 840s.</note>
+</decoNote>
+<decoNote n="fol. 90v" xml:id="n348.024594"><title xml:id="n348.024595">Portrait of the Evangelist Mark</title>
+<note type="text-identifier" xml:id="n348.024596">Gospel of Mark, facing the prologue</note>
+<note type="decoration-form" xml:id="n348.024597">Full-page miniature</note>
+<note type="decoration-label" xml:id="n348.024598">Mark is depicted seated at a heavy desk, dipping his quill pen in ink as he prepares to continue writing in the book on his lap. His appearance, dressed in drapery and sandals, recalls the classical tradition of author portraits. Mark looks at his symbol, the lion, in the upper right corner.</note>
+</decoNote>
+<decoNote n="fol. 126v" xml:id="n348.024599"><title xml:id="n348.024600">Portrait of the Evangelist Luke</title>
+<note type="text-identifier" xml:id="n348.024601">Gospel of Luke, facing the capitula</note>
+<note type="decoration-form" xml:id="n348.024602">Full-page miniature</note>
+<note type="decoration-label" xml:id="n348.024603">Luke is clothed in robes and sandals and recalls the tradition of classical author portraits. While he sits on a cushioned bench, he lacks an accompanying desk or lectern, forcing him to balance his book on his left knee. He is somewhat awkwardly posed, for he must reach nearly behind him to dip his quill into his elaborate ink pot. Luke's symbol, the bull, reaches down over his shoulder.</note>
+</decoNote>
+<decoNote n="fol. 178v" xml:id="n348.024604"><title xml:id="n348.024605">Portrait of the Evangelist John</title>
+<note type="text-identifier" xml:id="n348.024606">Gospel of John, facing the prologue</note>
+<note type="decoration-form" xml:id="n348.024607">Full-page miniature</note>
+<note type="decoration-label" xml:id="n348.024608">This image of John the Evangelist, clothed in draped robes and sandals, recalls the tradition of classical author portraits. He sits on a folding chair and is actively writing in response to the inspiration he is receiving from his symbol, the eagle. Unlike his fellow Evangelists in this manuscript, John writes on an unfurled scroll that is draped across his lap.</note>
+</decoNote>
+</decoDesc>
+<bindingDesc xml:id="n348.024609"><binding contemporary="false" xml:id="n348.024610"><p xml:id="n348.024611">German or French nineteenth-century purple velvet over coarsely woven blue canvas over beech boards, with vestiges of old manuscript pastedowns (boards probably sixteenth-century)</p>
+</binding>
+</bindingDesc>
+</physDesc>
+<history xml:id="n348.024612"><origin notBefore="0860" xml:id="n348.024613" notAfter="0880"><origDate xml:id="n348.024614">Second half of the 9th century CE</origDate>
+<origPlace xml:id="n348.024615">Freising, Germany</origPlace>
+</origin>
+<provenance xml:id="n348.024616">Created in Freising, Germany, ca. 865-75</provenance>
+<provenance xml:id="n348.024617">Germany, nineteenth century (judging from the first set of pagination)</provenance>
+<provenance xml:id="n348.024618">Leon Gruel and Robert Engelmann, Paris, late nineteenth-early twentieth century, no. 78</provenance>
+<provenance xml:id="n348.024619">Henry Walters, Baltimore, MD, February 19, 1917</provenance>
+<acquisition xml:id="n348.024620">Walters Art Museum, 1931, by Henry Walters bequest</acquisition>
+</history>
+</msDesc>
+<listBibl xml:id="n348.024621"><head xml:id="n348.024622">Relevant Works</head>
+<bibl xml:id="n348.024623">Frere, W. H. Studies in Early Roman Liturgy II: The Roman-Gospel Lectionary. London: Oxford University Press, 1934.</bibl>
+<bibl xml:id="n348.024624">De Ricci, Seymour. Census of Medieval and Renaissance Manuscripts in the United States and Canada. Vol. 1. New York: H. W. Wilson Company, 1935, p. 767, no. 62.</bibl>
+<bibl xml:id="n348.024625">Baltimore Museum of Art. The Greek Tradition in Painting and the Minor Arts: An Exhibition Sponsored Jointly by the Baltimore Museum of Art and the Walters Art Gallery from May 15 through June 25, 1939. Baltimore: Baltimore Museum of Art, 1939.</bibl>
+<bibl xml:id="n348.024626">Walters Art Gallery. Illuminated Books of the Middle Ages and Renaissance: An Exhibition Held at the Baltimore Museum of Art. Baltimore: Trustees of the Walters Art Gallery, 1949.</bibl>
+<bibl xml:id="n348.024627">Walters Art Gallery. 4,000 Years of Modern Art. Baltimore: Walters Art Gallery, 1953.</bibl>
+<bibl xml:id="n348.024628">Diringer, David. The Illuminated Book: Its History and Production. London: Faber and Faber, 1958.</bibl>
+<bibl xml:id="n348.024629">Miner, Dorothy E. "The Development of Medieval Illumination." Catholic Life Annual 1 (1958).</bibl>
+<bibl xml:id="n348.024630">Wright, D. "Review of A. Grabar and C. Nordenfalk, Early Medieval Painting from the Fourth to the Eleventh Century." Art Bulletin 43 (1961): 245-255.</bibl>
+<bibl xml:id="n348.024631">Faye, C. U., and W. H. Bond. Supplement to the Census of Medieval and Renaissance Manuscripts in the United States and Canada. New York: Bibliographical Society of America, 1962.</bibl>
+<bibl xml:id="n348.024632">Wright, D. "The Codex Millenarius and its Model." Münchner Jahrbuch der bildenden Kunst, 3rd series, 15 (1964): 37.</bibl>
+<bibl xml:id="n348.024633">Walters Art Gallery. 2,000 Years of Calligraphy. Totowa, NJ: Rowman and Littlefield, 1965.</bibl>
+<bibl xml:id="n348.024634">Berkowitz, David S. In Remembrance of Creation: Evolution of Art and Scholarship in the Medieval and Renaissance Bible. Waltham, MA: Brandeis University Press, 1968.</bibl>
+<bibl xml:id="n348.024635">Klauser, T. Das romische Capitulare evangeliorum: Texte u. Untersuchen zu s. altesten Geschichte. Vol. I. Munster/Westf.: Aschendorff, 1972.</bibl>
+<bibl xml:id="n348.024636">Mutherich, Florentine. "The Gospel Book W.4 of the Walters Art Gallery and Its Place in the Freising Scriptorium." In Gatherings in Honor of Dorothy E. Miner. Edited by Ursula E. McCracken, Lilian M. C. Randall, and Richard H. Randall Jr. Baltimore: Walters Art Gallery, 1973, pp.115-128.</bibl>
+<bibl xml:id="n348.024637">Nordenfalk, Carl. "A Tenth Century Gospel Book in the Walters Art Gallery." Gatherings in Honor of Dorothy E. Miner. Edited by Ursula E. McCracken, Lilian M. C. Randall, and Richard H. Randall Jr. Baltimore: Walters Art Gallery, 1973.</bibl>
+<bibl xml:id="n348.024638">Randall, Lilian M. C. "Illuminated Manuscripts: Masterpieces in Miniature." The Walters Art Gallery Bulletin and Calendar 37, no. 6 (1984): 1-2.</bibl>
+<bibl xml:id="n348.024639">Clarkson, Christopher. "Rediscovering Parchment: The Nature of the Beast." The Paper Conservator 16 (1992): 5-26.</bibl>
+<bibl xml:id="n348.024640">Burin, Elizabeth. "Mixing Styles on the Pilgrimage Roads: A Romanesque Manuscript in the Walters Art Gallery." Journal of the Walters Art Gallery 54 (1996): 9-20.</bibl>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc xml:id="n348.024641"><classDecl xml:id="n348.024642"><taxonomy xml:id="keywords"><category xml:id="keyword_3"><catDesc xml:id="n348.024643">Art</catDesc>
+</category>
+<category xml:id="keyword_26"><catDesc xml:id="n348.024644">Medicine</catDesc>
+</category>
+<category xml:id="keyword_29"><catDesc xml:id="n348.024645">Museum</catDesc>
+</category>
+<category xml:id="keyword_34"><catDesc xml:id="n348.024646">Poetry</catDesc>
+</category>
+<category xml:id="keyword_39"><catDesc xml:id="n348.024647">Script</catDesc>
+</category>
+<category xml:id="keyword_54"><catDesc xml:id="n348.024648">Muhammad, the Prophet</catDesc>
+</category>
+<category xml:id="keyword_83"><catDesc xml:id="n348.024649">Kashmiri</catDesc>
+</category>
+<category xml:id="keyword_84"><catDesc xml:id="n348.024650">Horses</catDesc>
+</category>
+<category xml:id="keyword_45"><catDesc xml:id="n348.024651">Walters Art Museum</catDesc>
+</category>
+<category xml:id="keyword_139"><catDesc xml:id="n348.024652">Document</catDesc>
+</category>
+<category xml:id="keyword_62"><catDesc xml:id="n348.024653">Astrology</catDesc>
+</category>
+<category xml:id="keyword_87"><catDesc xml:id="n348.024654">Devotion</catDesc>
+</category>
+<category xml:id="keyword_15"><catDesc xml:id="n348.024655">History</catDesc>
+</category>
+<category xml:id="keyword_88"><catDesc xml:id="n348.024656">Legal</catDesc>
+</category>
+<category xml:id="keyword_89"><catDesc xml:id="n348.024657">Literature -- Poetry</catDesc>
+</category>
+<category xml:id="keyword_90"><catDesc xml:id="n348.024658">Literature -- Prose</catDesc>
+</category>
+<category xml:id="keyword_91"><catDesc xml:id="n348.024659">Liturgy</catDesc>
+</category>
+<category xml:id="keyword_92"><catDesc xml:id="n348.024660">Philosophy</catDesc>
+</category>
+<category xml:id="keyword_38"><catDesc xml:id="n348.024661">Science</catDesc>
+</category>
+<category xml:id="keyword_93"><catDesc xml:id="n348.024662">Science -- Medicine</catDesc>
+</category>
+<category xml:id="keyword_40"><catDesc xml:id="n348.024663">Scripture</catDesc>
+</category>
+<category xml:id="keyword_55"><catDesc xml:id="n348.024664">Sufism</catDesc>
+</category>
+<category xml:id="keyword_94"><catDesc xml:id="n348.024665">Theology</catDesc>
+</category>
+<category xml:id="keyword_53"><catDesc xml:id="n348.024666">Mineralogy</catDesc>
+</category>
+<category xml:id="keyword_60"><catDesc xml:id="n348.024667">Logic</catDesc>
+</category>
+<category xml:id="keyword_50"><catDesc xml:id="n348.024668">Geography</catDesc>
+</category>
+<category xml:id="keyword_64"><catDesc xml:id="n348.024669">Geomancy</catDesc>
+</category>
+<category xml:id="keyword_10"><catDesc xml:id="n348.024670">Cosmology</catDesc>
+</category>
+<category xml:id="keyword_49"><catDesc xml:id="n348.024671">Cartography</catDesc>
+</category>
+<category xml:id="keyword_63"><catDesc xml:id="n348.024672">Fortune-telling</catDesc>
+</category>
+<category xml:id="keyword_23"><catDesc xml:id="n348.024673">Koran</catDesc>
+</category>
+<category xml:id="keyword_36"><catDesc xml:id="n348.024674">Qur`an</catDesc>
+</category>
+<category xml:id="keyword_77"><catDesc xml:id="n348.024675">Firman</catDesc>
+</category>
+<category xml:id="keyword_61"><catDesc xml:id="n348.024676">Palimpsest</catDesc>
+</category>
+<category xml:id="keyword_35"><catDesc xml:id="n348.024677">Prayer</catDesc>
+</category>
+<category xml:id="keyword_95"><catDesc xml:id="n348.024678">Bible</catDesc>
+</category>
+<category xml:id="keyword_96"><catDesc xml:id="n348.024679">Gospels</catDesc>
+</category>
+<category xml:id="keyword_97"><catDesc xml:id="n348.024680">Psalter</catDesc>
+</category>
+<category xml:id="keyword_98"><catDesc xml:id="n348.024681">Missal</catDesc>
+</category>
+<category xml:id="keyword_99"><catDesc xml:id="n348.024682">Lectionary</catDesc>
+</category>
+<category xml:id="keyword_100"><catDesc xml:id="n348.024683">Book of Hours</catDesc>
+</category>
+<category xml:id="keyword_101"><catDesc xml:id="n348.024684">Antiphonary</catDesc>
+</category>
+<category xml:id="keyword_104"><catDesc xml:id="n348.024685">Homilary</catDesc>
+</category>
+<category xml:id="keyword_105"><catDesc xml:id="n348.024686">Processional</catDesc>
+</category>
+<category xml:id="keyword_106"><catDesc xml:id="n348.024687">Horologion</catDesc>
+</category>
+<category xml:id="keyword_107"><catDesc xml:id="n348.024688">Breviary</catDesc>
+</category>
+<category xml:id="keyword_108"><catDesc xml:id="n348.024689">Hymnal</catDesc>
+</category>
+<category xml:id="keyword_109"><catDesc xml:id="n348.024690">Chronicle</catDesc>
+</category>
+<category xml:id="keyword_51"><catDesc xml:id="n348.024691">Maghreb</catDesc>
+</category>
+<category xml:id="keyword_56"><catDesc xml:id="n348.024692">Sub-Saharan (West) Africa</catDesc>
+</category>
+<category xml:id="keyword_42"><catDesc xml:id="n348.024693">Turkey</catDesc>
+</category>
+<category xml:id="keyword_81"><catDesc xml:id="n348.024694">Afghanistan</catDesc>
+</category>
+<category xml:id="keyword_57"><catDesc xml:id="n348.024695">Central Asia</catDesc>
+</category>
+<category xml:id="keyword_11"><catDesc xml:id="n348.024696">Egypt</catDesc>
+</category>
+<category xml:id="keyword_69"><catDesc xml:id="n348.024697">England</catDesc>
+</category>
+<category xml:id="keyword_18"><catDesc xml:id="n348.024698">India</catDesc>
+</category>
+<category xml:id="keyword_20"><catDesc xml:id="n348.024699">Iran</catDesc>
+</category>
+<category xml:id="keyword_21"><catDesc xml:id="n348.024700">Iraq</catDesc>
+</category>
+<category xml:id="keyword_80"><catDesc xml:id="n348.024701">Pakistan</catDesc>
+</category>
+<category xml:id="keyword_111"><catDesc xml:id="n348.024702">Germany</catDesc>
+</category>
+<category xml:id="keyword_112"><catDesc xml:id="n348.024703">France</catDesc>
+</category>
+<category xml:id="keyword_113"><catDesc xml:id="n348.024704">Austria</catDesc>
+</category>
+<category xml:id="keyword_114"><catDesc xml:id="n348.024705">Netherlands</catDesc>
+</category>
+<category xml:id="keyword_115"><catDesc xml:id="n348.024706">Ethiopia</catDesc>
+</category>
+<category xml:id="keyword_116"><catDesc xml:id="n348.024707">Armenia</catDesc>
+</category>
+<category xml:id="keyword_117"><catDesc xml:id="n348.024708">Flanders</catDesc>
+</category>
+<category xml:id="keyword_118"><catDesc xml:id="n348.024709">Greece</catDesc>
+</category>
+<category xml:id="keyword_52"><catDesc xml:id="n348.024710">Mamluk</catDesc>
+</category>
+<category xml:id="keyword_28"><catDesc xml:id="n348.024711">Mughal</catDesc>
+</category>
+<category xml:id="keyword_31"><catDesc xml:id="n348.024712">Ottoman</catDesc>
+</category>
+<category xml:id="keyword_68"><catDesc xml:id="n348.024713">Ottonian</catDesc>
+</category>
+<category xml:id="keyword_78"><catDesc xml:id="n348.024714">Armenian</catDesc>
+</category>
+<category xml:id="keyword_73"><catDesc xml:id="n348.024715">Byzantine</catDesc>
+</category>
+<category xml:id="keyword_1"><catDesc xml:id="n348.024716">Abbasid</catDesc>
+</category>
+<category xml:id="keyword_79"><catDesc xml:id="n348.024717">Qajar</catDesc>
+</category>
+<category xml:id="keyword_65"><catDesc xml:id="n348.024718">Rajput</catDesc>
+</category>
+<category xml:id="keyword_7"><catDesc xml:id="n348.024719">Christian</catDesc>
+</category>
+<category xml:id="keyword_2"><catDesc xml:id="n348.024720">Arabic</catDesc>
+</category>
+<category xml:id="keyword_74"><catDesc xml:id="n348.024721">Austrian</catDesc>
+</category>
+<category xml:id="keyword_75"><catDesc xml:id="n348.024722">Dutch</catDesc>
+</category>
+<category xml:id="keyword_12"><catDesc xml:id="n348.024723">Egyptian</catDesc>
+</category>
+<category xml:id="keyword_13"><catDesc xml:id="n348.024724">Fatimid</catDesc>
+</category>
+<category xml:id="keyword_70"><catDesc xml:id="n348.024725">German</catDesc>
+</category>
+<category xml:id="keyword_19"><catDesc xml:id="n348.024726">Indian</catDesc>
+</category>
+<category xml:id="keyword_22"><catDesc xml:id="n348.024727">Islamic</catDesc>
+</category>
+<category xml:id="keyword_33"><catDesc xml:id="n348.024728">Persian</catDesc>
+</category>
+<category xml:id="keyword_37"><catDesc xml:id="n348.024729">Safavid</catDesc>
+</category>
+<category xml:id="keyword_41"><catDesc xml:id="n348.024730">Timurid</catDesc>
+</category>
+<category xml:id="keyword_43"><catDesc xml:id="n348.024731">Turkish</catDesc>
+</category>
+<category xml:id="keyword_44"><catDesc xml:id="n348.024732">Umayyad</catDesc>
+</category>
+<category xml:id="keyword_119"><catDesc xml:id="n348.024733">English</catDesc>
+</category>
+<category xml:id="keyword_120"><catDesc xml:id="n348.024734">French</catDesc>
+</category>
+<category xml:id="keyword_121"><catDesc xml:id="n348.024735">Flemish</catDesc>
+</category>
+<category xml:id="keyword_122"><catDesc xml:id="n348.024736">Ethiopian</catDesc>
+</category>
+<category xml:id="keyword_86"><catDesc xml:id="n348.024737">Carolingian</catDesc>
+</category>
+<category xml:id="keyword_6"><catDesc xml:id="n348.024738">Calligraphy</catDesc>
+</category>
+<category xml:id="keyword_9"><catDesc xml:id="n348.024739">Colophon</catDesc>
+</category>
+<category xml:id="keyword_14"><catDesc xml:id="n348.024740">Headpiece</catDesc>
+</category>
+<category xml:id="keyword_16"><catDesc xml:id="n348.024741">Illumination</catDesc>
+</category>
+<category xml:id="keyword_17"><catDesc xml:id="n348.024742">Illustration</catDesc>
+</category>
+<category xml:id="keyword_25"><catDesc xml:id="n348.024743">Medallion</catDesc>
+</category>
+<category xml:id="keyword_27"><catDesc xml:id="n348.024744">Miniature</catDesc>
+</category>
+<category xml:id="keyword_30"><catDesc xml:id="n348.024745">Ornament</catDesc>
+</category>
+<category xml:id="keyword_32"><catDesc xml:id="n348.024746">Painting</catDesc>
+</category>
+<category xml:id="keyword_59"><catDesc xml:id="n348.024747">Early Abbasid script</catDesc>
+</category>
+<category xml:id="keyword_76"><catDesc xml:id="n348.024748">Ragini</catDesc>
+</category>
+<category xml:id="keyword_71"><catDesc xml:id="n348.024749">Romanesque</catDesc>
+</category>
+<category xml:id="keyword_72"><catDesc xml:id="n348.024750">Gothic</catDesc>
+</category>
+<category xml:id="keyword_123"><catDesc xml:id="n348.024751">Watermark</catDesc>
+</category>
+<category xml:id="keyword_127"><catDesc xml:id="n348.024752">Grotesques</catDesc>
+</category>
+<category xml:id="keyword_128"><catDesc xml:id="n348.024753">Historiated initial</catDesc>
+</category>
+<category xml:id="keyword_129"><catDesc xml:id="n348.024754">Inhabited initial</catDesc>
+</category>
+<category xml:id="keyword_132"><catDesc xml:id="n348.024755">White-vine lettering</catDesc>
+</category>
+<category xml:id="keyword_134"><catDesc xml:id="n348.024756">Textura</catDesc>
+</category>
+<category xml:id="keyword_135"><catDesc xml:id="n348.024757">Batarda</catDesc>
+</category>
+<category xml:id="keyword_136"><catDesc xml:id="n348.024758">Humanistic</catDesc>
+</category>
+<category xml:id="keyword_137"><catDesc xml:id="n348.024759">Uncial</catDesc>
+</category>
+<category xml:id="keyword_66"><catDesc xml:id="n348.024760">Accordion book</catDesc>
+</category>
+<category xml:id="keyword_67"><catDesc xml:id="n348.024761">Album</catDesc>
+</category>
+<category xml:id="keyword_5"><catDesc xml:id="n348.024762">Book</catDesc>
+</category>
+<category xml:id="keyword_8"><catDesc xml:id="n348.024763">Codex</catDesc>
+</category>
+<category xml:id="keyword_24"><catDesc xml:id="n348.024764">Manuscript</catDesc>
+</category>
+<category xml:id="keyword_138"><catDesc xml:id="n348.024765">Heraldry</catDesc>
+</category>
+<category xml:id="keyword_103"><catDesc xml:id="n348.024766">Saint's Life</catDesc>
+</category>
+<category xml:id="keyword_143"><catDesc xml:id="n348.024767">Drawing</catDesc>
+</category>
+<category xml:id="keyword_140"><catDesc xml:id="n348.024768">Grisaille</catDesc>
+</category>
+<category xml:id="keyword_126"><catDesc xml:id="n348.024769">Binding</catDesc>
+</category>
+<category xml:id="keyword_58"><catDesc xml:id="n348.024770">New Abbasid style</catDesc>
+</category>
+<category xml:id="keyword_158"><catDesc xml:id="n348.024771">Musical notation</catDesc>
+</category>
+<category xml:id="keyword_159"><catDesc xml:id="n348.024772">Russia</catDesc>
+</category>
+<category xml:id="keyword_85"><catDesc xml:id="n348.024773">Romania</catDesc>
+</category>
+<category xml:id="keyword_144"><catDesc xml:id="n348.024774">Charter</catDesc>
+</category>
+<category xml:id="keyword_160"><catDesc xml:id="n348.024775">Russian</catDesc>
+</category>
+<category xml:id="keyword_141"><catDesc xml:id="n348.024776">Genealogy</catDesc>
+</category>
+<category xml:id="keyword_161"><catDesc xml:id="n348.024777">Mass book</catDesc>
+</category>
+<category xml:id="keyword_102"><catDesc xml:id="n348.024778">Prayer book</catDesc>
+</category>
+<category xml:id="keyword_162"><catDesc xml:id="n348.024779">Gospel Lectionary</catDesc>
+</category>
+<category xml:id="keyword_110"><catDesc xml:id="n348.024780">Psalter-Hours</catDesc>
+</category>
+<category xml:id="keyword_163"><catDesc xml:id="n348.024781">Treatise</catDesc>
+</category>
+<category xml:id="keyword_164"><catDesc xml:id="n348.024782">Grammar</catDesc>
+</category>
+<category xml:id="keyword_165"><catDesc xml:id="n348.024783">Gloss</catDesc>
+</category>
+<category xml:id="keyword_166"><catDesc xml:id="n348.024784">Pontifical</catDesc>
+</category>
+<category xml:id="keyword_167"><catDesc xml:id="n348.024785">Private devotional text</catDesc>
+</category>
+<category xml:id="keyword_168"><catDesc xml:id="n348.024786">Gradual</catDesc>
+</category>
+<category xml:id="keyword_169"><catDesc xml:id="n348.024787">Protective scroll</catDesc>
+</category>
+<category xml:id="keyword_170"><catDesc xml:id="n348.024788">Scroll</catDesc>
+</category>
+<category xml:id="keyword_147"><catDesc xml:id="n348.024789">10th century</catDesc>
+</category>
+<category xml:id="keyword_148"><catDesc xml:id="n348.024790">11th century</catDesc>
+</category>
+<category xml:id="keyword_149"><catDesc xml:id="n348.024791">12th century</catDesc>
+</category>
+<category xml:id="keyword_150"><catDesc xml:id="n348.024792">13th century</catDesc>
+</category>
+<category xml:id="keyword_151"><catDesc xml:id="n348.024793">14th century</catDesc>
+</category>
+<category xml:id="keyword_152"><catDesc xml:id="n348.024794">15th century</catDesc>
+</category>
+<category xml:id="keyword_153"><catDesc xml:id="n348.024795">16th century</catDesc>
+</category>
+<category xml:id="keyword_154"><catDesc xml:id="n348.024796">17th century</catDesc>
+</category>
+<category xml:id="keyword_155"><catDesc xml:id="n348.024797">18th century</catDesc>
+</category>
+<category xml:id="keyword_156"><catDesc xml:id="n348.024798">19th century</catDesc>
+</category>
+<category xml:id="keyword_157"><catDesc xml:id="n348.024799">20th century</catDesc>
+</category>
+<category xml:id="keyword_145"><catDesc xml:id="n348.024800">8th century</catDesc>
+</category>
+<category xml:id="keyword_146"><catDesc xml:id="n348.024801">9th century</catDesc>
+</category>
+<category xml:id="keyword_142"><catDesc xml:id="n348.024802">Block book</catDesc>
+</category>
+<category xml:id="keyword_130"><catDesc xml:id="n348.024803">Caroline minuscule</catDesc>
+</category>
+<category xml:id="keyword_48"><catDesc xml:id="n348.024804">Central Arab lands (Near East)</catDesc>
+</category>
+<category xml:id="keyword_82"><catDesc xml:id="n348.024805">Chart</catDesc>
+</category>
+<category xml:id="keyword_133"><catDesc xml:id="n348.024806">English secretary hand</catDesc>
+</category>
+<category xml:id="keyword_47"><catDesc xml:id="n348.024807">Kufic</catDesc>
+</category>
+<category xml:id="keyword_131"><catDesc xml:id="n348.024808">Gothic book hand</catDesc>
+</category>
+<category xml:id="keyword_125"><catDesc xml:id="n348.024809">Original binding</catDesc>
+</category>
+<category xml:id="keyword_124"><catDesc xml:id="n348.024810">Treasure binding</catDesc>
+</category>
+<category xml:id="keyword_171"><catDesc xml:id="n348.024811">Gospel Book</catDesc>
+</category>
+<category xml:id="keyword_172"><catDesc xml:id="n348.024812">Spanish</catDesc>
+</category>
+<category xml:id="keyword_173"><catDesc xml:id="n348.024813">Spain</catDesc>
+</category>
+<category xml:id="keyword_174"><catDesc xml:id="n348.024814">Italian</catDesc>
+</category>
+<category xml:id="keyword_175"><catDesc xml:id="n348.024815">Italy</catDesc>
+</category>
+</taxonomy>
+<taxonomy xml:id="genres"><category xml:id="genre_1"><catDesc xml:id="n348.024816">Liturgical</catDesc>
+</category>
+<category xml:id="genre_2"><catDesc xml:id="n348.024817">Devotional</catDesc>
+</category>
+<category xml:id="genre_3"><catDesc xml:id="n348.024818">Scriptural</catDesc>
+</category>
+<category xml:id="genre_4"><catDesc xml:id="n348.024819">Theological</catDesc>
+</category>
+<category xml:id="genre_5"><catDesc xml:id="n348.024820">Legal</catDesc>
+</category>
+<category xml:id="genre_6"><catDesc xml:id="n348.024821">Historical</catDesc>
+</category>
+<category xml:id="genre_7"><catDesc xml:id="n348.024822">Scientific</catDesc>
+</category>
+<category xml:id="genre_8"><catDesc xml:id="n348.024823">Scientific -- Medical</catDesc>
+</category>
+<category xml:id="genre_9"><catDesc xml:id="n348.024824">Literary -- Prose</catDesc>
+</category>
+<category xml:id="genre_10"><catDesc xml:id="n348.024825">Literary -- Poetry</catDesc>
+</category>
+<category xml:id="genre_11"><catDesc xml:id="n348.024826">Philosophical</catDesc>
+</category>
+<category xml:id="genre_12"><catDesc xml:id="n348.024827">Astrological</catDesc>
+</category>
+<category xml:id="genre_13"><catDesc xml:id="n348.024828">Sufi</catDesc>
+</category>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc xml:id="n348.024829"><langUsage xml:id="n348.024830"><language xml:id="n348.024831" ident="en">English</language>
+</langUsage>
+<textClass xml:id="n348.024832"><catRef target="#genre_3" scheme="#genres" xml:id="n348.024833"/>
+<keywords scheme="#keywords" xml:id="n348.024834"><list xml:id="n348.024835"><item xml:id="n348.024836">Book</item>
+<item xml:id="n348.024837">Christian</item>
+<item xml:id="n348.024838">Codex</item>
+<item xml:id="n348.024839">Illumination</item>
+<item xml:id="n348.024840">Manuscript</item>
+<item xml:id="n348.024841">Miniature</item>
+<item xml:id="n348.024842">Scripture</item>
+<item xml:id="n348.024843">Walters Art Museum</item>
+<item xml:id="n348.024844">German</item>
+<item xml:id="n348.024845">Carolingian</item>
+<item xml:id="n348.024846">Gospels</item>
+<item xml:id="n348.024847">Germany</item>
+<item xml:id="n348.024848">Caroline minuscule</item>
+<item xml:id="n348.024849">9th century</item>
+<item xml:id="n348.024850">Gospel Book</item>
+</list>
+</keywords>
+</textClass>
+</profileDesc>
+</teiHeader>
+<facsimile xml:id="n348.024851"><surface n="Upper board outside" xml:id="n348.022200"><graphic url="master/W4_000001_1200.tif" xml:id="n348.022201"/>
+<graphic url="300/W4_000001_300.tif" xml:id="n348.022202"/>
+<graphic url="sap/W4_000001_sap.jpg" xml:id="n348.022203"/>
+<graphic url="thumb/W4_000001_thumb.jpg" xml:id="n348.022204"/>
+</surface>
+<surface n="Upper board inside" xml:id="n348.022205"><graphic url="master/W4_000002_600.tif" xml:id="n348.022206"/>
+<graphic url="300/W4_000002_300.tif" xml:id="n348.022207"/>
+<graphic url="sap/W4_000002_sap.jpg" xml:id="n348.022208"/>
+<graphic url="thumb/W4_000002_thumb.jpg" xml:id="n348.022209"/>
+</surface>
+<surface n="fol. 1r" xml:id="n348.022210"><graphic url="master/W4_000003_600.tif" xml:id="n348.022211"/>
+<graphic url="300/W4_000003_300.tif" xml:id="n348.022212"/>
+<graphic url="sap/W4_000003_sap.jpg" xml:id="n348.022213"/>
+<graphic url="thumb/W4_000003_thumb.jpg" xml:id="n348.022214"/>
+</surface>
+<surface n="fol. 1v" xml:id="n348.022215"><graphic url="master/W4_000004_600.tif" xml:id="n348.022216"/>
+<graphic url="300/W4_000004_300.tif" xml:id="n348.022217"/>
+<graphic url="sap/W4_000004_sap.jpg" xml:id="n348.022218"/>
+<graphic url="thumb/W4_000004_thumb.jpg" xml:id="n348.022219"/>
+</surface>
+<surface n="fol. 2r" xml:id="n348.022220"><graphic url="master/W4_000005_600.tif" xml:id="n348.022221"/>
+<graphic url="300/W4_000005_300.tif" xml:id="n348.022222"/>
+<graphic url="sap/W4_000005_sap.jpg" xml:id="n348.022223"/>
+<graphic url="thumb/W4_000005_thumb.jpg" xml:id="n348.022224"/>
+</surface>
+<surface n="fol. 2v" xml:id="n348.022225"><graphic url="master/W4_000006_600.tif" xml:id="n348.022226"/>
+<graphic url="300/W4_000006_300.tif" xml:id="n348.022227"/>
+<graphic url="sap/W4_000006_sap.jpg" xml:id="n348.022228"/>
+<graphic url="thumb/W4_000006_thumb.jpg" xml:id="n348.022229"/>
+</surface>
+<surface n="fol. 3r" xml:id="n348.022230"><graphic url="master/W4_000007_600.tif" xml:id="n348.022231"/>
+<graphic url="300/W4_000007_300.tif" xml:id="n348.022232"/>
+<graphic url="sap/W4_000007_sap.jpg" xml:id="n348.022233"/>
+<graphic url="thumb/W4_000007_thumb.jpg" xml:id="n348.022234"/>
+</surface>
+<surface n="fol. 3v" xml:id="n348.022235"><graphic url="master/W4_000008_600.tif" xml:id="n348.022236"/>
+<graphic url="300/W4_000008_300.tif" xml:id="n348.022237"/>
+<graphic url="sap/W4_000008_sap.jpg" xml:id="n348.022238"/>
+<graphic url="thumb/W4_000008_thumb.jpg" xml:id="n348.022239"/>
+</surface>
+<surface n="fol. 4r" xml:id="n348.022240"><graphic url="master/W4_000009_600.tif" xml:id="n348.022241"/>
+<graphic url="300/W4_000009_300.tif" xml:id="n348.022242"/>
+<graphic url="sap/W4_000009_sap.jpg" xml:id="n348.022243"/>
+<graphic url="thumb/W4_000009_thumb.jpg" xml:id="n348.022244"/>
+</surface>
+<surface n="fol. 4v" xml:id="n348.022245"><graphic url="master/W4_000010_600.tif" xml:id="n348.022246"/>
+<graphic url="300/W4_000010_300.tif" xml:id="n348.022247"/>
+<graphic url="sap/W4_000010_sap.jpg" xml:id="n348.022248"/>
+<graphic url="thumb/W4_000010_thumb.jpg" xml:id="n348.022249"/>
+</surface>
+<surface n="fol. 5r" xml:id="n348.022250"><graphic url="master/W4_000011_600.tif" xml:id="n348.022251"/>
+<graphic url="300/W4_000011_300.tif" xml:id="n348.022252"/>
+<graphic url="sap/W4_000011_sap.jpg" xml:id="n348.022253"/>
+<graphic url="thumb/W4_000011_thumb.jpg" xml:id="n348.022254"/>
+</surface>
+<surface n="fol. 5v" xml:id="n348.022255"><graphic url="master/W4_000012_600.tif" xml:id="n348.022256"/>
+<graphic url="300/W4_000012_300.tif" xml:id="n348.022257"/>
+<graphic url="sap/W4_000012_sap.jpg" xml:id="n348.022258"/>
+<graphic url="thumb/W4_000012_thumb.jpg" xml:id="n348.022259"/>
+</surface>
+<surface n="fol. 6r" xml:id="n348.022260"><graphic url="master/W4_000013_600.tif" xml:id="n348.022261"/>
+<graphic url="300/W4_000013_300.tif" xml:id="n348.022262"/>
+<graphic url="sap/W4_000013_sap.jpg" xml:id="n348.022263"/>
+<graphic url="thumb/W4_000013_thumb.jpg" xml:id="n348.022264"/>
+</surface>
+<surface n="fol. 6v" xml:id="n348.022265"><graphic url="master/W4_000014_600.tif" xml:id="n348.022266"/>
+<graphic url="300/W4_000014_300.tif" xml:id="n348.022267"/>
+<graphic url="sap/W4_000014_sap.jpg" xml:id="n348.022268"/>
+<graphic url="thumb/W4_000014_thumb.jpg" xml:id="n348.022269"/>
+</surface>
+<surface n="fol. 7r" xml:id="n348.022270"><graphic url="master/W4_000015_600.tif" xml:id="n348.022271"/>
+<graphic url="300/W4_000015_300.tif" xml:id="n348.022272"/>
+<graphic url="sap/W4_000015_sap.jpg" xml:id="n348.022273"/>
+<graphic url="thumb/W4_000015_thumb.jpg" xml:id="n348.022274"/>
+</surface>
+<surface n="fol. 7v" xml:id="n348.022275"><graphic url="master/W4_000016_600.tif" xml:id="n348.022276"/>
+<graphic url="300/W4_000016_300.tif" xml:id="n348.022277"/>
+<graphic url="sap/W4_000016_sap.jpg" xml:id="n348.022278"/>
+<graphic url="thumb/W4_000016_thumb.jpg" xml:id="n348.022279"/>
+</surface>
+<surface n="fol. 8r" xml:id="n348.022280"><graphic url="master/W4_000017_600.tif" xml:id="n348.022281"/>
+<graphic url="300/W4_000017_300.tif" xml:id="n348.022282"/>
+<graphic url="sap/W4_000017_sap.jpg" xml:id="n348.022283"/>
+<graphic url="thumb/W4_000017_thumb.jpg" xml:id="n348.022284"/>
+</surface>
+<surface n="fol. 8v" xml:id="n348.022285"><graphic url="master/W4_000018_600.tif" xml:id="n348.022286"/>
+<graphic url="300/W4_000018_300.tif" xml:id="n348.022287"/>
+<graphic url="sap/W4_000018_sap.jpg" xml:id="n348.022288"/>
+<graphic url="thumb/W4_000018_thumb.jpg" xml:id="n348.022289"/>
+</surface>
+<surface n="fol. 9r" xml:id="n348.022290"><graphic url="master/W4_000019_600.tif" xml:id="n348.022291"/>
+<graphic url="300/W4_000019_300.tif" xml:id="n348.022292"/>
+<graphic url="sap/W4_000019_sap.jpg" xml:id="n348.022293"/>
+<graphic url="thumb/W4_000019_thumb.jpg" xml:id="n348.022294"/>
+</surface>
+<surface n="fol. 9v" xml:id="n348.022295"><graphic url="master/W4_000020_600.tif" xml:id="n348.022296"/>
+<graphic url="300/W4_000020_300.tif" xml:id="n348.022297"/>
+<graphic url="sap/W4_000020_sap.jpg" xml:id="n348.022298"/>
+<graphic url="thumb/W4_000020_thumb.jpg" xml:id="n348.022299"/>
+</surface>
+<surface n="fol. 10r" xml:id="n348.022300"><graphic url="master/W4_000021_600.tif" xml:id="n348.022301"/>
+<graphic url="300/W4_000021_300.tif" xml:id="n348.022302"/>
+<graphic url="sap/W4_000021_sap.jpg" xml:id="n348.022303"/>
+<graphic url="thumb/W4_000021_thumb.jpg" xml:id="n348.022304"/>
+</surface>
+<surface n="fol. 10v" xml:id="n348.022305"><graphic url="master/W4_000022_600.tif" xml:id="n348.022306"/>
+<graphic url="300/W4_000022_300.tif" xml:id="n348.022307"/>
+<graphic url="sap/W4_000022_sap.jpg" xml:id="n348.022308"/>
+<graphic url="thumb/W4_000022_thumb.jpg" xml:id="n348.022309"/>
+</surface>
+<surface n="fol. 11r" xml:id="n348.022310"><graphic url="master/W4_000023_600.tif" xml:id="n348.022311"/>
+<graphic url="300/W4_000023_300.tif" xml:id="n348.022312"/>
+<graphic url="sap/W4_000023_sap.jpg" xml:id="n348.022313"/>
+<graphic url="thumb/W4_000023_thumb.jpg" xml:id="n348.022314"/>
+</surface>
+<surface n="fol. 11v" xml:id="n348.022315"><graphic url="master/W4_000024_600.tif" xml:id="n348.022316"/>
+<graphic url="300/W4_000024_300.tif" xml:id="n348.022317"/>
+<graphic url="sap/W4_000024_sap.jpg" xml:id="n348.022318"/>
+<graphic url="thumb/W4_000024_thumb.jpg" xml:id="n348.022319"/>
+</surface>
+<surface n="fol. 12r" xml:id="n348.022320"><graphic url="master/W4_000025_600.tif" xml:id="n348.022321"/>
+<graphic url="300/W4_000025_300.tif" xml:id="n348.022322"/>
+<graphic url="sap/W4_000025_sap.jpg" xml:id="n348.022323"/>
+<graphic url="thumb/W4_000025_thumb.jpg" xml:id="n348.022324"/>
+</surface>
+<surface n="fol. 12v" xml:id="n348.022325"><graphic url="master/W4_000026_600.tif" xml:id="n348.022326"/>
+<graphic url="300/W4_000026_300.tif" xml:id="n348.022327"/>
+<graphic url="sap/W4_000026_sap.jpg" xml:id="n348.022328"/>
+<graphic url="thumb/W4_000026_thumb.jpg" xml:id="n348.022329"/>
+</surface>
+<surface n="fol. 13r" xml:id="n348.022330"><graphic url="master/W4_000027_600.tif" xml:id="n348.022331"/>
+<graphic url="300/W4_000027_300.tif" xml:id="n348.022332"/>
+<graphic url="sap/W4_000027_sap.jpg" xml:id="n348.022333"/>
+<graphic url="thumb/W4_000027_thumb.jpg" xml:id="n348.022334"/>
+</surface>
+<surface n="fol. 13v" xml:id="n348.022335"><graphic url="master/W4_000028_600.tif" xml:id="n348.022336"/>
+<graphic url="300/W4_000028_300.tif" xml:id="n348.022337"/>
+<graphic url="sap/W4_000028_sap.jpg" xml:id="n348.022338"/>
+<graphic url="thumb/W4_000028_thumb.jpg" xml:id="n348.022339"/>
+</surface>
+<surface n="fol. 14r" xml:id="n348.022340"><graphic url="master/W4_000029_600.tif" xml:id="n348.022341"/>
+<graphic url="300/W4_000029_300.tif" xml:id="n348.022342"/>
+<graphic url="sap/W4_000029_sap.jpg" xml:id="n348.022343"/>
+<graphic url="thumb/W4_000029_thumb.jpg" xml:id="n348.022344"/>
+</surface>
+<surface n="fol. 14v" xml:id="n348.022345"><graphic url="master/W4_000030_600.tif" xml:id="n348.022346"/>
+<graphic url="300/W4_000030_300.tif" xml:id="n348.022347"/>
+<graphic url="sap/W4_000030_sap.jpg" xml:id="n348.022348"/>
+<graphic url="thumb/W4_000030_thumb.jpg" xml:id="n348.022349"/>
+</surface>
+<surface n="fol. 15r" xml:id="n348.022350"><graphic url="master/W4_000031_600.tif" xml:id="n348.022351"/>
+<graphic url="300/W4_000031_300.tif" xml:id="n348.022352"/>
+<graphic url="sap/W4_000031_sap.jpg" xml:id="n348.022353"/>
+<graphic url="thumb/W4_000031_thumb.jpg" xml:id="n348.022354"/>
+</surface>
+<surface n="fol. 15v" xml:id="n348.022355"><graphic url="master/W4_000032_600.tif" xml:id="n348.022356"/>
+<graphic url="300/W4_000032_300.tif" xml:id="n348.022357"/>
+<graphic url="sap/W4_000032_sap.jpg" xml:id="n348.022358"/>
+<graphic url="thumb/W4_000032_thumb.jpg" xml:id="n348.022359"/>
+</surface>
+<surface n="fol. 16r" xml:id="n348.022360"><graphic url="master/W4_000033_600.tif" xml:id="n348.022361"/>
+<graphic url="300/W4_000033_300.tif" xml:id="n348.022362"/>
+<graphic url="sap/W4_000033_sap.jpg" xml:id="n348.022363"/>
+<graphic url="thumb/W4_000033_thumb.jpg" xml:id="n348.022364"/>
+</surface>
+<surface n="fol. 16v" xml:id="n348.022365"><graphic url="master/W4_000034_600.tif" xml:id="n348.022366"/>
+<graphic url="300/W4_000034_300.tif" xml:id="n348.022367"/>
+<graphic url="sap/W4_000034_sap.jpg" xml:id="n348.022368"/>
+<graphic url="thumb/W4_000034_thumb.jpg" xml:id="n348.022369"/>
+</surface>
+<surface n="fol. 17r" xml:id="n348.022370"><graphic url="master/W4_000035_600.tif" xml:id="n348.022371"/>
+<graphic url="300/W4_000035_300.tif" xml:id="n348.022372"/>
+<graphic url="sap/W4_000035_sap.jpg" xml:id="n348.022373"/>
+<graphic url="thumb/W4_000035_thumb.jpg" xml:id="n348.022374"/>
+</surface>
+<surface n="fol. 17v" xml:id="n348.022375"><graphic url="master/W4_000036_600.tif" xml:id="n348.022376"/>
+<graphic url="300/W4_000036_300.tif" xml:id="n348.022377"/>
+<graphic url="sap/W4_000036_sap.jpg" xml:id="n348.022378"/>
+<graphic url="thumb/W4_000036_thumb.jpg" xml:id="n348.022379"/>
+</surface>
+<surface n="fol. 18r" xml:id="n348.022380"><graphic url="master/W4_000037_600.tif" xml:id="n348.022381"/>
+<graphic url="300/W4_000037_300.tif" xml:id="n348.022382"/>
+<graphic url="sap/W4_000037_sap.jpg" xml:id="n348.022383"/>
+<graphic url="thumb/W4_000037_thumb.jpg" xml:id="n348.022384"/>
+</surface>
+<surface n="fol. 18v" xml:id="n348.022385"><graphic url="master/W4_000038_600.tif" xml:id="n348.022386"/>
+<graphic url="300/W4_000038_300.tif" xml:id="n348.022387"/>
+<graphic url="sap/W4_000038_sap.jpg" xml:id="n348.022388"/>
+<graphic url="thumb/W4_000038_thumb.jpg" xml:id="n348.022389"/>
+</surface>
+<surface n="fol. 19r" xml:id="n348.022390"><graphic url="master/W4_000039_600.tif" xml:id="n348.022391"/>
+<graphic url="300/W4_000039_300.tif" xml:id="n348.022392"/>
+<graphic url="sap/W4_000039_sap.jpg" xml:id="n348.022393"/>
+<graphic url="thumb/W4_000039_thumb.jpg" xml:id="n348.022394"/>
+</surface>
+<surface n="fol. 19v" xml:id="n348.022395"><graphic url="master/W4_000040_600.tif" xml:id="n348.022396"/>
+<graphic url="300/W4_000040_300.tif" xml:id="n348.022397"/>
+<graphic url="sap/W4_000040_sap.jpg" xml:id="n348.022398"/>
+<graphic url="thumb/W4_000040_thumb.jpg" xml:id="n348.022399"/>
+</surface>
+<surface n="fol. 20r" xml:id="n348.022400"><graphic url="master/W4_000041_600.tif" xml:id="n348.022401"/>
+<graphic url="300/W4_000041_300.tif" xml:id="n348.022402"/>
+<graphic url="sap/W4_000041_sap.jpg" xml:id="n348.022403"/>
+<graphic url="thumb/W4_000041_thumb.jpg" xml:id="n348.022404"/>
+</surface>
+<surface n="fol. 20v" xml:id="n348.022405"><graphic url="master/W4_000042_600.tif" xml:id="n348.022406"/>
+<graphic url="300/W4_000042_300.tif" xml:id="n348.022407"/>
+<graphic url="sap/W4_000042_sap.jpg" xml:id="n348.022408"/>
+<graphic url="thumb/W4_000042_thumb.jpg" xml:id="n348.022409"/>
+</surface>
+<surface n="fol. 21r" xml:id="n348.022410"><graphic url="master/W4_000043_600.tif" xml:id="n348.022411"/>
+<graphic url="300/W4_000043_300.tif" xml:id="n348.022412"/>
+<graphic url="sap/W4_000043_sap.jpg" xml:id="n348.022413"/>
+<graphic url="thumb/W4_000043_thumb.jpg" xml:id="n348.022414"/>
+</surface>
+<surface n="fol. 21v" xml:id="n348.022415"><graphic url="master/W4_000044_600.tif" xml:id="n348.022416"/>
+<graphic url="300/W4_000044_300.tif" xml:id="n348.022417"/>
+<graphic url="sap/W4_000044_sap.jpg" xml:id="n348.022418"/>
+<graphic url="thumb/W4_000044_thumb.jpg" xml:id="n348.022419"/>
+</surface>
+<surface n="fol. 22r" xml:id="n348.022420"><graphic url="master/W4_000045_600.tif" xml:id="n348.022421"/>
+<graphic url="300/W4_000045_300.tif" xml:id="n348.022422"/>
+<graphic url="sap/W4_000045_sap.jpg" xml:id="n348.022423"/>
+<graphic url="thumb/W4_000045_thumb.jpg" xml:id="n348.022424"/>
+</surface>
+<surface n="fol. 22v" xml:id="n348.022425"><graphic url="master/W4_000046_600.tif" xml:id="n348.022426"/>
+<graphic url="300/W4_000046_300.tif" xml:id="n348.022427"/>
+<graphic url="sap/W4_000046_sap.jpg" xml:id="n348.022428"/>
+<graphic url="thumb/W4_000046_thumb.jpg" xml:id="n348.022429"/>
+</surface>
+<surface n="fol. 23r" xml:id="n348.022430"><graphic url="master/W4_000047_600.tif" xml:id="n348.022431"/>
+<graphic url="300/W4_000047_300.tif" xml:id="n348.022432"/>
+<graphic url="sap/W4_000047_sap.jpg" xml:id="n348.022433"/>
+<graphic url="thumb/W4_000047_thumb.jpg" xml:id="n348.022434"/>
+</surface>
+<surface n="fol. 23v" xml:id="n348.022435"><graphic url="master/W4_000048_600.tif" xml:id="n348.022436"/>
+<graphic url="300/W4_000048_300.tif" xml:id="n348.022437"/>
+<graphic url="sap/W4_000048_sap.jpg" xml:id="n348.022438"/>
+<graphic url="thumb/W4_000048_thumb.jpg" xml:id="n348.022439"/>
+</surface>
+<surface n="fol. 24r" xml:id="n348.022440"><graphic url="master/W4_000049_1200.tif" xml:id="n348.022441"/>
+<graphic url="300/W4_000049_300.tif" xml:id="n348.022442"/>
+<graphic url="sap/W4_000049_sap.jpg" xml:id="n348.022443"/>
+<graphic url="thumb/W4_000049_thumb.jpg" xml:id="n348.022444"/>
+</surface>
+<surface n="fol. 24v" xml:id="n348.022445"><graphic url="master/W4_000050_1200.tif" xml:id="n348.022446"/>
+<graphic url="300/W4_000050_300.tif" xml:id="n348.022447"/>
+<graphic url="sap/W4_000050_sap.jpg" xml:id="n348.022448"/>
+<graphic url="thumb/W4_000050_thumb.jpg" xml:id="n348.022449"/>
+</surface>
+<surface n="fol. 25r" xml:id="n348.022450"><graphic url="master/W4_000051_1200.tif" xml:id="n348.022451"/>
+<graphic url="300/W4_000051_300.tif" xml:id="n348.022452"/>
+<graphic url="sap/W4_000051_sap.jpg" xml:id="n348.022453"/>
+<graphic url="thumb/W4_000051_thumb.jpg" xml:id="n348.022454"/>
+</surface>
+<surface n="fol. 25v" xml:id="n348.022455"><graphic url="master/W4_000052_1200.tif" xml:id="n348.022456"/>
+<graphic url="300/W4_000052_300.tif" xml:id="n348.022457"/>
+<graphic url="sap/W4_000052_sap.jpg" xml:id="n348.022458"/>
+<graphic url="thumb/W4_000052_thumb.jpg" xml:id="n348.022459"/>
+</surface>
+<surface n="fol. 26r" xml:id="n348.022460"><graphic url="master/W4_000053_1200.tif" xml:id="n348.022461"/>
+<graphic url="300/W4_000053_300.tif" xml:id="n348.022462"/>
+<graphic url="sap/W4_000053_sap.jpg" xml:id="n348.022463"/>
+<graphic url="thumb/W4_000053_thumb.jpg" xml:id="n348.022464"/>
+</surface>
+<surface n="fol. 26v" xml:id="n348.022465"><graphic url="master/W4_000054_1200.tif" xml:id="n348.022466"/>
+<graphic url="300/W4_000054_300.tif" xml:id="n348.022467"/>
+<graphic url="sap/W4_000054_sap.jpg" xml:id="n348.022468"/>
+<graphic url="thumb/W4_000054_thumb.jpg" xml:id="n348.022469"/>
+</surface>
+<surface n="fol. 27r" xml:id="n348.022470"><graphic url="master/W4_000055_1200.tif" xml:id="n348.022471"/>
+<graphic url="300/W4_000055_300.tif" xml:id="n348.022472"/>
+<graphic url="sap/W4_000055_sap.jpg" xml:id="n348.022473"/>
+<graphic url="thumb/W4_000055_thumb.jpg" xml:id="n348.022474"/>
+</surface>
+<surface n="fol. 27v" xml:id="n348.022475"><graphic url="master/W4_000056_1200.tif" xml:id="n348.022476"/>
+<graphic url="300/W4_000056_300.tif" xml:id="n348.022477"/>
+<graphic url="sap/W4_000056_sap.jpg" xml:id="n348.022478"/>
+<graphic url="thumb/W4_000056_thumb.jpg" xml:id="n348.022479"/>
+</surface>
+<surface n="fol. 28r" xml:id="n348.022480"><graphic url="master/W4_000057_1200.tif" xml:id="n348.022481"/>
+<graphic url="300/W4_000057_300.tif" xml:id="n348.022482"/>
+<graphic url="sap/W4_000057_sap.jpg" xml:id="n348.022483"/>
+<graphic url="thumb/W4_000057_thumb.jpg" xml:id="n348.022484"/>
+</surface>
+<surface n="fol. 28v" xml:id="n348.022485"><graphic url="master/W4_000058_1200.tif" xml:id="n348.022486"/>
+<graphic url="300/W4_000058_300.tif" xml:id="n348.022487"/>
+<graphic url="sap/W4_000058_sap.jpg" xml:id="n348.022488"/>
+<graphic url="thumb/W4_000058_thumb.jpg" xml:id="n348.022489"/>
+</surface>
+<surface n="fol. 29r" xml:id="n348.022490"><graphic url="master/W4_000059_1200.tif" xml:id="n348.022491"/>
+<graphic url="300/W4_000059_300.tif" xml:id="n348.022492"/>
+<graphic url="sap/W4_000059_sap.jpg" xml:id="n348.022493"/>
+<graphic url="thumb/W4_000059_thumb.jpg" xml:id="n348.022494"/>
+</surface>
+<surface n="fol. 29v" xml:id="n348.022495"><graphic url="master/W4_000060_1200.tif" xml:id="n348.022496"/>
+<graphic url="300/W4_000060_300.tif" xml:id="n348.022497"/>
+<graphic url="sap/W4_000060_sap.jpg" xml:id="n348.022498"/>
+<graphic url="thumb/W4_000060_thumb.jpg" xml:id="n348.022499"/>
+</surface>
+<surface n="fol. 30r" xml:id="n348.022500"><graphic url="master/W4_000061_1200.tif" xml:id="n348.022501"/>
+<graphic url="300/W4_000061_300.tif" xml:id="n348.022502"/>
+<graphic url="sap/W4_000061_sap.jpg" xml:id="n348.022503"/>
+<graphic url="thumb/W4_000061_thumb.jpg" xml:id="n348.022504"/>
+</surface>
+<surface n="fol. 30v" xml:id="n348.022505"><graphic url="master/W4_000062_1200.tif" xml:id="n348.022506"/>
+<graphic url="300/W4_000062_300.tif" xml:id="n348.022507"/>
+<graphic url="sap/W4_000062_sap.jpg" xml:id="n348.022508"/>
+<graphic url="thumb/W4_000062_thumb.jpg" xml:id="n348.022509"/>
+</surface>
+<surface n="fol. 31r" xml:id="n348.022510"><graphic url="master/W4_000063_1200.tif" xml:id="n348.022511"/>
+<graphic url="300/W4_000063_300.tif" xml:id="n348.022512"/>
+<graphic url="sap/W4_000063_sap.jpg" xml:id="n348.022513"/>
+<graphic url="thumb/W4_000063_thumb.jpg" xml:id="n348.022514"/>
+</surface>
+<surface n="fol. 31v" xml:id="n348.022515"><graphic url="master/W4_000064_1200.tif" xml:id="n348.022516"/>
+<graphic url="300/W4_000064_300.tif" xml:id="n348.022517"/>
+<graphic url="sap/W4_000064_sap.jpg" xml:id="n348.022518"/>
+<graphic url="thumb/W4_000064_thumb.jpg" xml:id="n348.022519"/>
+</surface>
+<surface n="fol. 32r" xml:id="n348.022520"><graphic url="master/W4_000065_1200.tif" xml:id="n348.022521"/>
+<graphic url="300/W4_000065_300.tif" xml:id="n348.022522"/>
+<graphic url="sap/W4_000065_sap.jpg" xml:id="n348.022523"/>
+<graphic url="thumb/W4_000065_thumb.jpg" xml:id="n348.022524"/>
+</surface>
+<surface n="fol. 32v" xml:id="n348.022525"><graphic url="master/W4_000066_1200.tif" xml:id="n348.022526"/>
+<graphic url="300/W4_000066_300.tif" xml:id="n348.022527"/>
+<graphic url="sap/W4_000066_sap.jpg" xml:id="n348.022528"/>
+<graphic url="thumb/W4_000066_thumb.jpg" xml:id="n348.022529"/>
+</surface>
+<surface n="fol. 33r" xml:id="n348.022530"><graphic url="master/W4_000067_600.tif" xml:id="n348.022531"/>
+<graphic url="300/W4_000067_300.tif" xml:id="n348.022532"/>
+<graphic url="sap/W4_000067_sap.jpg" xml:id="n348.022533"/>
+<graphic url="thumb/W4_000067_thumb.jpg" xml:id="n348.022534"/>
+</surface>
+<surface n="fol. 33v" xml:id="n348.022535"><graphic url="master/W4_000068_1200.tif" xml:id="n348.022536"/>
+<graphic url="300/W4_000068_300.tif" xml:id="n348.022537"/>
+<graphic url="sap/W4_000068_sap.jpg" xml:id="n348.022538"/>
+<graphic url="thumb/W4_000068_thumb.jpg" xml:id="n348.022539"/>
+</surface>
+<surface n="fol. 34r" xml:id="n348.022540"><graphic url="master/W4_000069_600.tif" xml:id="n348.022541"/>
+<graphic url="300/W4_000069_300.tif" xml:id="n348.022542"/>
+<graphic url="sap/W4_000069_sap.jpg" xml:id="n348.022543"/>
+<graphic url="thumb/W4_000069_thumb.jpg" xml:id="n348.022544"/>
+</surface>
+<surface n="fol. 34v" xml:id="n348.022545"><graphic url="master/W4_000070_600.tif" xml:id="n348.022546"/>
+<graphic url="300/W4_000070_300.tif" xml:id="n348.022547"/>
+<graphic url="sap/W4_000070_sap.jpg" xml:id="n348.022548"/>
+<graphic url="thumb/W4_000070_thumb.jpg" xml:id="n348.022549"/>
+</surface>
+<surface n="fol. 35r" xml:id="n348.022550"><graphic url="master/W4_000071_600.tif" xml:id="n348.022551"/>
+<graphic url="300/W4_000071_300.tif" xml:id="n348.022552"/>
+<graphic url="sap/W4_000071_sap.jpg" xml:id="n348.022553"/>
+<graphic url="thumb/W4_000071_thumb.jpg" xml:id="n348.022554"/>
+</surface>
+<surface n="fol. 35v" xml:id="n348.022555"><graphic url="master/W4_000072_600.tif" xml:id="n348.022556"/>
+<graphic url="300/W4_000072_300.tif" xml:id="n348.022557"/>
+<graphic url="sap/W4_000072_sap.jpg" xml:id="n348.022558"/>
+<graphic url="thumb/W4_000072_thumb.jpg" xml:id="n348.022559"/>
+</surface>
+<surface n="fol. 36r" xml:id="n348.022560"><graphic url="master/W4_000073_600.tif" xml:id="n348.022561"/>
+<graphic url="300/W4_000073_300.tif" xml:id="n348.022562"/>
+<graphic url="sap/W4_000073_sap.jpg" xml:id="n348.022563"/>
+<graphic url="thumb/W4_000073_thumb.jpg" xml:id="n348.022564"/>
+</surface>
+<surface n="fol. 36v" xml:id="n348.022565"><graphic url="master/W4_000074_600.tif" xml:id="n348.022566"/>
+<graphic url="300/W4_000074_300.tif" xml:id="n348.022567"/>
+<graphic url="sap/W4_000074_sap.jpg" xml:id="n348.022568"/>
+<graphic url="thumb/W4_000074_thumb.jpg" xml:id="n348.022569"/>
+</surface>
+<surface n="fol. 37r" xml:id="n348.022570"><graphic url="master/W4_000075_600.tif" xml:id="n348.022571"/>
+<graphic url="300/W4_000075_300.tif" xml:id="n348.022572"/>
+<graphic url="sap/W4_000075_sap.jpg" xml:id="n348.022573"/>
+<graphic url="thumb/W4_000075_thumb.jpg" xml:id="n348.022574"/>
+</surface>
+<surface n="fol. 37v" xml:id="n348.022575"><graphic url="master/W4_000076_600.tif" xml:id="n348.022576"/>
+<graphic url="300/W4_000076_300.tif" xml:id="n348.022577"/>
+<graphic url="sap/W4_000076_sap.jpg" xml:id="n348.022578"/>
+<graphic url="thumb/W4_000076_thumb.jpg" xml:id="n348.022579"/>
+</surface>
+<surface n="fol. 38r" xml:id="n348.022580"><graphic url="master/W4_000077_600.tif" xml:id="n348.022581"/>
+<graphic url="300/W4_000077_300.tif" xml:id="n348.022582"/>
+<graphic url="sap/W4_000077_sap.jpg" xml:id="n348.022583"/>
+<graphic url="thumb/W4_000077_thumb.jpg" xml:id="n348.022584"/>
+</surface>
+<surface n="fol. 38v" xml:id="n348.022585"><graphic url="master/W4_000078_600.tif" xml:id="n348.022586"/>
+<graphic url="300/W4_000078_300.tif" xml:id="n348.022587"/>
+<graphic url="sap/W4_000078_sap.jpg" xml:id="n348.022588"/>
+<graphic url="thumb/W4_000078_thumb.jpg" xml:id="n348.022589"/>
+</surface>
+<surface n="fol. 39r" xml:id="n348.022590"><graphic url="master/W4_000079_600.tif" xml:id="n348.022591"/>
+<graphic url="300/W4_000079_300.tif" xml:id="n348.022592"/>
+<graphic url="sap/W4_000079_sap.jpg" xml:id="n348.022593"/>
+<graphic url="thumb/W4_000079_thumb.jpg" xml:id="n348.022594"/>
+</surface>
+<surface n="fol. 39v" xml:id="n348.022595"><graphic url="master/W4_000080_600.tif" xml:id="n348.022596"/>
+<graphic url="300/W4_000080_300.tif" xml:id="n348.022597"/>
+<graphic url="sap/W4_000080_sap.jpg" xml:id="n348.022598"/>
+<graphic url="thumb/W4_000080_thumb.jpg" xml:id="n348.022599"/>
+</surface>
+<surface n="fol. 40r" xml:id="n348.022600"><graphic url="master/W4_000081_600.tif" xml:id="n348.022601"/>
+<graphic url="300/W4_000081_300.tif" xml:id="n348.022602"/>
+<graphic url="sap/W4_000081_sap.jpg" xml:id="n348.022603"/>
+<graphic url="thumb/W4_000081_thumb.jpg" xml:id="n348.022604"/>
+</surface>
+<surface n="fol. 40v" xml:id="n348.022605"><graphic url="master/W4_000082_600.tif" xml:id="n348.022606"/>
+<graphic url="300/W4_000082_300.tif" xml:id="n348.022607"/>
+<graphic url="sap/W4_000082_sap.jpg" xml:id="n348.022608"/>
+<graphic url="thumb/W4_000082_thumb.jpg" xml:id="n348.022609"/>
+</surface>
+<surface n="fol. 41r" xml:id="n348.022610"><graphic url="master/W4_000083_600.tif" xml:id="n348.022611"/>
+<graphic url="300/W4_000083_300.tif" xml:id="n348.022612"/>
+<graphic url="sap/W4_000083_sap.jpg" xml:id="n348.022613"/>
+<graphic url="thumb/W4_000083_thumb.jpg" xml:id="n348.022614"/>
+</surface>
+<surface n="fol. 41v" xml:id="n348.022615"><graphic url="master/W4_000084_600.tif" xml:id="n348.022616"/>
+<graphic url="300/W4_000084_300.tif" xml:id="n348.022617"/>
+<graphic url="sap/W4_000084_sap.jpg" xml:id="n348.022618"/>
+<graphic url="thumb/W4_000084_thumb.jpg" xml:id="n348.022619"/>
+</surface>
+<surface n="fol. 42r" xml:id="n348.022620"><graphic url="master/W4_000085_600.tif" xml:id="n348.022621"/>
+<graphic url="300/W4_000085_300.tif" xml:id="n348.022622"/>
+<graphic url="sap/W4_000085_sap.jpg" xml:id="n348.022623"/>
+<graphic url="thumb/W4_000085_thumb.jpg" xml:id="n348.022624"/>
+</surface>
+<surface n="fol. 42v" xml:id="n348.022625"><graphic url="master/W4_000086_600.tif" xml:id="n348.022626"/>
+<graphic url="300/W4_000086_300.tif" xml:id="n348.022627"/>
+<graphic url="sap/W4_000086_sap.jpg" xml:id="n348.022628"/>
+<graphic url="thumb/W4_000086_thumb.jpg" xml:id="n348.022629"/>
+</surface>
+<surface n="fol. 43r" xml:id="n348.022630"><graphic url="master/W4_000087_600.tif" xml:id="n348.022631"/>
+<graphic url="300/W4_000087_300.tif" xml:id="n348.022632"/>
+<graphic url="sap/W4_000087_sap.jpg" xml:id="n348.022633"/>
+<graphic url="thumb/W4_000087_thumb.jpg" xml:id="n348.022634"/>
+</surface>
+<surface n="fol. 43v" xml:id="n348.022635"><graphic url="master/W4_000088_600.tif" xml:id="n348.022636"/>
+<graphic url="300/W4_000088_300.tif" xml:id="n348.022637"/>
+<graphic url="sap/W4_000088_sap.jpg" xml:id="n348.022638"/>
+<graphic url="thumb/W4_000088_thumb.jpg" xml:id="n348.022639"/>
+</surface>
+<surface n="fol. 44r" xml:id="n348.022640"><graphic url="master/W4_000089_600.tif" xml:id="n348.022641"/>
+<graphic url="300/W4_000089_300.tif" xml:id="n348.022642"/>
+<graphic url="sap/W4_000089_sap.jpg" xml:id="n348.022643"/>
+<graphic url="thumb/W4_000089_thumb.jpg" xml:id="n348.022644"/>
+</surface>
+<surface n="fol. 44v" xml:id="n348.022645"><graphic url="master/W4_000090_600.tif" xml:id="n348.022646"/>
+<graphic url="300/W4_000090_300.tif" xml:id="n348.022647"/>
+<graphic url="sap/W4_000090_sap.jpg" xml:id="n348.022648"/>
+<graphic url="thumb/W4_000090_thumb.jpg" xml:id="n348.022649"/>
+</surface>
+<surface n="fol. 45r" xml:id="n348.022650"><graphic url="master/W4_000091_600.tif" xml:id="n348.022651"/>
+<graphic url="300/W4_000091_300.tif" xml:id="n348.022652"/>
+<graphic url="sap/W4_000091_sap.jpg" xml:id="n348.022653"/>
+<graphic url="thumb/W4_000091_thumb.jpg" xml:id="n348.022654"/>
+</surface>
+<surface n="fol. 45v" xml:id="n348.022655"><graphic url="master/W4_000092_600.tif" xml:id="n348.022656"/>
+<graphic url="300/W4_000092_300.tif" xml:id="n348.022657"/>
+<graphic url="sap/W4_000092_sap.jpg" xml:id="n348.022658"/>
+<graphic url="thumb/W4_000092_thumb.jpg" xml:id="n348.022659"/>
+</surface>
+<surface n="fol. 46r" xml:id="n348.022660"><graphic url="master/W4_000093_600.tif" xml:id="n348.022661"/>
+<graphic url="300/W4_000093_300.tif" xml:id="n348.022662"/>
+<graphic url="sap/W4_000093_sap.jpg" xml:id="n348.022663"/>
+<graphic url="thumb/W4_000093_thumb.jpg" xml:id="n348.022664"/>
+</surface>
+<surface n="fol. 46v" xml:id="n348.022665"><graphic url="master/W4_000094_600.tif" xml:id="n348.022666"/>
+<graphic url="300/W4_000094_300.tif" xml:id="n348.022667"/>
+<graphic url="sap/W4_000094_sap.jpg" xml:id="n348.022668"/>
+<graphic url="thumb/W4_000094_thumb.jpg" xml:id="n348.022669"/>
+</surface>
+<surface n="fol. 47r" xml:id="n348.022670"><graphic url="master/W4_000095_600.tif" xml:id="n348.022671"/>
+<graphic url="300/W4_000095_300.tif" xml:id="n348.022672"/>
+<graphic url="sap/W4_000095_sap.jpg" xml:id="n348.022673"/>
+<graphic url="thumb/W4_000095_thumb.jpg" xml:id="n348.022674"/>
+</surface>
+<surface n="fol. 47v" xml:id="n348.022675"><graphic url="master/W4_000096_600.tif" xml:id="n348.022676"/>
+<graphic url="300/W4_000096_300.tif" xml:id="n348.022677"/>
+<graphic url="sap/W4_000096_sap.jpg" xml:id="n348.022678"/>
+<graphic url="thumb/W4_000096_thumb.jpg" xml:id="n348.022679"/>
+</surface>
+<surface n="fol. 48r" xml:id="n348.022680"><graphic url="master/W4_000097_600.tif" xml:id="n348.022681"/>
+<graphic url="300/W4_000097_300.tif" xml:id="n348.022682"/>
+<graphic url="sap/W4_000097_sap.jpg" xml:id="n348.022683"/>
+<graphic url="thumb/W4_000097_thumb.jpg" xml:id="n348.022684"/>
+</surface>
+<surface n="fol. 48v" xml:id="n348.022685"><graphic url="master/W4_000098_600.tif" xml:id="n348.022686"/>
+<graphic url="300/W4_000098_300.tif" xml:id="n348.022687"/>
+<graphic url="sap/W4_000098_sap.jpg" xml:id="n348.022688"/>
+<graphic url="thumb/W4_000098_thumb.jpg" xml:id="n348.022689"/>
+</surface>
+<surface n="fol. 49r" xml:id="n348.022690"><graphic url="master/W4_000099_600.tif" xml:id="n348.022691"/>
+<graphic url="300/W4_000099_300.tif" xml:id="n348.022692"/>
+<graphic url="sap/W4_000099_sap.jpg" xml:id="n348.022693"/>
+<graphic url="thumb/W4_000099_thumb.jpg" xml:id="n348.022694"/>
+</surface>
+<surface n="fol. 49v" xml:id="n348.022695"><graphic url="master/W4_000100_600.tif" xml:id="n348.022696"/>
+<graphic url="300/W4_000100_300.tif" xml:id="n348.022697"/>
+<graphic url="sap/W4_000100_sap.jpg" xml:id="n348.022698"/>
+<graphic url="thumb/W4_000100_thumb.jpg" xml:id="n348.022699"/>
+</surface>
+<surface n="fol. 50r" xml:id="n348.022700"><graphic url="master/W4_000101_600.tif" xml:id="n348.022701"/>
+<graphic url="300/W4_000101_300.tif" xml:id="n348.022702"/>
+<graphic url="sap/W4_000101_sap.jpg" xml:id="n348.022703"/>
+<graphic url="thumb/W4_000101_thumb.jpg" xml:id="n348.022704"/>
+</surface>
+<surface n="fol. 50v" xml:id="n348.022705"><graphic url="master/W4_000102_600.tif" xml:id="n348.022706"/>
+<graphic url="300/W4_000102_300.tif" xml:id="n348.022707"/>
+<graphic url="sap/W4_000102_sap.jpg" xml:id="n348.022708"/>
+<graphic url="thumb/W4_000102_thumb.jpg" xml:id="n348.022709"/>
+</surface>
+<surface n="fol. 51r" xml:id="n348.022710"><graphic url="master/W4_000103_600.tif" xml:id="n348.022711"/>
+<graphic url="300/W4_000103_300.tif" xml:id="n348.022712"/>
+<graphic url="sap/W4_000103_sap.jpg" xml:id="n348.022713"/>
+<graphic url="thumb/W4_000103_thumb.jpg" xml:id="n348.022714"/>
+</surface>
+<surface n="fol. 51v" xml:id="n348.022715"><graphic url="master/W4_000104_600.tif" xml:id="n348.022716"/>
+<graphic url="300/W4_000104_300.tif" xml:id="n348.022717"/>
+<graphic url="sap/W4_000104_sap.jpg" xml:id="n348.022718"/>
+<graphic url="thumb/W4_000104_thumb.jpg" xml:id="n348.022719"/>
+</surface>
+<surface n="fol. 52r" xml:id="n348.022720"><graphic url="master/W4_000105_600.tif" xml:id="n348.022721"/>
+<graphic url="300/W4_000105_300.tif" xml:id="n348.022722"/>
+<graphic url="sap/W4_000105_sap.jpg" xml:id="n348.022723"/>
+<graphic url="thumb/W4_000105_thumb.jpg" xml:id="n348.022724"/>
+</surface>
+<surface n="fol. 52v" xml:id="n348.022725"><graphic url="master/W4_000106_600.tif" xml:id="n348.022726"/>
+<graphic url="300/W4_000106_300.tif" xml:id="n348.022727"/>
+<graphic url="sap/W4_000106_sap.jpg" xml:id="n348.022728"/>
+<graphic url="thumb/W4_000106_thumb.jpg" xml:id="n348.022729"/>
+</surface>
+<surface n="fol. 53r" xml:id="n348.022730"><graphic url="master/W4_000107_600.tif" xml:id="n348.022731"/>
+<graphic url="300/W4_000107_300.tif" xml:id="n348.022732"/>
+<graphic url="sap/W4_000107_sap.jpg" xml:id="n348.022733"/>
+<graphic url="thumb/W4_000107_thumb.jpg" xml:id="n348.022734"/>
+</surface>
+<surface n="fol. 53v" xml:id="n348.022735"><graphic url="master/W4_000108_600.tif" xml:id="n348.022736"/>
+<graphic url="300/W4_000108_300.tif" xml:id="n348.022737"/>
+<graphic url="sap/W4_000108_sap.jpg" xml:id="n348.022738"/>
+<graphic url="thumb/W4_000108_thumb.jpg" xml:id="n348.022739"/>
+</surface>
+<surface n="fol. 54r" xml:id="n348.022740"><graphic url="master/W4_000109_600.tif" xml:id="n348.022741"/>
+<graphic url="300/W4_000109_300.tif" xml:id="n348.022742"/>
+<graphic url="sap/W4_000109_sap.jpg" xml:id="n348.022743"/>
+<graphic url="thumb/W4_000109_thumb.jpg" xml:id="n348.022744"/>
+</surface>
+<surface n="fol. 54v" xml:id="n348.022745"><graphic url="master/W4_000110_600.tif" xml:id="n348.022746"/>
+<graphic url="300/W4_000110_300.tif" xml:id="n348.022747"/>
+<graphic url="sap/W4_000110_sap.jpg" xml:id="n348.022748"/>
+<graphic url="thumb/W4_000110_thumb.jpg" xml:id="n348.022749"/>
+</surface>
+<surface n="fol. 55r" xml:id="n348.022750"><graphic url="master/W4_000111_600.tif" xml:id="n348.022751"/>
+<graphic url="300/W4_000111_300.tif" xml:id="n348.022752"/>
+<graphic url="sap/W4_000111_sap.jpg" xml:id="n348.022753"/>
+<graphic url="thumb/W4_000111_thumb.jpg" xml:id="n348.022754"/>
+</surface>
+<surface n="fol. 55v" xml:id="n348.022755"><graphic url="master/W4_000112_600.tif" xml:id="n348.022756"/>
+<graphic url="300/W4_000112_300.tif" xml:id="n348.022757"/>
+<graphic url="sap/W4_000112_sap.jpg" xml:id="n348.022758"/>
+<graphic url="thumb/W4_000112_thumb.jpg" xml:id="n348.022759"/>
+</surface>
+<surface n="fol. 56r" xml:id="n348.022760"><graphic url="master/W4_000113_600.tif" xml:id="n348.022761"/>
+<graphic url="300/W4_000113_300.tif" xml:id="n348.022762"/>
+<graphic url="sap/W4_000113_sap.jpg" xml:id="n348.022763"/>
+<graphic url="thumb/W4_000113_thumb.jpg" xml:id="n348.022764"/>
+</surface>
+<surface n="fol. 56v" xml:id="n348.022765"><graphic url="master/W4_000114_600.tif" xml:id="n348.022766"/>
+<graphic url="300/W4_000114_300.tif" xml:id="n348.022767"/>
+<graphic url="sap/W4_000114_sap.jpg" xml:id="n348.022768"/>
+<graphic url="thumb/W4_000114_thumb.jpg" xml:id="n348.022769"/>
+</surface>
+<surface n="fol. 57r" xml:id="n348.022770"><graphic url="master/W4_000115_600.tif" xml:id="n348.022771"/>
+<graphic url="300/W4_000115_300.tif" xml:id="n348.022772"/>
+<graphic url="sap/W4_000115_sap.jpg" xml:id="n348.022773"/>
+<graphic url="thumb/W4_000115_thumb.jpg" xml:id="n348.022774"/>
+</surface>
+<surface n="fol. 57v" xml:id="n348.022775"><graphic url="master/W4_000116_600.tif" xml:id="n348.022776"/>
+<graphic url="300/W4_000116_300.tif" xml:id="n348.022777"/>
+<graphic url="sap/W4_000116_sap.jpg" xml:id="n348.022778"/>
+<graphic url="thumb/W4_000116_thumb.jpg" xml:id="n348.022779"/>
+</surface>
+<surface n="fol. 58r" xml:id="n348.022780"><graphic url="master/W4_000117_600.tif" xml:id="n348.022781"/>
+<graphic url="300/W4_000117_300.tif" xml:id="n348.022782"/>
+<graphic url="sap/W4_000117_sap.jpg" xml:id="n348.022783"/>
+<graphic url="thumb/W4_000117_thumb.jpg" xml:id="n348.022784"/>
+</surface>
+<surface n="fol. 58v" xml:id="n348.022785"><graphic url="master/W4_000118_600.tif" xml:id="n348.022786"/>
+<graphic url="300/W4_000118_300.tif" xml:id="n348.022787"/>
+<graphic url="sap/W4_000118_sap.jpg" xml:id="n348.022788"/>
+<graphic url="thumb/W4_000118_thumb.jpg" xml:id="n348.022789"/>
+</surface>
+<surface n="fol. 59r" xml:id="n348.022790"><graphic url="master/W4_000119_600.tif" xml:id="n348.022791"/>
+<graphic url="300/W4_000119_300.tif" xml:id="n348.022792"/>
+<graphic url="sap/W4_000119_sap.jpg" xml:id="n348.022793"/>
+<graphic url="thumb/W4_000119_thumb.jpg" xml:id="n348.022794"/>
+</surface>
+<surface n="fol. 59v" xml:id="n348.022795"><graphic url="master/W4_000120_600.tif" xml:id="n348.022796"/>
+<graphic url="300/W4_000120_300.tif" xml:id="n348.022797"/>
+<graphic url="sap/W4_000120_sap.jpg" xml:id="n348.022798"/>
+<graphic url="thumb/W4_000120_thumb.jpg" xml:id="n348.022799"/>
+</surface>
+<surface n="fol. 60r" xml:id="n348.022800"><graphic url="master/W4_000121_600.tif" xml:id="n348.022801"/>
+<graphic url="300/W4_000121_300.tif" xml:id="n348.022802"/>
+<graphic url="sap/W4_000121_sap.jpg" xml:id="n348.022803"/>
+<graphic url="thumb/W4_000121_thumb.jpg" xml:id="n348.022804"/>
+</surface>
+<surface n="fol. 60v" xml:id="n348.022805"><graphic url="master/W4_000122_600.tif" xml:id="n348.022806"/>
+<graphic url="300/W4_000122_300.tif" xml:id="n348.022807"/>
+<graphic url="sap/W4_000122_sap.jpg" xml:id="n348.022808"/>
+<graphic url="thumb/W4_000122_thumb.jpg" xml:id="n348.022809"/>
+</surface>
+<surface n="fol. 61r" xml:id="n348.022810"><graphic url="master/W4_000123_600.tif" xml:id="n348.022811"/>
+<graphic url="300/W4_000123_300.tif" xml:id="n348.022812"/>
+<graphic url="sap/W4_000123_sap.jpg" xml:id="n348.022813"/>
+<graphic url="thumb/W4_000123_thumb.jpg" xml:id="n348.022814"/>
+</surface>
+<surface n="fol. 61v" xml:id="n348.022815"><graphic url="master/W4_000124_600.tif" xml:id="n348.022816"/>
+<graphic url="300/W4_000124_300.tif" xml:id="n348.022817"/>
+<graphic url="sap/W4_000124_sap.jpg" xml:id="n348.022818"/>
+<graphic url="thumb/W4_000124_thumb.jpg" xml:id="n348.022819"/>
+</surface>
+<surface n="fol. 62r" xml:id="n348.022820"><graphic url="master/W4_000125_600.tif" xml:id="n348.022821"/>
+<graphic url="300/W4_000125_300.tif" xml:id="n348.022822"/>
+<graphic url="sap/W4_000125_sap.jpg" xml:id="n348.022823"/>
+<graphic url="thumb/W4_000125_thumb.jpg" xml:id="n348.022824"/>
+</surface>
+<surface n="fol. 62v" xml:id="n348.022825"><graphic url="master/W4_000126_600.tif" xml:id="n348.022826"/>
+<graphic url="300/W4_000126_300.tif" xml:id="n348.022827"/>
+<graphic url="sap/W4_000126_sap.jpg" xml:id="n348.022828"/>
+<graphic url="thumb/W4_000126_thumb.jpg" xml:id="n348.022829"/>
+</surface>
+<surface n="fol. 63r" xml:id="n348.022830"><graphic url="master/W4_000127_600.tif" xml:id="n348.022831"/>
+<graphic url="300/W4_000127_300.tif" xml:id="n348.022832"/>
+<graphic url="sap/W4_000127_sap.jpg" xml:id="n348.022833"/>
+<graphic url="thumb/W4_000127_thumb.jpg" xml:id="n348.022834"/>
+</surface>
+<surface n="fol. 63v" xml:id="n348.022835"><graphic url="master/W4_000128_600.tif" xml:id="n348.022836"/>
+<graphic url="300/W4_000128_300.tif" xml:id="n348.022837"/>
+<graphic url="sap/W4_000128_sap.jpg" xml:id="n348.022838"/>
+<graphic url="thumb/W4_000128_thumb.jpg" xml:id="n348.022839"/>
+</surface>
+<surface n="fol. 64r" xml:id="n348.022840"><graphic url="master/W4_000129_600.tif" xml:id="n348.022841"/>
+<graphic url="300/W4_000129_300.tif" xml:id="n348.022842"/>
+<graphic url="sap/W4_000129_sap.jpg" xml:id="n348.022843"/>
+<graphic url="thumb/W4_000129_thumb.jpg" xml:id="n348.022844"/>
+</surface>
+<surface n="fol. 64v" xml:id="n348.022845"><graphic url="master/W4_000130_600.tif" xml:id="n348.022846"/>
+<graphic url="300/W4_000130_300.tif" xml:id="n348.022847"/>
+<graphic url="sap/W4_000130_sap.jpg" xml:id="n348.022848"/>
+<graphic url="thumb/W4_000130_thumb.jpg" xml:id="n348.022849"/>
+</surface>
+<surface n="fol. 65r" xml:id="n348.022850"><graphic url="master/W4_000131_600.tif" xml:id="n348.022851"/>
+<graphic url="300/W4_000131_300.tif" xml:id="n348.022852"/>
+<graphic url="sap/W4_000131_sap.jpg" xml:id="n348.022853"/>
+<graphic url="thumb/W4_000131_thumb.jpg" xml:id="n348.022854"/>
+</surface>
+<surface n="fol. 65v" xml:id="n348.022855"><graphic url="master/W4_000132_600.tif" xml:id="n348.022856"/>
+<graphic url="300/W4_000132_300.tif" xml:id="n348.022857"/>
+<graphic url="sap/W4_000132_sap.jpg" xml:id="n348.022858"/>
+<graphic url="thumb/W4_000132_thumb.jpg" xml:id="n348.022859"/>
+</surface>
+<surface n="fol. 66r" xml:id="n348.022860"><graphic url="master/W4_000133_600.tif" xml:id="n348.022861"/>
+<graphic url="300/W4_000133_300.tif" xml:id="n348.022862"/>
+<graphic url="sap/W4_000133_sap.jpg" xml:id="n348.022863"/>
+<graphic url="thumb/W4_000133_thumb.jpg" xml:id="n348.022864"/>
+</surface>
+<surface n="fol. 66v" xml:id="n348.022865"><graphic url="master/W4_000134_600.tif" xml:id="n348.022866"/>
+<graphic url="300/W4_000134_300.tif" xml:id="n348.022867"/>
+<graphic url="sap/W4_000134_sap.jpg" xml:id="n348.022868"/>
+<graphic url="thumb/W4_000134_thumb.jpg" xml:id="n348.022869"/>
+</surface>
+<surface n="fol. 67r" xml:id="n348.022870"><graphic url="master/W4_000135_600.tif" xml:id="n348.022871"/>
+<graphic url="300/W4_000135_300.tif" xml:id="n348.022872"/>
+<graphic url="sap/W4_000135_sap.jpg" xml:id="n348.022873"/>
+<graphic url="thumb/W4_000135_thumb.jpg" xml:id="n348.022874"/>
+</surface>
+<surface n="fol. 67v" xml:id="n348.022875"><graphic url="master/W4_000136_600.tif" xml:id="n348.022876"/>
+<graphic url="300/W4_000136_300.tif" xml:id="n348.022877"/>
+<graphic url="sap/W4_000136_sap.jpg" xml:id="n348.022878"/>
+<graphic url="thumb/W4_000136_thumb.jpg" xml:id="n348.022879"/>
+</surface>
+<surface n="fol. 68r" xml:id="n348.022880"><graphic url="master/W4_000137_600.tif" xml:id="n348.022881"/>
+<graphic url="300/W4_000137_300.tif" xml:id="n348.022882"/>
+<graphic url="sap/W4_000137_sap.jpg" xml:id="n348.022883"/>
+<graphic url="thumb/W4_000137_thumb.jpg" xml:id="n348.022884"/>
+</surface>
+<surface n="fol. 68v" xml:id="n348.022885"><graphic url="master/W4_000138_600.tif" xml:id="n348.022886"/>
+<graphic url="300/W4_000138_300.tif" xml:id="n348.022887"/>
+<graphic url="sap/W4_000138_sap.jpg" xml:id="n348.022888"/>
+<graphic url="thumb/W4_000138_thumb.jpg" xml:id="n348.022889"/>
+</surface>
+<surface n="fol. 69r" xml:id="n348.022890"><graphic url="master/W4_000139_600.tif" xml:id="n348.022891"/>
+<graphic url="300/W4_000139_300.tif" xml:id="n348.022892"/>
+<graphic url="sap/W4_000139_sap.jpg" xml:id="n348.022893"/>
+<graphic url="thumb/W4_000139_thumb.jpg" xml:id="n348.022894"/>
+</surface>
+<surface n="fol. 69v" xml:id="n348.022895"><graphic url="master/W4_000140_600.tif" xml:id="n348.022896"/>
+<graphic url="300/W4_000140_300.tif" xml:id="n348.022897"/>
+<graphic url="sap/W4_000140_sap.jpg" xml:id="n348.022898"/>
+<graphic url="thumb/W4_000140_thumb.jpg" xml:id="n348.022899"/>
+</surface>
+<surface n="fol. 70r" xml:id="n348.022900"><graphic url="master/W4_000141_600.tif" xml:id="n348.022901"/>
+<graphic url="300/W4_000141_300.tif" xml:id="n348.022902"/>
+<graphic url="sap/W4_000141_sap.jpg" xml:id="n348.022903"/>
+<graphic url="thumb/W4_000141_thumb.jpg" xml:id="n348.022904"/>
+</surface>
+<surface n="fol. 70v" xml:id="n348.022905"><graphic url="master/W4_000142_600.tif" xml:id="n348.022906"/>
+<graphic url="300/W4_000142_300.tif" xml:id="n348.022907"/>
+<graphic url="sap/W4_000142_sap.jpg" xml:id="n348.022908"/>
+<graphic url="thumb/W4_000142_thumb.jpg" xml:id="n348.022909"/>
+</surface>
+<surface n="fol. 71r" xml:id="n348.022910"><graphic url="master/W4_000143_600.tif" xml:id="n348.022911"/>
+<graphic url="300/W4_000143_300.tif" xml:id="n348.022912"/>
+<graphic url="sap/W4_000143_sap.jpg" xml:id="n348.022913"/>
+<graphic url="thumb/W4_000143_thumb.jpg" xml:id="n348.022914"/>
+</surface>
+<surface n="fol. 71v" xml:id="n348.022915"><graphic url="master/W4_000144_600.tif" xml:id="n348.022916"/>
+<graphic url="300/W4_000144_300.tif" xml:id="n348.022917"/>
+<graphic url="sap/W4_000144_sap.jpg" xml:id="n348.022918"/>
+<graphic url="thumb/W4_000144_thumb.jpg" xml:id="n348.022919"/>
+</surface>
+<surface n="fol. 72r" xml:id="n348.022920"><graphic url="master/W4_000145_600.tif" xml:id="n348.022921"/>
+<graphic url="300/W4_000145_300.tif" xml:id="n348.022922"/>
+<graphic url="sap/W4_000145_sap.jpg" xml:id="n348.022923"/>
+<graphic url="thumb/W4_000145_thumb.jpg" xml:id="n348.022924"/>
+</surface>
+<surface n="fol. 72v" xml:id="n348.022925"><graphic url="master/W4_000146_600.tif" xml:id="n348.022926"/>
+<graphic url="300/W4_000146_300.tif" xml:id="n348.022927"/>
+<graphic url="sap/W4_000146_sap.jpg" xml:id="n348.022928"/>
+<graphic url="thumb/W4_000146_thumb.jpg" xml:id="n348.022929"/>
+</surface>
+<surface n="fol. 73r" xml:id="n348.022930"><graphic url="master/W4_000147_600.tif" xml:id="n348.022931"/>
+<graphic url="300/W4_000147_300.tif" xml:id="n348.022932"/>
+<graphic url="sap/W4_000147_sap.jpg" xml:id="n348.022933"/>
+<graphic url="thumb/W4_000147_thumb.jpg" xml:id="n348.022934"/>
+</surface>
+<surface n="fol. 73v" xml:id="n348.022935"><graphic url="master/W4_000148_600.tif" xml:id="n348.022936"/>
+<graphic url="300/W4_000148_300.tif" xml:id="n348.022937"/>
+<graphic url="sap/W4_000148_sap.jpg" xml:id="n348.022938"/>
+<graphic url="thumb/W4_000148_thumb.jpg" xml:id="n348.022939"/>
+</surface>
+<surface n="fol. 74r" xml:id="n348.022940"><graphic url="master/W4_000149_600.tif" xml:id="n348.022941"/>
+<graphic url="300/W4_000149_300.tif" xml:id="n348.022942"/>
+<graphic url="sap/W4_000149_sap.jpg" xml:id="n348.022943"/>
+<graphic url="thumb/W4_000149_thumb.jpg" xml:id="n348.022944"/>
+</surface>
+<surface n="fol. 74v" xml:id="n348.022945"><graphic url="master/W4_000150_600.tif" xml:id="n348.022946"/>
+<graphic url="300/W4_000150_300.tif" xml:id="n348.022947"/>
+<graphic url="sap/W4_000150_sap.jpg" xml:id="n348.022948"/>
+<graphic url="thumb/W4_000150_thumb.jpg" xml:id="n348.022949"/>
+</surface>
+<surface n="fol. 75r" xml:id="n348.022950"><graphic url="master/W4_000151_600.tif" xml:id="n348.022951"/>
+<graphic url="300/W4_000151_300.tif" xml:id="n348.022952"/>
+<graphic url="sap/W4_000151_sap.jpg" xml:id="n348.022953"/>
+<graphic url="thumb/W4_000151_thumb.jpg" xml:id="n348.022954"/>
+</surface>
+<surface n="fol. 75v" xml:id="n348.022955"><graphic url="master/W4_000152_600.tif" xml:id="n348.022956"/>
+<graphic url="300/W4_000152_300.tif" xml:id="n348.022957"/>
+<graphic url="sap/W4_000152_sap.jpg" xml:id="n348.022958"/>
+<graphic url="thumb/W4_000152_thumb.jpg" xml:id="n348.022959"/>
+</surface>
+<surface n="fol. 76r" xml:id="n348.022960"><graphic url="master/W4_000153_600.tif" xml:id="n348.022961"/>
+<graphic url="300/W4_000153_300.tif" xml:id="n348.022962"/>
+<graphic url="sap/W4_000153_sap.jpg" xml:id="n348.022963"/>
+<graphic url="thumb/W4_000153_thumb.jpg" xml:id="n348.022964"/>
+</surface>
+<surface n="fol. 76v" xml:id="n348.022965"><graphic url="master/W4_000154_600.tif" xml:id="n348.022966"/>
+<graphic url="300/W4_000154_300.tif" xml:id="n348.022967"/>
+<graphic url="sap/W4_000154_sap.jpg" xml:id="n348.022968"/>
+<graphic url="thumb/W4_000154_thumb.jpg" xml:id="n348.022969"/>
+</surface>
+<surface n="fol. 77r" xml:id="n348.022970"><graphic url="master/W4_000155_600.tif" xml:id="n348.022971"/>
+<graphic url="300/W4_000155_300.tif" xml:id="n348.022972"/>
+<graphic url="sap/W4_000155_sap.jpg" xml:id="n348.022973"/>
+<graphic url="thumb/W4_000155_thumb.jpg" xml:id="n348.022974"/>
+</surface>
+<surface n="fol. 77v" xml:id="n348.022975"><graphic url="master/W4_000156_600.tif" xml:id="n348.022976"/>
+<graphic url="300/W4_000156_300.tif" xml:id="n348.022977"/>
+<graphic url="sap/W4_000156_sap.jpg" xml:id="n348.022978"/>
+<graphic url="thumb/W4_000156_thumb.jpg" xml:id="n348.022979"/>
+</surface>
+<surface n="fol. 78r" xml:id="n348.022980"><graphic url="master/W4_000157_600.tif" xml:id="n348.022981"/>
+<graphic url="300/W4_000157_300.tif" xml:id="n348.022982"/>
+<graphic url="sap/W4_000157_sap.jpg" xml:id="n348.022983"/>
+<graphic url="thumb/W4_000157_thumb.jpg" xml:id="n348.022984"/>
+</surface>
+<surface n="fol. 78v" xml:id="n348.022985"><graphic url="master/W4_000158_600.tif" xml:id="n348.022986"/>
+<graphic url="300/W4_000158_300.tif" xml:id="n348.022987"/>
+<graphic url="sap/W4_000158_sap.jpg" xml:id="n348.022988"/>
+<graphic url="thumb/W4_000158_thumb.jpg" xml:id="n348.022989"/>
+</surface>
+<surface n="fol. 79r" xml:id="n348.022990"><graphic url="master/W4_000159_600.tif" xml:id="n348.022991"/>
+<graphic url="300/W4_000159_300.tif" xml:id="n348.022992"/>
+<graphic url="sap/W4_000159_sap.jpg" xml:id="n348.022993"/>
+<graphic url="thumb/W4_000159_thumb.jpg" xml:id="n348.022994"/>
+</surface>
+<surface n="fol. 79v" xml:id="n348.022995"><graphic url="master/W4_000160_600.tif" xml:id="n348.022996"/>
+<graphic url="300/W4_000160_300.tif" xml:id="n348.022997"/>
+<graphic url="sap/W4_000160_sap.jpg" xml:id="n348.022998"/>
+<graphic url="thumb/W4_000160_thumb.jpg" xml:id="n348.022999"/>
+</surface>
+<surface n="fol. 80r" xml:id="n348.023000"><graphic url="master/W4_000161_600.tif" xml:id="n348.023001"/>
+<graphic url="300/W4_000161_300.tif" xml:id="n348.023002"/>
+<graphic url="sap/W4_000161_sap.jpg" xml:id="n348.023003"/>
+<graphic url="thumb/W4_000161_thumb.jpg" xml:id="n348.023004"/>
+</surface>
+<surface n="fol. 80v" xml:id="n348.023005"><graphic url="master/W4_000162_600.tif" xml:id="n348.023006"/>
+<graphic url="300/W4_000162_300.tif" xml:id="n348.023007"/>
+<graphic url="sap/W4_000162_sap.jpg" xml:id="n348.023008"/>
+<graphic url="thumb/W4_000162_thumb.jpg" xml:id="n348.023009"/>
+</surface>
+<surface n="fol. 81r" xml:id="n348.023010"><graphic url="master/W4_000163_600.tif" xml:id="n348.023011"/>
+<graphic url="300/W4_000163_300.tif" xml:id="n348.023012"/>
+<graphic url="sap/W4_000163_sap.jpg" xml:id="n348.023013"/>
+<graphic url="thumb/W4_000163_thumb.jpg" xml:id="n348.023014"/>
+</surface>
+<surface n="fol. 81v" xml:id="n348.023015"><graphic url="master/W4_000164_600.tif" xml:id="n348.023016"/>
+<graphic url="300/W4_000164_300.tif" xml:id="n348.023017"/>
+<graphic url="sap/W4_000164_sap.jpg" xml:id="n348.023018"/>
+<graphic url="thumb/W4_000164_thumb.jpg" xml:id="n348.023019"/>
+</surface>
+<surface n="fol. 82r" xml:id="n348.023020"><graphic url="master/W4_000165_600.tif" xml:id="n348.023021"/>
+<graphic url="300/W4_000165_300.tif" xml:id="n348.023022"/>
+<graphic url="sap/W4_000165_sap.jpg" xml:id="n348.023023"/>
+<graphic url="thumb/W4_000165_thumb.jpg" xml:id="n348.023024"/>
+</surface>
+<surface n="fol. 82v" xml:id="n348.023025"><graphic url="master/W4_000166_600.tif" xml:id="n348.023026"/>
+<graphic url="300/W4_000166_300.tif" xml:id="n348.023027"/>
+<graphic url="sap/W4_000166_sap.jpg" xml:id="n348.023028"/>
+<graphic url="thumb/W4_000166_thumb.jpg" xml:id="n348.023029"/>
+</surface>
+<surface n="fol. 83r" xml:id="n348.023030"><graphic url="master/W4_000167_600.tif" xml:id="n348.023031"/>
+<graphic url="300/W4_000167_300.tif" xml:id="n348.023032"/>
+<graphic url="sap/W4_000167_sap.jpg" xml:id="n348.023033"/>
+<graphic url="thumb/W4_000167_thumb.jpg" xml:id="n348.023034"/>
+</surface>
+<surface n="fol. 83v" xml:id="n348.023035"><graphic url="master/W4_000168_600.tif" xml:id="n348.023036"/>
+<graphic url="300/W4_000168_300.tif" xml:id="n348.023037"/>
+<graphic url="sap/W4_000168_sap.jpg" xml:id="n348.023038"/>
+<graphic url="thumb/W4_000168_thumb.jpg" xml:id="n348.023039"/>
+</surface>
+<surface n="fol. 84r" xml:id="n348.023040"><graphic url="master/W4_000169_600.tif" xml:id="n348.023041"/>
+<graphic url="300/W4_000169_300.tif" xml:id="n348.023042"/>
+<graphic url="sap/W4_000169_sap.jpg" xml:id="n348.023043"/>
+<graphic url="thumb/W4_000169_thumb.jpg" xml:id="n348.023044"/>
+</surface>
+<surface n="fol. 84v" xml:id="n348.023045"><graphic url="master/W4_000170_600.tif" xml:id="n348.023046"/>
+<graphic url="300/W4_000170_300.tif" xml:id="n348.023047"/>
+<graphic url="sap/W4_000170_sap.jpg" xml:id="n348.023048"/>
+<graphic url="thumb/W4_000170_thumb.jpg" xml:id="n348.023049"/>
+</surface>
+<surface n="fol. 85r" xml:id="n348.023050"><graphic url="master/W4_000171_600.tif" xml:id="n348.023051"/>
+<graphic url="300/W4_000171_300.tif" xml:id="n348.023052"/>
+<graphic url="sap/W4_000171_sap.jpg" xml:id="n348.023053"/>
+<graphic url="thumb/W4_000171_thumb.jpg" xml:id="n348.023054"/>
+</surface>
+<surface n="fol. 85v" xml:id="n348.023055"><graphic url="master/W4_000172_600.tif" xml:id="n348.023056"/>
+<graphic url="300/W4_000172_300.tif" xml:id="n348.023057"/>
+<graphic url="sap/W4_000172_sap.jpg" xml:id="n348.023058"/>
+<graphic url="thumb/W4_000172_thumb.jpg" xml:id="n348.023059"/>
+</surface>
+<surface n="fol. 86r" xml:id="n348.023060"><graphic url="master/W4_000173_600.tif" xml:id="n348.023061"/>
+<graphic url="300/W4_000173_300.tif" xml:id="n348.023062"/>
+<graphic url="sap/W4_000173_sap.jpg" xml:id="n348.023063"/>
+<graphic url="thumb/W4_000173_thumb.jpg" xml:id="n348.023064"/>
+</surface>
+<surface n="fol. 86v" xml:id="n348.023065"><graphic url="master/W4_000174_600.tif" xml:id="n348.023066"/>
+<graphic url="300/W4_000174_300.tif" xml:id="n348.023067"/>
+<graphic url="sap/W4_000174_sap.jpg" xml:id="n348.023068"/>
+<graphic url="thumb/W4_000174_thumb.jpg" xml:id="n348.023069"/>
+</surface>
+<surface n="fol. 87r" xml:id="n348.023070"><graphic url="master/W4_000175_600.tif" xml:id="n348.023071"/>
+<graphic url="300/W4_000175_300.tif" xml:id="n348.023072"/>
+<graphic url="sap/W4_000175_sap.jpg" xml:id="n348.023073"/>
+<graphic url="thumb/W4_000175_thumb.jpg" xml:id="n348.023074"/>
+</surface>
+<surface n="fol. 87v" xml:id="n348.023075"><graphic url="master/W4_000176_600.tif" xml:id="n348.023076"/>
+<graphic url="300/W4_000176_300.tif" xml:id="n348.023077"/>
+<graphic url="sap/W4_000176_sap.jpg" xml:id="n348.023078"/>
+<graphic url="thumb/W4_000176_thumb.jpg" xml:id="n348.023079"/>
+</surface>
+<surface n="fol. 88r" xml:id="n348.023080"><graphic url="master/W4_000177_600.tif" xml:id="n348.023081"/>
+<graphic url="300/W4_000177_300.tif" xml:id="n348.023082"/>
+<graphic url="sap/W4_000177_sap.jpg" xml:id="n348.023083"/>
+<graphic url="thumb/W4_000177_thumb.jpg" xml:id="n348.023084"/>
+</surface>
+<surface n="fol. 88v" xml:id="n348.023085"><graphic url="master/W4_000178_600.tif" xml:id="n348.023086"/>
+<graphic url="300/W4_000178_300.tif" xml:id="n348.023087"/>
+<graphic url="sap/W4_000178_sap.jpg" xml:id="n348.023088"/>
+<graphic url="thumb/W4_000178_thumb.jpg" xml:id="n348.023089"/>
+</surface>
+<surface n="fol. 89r" xml:id="n348.023090"><graphic url="master/W4_000179_600.tif" xml:id="n348.023091"/>
+<graphic url="300/W4_000179_300.tif" xml:id="n348.023092"/>
+<graphic url="sap/W4_000179_sap.jpg" xml:id="n348.023093"/>
+<graphic url="thumb/W4_000179_thumb.jpg" xml:id="n348.023094"/>
+</surface>
+<surface n="fol. 89v" xml:id="n348.023095"><graphic url="master/W4_000180_600.tif" xml:id="n348.023096"/>
+<graphic url="300/W4_000180_300.tif" xml:id="n348.023097"/>
+<graphic url="sap/W4_000180_sap.jpg" xml:id="n348.023098"/>
+<graphic url="thumb/W4_000180_thumb.jpg" xml:id="n348.023099"/>
+</surface>
+<surface n="fol. 90r" xml:id="n348.023100"><graphic url="master/W4_000181_600.tif" xml:id="n348.023101"/>
+<graphic url="300/W4_000181_300.tif" xml:id="n348.023102"/>
+<graphic url="sap/W4_000181_sap.jpg" xml:id="n348.023103"/>
+<graphic url="thumb/W4_000181_thumb.jpg" xml:id="n348.023104"/>
+</surface>
+<surface n="fol. 90v" xml:id="n348.023105"><graphic url="master/W4_000182_1200.tif" xml:id="n348.023106"/>
+<graphic url="300/W4_000182_300.tif" xml:id="n348.023107"/>
+<graphic url="sap/W4_000182_sap.jpg" xml:id="n348.023108"/>
+<graphic url="thumb/W4_000182_thumb.jpg" xml:id="n348.023109"/>
+</surface>
+<surface n="fol. 91r" xml:id="n348.023110"><graphic url="master/W4_000183_600.tif" xml:id="n348.023111"/>
+<graphic url="300/W4_000183_300.tif" xml:id="n348.023112"/>
+<graphic url="sap/W4_000183_sap.jpg" xml:id="n348.023113"/>
+<graphic url="thumb/W4_000183_thumb.jpg" xml:id="n348.023114"/>
+</surface>
+<surface n="fol. 91v" xml:id="n348.023115"><graphic url="master/W4_000184_600.tif" xml:id="n348.023116"/>
+<graphic url="300/W4_000184_300.tif" xml:id="n348.023117"/>
+<graphic url="sap/W4_000184_sap.jpg" xml:id="n348.023118"/>
+<graphic url="thumb/W4_000184_thumb.jpg" xml:id="n348.023119"/>
+</surface>
+<surface n="fol. 92r" xml:id="n348.023120"><graphic url="master/W4_000185_600.tif" xml:id="n348.023121"/>
+<graphic url="300/W4_000185_300.tif" xml:id="n348.023122"/>
+<graphic url="sap/W4_000185_sap.jpg" xml:id="n348.023123"/>
+<graphic url="thumb/W4_000185_thumb.jpg" xml:id="n348.023124"/>
+</surface>
+<surface n="fol. 92v" xml:id="n348.023125"><graphic url="master/W4_000186_600.tif" xml:id="n348.023126"/>
+<graphic url="300/W4_000186_300.tif" xml:id="n348.023127"/>
+<graphic url="sap/W4_000186_sap.jpg" xml:id="n348.023128"/>
+<graphic url="thumb/W4_000186_thumb.jpg" xml:id="n348.023129"/>
+</surface>
+<surface n="fol. 93r" xml:id="n348.023130"><graphic url="master/W4_000187_600.tif" xml:id="n348.023131"/>
+<graphic url="300/W4_000187_300.tif" xml:id="n348.023132"/>
+<graphic url="sap/W4_000187_sap.jpg" xml:id="n348.023133"/>
+<graphic url="thumb/W4_000187_thumb.jpg" xml:id="n348.023134"/>
+</surface>
+<surface n="fol. 93v" xml:id="n348.023135"><graphic url="master/W4_000188_600.tif" xml:id="n348.023136"/>
+<graphic url="300/W4_000188_300.tif" xml:id="n348.023137"/>
+<graphic url="sap/W4_000188_sap.jpg" xml:id="n348.023138"/>
+<graphic url="thumb/W4_000188_thumb.jpg" xml:id="n348.023139"/>
+</surface>
+<surface n="fol. 94r" xml:id="n348.023140"><graphic url="master/W4_000189_600.tif" xml:id="n348.023141"/>
+<graphic url="300/W4_000189_300.tif" xml:id="n348.023142"/>
+<graphic url="sap/W4_000189_sap.jpg" xml:id="n348.023143"/>
+<graphic url="thumb/W4_000189_thumb.jpg" xml:id="n348.023144"/>
+</surface>
+<surface n="fol. 94v" xml:id="n348.023145"><graphic url="master/W4_000190_600.tif" xml:id="n348.023146"/>
+<graphic url="300/W4_000190_300.tif" xml:id="n348.023147"/>
+<graphic url="sap/W4_000190_sap.jpg" xml:id="n348.023148"/>
+<graphic url="thumb/W4_000190_thumb.jpg" xml:id="n348.023149"/>
+</surface>
+<surface n="fol. 95r" xml:id="n348.023150"><graphic url="master/W4_000191_600.tif" xml:id="n348.023151"/>
+<graphic url="300/W4_000191_300.tif" xml:id="n348.023152"/>
+<graphic url="sap/W4_000191_sap.jpg" xml:id="n348.023153"/>
+<graphic url="thumb/W4_000191_thumb.jpg" xml:id="n348.023154"/>
+</surface>
+<surface n="fol. 95v" xml:id="n348.023155"><graphic url="master/W4_000192_600.tif" xml:id="n348.023156"/>
+<graphic url="300/W4_000192_300.tif" xml:id="n348.023157"/>
+<graphic url="sap/W4_000192_sap.jpg" xml:id="n348.023158"/>
+<graphic url="thumb/W4_000192_thumb.jpg" xml:id="n348.023159"/>
+</surface>
+<surface n="fol. 96r" xml:id="n348.023160"><graphic url="master/W4_000193_600.tif" xml:id="n348.023161"/>
+<graphic url="300/W4_000193_300.tif" xml:id="n348.023162"/>
+<graphic url="sap/W4_000193_sap.jpg" xml:id="n348.023163"/>
+<graphic url="thumb/W4_000193_thumb.jpg" xml:id="n348.023164"/>
+</surface>
+<surface n="fol. 96v" xml:id="n348.023165"><graphic url="master/W4_000194_600.tif" xml:id="n348.023166"/>
+<graphic url="300/W4_000194_300.tif" xml:id="n348.023167"/>
+<graphic url="sap/W4_000194_sap.jpg" xml:id="n348.023168"/>
+<graphic url="thumb/W4_000194_thumb.jpg" xml:id="n348.023169"/>
+</surface>
+<surface n="fol. 97r" xml:id="n348.023170"><graphic url="master/W4_000195_600.tif" xml:id="n348.023171"/>
+<graphic url="300/W4_000195_300.tif" xml:id="n348.023172"/>
+<graphic url="sap/W4_000195_sap.jpg" xml:id="n348.023173"/>
+<graphic url="thumb/W4_000195_thumb.jpg" xml:id="n348.023174"/>
+</surface>
+<surface n="fol. 97v" xml:id="n348.023175"><graphic url="master/W4_000196_600.tif" xml:id="n348.023176"/>
+<graphic url="300/W4_000196_300.tif" xml:id="n348.023177"/>
+<graphic url="sap/W4_000196_sap.jpg" xml:id="n348.023178"/>
+<graphic url="thumb/W4_000196_thumb.jpg" xml:id="n348.023179"/>
+</surface>
+<surface n="fol. 98r" xml:id="n348.023180"><graphic url="master/W4_000197_600.tif" xml:id="n348.023181"/>
+<graphic url="300/W4_000197_300.tif" xml:id="n348.023182"/>
+<graphic url="sap/W4_000197_sap.jpg" xml:id="n348.023183"/>
+<graphic url="thumb/W4_000197_thumb.jpg" xml:id="n348.023184"/>
+</surface>
+<surface n="fol. 98v" xml:id="n348.023185"><graphic url="master/W4_000198_600.tif" xml:id="n348.023186"/>
+<graphic url="300/W4_000198_300.tif" xml:id="n348.023187"/>
+<graphic url="sap/W4_000198_sap.jpg" xml:id="n348.023188"/>
+<graphic url="thumb/W4_000198_thumb.jpg" xml:id="n348.023189"/>
+</surface>
+<surface n="fol. 99r" xml:id="n348.023190"><graphic url="master/W4_000199_600.tif" xml:id="n348.023191"/>
+<graphic url="300/W4_000199_300.tif" xml:id="n348.023192"/>
+<graphic url="sap/W4_000199_sap.jpg" xml:id="n348.023193"/>
+<graphic url="thumb/W4_000199_thumb.jpg" xml:id="n348.023194"/>
+</surface>
+<surface n="fol. 99v" xml:id="n348.023195"><graphic url="master/W4_000200_600.tif" xml:id="n348.023196"/>
+<graphic url="300/W4_000200_300.tif" xml:id="n348.023197"/>
+<graphic url="sap/W4_000200_sap.jpg" xml:id="n348.023198"/>
+<graphic url="thumb/W4_000200_thumb.jpg" xml:id="n348.023199"/>
+</surface>
+<surface n="fol. 100r" xml:id="n348.023200"><graphic url="master/W4_000201_600.tif" xml:id="n348.023201"/>
+<graphic url="300/W4_000201_300.tif" xml:id="n348.023202"/>
+<graphic url="sap/W4_000201_sap.jpg" xml:id="n348.023203"/>
+<graphic url="thumb/W4_000201_thumb.jpg" xml:id="n348.023204"/>
+</surface>
+<surface n="fol. 100v" xml:id="n348.023205"><graphic url="master/W4_000202_600.tif" xml:id="n348.023206"/>
+<graphic url="300/W4_000202_300.tif" xml:id="n348.023207"/>
+<graphic url="sap/W4_000202_sap.jpg" xml:id="n348.023208"/>
+<graphic url="thumb/W4_000202_thumb.jpg" xml:id="n348.023209"/>
+</surface>
+<surface n="fol. 101r" xml:id="n348.023210"><graphic url="master/W4_000203_600.tif" xml:id="n348.023211"/>
+<graphic url="300/W4_000203_300.tif" xml:id="n348.023212"/>
+<graphic url="sap/W4_000203_sap.jpg" xml:id="n348.023213"/>
+<graphic url="thumb/W4_000203_thumb.jpg" xml:id="n348.023214"/>
+</surface>
+<surface n="fol. 101v" xml:id="n348.023215"><graphic url="master/W4_000204_600.tif" xml:id="n348.023216"/>
+<graphic url="300/W4_000204_300.tif" xml:id="n348.023217"/>
+<graphic url="sap/W4_000204_sap.jpg" xml:id="n348.023218"/>
+<graphic url="thumb/W4_000204_thumb.jpg" xml:id="n348.023219"/>
+</surface>
+<surface n="fol. 102r" xml:id="n348.023220"><graphic url="master/W4_000205_600.tif" xml:id="n348.023221"/>
+<graphic url="300/W4_000205_300.tif" xml:id="n348.023222"/>
+<graphic url="sap/W4_000205_sap.jpg" xml:id="n348.023223"/>
+<graphic url="thumb/W4_000205_thumb.jpg" xml:id="n348.023224"/>
+</surface>
+<surface n="fol. 102v" xml:id="n348.023225"><graphic url="master/W4_000206_600.tif" xml:id="n348.023226"/>
+<graphic url="300/W4_000206_300.tif" xml:id="n348.023227"/>
+<graphic url="sap/W4_000206_sap.jpg" xml:id="n348.023228"/>
+<graphic url="thumb/W4_000206_thumb.jpg" xml:id="n348.023229"/>
+</surface>
+<surface n="fol. 103r" xml:id="n348.023230"><graphic url="master/W4_000207_600.tif" xml:id="n348.023231"/>
+<graphic url="300/W4_000207_300.tif" xml:id="n348.023232"/>
+<graphic url="sap/W4_000207_sap.jpg" xml:id="n348.023233"/>
+<graphic url="thumb/W4_000207_thumb.jpg" xml:id="n348.023234"/>
+</surface>
+<surface n="fol. 103v" xml:id="n348.023235"><graphic url="master/W4_000208_600.tif" xml:id="n348.023236"/>
+<graphic url="300/W4_000208_300.tif" xml:id="n348.023237"/>
+<graphic url="sap/W4_000208_sap.jpg" xml:id="n348.023238"/>
+<graphic url="thumb/W4_000208_thumb.jpg" xml:id="n348.023239"/>
+</surface>
+<surface n="fol. 104r" xml:id="n348.023240"><graphic url="master/W4_000209_600.tif" xml:id="n348.023241"/>
+<graphic url="300/W4_000209_300.tif" xml:id="n348.023242"/>
+<graphic url="sap/W4_000209_sap.jpg" xml:id="n348.023243"/>
+<graphic url="thumb/W4_000209_thumb.jpg" xml:id="n348.023244"/>
+</surface>
+<surface n="fol. 104v" xml:id="n348.023245"><graphic url="master/W4_000210_600.tif" xml:id="n348.023246"/>
+<graphic url="300/W4_000210_300.tif" xml:id="n348.023247"/>
+<graphic url="sap/W4_000210_sap.jpg" xml:id="n348.023248"/>
+<graphic url="thumb/W4_000210_thumb.jpg" xml:id="n348.023249"/>
+</surface>
+<surface n="fol. 105r" xml:id="n348.023250"><graphic url="master/W4_000211_600.tif" xml:id="n348.023251"/>
+<graphic url="300/W4_000211_300.tif" xml:id="n348.023252"/>
+<graphic url="sap/W4_000211_sap.jpg" xml:id="n348.023253"/>
+<graphic url="thumb/W4_000211_thumb.jpg" xml:id="n348.023254"/>
+</surface>
+<surface n="fol. 105v" xml:id="n348.023255"><graphic url="master/W4_000212_600.tif" xml:id="n348.023256"/>
+<graphic url="300/W4_000212_300.tif" xml:id="n348.023257"/>
+<graphic url="sap/W4_000212_sap.jpg" xml:id="n348.023258"/>
+<graphic url="thumb/W4_000212_thumb.jpg" xml:id="n348.023259"/>
+</surface>
+<surface n="fol. 106r" xml:id="n348.023260"><graphic url="master/W4_000213_600.tif" xml:id="n348.023261"/>
+<graphic url="300/W4_000213_300.tif" xml:id="n348.023262"/>
+<graphic url="sap/W4_000213_sap.jpg" xml:id="n348.023263"/>
+<graphic url="thumb/W4_000213_thumb.jpg" xml:id="n348.023264"/>
+</surface>
+<surface n="fol. 106v" xml:id="n348.023265"><graphic url="master/W4_000214_600.tif" xml:id="n348.023266"/>
+<graphic url="300/W4_000214_300.tif" xml:id="n348.023267"/>
+<graphic url="sap/W4_000214_sap.jpg" xml:id="n348.023268"/>
+<graphic url="thumb/W4_000214_thumb.jpg" xml:id="n348.023269"/>
+</surface>
+<surface n="fol. 107r" xml:id="n348.023270"><graphic url="master/W4_000215_600.tif" xml:id="n348.023271"/>
+<graphic url="300/W4_000215_300.tif" xml:id="n348.023272"/>
+<graphic url="sap/W4_000215_sap.jpg" xml:id="n348.023273"/>
+<graphic url="thumb/W4_000215_thumb.jpg" xml:id="n348.023274"/>
+</surface>
+<surface n="fol. 107v" xml:id="n348.023275"><graphic url="master/W4_000216_600.tif" xml:id="n348.023276"/>
+<graphic url="300/W4_000216_300.tif" xml:id="n348.023277"/>
+<graphic url="sap/W4_000216_sap.jpg" xml:id="n348.023278"/>
+<graphic url="thumb/W4_000216_thumb.jpg" xml:id="n348.023279"/>
+</surface>
+<surface n="fol. 108r" xml:id="n348.023280"><graphic url="master/W4_000217_600.tif" xml:id="n348.023281"/>
+<graphic url="300/W4_000217_300.tif" xml:id="n348.023282"/>
+<graphic url="sap/W4_000217_sap.jpg" xml:id="n348.023283"/>
+<graphic url="thumb/W4_000217_thumb.jpg" xml:id="n348.023284"/>
+</surface>
+<surface n="fol. 108v" xml:id="n348.023285"><graphic url="master/W4_000218_600.tif" xml:id="n348.023286"/>
+<graphic url="300/W4_000218_300.tif" xml:id="n348.023287"/>
+<graphic url="sap/W4_000218_sap.jpg" xml:id="n348.023288"/>
+<graphic url="thumb/W4_000218_thumb.jpg" xml:id="n348.023289"/>
+</surface>
+<surface n="fol. 109r" xml:id="n348.023290"><graphic url="master/W4_000219_600.tif" xml:id="n348.023291"/>
+<graphic url="300/W4_000219_300.tif" xml:id="n348.023292"/>
+<graphic url="sap/W4_000219_sap.jpg" xml:id="n348.023293"/>
+<graphic url="thumb/W4_000219_thumb.jpg" xml:id="n348.023294"/>
+</surface>
+<surface n="fol. 109v" xml:id="n348.023295"><graphic url="master/W4_000220_600.tif" xml:id="n348.023296"/>
+<graphic url="300/W4_000220_300.tif" xml:id="n348.023297"/>
+<graphic url="sap/W4_000220_sap.jpg" xml:id="n348.023298"/>
+<graphic url="thumb/W4_000220_thumb.jpg" xml:id="n348.023299"/>
+</surface>
+<surface n="fol. 110r" xml:id="n348.023300"><graphic url="master/W4_000221_600.tif" xml:id="n348.023301"/>
+<graphic url="300/W4_000221_300.tif" xml:id="n348.023302"/>
+<graphic url="sap/W4_000221_sap.jpg" xml:id="n348.023303"/>
+<graphic url="thumb/W4_000221_thumb.jpg" xml:id="n348.023304"/>
+</surface>
+<surface n="fol. 110v" xml:id="n348.023305"><graphic url="master/W4_000222_600.tif" xml:id="n348.023306"/>
+<graphic url="300/W4_000222_300.tif" xml:id="n348.023307"/>
+<graphic url="sap/W4_000222_sap.jpg" xml:id="n348.023308"/>
+<graphic url="thumb/W4_000222_thumb.jpg" xml:id="n348.023309"/>
+</surface>
+<surface n="fol. 111r" xml:id="n348.023310"><graphic url="master/W4_000223_600.tif" xml:id="n348.023311"/>
+<graphic url="300/W4_000223_300.tif" xml:id="n348.023312"/>
+<graphic url="sap/W4_000223_sap.jpg" xml:id="n348.023313"/>
+<graphic url="thumb/W4_000223_thumb.jpg" xml:id="n348.023314"/>
+</surface>
+<surface n="fol. 111v" xml:id="n348.023315"><graphic url="master/W4_000224_600.tif" xml:id="n348.023316"/>
+<graphic url="300/W4_000224_300.tif" xml:id="n348.023317"/>
+<graphic url="sap/W4_000224_sap.jpg" xml:id="n348.023318"/>
+<graphic url="thumb/W4_000224_thumb.jpg" xml:id="n348.023319"/>
+</surface>
+<surface n="fol. 112r" xml:id="n348.023320"><graphic url="master/W4_000225_600.tif" xml:id="n348.023321"/>
+<graphic url="300/W4_000225_300.tif" xml:id="n348.023322"/>
+<graphic url="sap/W4_000225_sap.jpg" xml:id="n348.023323"/>
+<graphic url="thumb/W4_000225_thumb.jpg" xml:id="n348.023324"/>
+</surface>
+<surface n="fol. 112v" xml:id="n348.023325"><graphic url="master/W4_000226_600.tif" xml:id="n348.023326"/>
+<graphic url="300/W4_000226_300.tif" xml:id="n348.023327"/>
+<graphic url="sap/W4_000226_sap.jpg" xml:id="n348.023328"/>
+<graphic url="thumb/W4_000226_thumb.jpg" xml:id="n348.023329"/>
+</surface>
+<surface n="fol. 113r" xml:id="n348.023330"><graphic url="master/W4_000227_600.tif" xml:id="n348.023331"/>
+<graphic url="300/W4_000227_300.tif" xml:id="n348.023332"/>
+<graphic url="sap/W4_000227_sap.jpg" xml:id="n348.023333"/>
+<graphic url="thumb/W4_000227_thumb.jpg" xml:id="n348.023334"/>
+</surface>
+<surface n="fol. 113v" xml:id="n348.023335"><graphic url="master/W4_000228_600.tif" xml:id="n348.023336"/>
+<graphic url="300/W4_000228_300.tif" xml:id="n348.023337"/>
+<graphic url="sap/W4_000228_sap.jpg" xml:id="n348.023338"/>
+<graphic url="thumb/W4_000228_thumb.jpg" xml:id="n348.023339"/>
+</surface>
+<surface n="fol. 114r" xml:id="n348.023340"><graphic url="master/W4_000229_600.tif" xml:id="n348.023341"/>
+<graphic url="300/W4_000229_300.tif" xml:id="n348.023342"/>
+<graphic url="sap/W4_000229_sap.jpg" xml:id="n348.023343"/>
+<graphic url="thumb/W4_000229_thumb.jpg" xml:id="n348.023344"/>
+</surface>
+<surface n="fol. 114v" xml:id="n348.023345"><graphic url="master/W4_000230_600.tif" xml:id="n348.023346"/>
+<graphic url="300/W4_000230_300.tif" xml:id="n348.023347"/>
+<graphic url="sap/W4_000230_sap.jpg" xml:id="n348.023348"/>
+<graphic url="thumb/W4_000230_thumb.jpg" xml:id="n348.023349"/>
+</surface>
+<surface n="fol. 115r" xml:id="n348.023350"><graphic url="master/W4_000231_600.tif" xml:id="n348.023351"/>
+<graphic url="300/W4_000231_300.tif" xml:id="n348.023352"/>
+<graphic url="sap/W4_000231_sap.jpg" xml:id="n348.023353"/>
+<graphic url="thumb/W4_000231_thumb.jpg" xml:id="n348.023354"/>
+</surface>
+<surface n="fol. 115v" xml:id="n348.023355"><graphic url="master/W4_000232_600.tif" xml:id="n348.023356"/>
+<graphic url="300/W4_000232_300.tif" xml:id="n348.023357"/>
+<graphic url="sap/W4_000232_sap.jpg" xml:id="n348.023358"/>
+<graphic url="thumb/W4_000232_thumb.jpg" xml:id="n348.023359"/>
+</surface>
+<surface n="fol. 116r" xml:id="n348.023360"><graphic url="master/W4_000233_600.tif" xml:id="n348.023361"/>
+<graphic url="300/W4_000233_300.tif" xml:id="n348.023362"/>
+<graphic url="sap/W4_000233_sap.jpg" xml:id="n348.023363"/>
+<graphic url="thumb/W4_000233_thumb.jpg" xml:id="n348.023364"/>
+</surface>
+<surface n="fol. 116v" xml:id="n348.023365"><graphic url="master/W4_000234_600.tif" xml:id="n348.023366"/>
+<graphic url="300/W4_000234_300.tif" xml:id="n348.023367"/>
+<graphic url="sap/W4_000234_sap.jpg" xml:id="n348.023368"/>
+<graphic url="thumb/W4_000234_thumb.jpg" xml:id="n348.023369"/>
+</surface>
+<surface n="fol. 117r" xml:id="n348.023370"><graphic url="master/W4_000235_600.tif" xml:id="n348.023371"/>
+<graphic url="300/W4_000235_300.tif" xml:id="n348.023372"/>
+<graphic url="sap/W4_000235_sap.jpg" xml:id="n348.023373"/>
+<graphic url="thumb/W4_000235_thumb.jpg" xml:id="n348.023374"/>
+</surface>
+<surface n="fol. 117v" xml:id="n348.023375"><graphic url="master/W4_000236_600.tif" xml:id="n348.023376"/>
+<graphic url="300/W4_000236_300.tif" xml:id="n348.023377"/>
+<graphic url="sap/W4_000236_sap.jpg" xml:id="n348.023378"/>
+<graphic url="thumb/W4_000236_thumb.jpg" xml:id="n348.023379"/>
+</surface>
+<surface n="fol. 118r" xml:id="n348.023380"><graphic url="master/W4_000237_600.tif" xml:id="n348.023381"/>
+<graphic url="300/W4_000237_300.tif" xml:id="n348.023382"/>
+<graphic url="sap/W4_000237_sap.jpg" xml:id="n348.023383"/>
+<graphic url="thumb/W4_000237_thumb.jpg" xml:id="n348.023384"/>
+</surface>
+<surface n="fol. 118v" xml:id="n348.023385"><graphic url="master/W4_000238_600.tif" xml:id="n348.023386"/>
+<graphic url="300/W4_000238_300.tif" xml:id="n348.023387"/>
+<graphic url="sap/W4_000238_sap.jpg" xml:id="n348.023388"/>
+<graphic url="thumb/W4_000238_thumb.jpg" xml:id="n348.023389"/>
+</surface>
+<surface n="fol. 119r" xml:id="n348.023390"><graphic url="master/W4_000239_600.tif" xml:id="n348.023391"/>
+<graphic url="300/W4_000239_300.tif" xml:id="n348.023392"/>
+<graphic url="sap/W4_000239_sap.jpg" xml:id="n348.023393"/>
+<graphic url="thumb/W4_000239_thumb.jpg" xml:id="n348.023394"/>
+</surface>
+<surface n="fol. 119v" xml:id="n348.023395"><graphic url="master/W4_000240_600.tif" xml:id="n348.023396"/>
+<graphic url="300/W4_000240_300.tif" xml:id="n348.023397"/>
+<graphic url="sap/W4_000240_sap.jpg" xml:id="n348.023398"/>
+<graphic url="thumb/W4_000240_thumb.jpg" xml:id="n348.023399"/>
+</surface>
+<surface n="fol. 120r" xml:id="n348.023400"><graphic url="master/W4_000241_600.tif" xml:id="n348.023401"/>
+<graphic url="300/W4_000241_300.tif" xml:id="n348.023402"/>
+<graphic url="sap/W4_000241_sap.jpg" xml:id="n348.023403"/>
+<graphic url="thumb/W4_000241_thumb.jpg" xml:id="n348.023404"/>
+</surface>
+<surface n="fol. 120v" xml:id="n348.023405"><graphic url="master/W4_000242_600.tif" xml:id="n348.023406"/>
+<graphic url="300/W4_000242_300.tif" xml:id="n348.023407"/>
+<graphic url="sap/W4_000242_sap.jpg" xml:id="n348.023408"/>
+<graphic url="thumb/W4_000242_thumb.jpg" xml:id="n348.023409"/>
+</surface>
+<surface n="fol. 121r" xml:id="n348.023410"><graphic url="master/W4_000243_600.tif" xml:id="n348.023411"/>
+<graphic url="300/W4_000243_300.tif" xml:id="n348.023412"/>
+<graphic url="sap/W4_000243_sap.jpg" xml:id="n348.023413"/>
+<graphic url="thumb/W4_000243_thumb.jpg" xml:id="n348.023414"/>
+</surface>
+<surface n="fol. 121v" xml:id="n348.023415"><graphic url="master/W4_000244_600.tif" xml:id="n348.023416"/>
+<graphic url="300/W4_000244_300.tif" xml:id="n348.023417"/>
+<graphic url="sap/W4_000244_sap.jpg" xml:id="n348.023418"/>
+<graphic url="thumb/W4_000244_thumb.jpg" xml:id="n348.023419"/>
+</surface>
+<surface n="fol. 122r" xml:id="n348.023420"><graphic url="master/W4_000245_600.tif" xml:id="n348.023421"/>
+<graphic url="300/W4_000245_300.tif" xml:id="n348.023422"/>
+<graphic url="sap/W4_000245_sap.jpg" xml:id="n348.023423"/>
+<graphic url="thumb/W4_000245_thumb.jpg" xml:id="n348.023424"/>
+</surface>
+<surface n="fol. 122v" xml:id="n348.023425"><graphic url="master/W4_000246_600.tif" xml:id="n348.023426"/>
+<graphic url="300/W4_000246_300.tif" xml:id="n348.023427"/>
+<graphic url="sap/W4_000246_sap.jpg" xml:id="n348.023428"/>
+<graphic url="thumb/W4_000246_thumb.jpg" xml:id="n348.023429"/>
+</surface>
+<surface n="fol. 123r" xml:id="n348.023430"><graphic url="master/W4_000247_600.tif" xml:id="n348.023431"/>
+<graphic url="300/W4_000247_300.tif" xml:id="n348.023432"/>
+<graphic url="sap/W4_000247_sap.jpg" xml:id="n348.023433"/>
+<graphic url="thumb/W4_000247_thumb.jpg" xml:id="n348.023434"/>
+</surface>
+<surface n="fol. 123v" xml:id="n348.023435"><graphic url="master/W4_000248_600.tif" xml:id="n348.023436"/>
+<graphic url="300/W4_000248_300.tif" xml:id="n348.023437"/>
+<graphic url="sap/W4_000248_sap.jpg" xml:id="n348.023438"/>
+<graphic url="thumb/W4_000248_thumb.jpg" xml:id="n348.023439"/>
+</surface>
+<surface n="fol. 124r" xml:id="n348.023440"><graphic url="master/W4_000249_600.tif" xml:id="n348.023441"/>
+<graphic url="300/W4_000249_300.tif" xml:id="n348.023442"/>
+<graphic url="sap/W4_000249_sap.jpg" xml:id="n348.023443"/>
+<graphic url="thumb/W4_000249_thumb.jpg" xml:id="n348.023444"/>
+</surface>
+<surface n="fol. 124v" xml:id="n348.023445"><graphic url="master/W4_000250_600.tif" xml:id="n348.023446"/>
+<graphic url="300/W4_000250_300.tif" xml:id="n348.023447"/>
+<graphic url="sap/W4_000250_sap.jpg" xml:id="n348.023448"/>
+<graphic url="thumb/W4_000250_thumb.jpg" xml:id="n348.023449"/>
+</surface>
+<surface n="fol. 125r" xml:id="n348.023450"><graphic url="master/W4_000251_600.tif" xml:id="n348.023451"/>
+<graphic url="300/W4_000251_300.tif" xml:id="n348.023452"/>
+<graphic url="sap/W4_000251_sap.jpg" xml:id="n348.023453"/>
+<graphic url="thumb/W4_000251_thumb.jpg" xml:id="n348.023454"/>
+</surface>
+<surface n="fol. 125v" xml:id="n348.023455"><graphic url="master/W4_000252_600.tif" xml:id="n348.023456"/>
+<graphic url="300/W4_000252_300.tif" xml:id="n348.023457"/>
+<graphic url="sap/W4_000252_sap.jpg" xml:id="n348.023458"/>
+<graphic url="thumb/W4_000252_thumb.jpg" xml:id="n348.023459"/>
+</surface>
+<surface n="fol. 126r" xml:id="n348.023460"><graphic url="master/W4_000253_600.tif" xml:id="n348.023461"/>
+<graphic url="300/W4_000253_300.tif" xml:id="n348.023462"/>
+<graphic url="sap/W4_000253_sap.jpg" xml:id="n348.023463"/>
+<graphic url="thumb/W4_000253_thumb.jpg" xml:id="n348.023464"/>
+</surface>
+<surface n="fol. 126v" xml:id="n348.023465"><graphic url="master/W4_000254_1200.tif" xml:id="n348.023466"/>
+<graphic url="300/W4_000254_300.tif" xml:id="n348.023467"/>
+<graphic url="sap/W4_000254_sap.jpg" xml:id="n348.023468"/>
+<graphic url="thumb/W4_000254_thumb.jpg" xml:id="n348.023469"/>
+</surface>
+<surface n="fol. 127r" xml:id="n348.023470"><graphic url="master/W4_000255_600.tif" xml:id="n348.023471"/>
+<graphic url="300/W4_000255_300.tif" xml:id="n348.023472"/>
+<graphic url="sap/W4_000255_sap.jpg" xml:id="n348.023473"/>
+<graphic url="thumb/W4_000255_thumb.jpg" xml:id="n348.023474"/>
+</surface>
+<surface n="fol. 127v" xml:id="n348.023475"><graphic url="master/W4_000256_600.tif" xml:id="n348.023476"/>
+<graphic url="300/W4_000256_300.tif" xml:id="n348.023477"/>
+<graphic url="sap/W4_000256_sap.jpg" xml:id="n348.023478"/>
+<graphic url="thumb/W4_000256_thumb.jpg" xml:id="n348.023479"/>
+</surface>
+<surface n="fol. 128r" xml:id="n348.023480"><graphic url="master/W4_000257_600.tif" xml:id="n348.023481"/>
+<graphic url="300/W4_000257_300.tif" xml:id="n348.023482"/>
+<graphic url="sap/W4_000257_sap.jpg" xml:id="n348.023483"/>
+<graphic url="thumb/W4_000257_thumb.jpg" xml:id="n348.023484"/>
+</surface>
+<surface n="fol. 128v" xml:id="n348.023485"><graphic url="master/W4_000258_600.tif" xml:id="n348.023486"/>
+<graphic url="300/W4_000258_300.tif" xml:id="n348.023487"/>
+<graphic url="sap/W4_000258_sap.jpg" xml:id="n348.023488"/>
+<graphic url="thumb/W4_000258_thumb.jpg" xml:id="n348.023489"/>
+</surface>
+<surface n="fol. 129r" xml:id="n348.023490"><graphic url="master/W4_000259_600.tif" xml:id="n348.023491"/>
+<graphic url="300/W4_000259_300.tif" xml:id="n348.023492"/>
+<graphic url="sap/W4_000259_sap.jpg" xml:id="n348.023493"/>
+<graphic url="thumb/W4_000259_thumb.jpg" xml:id="n348.023494"/>
+</surface>
+<surface n="fol. 129v" xml:id="n348.023495"><graphic url="master/W4_000260_600.tif" xml:id="n348.023496"/>
+<graphic url="300/W4_000260_300.tif" xml:id="n348.023497"/>
+<graphic url="sap/W4_000260_sap.jpg" xml:id="n348.023498"/>
+<graphic url="thumb/W4_000260_thumb.jpg" xml:id="n348.023499"/>
+</surface>
+<surface n="fol. 130r" xml:id="n348.023500"><graphic url="master/W4_000261_600.tif" xml:id="n348.023501"/>
+<graphic url="300/W4_000261_300.tif" xml:id="n348.023502"/>
+<graphic url="sap/W4_000261_sap.jpg" xml:id="n348.023503"/>
+<graphic url="thumb/W4_000261_thumb.jpg" xml:id="n348.023504"/>
+</surface>
+<surface n="fol. 130v" xml:id="n348.023505"><graphic url="master/W4_000262_600.tif" xml:id="n348.023506"/>
+<graphic url="300/W4_000262_300.tif" xml:id="n348.023507"/>
+<graphic url="sap/W4_000262_sap.jpg" xml:id="n348.023508"/>
+<graphic url="thumb/W4_000262_thumb.jpg" xml:id="n348.023509"/>
+</surface>
+<surface n="fol. 131r" xml:id="n348.023510"><graphic url="master/W4_000263_600.tif" xml:id="n348.023511"/>
+<graphic url="300/W4_000263_300.tif" xml:id="n348.023512"/>
+<graphic url="sap/W4_000263_sap.jpg" xml:id="n348.023513"/>
+<graphic url="thumb/W4_000263_thumb.jpg" xml:id="n348.023514"/>
+</surface>
+<surface n="fol. 131v" xml:id="n348.023515"><graphic url="master/W4_000264_600.tif" xml:id="n348.023516"/>
+<graphic url="300/W4_000264_300.tif" xml:id="n348.023517"/>
+<graphic url="sap/W4_000264_sap.jpg" xml:id="n348.023518"/>
+<graphic url="thumb/W4_000264_thumb.jpg" xml:id="n348.023519"/>
+</surface>
+<surface n="fol. 132r" xml:id="n348.023520"><graphic url="master/W4_000265_600.tif" xml:id="n348.023521"/>
+<graphic url="300/W4_000265_300.tif" xml:id="n348.023522"/>
+<graphic url="sap/W4_000265_sap.jpg" xml:id="n348.023523"/>
+<graphic url="thumb/W4_000265_thumb.jpg" xml:id="n348.023524"/>
+</surface>
+<surface n="fol. 132v" xml:id="n348.023525"><graphic url="master/W4_000266_600.tif" xml:id="n348.023526"/>
+<graphic url="300/W4_000266_300.tif" xml:id="n348.023527"/>
+<graphic url="sap/W4_000266_sap.jpg" xml:id="n348.023528"/>
+<graphic url="thumb/W4_000266_thumb.jpg" xml:id="n348.023529"/>
+</surface>
+<surface n="fol. 133r" xml:id="n348.023530"><graphic url="master/W4_000267_600.tif" xml:id="n348.023531"/>
+<graphic url="300/W4_000267_300.tif" xml:id="n348.023532"/>
+<graphic url="sap/W4_000267_sap.jpg" xml:id="n348.023533"/>
+<graphic url="thumb/W4_000267_thumb.jpg" xml:id="n348.023534"/>
+</surface>
+<surface n="fol. 133v" xml:id="n348.023535"><graphic url="master/W4_000268_600.tif" xml:id="n348.023536"/>
+<graphic url="300/W4_000268_300.tif" xml:id="n348.023537"/>
+<graphic url="sap/W4_000268_sap.jpg" xml:id="n348.023538"/>
+<graphic url="thumb/W4_000268_thumb.jpg" xml:id="n348.023539"/>
+</surface>
+<surface n="fol. 134r" xml:id="n348.023540"><graphic url="master/W4_000269_600.tif" xml:id="n348.023541"/>
+<graphic url="300/W4_000269_300.tif" xml:id="n348.023542"/>
+<graphic url="sap/W4_000269_sap.jpg" xml:id="n348.023543"/>
+<graphic url="thumb/W4_000269_thumb.jpg" xml:id="n348.023544"/>
+</surface>
+<surface n="fol. 134v" xml:id="n348.023545"><graphic url="master/W4_000270_600.tif" xml:id="n348.023546"/>
+<graphic url="300/W4_000270_300.tif" xml:id="n348.023547"/>
+<graphic url="sap/W4_000270_sap.jpg" xml:id="n348.023548"/>
+<graphic url="thumb/W4_000270_thumb.jpg" xml:id="n348.023549"/>
+</surface>
+<surface n="fol. 135r" xml:id="n348.023550"><graphic url="master/W4_000271_600.tif" xml:id="n348.023551"/>
+<graphic url="300/W4_000271_300.tif" xml:id="n348.023552"/>
+<graphic url="sap/W4_000271_sap.jpg" xml:id="n348.023553"/>
+<graphic url="thumb/W4_000271_thumb.jpg" xml:id="n348.023554"/>
+</surface>
+<surface n="fol. 135v" xml:id="n348.023555"><graphic url="master/W4_000272_600.tif" xml:id="n348.023556"/>
+<graphic url="300/W4_000272_300.tif" xml:id="n348.023557"/>
+<graphic url="sap/W4_000272_sap.jpg" xml:id="n348.023558"/>
+<graphic url="thumb/W4_000272_thumb.jpg" xml:id="n348.023559"/>
+</surface>
+<surface n="fol. 136r" xml:id="n348.023560"><graphic url="master/W4_000273_600.tif" xml:id="n348.023561"/>
+<graphic url="300/W4_000273_300.tif" xml:id="n348.023562"/>
+<graphic url="sap/W4_000273_sap.jpg" xml:id="n348.023563"/>
+<graphic url="thumb/W4_000273_thumb.jpg" xml:id="n348.023564"/>
+</surface>
+<surface n="fol. 136v" xml:id="n348.023565"><graphic url="master/W4_000274_600.tif" xml:id="n348.023566"/>
+<graphic url="300/W4_000274_300.tif" xml:id="n348.023567"/>
+<graphic url="sap/W4_000274_sap.jpg" xml:id="n348.023568"/>
+<graphic url="thumb/W4_000274_thumb.jpg" xml:id="n348.023569"/>
+</surface>
+<surface n="fol. 137r" xml:id="n348.023570"><graphic url="master/W4_000275_600.tif" xml:id="n348.023571"/>
+<graphic url="300/W4_000275_300.tif" xml:id="n348.023572"/>
+<graphic url="sap/W4_000275_sap.jpg" xml:id="n348.023573"/>
+<graphic url="thumb/W4_000275_thumb.jpg" xml:id="n348.023574"/>
+</surface>
+<surface n="fol. 137v" xml:id="n348.023575"><graphic url="master/W4_000276_600.tif" xml:id="n348.023576"/>
+<graphic url="300/W4_000276_300.tif" xml:id="n348.023577"/>
+<graphic url="sap/W4_000276_sap.jpg" xml:id="n348.023578"/>
+<graphic url="thumb/W4_000276_thumb.jpg" xml:id="n348.023579"/>
+</surface>
+<surface n="fol. 138r" xml:id="n348.023580"><graphic url="master/W4_000277_600.tif" xml:id="n348.023581"/>
+<graphic url="300/W4_000277_300.tif" xml:id="n348.023582"/>
+<graphic url="sap/W4_000277_sap.jpg" xml:id="n348.023583"/>
+<graphic url="thumb/W4_000277_thumb.jpg" xml:id="n348.023584"/>
+</surface>
+<surface n="fol. 138v" xml:id="n348.023585"><graphic url="master/W4_000278_600.tif" xml:id="n348.023586"/>
+<graphic url="300/W4_000278_300.tif" xml:id="n348.023587"/>
+<graphic url="sap/W4_000278_sap.jpg" xml:id="n348.023588"/>
+<graphic url="thumb/W4_000278_thumb.jpg" xml:id="n348.023589"/>
+</surface>
+<surface n="fol. 139r" xml:id="n348.023590"><graphic url="master/W4_000279_600.tif" xml:id="n348.023591"/>
+<graphic url="300/W4_000279_300.tif" xml:id="n348.023592"/>
+<graphic url="sap/W4_000279_sap.jpg" xml:id="n348.023593"/>
+<graphic url="thumb/W4_000279_thumb.jpg" xml:id="n348.023594"/>
+</surface>
+<surface n="fol. 139v" xml:id="n348.023595"><graphic url="master/W4_000280_600.tif" xml:id="n348.023596"/>
+<graphic url="300/W4_000280_300.tif" xml:id="n348.023597"/>
+<graphic url="sap/W4_000280_sap.jpg" xml:id="n348.023598"/>
+<graphic url="thumb/W4_000280_thumb.jpg" xml:id="n348.023599"/>
+</surface>
+<surface n="fol. 140r" xml:id="n348.023600"><graphic url="master/W4_000281_600.tif" xml:id="n348.023601"/>
+<graphic url="300/W4_000281_300.tif" xml:id="n348.023602"/>
+<graphic url="sap/W4_000281_sap.jpg" xml:id="n348.023603"/>
+<graphic url="thumb/W4_000281_thumb.jpg" xml:id="n348.023604"/>
+</surface>
+<surface n="fol. 140v" xml:id="n348.023605"><graphic url="master/W4_000282_600.tif" xml:id="n348.023606"/>
+<graphic url="300/W4_000282_300.tif" xml:id="n348.023607"/>
+<graphic url="sap/W4_000282_sap.jpg" xml:id="n348.023608"/>
+<graphic url="thumb/W4_000282_thumb.jpg" xml:id="n348.023609"/>
+</surface>
+<surface n="fol. 141r" xml:id="n348.023610"><graphic url="master/W4_000283_600.tif" xml:id="n348.023611"/>
+<graphic url="300/W4_000283_300.tif" xml:id="n348.023612"/>
+<graphic url="sap/W4_000283_sap.jpg" xml:id="n348.023613"/>
+<graphic url="thumb/W4_000283_thumb.jpg" xml:id="n348.023614"/>
+</surface>
+<surface n="fol. 141v" xml:id="n348.023615"><graphic url="master/W4_000284_600.tif" xml:id="n348.023616"/>
+<graphic url="300/W4_000284_300.tif" xml:id="n348.023617"/>
+<graphic url="sap/W4_000284_sap.jpg" xml:id="n348.023618"/>
+<graphic url="thumb/W4_000284_thumb.jpg" xml:id="n348.023619"/>
+</surface>
+<surface n="fol. 142r" xml:id="n348.023620"><graphic url="master/W4_000285_600.tif" xml:id="n348.023621"/>
+<graphic url="300/W4_000285_300.tif" xml:id="n348.023622"/>
+<graphic url="sap/W4_000285_sap.jpg" xml:id="n348.023623"/>
+<graphic url="thumb/W4_000285_thumb.jpg" xml:id="n348.023624"/>
+</surface>
+<surface n="fol. 142v" xml:id="n348.023625"><graphic url="master/W4_000286_600.tif" xml:id="n348.023626"/>
+<graphic url="300/W4_000286_300.tif" xml:id="n348.023627"/>
+<graphic url="sap/W4_000286_sap.jpg" xml:id="n348.023628"/>
+<graphic url="thumb/W4_000286_thumb.jpg" xml:id="n348.023629"/>
+</surface>
+<surface n="fol. 143r" xml:id="n348.023630"><graphic url="master/W4_000287_600.tif" xml:id="n348.023631"/>
+<graphic url="300/W4_000287_300.tif" xml:id="n348.023632"/>
+<graphic url="sap/W4_000287_sap.jpg" xml:id="n348.023633"/>
+<graphic url="thumb/W4_000287_thumb.jpg" xml:id="n348.023634"/>
+</surface>
+<surface n="fol. 143v" xml:id="n348.023635"><graphic url="master/W4_000288_600.tif" xml:id="n348.023636"/>
+<graphic url="300/W4_000288_300.tif" xml:id="n348.023637"/>
+<graphic url="sap/W4_000288_sap.jpg" xml:id="n348.023638"/>
+<graphic url="thumb/W4_000288_thumb.jpg" xml:id="n348.023639"/>
+</surface>
+<surface n="fol. 144r" xml:id="n348.023640"><graphic url="master/W4_000289_600.tif" xml:id="n348.023641"/>
+<graphic url="300/W4_000289_300.tif" xml:id="n348.023642"/>
+<graphic url="sap/W4_000289_sap.jpg" xml:id="n348.023643"/>
+<graphic url="thumb/W4_000289_thumb.jpg" xml:id="n348.023644"/>
+</surface>
+<surface n="fol. 144v" xml:id="n348.023645"><graphic url="master/W4_000290_600.tif" xml:id="n348.023646"/>
+<graphic url="300/W4_000290_300.tif" xml:id="n348.023647"/>
+<graphic url="sap/W4_000290_sap.jpg" xml:id="n348.023648"/>
+<graphic url="thumb/W4_000290_thumb.jpg" xml:id="n348.023649"/>
+</surface>
+<surface n="fol. 145r" xml:id="n348.023650"><graphic url="master/W4_000291_600.tif" xml:id="n348.023651"/>
+<graphic url="300/W4_000291_300.tif" xml:id="n348.023652"/>
+<graphic url="sap/W4_000291_sap.jpg" xml:id="n348.023653"/>
+<graphic url="thumb/W4_000291_thumb.jpg" xml:id="n348.023654"/>
+</surface>
+<surface n="fol. 145v" xml:id="n348.023655"><graphic url="master/W4_000292_600.tif" xml:id="n348.023656"/>
+<graphic url="300/W4_000292_300.tif" xml:id="n348.023657"/>
+<graphic url="sap/W4_000292_sap.jpg" xml:id="n348.023658"/>
+<graphic url="thumb/W4_000292_thumb.jpg" xml:id="n348.023659"/>
+</surface>
+<surface n="fol. 146r" xml:id="n348.023660"><graphic url="master/W4_000293_600.tif" xml:id="n348.023661"/>
+<graphic url="300/W4_000293_300.tif" xml:id="n348.023662"/>
+<graphic url="sap/W4_000293_sap.jpg" xml:id="n348.023663"/>
+<graphic url="thumb/W4_000293_thumb.jpg" xml:id="n348.023664"/>
+</surface>
+<surface n="fol. 146v" xml:id="n348.023665"><graphic url="master/W4_000294_600.tif" xml:id="n348.023666"/>
+<graphic url="300/W4_000294_300.tif" xml:id="n348.023667"/>
+<graphic url="sap/W4_000294_sap.jpg" xml:id="n348.023668"/>
+<graphic url="thumb/W4_000294_thumb.jpg" xml:id="n348.023669"/>
+</surface>
+<surface n="fol. 147r" xml:id="n348.023670"><graphic url="master/W4_000295_600.tif" xml:id="n348.023671"/>
+<graphic url="300/W4_000295_300.tif" xml:id="n348.023672"/>
+<graphic url="sap/W4_000295_sap.jpg" xml:id="n348.023673"/>
+<graphic url="thumb/W4_000295_thumb.jpg" xml:id="n348.023674"/>
+</surface>
+<surface n="fol. 147v" xml:id="n348.023675"><graphic url="master/W4_000296_600.tif" xml:id="n348.023676"/>
+<graphic url="300/W4_000296_300.tif" xml:id="n348.023677"/>
+<graphic url="sap/W4_000296_sap.jpg" xml:id="n348.023678"/>
+<graphic url="thumb/W4_000296_thumb.jpg" xml:id="n348.023679"/>
+</surface>
+<surface n="fol. 148r" xml:id="n348.023680"><graphic url="master/W4_000297_600.tif" xml:id="n348.023681"/>
+<graphic url="300/W4_000297_300.tif" xml:id="n348.023682"/>
+<graphic url="sap/W4_000297_sap.jpg" xml:id="n348.023683"/>
+<graphic url="thumb/W4_000297_thumb.jpg" xml:id="n348.023684"/>
+</surface>
+<surface n="fol. 148v" xml:id="n348.023685"><graphic url="master/W4_000298_600.tif" xml:id="n348.023686"/>
+<graphic url="300/W4_000298_300.tif" xml:id="n348.023687"/>
+<graphic url="sap/W4_000298_sap.jpg" xml:id="n348.023688"/>
+<graphic url="thumb/W4_000298_thumb.jpg" xml:id="n348.023689"/>
+</surface>
+<surface n="fol. 149r" xml:id="n348.023690"><graphic url="master/W4_000299_600.tif" xml:id="n348.023691"/>
+<graphic url="300/W4_000299_300.tif" xml:id="n348.023692"/>
+<graphic url="sap/W4_000299_sap.jpg" xml:id="n348.023693"/>
+<graphic url="thumb/W4_000299_thumb.jpg" xml:id="n348.023694"/>
+</surface>
+<surface n="fol. 149v" xml:id="n348.023695"><graphic url="master/W4_000300_600.tif" xml:id="n348.023696"/>
+<graphic url="300/W4_000300_300.tif" xml:id="n348.023697"/>
+<graphic url="sap/W4_000300_sap.jpg" xml:id="n348.023698"/>
+<graphic url="thumb/W4_000300_thumb.jpg" xml:id="n348.023699"/>
+</surface>
+<surface n="fol. 150r" xml:id="n348.023700"><graphic url="master/W4_000301_600.tif" xml:id="n348.023701"/>
+<graphic url="300/W4_000301_300.tif" xml:id="n348.023702"/>
+<graphic url="sap/W4_000301_sap.jpg" xml:id="n348.023703"/>
+<graphic url="thumb/W4_000301_thumb.jpg" xml:id="n348.023704"/>
+</surface>
+<surface n="fol. 150v" xml:id="n348.023705"><graphic url="master/W4_000302_600.tif" xml:id="n348.023706"/>
+<graphic url="300/W4_000302_300.tif" xml:id="n348.023707"/>
+<graphic url="sap/W4_000302_sap.jpg" xml:id="n348.023708"/>
+<graphic url="thumb/W4_000302_thumb.jpg" xml:id="n348.023709"/>
+</surface>
+<surface n="fol. 151r" xml:id="n348.023710"><graphic url="master/W4_000303_600.tif" xml:id="n348.023711"/>
+<graphic url="300/W4_000303_300.tif" xml:id="n348.023712"/>
+<graphic url="sap/W4_000303_sap.jpg" xml:id="n348.023713"/>
+<graphic url="thumb/W4_000303_thumb.jpg" xml:id="n348.023714"/>
+</surface>
+<surface n="fol. 151v" xml:id="n348.023715"><graphic url="master/W4_000304_600.tif" xml:id="n348.023716"/>
+<graphic url="300/W4_000304_300.tif" xml:id="n348.023717"/>
+<graphic url="sap/W4_000304_sap.jpg" xml:id="n348.023718"/>
+<graphic url="thumb/W4_000304_thumb.jpg" xml:id="n348.023719"/>
+</surface>
+<surface n="fol. 152r" xml:id="n348.023720"><graphic url="master/W4_000305_600.tif" xml:id="n348.023721"/>
+<graphic url="300/W4_000305_300.tif" xml:id="n348.023722"/>
+<graphic url="sap/W4_000305_sap.jpg" xml:id="n348.023723"/>
+<graphic url="thumb/W4_000305_thumb.jpg" xml:id="n348.023724"/>
+</surface>
+<surface n="fol. 152v" xml:id="n348.023725"><graphic url="master/W4_000306_600.tif" xml:id="n348.023726"/>
+<graphic url="300/W4_000306_300.tif" xml:id="n348.023727"/>
+<graphic url="sap/W4_000306_sap.jpg" xml:id="n348.023728"/>
+<graphic url="thumb/W4_000306_thumb.jpg" xml:id="n348.023729"/>
+</surface>
+<surface n="fol. 153r" xml:id="n348.023730"><graphic url="master/W4_000307_600.tif" xml:id="n348.023731"/>
+<graphic url="300/W4_000307_300.tif" xml:id="n348.023732"/>
+<graphic url="sap/W4_000307_sap.jpg" xml:id="n348.023733"/>
+<graphic url="thumb/W4_000307_thumb.jpg" xml:id="n348.023734"/>
+</surface>
+<surface n="fol. 153v" xml:id="n348.023735"><graphic url="master/W4_000308_600.tif" xml:id="n348.023736"/>
+<graphic url="300/W4_000308_300.tif" xml:id="n348.023737"/>
+<graphic url="sap/W4_000308_sap.jpg" xml:id="n348.023738"/>
+<graphic url="thumb/W4_000308_thumb.jpg" xml:id="n348.023739"/>
+</surface>
+<surface n="fol. 154r" xml:id="n348.023740"><graphic url="master/W4_000309_600.tif" xml:id="n348.023741"/>
+<graphic url="300/W4_000309_300.tif" xml:id="n348.023742"/>
+<graphic url="sap/W4_000309_sap.jpg" xml:id="n348.023743"/>
+<graphic url="thumb/W4_000309_thumb.jpg" xml:id="n348.023744"/>
+</surface>
+<surface n="fol. 154v" xml:id="n348.023745"><graphic url="master/W4_000310_600.tif" xml:id="n348.023746"/>
+<graphic url="300/W4_000310_300.tif" xml:id="n348.023747"/>
+<graphic url="sap/W4_000310_sap.jpg" xml:id="n348.023748"/>
+<graphic url="thumb/W4_000310_thumb.jpg" xml:id="n348.023749"/>
+</surface>
+<surface n="fol. 155r" xml:id="n348.023750"><graphic url="master/W4_000311_600.tif" xml:id="n348.023751"/>
+<graphic url="300/W4_000311_300.tif" xml:id="n348.023752"/>
+<graphic url="sap/W4_000311_sap.jpg" xml:id="n348.023753"/>
+<graphic url="thumb/W4_000311_thumb.jpg" xml:id="n348.023754"/>
+</surface>
+<surface n="fol. 155v" xml:id="n348.023755"><graphic url="master/W4_000312_600.tif" xml:id="n348.023756"/>
+<graphic url="300/W4_000312_300.tif" xml:id="n348.023757"/>
+<graphic url="sap/W4_000312_sap.jpg" xml:id="n348.023758"/>
+<graphic url="thumb/W4_000312_thumb.jpg" xml:id="n348.023759"/>
+</surface>
+<surface n="fol. 156r" xml:id="n348.023760"><graphic url="master/W4_000313_600.tif" xml:id="n348.023761"/>
+<graphic url="300/W4_000313_300.tif" xml:id="n348.023762"/>
+<graphic url="sap/W4_000313_sap.jpg" xml:id="n348.023763"/>
+<graphic url="thumb/W4_000313_thumb.jpg" xml:id="n348.023764"/>
+</surface>
+<surface n="fol. 156v" xml:id="n348.023765"><graphic url="master/W4_000314_600.tif" xml:id="n348.023766"/>
+<graphic url="300/W4_000314_300.tif" xml:id="n348.023767"/>
+<graphic url="sap/W4_000314_sap.jpg" xml:id="n348.023768"/>
+<graphic url="thumb/W4_000314_thumb.jpg" xml:id="n348.023769"/>
+</surface>
+<surface n="fol. 157r" xml:id="n348.023770"><graphic url="master/W4_000315_600.tif" xml:id="n348.023771"/>
+<graphic url="300/W4_000315_300.tif" xml:id="n348.023772"/>
+<graphic url="sap/W4_000315_sap.jpg" xml:id="n348.023773"/>
+<graphic url="thumb/W4_000315_thumb.jpg" xml:id="n348.023774"/>
+</surface>
+<surface n="fol. 157v" xml:id="n348.023775"><graphic url="master/W4_000316_600.tif" xml:id="n348.023776"/>
+<graphic url="300/W4_000316_300.tif" xml:id="n348.023777"/>
+<graphic url="sap/W4_000316_sap.jpg" xml:id="n348.023778"/>
+<graphic url="thumb/W4_000316_thumb.jpg" xml:id="n348.023779"/>
+</surface>
+<surface n="fol. 158r" xml:id="n348.023780"><graphic url="master/W4_000317_600.tif" xml:id="n348.023781"/>
+<graphic url="300/W4_000317_300.tif" xml:id="n348.023782"/>
+<graphic url="sap/W4_000317_sap.jpg" xml:id="n348.023783"/>
+<graphic url="thumb/W4_000317_thumb.jpg" xml:id="n348.023784"/>
+</surface>
+<surface n="fol. 158v" xml:id="n348.023785"><graphic url="master/W4_000318_600.tif" xml:id="n348.023786"/>
+<graphic url="300/W4_000318_300.tif" xml:id="n348.023787"/>
+<graphic url="sap/W4_000318_sap.jpg" xml:id="n348.023788"/>
+<graphic url="thumb/W4_000318_thumb.jpg" xml:id="n348.023789"/>
+</surface>
+<surface n="fol. 159r" xml:id="n348.023790"><graphic url="master/W4_000319_600.tif" xml:id="n348.023791"/>
+<graphic url="300/W4_000319_300.tif" xml:id="n348.023792"/>
+<graphic url="sap/W4_000319_sap.jpg" xml:id="n348.023793"/>
+<graphic url="thumb/W4_000319_thumb.jpg" xml:id="n348.023794"/>
+</surface>
+<surface n="fol. 159v" xml:id="n348.023795"><graphic url="master/W4_000320_600.tif" xml:id="n348.023796"/>
+<graphic url="300/W4_000320_300.tif" xml:id="n348.023797"/>
+<graphic url="sap/W4_000320_sap.jpg" xml:id="n348.023798"/>
+<graphic url="thumb/W4_000320_thumb.jpg" xml:id="n348.023799"/>
+</surface>
+<surface n="fol. 160r" xml:id="n348.023800"><graphic url="master/W4_000321_600.tif" xml:id="n348.023801"/>
+<graphic url="300/W4_000321_300.tif" xml:id="n348.023802"/>
+<graphic url="sap/W4_000321_sap.jpg" xml:id="n348.023803"/>
+<graphic url="thumb/W4_000321_thumb.jpg" xml:id="n348.023804"/>
+</surface>
+<surface n="fol. 160v" xml:id="n348.023805"><graphic url="master/W4_000322_600.tif" xml:id="n348.023806"/>
+<graphic url="300/W4_000322_300.tif" xml:id="n348.023807"/>
+<graphic url="sap/W4_000322_sap.jpg" xml:id="n348.023808"/>
+<graphic url="thumb/W4_000322_thumb.jpg" xml:id="n348.023809"/>
+</surface>
+<surface n="fol. 161r" xml:id="n348.023810"><graphic url="master/W4_000323_600.tif" xml:id="n348.023811"/>
+<graphic url="300/W4_000323_300.tif" xml:id="n348.023812"/>
+<graphic url="sap/W4_000323_sap.jpg" xml:id="n348.023813"/>
+<graphic url="thumb/W4_000323_thumb.jpg" xml:id="n348.023814"/>
+</surface>
+<surface n="fol. 161v" xml:id="n348.023815"><graphic url="master/W4_000324_600.tif" xml:id="n348.023816"/>
+<graphic url="300/W4_000324_300.tif" xml:id="n348.023817"/>
+<graphic url="sap/W4_000324_sap.jpg" xml:id="n348.023818"/>
+<graphic url="thumb/W4_000324_thumb.jpg" xml:id="n348.023819"/>
+</surface>
+<surface n="fol. 162r" xml:id="n348.023820"><graphic url="master/W4_000325_600.tif" xml:id="n348.023821"/>
+<graphic url="300/W4_000325_300.tif" xml:id="n348.023822"/>
+<graphic url="sap/W4_000325_sap.jpg" xml:id="n348.023823"/>
+<graphic url="thumb/W4_000325_thumb.jpg" xml:id="n348.023824"/>
+</surface>
+<surface n="fol. 162v" xml:id="n348.023825"><graphic url="master/W4_000326_600.tif" xml:id="n348.023826"/>
+<graphic url="300/W4_000326_300.tif" xml:id="n348.023827"/>
+<graphic url="sap/W4_000326_sap.jpg" xml:id="n348.023828"/>
+<graphic url="thumb/W4_000326_thumb.jpg" xml:id="n348.023829"/>
+</surface>
+<surface n="fol. 163r" xml:id="n348.023830"><graphic url="master/W4_000327_600.tif" xml:id="n348.023831"/>
+<graphic url="300/W4_000327_300.tif" xml:id="n348.023832"/>
+<graphic url="sap/W4_000327_sap.jpg" xml:id="n348.023833"/>
+<graphic url="thumb/W4_000327_thumb.jpg" xml:id="n348.023834"/>
+</surface>
+<surface n="fol. 163v" xml:id="n348.023835"><graphic url="master/W4_000328_600.tif" xml:id="n348.023836"/>
+<graphic url="300/W4_000328_300.tif" xml:id="n348.023837"/>
+<graphic url="sap/W4_000328_sap.jpg" xml:id="n348.023838"/>
+<graphic url="thumb/W4_000328_thumb.jpg" xml:id="n348.023839"/>
+</surface>
+<surface n="fol. 164r" xml:id="n348.023840"><graphic url="master/W4_000329_600.tif" xml:id="n348.023841"/>
+<graphic url="300/W4_000329_300.tif" xml:id="n348.023842"/>
+<graphic url="sap/W4_000329_sap.jpg" xml:id="n348.023843"/>
+<graphic url="thumb/W4_000329_thumb.jpg" xml:id="n348.023844"/>
+</surface>
+<surface n="fol. 164v" xml:id="n348.023845"><graphic url="master/W4_000330_600.tif" xml:id="n348.023846"/>
+<graphic url="300/W4_000330_300.tif" xml:id="n348.023847"/>
+<graphic url="sap/W4_000330_sap.jpg" xml:id="n348.023848"/>
+<graphic url="thumb/W4_000330_thumb.jpg" xml:id="n348.023849"/>
+</surface>
+<surface n="fol. 165r" xml:id="n348.023850"><graphic url="master/W4_000331_600.tif" xml:id="n348.023851"/>
+<graphic url="300/W4_000331_300.tif" xml:id="n348.023852"/>
+<graphic url="sap/W4_000331_sap.jpg" xml:id="n348.023853"/>
+<graphic url="thumb/W4_000331_thumb.jpg" xml:id="n348.023854"/>
+</surface>
+<surface n="fol. 165v" xml:id="n348.023855"><graphic url="master/W4_000332_600.tif" xml:id="n348.023856"/>
+<graphic url="300/W4_000332_300.tif" xml:id="n348.023857"/>
+<graphic url="sap/W4_000332_sap.jpg" xml:id="n348.023858"/>
+<graphic url="thumb/W4_000332_thumb.jpg" xml:id="n348.023859"/>
+</surface>
+<surface n="fol. 166r" xml:id="n348.023860"><graphic url="master/W4_000333_600.tif" xml:id="n348.023861"/>
+<graphic url="300/W4_000333_300.tif" xml:id="n348.023862"/>
+<graphic url="sap/W4_000333_sap.jpg" xml:id="n348.023863"/>
+<graphic url="thumb/W4_000333_thumb.jpg" xml:id="n348.023864"/>
+</surface>
+<surface n="fol. 166v" xml:id="n348.023865"><graphic url="master/W4_000334_600.tif" xml:id="n348.023866"/>
+<graphic url="300/W4_000334_300.tif" xml:id="n348.023867"/>
+<graphic url="sap/W4_000334_sap.jpg" xml:id="n348.023868"/>
+<graphic url="thumb/W4_000334_thumb.jpg" xml:id="n348.023869"/>
+</surface>
+<surface n="fol. 167r" xml:id="n348.023870"><graphic url="master/W4_000335_600.tif" xml:id="n348.023871"/>
+<graphic url="300/W4_000335_300.tif" xml:id="n348.023872"/>
+<graphic url="sap/W4_000335_sap.jpg" xml:id="n348.023873"/>
+<graphic url="thumb/W4_000335_thumb.jpg" xml:id="n348.023874"/>
+</surface>
+<surface n="fol. 167v" xml:id="n348.023875"><graphic url="master/W4_000336_600.tif" xml:id="n348.023876"/>
+<graphic url="300/W4_000336_300.tif" xml:id="n348.023877"/>
+<graphic url="sap/W4_000336_sap.jpg" xml:id="n348.023878"/>
+<graphic url="thumb/W4_000336_thumb.jpg" xml:id="n348.023879"/>
+</surface>
+<surface n="fol. 168r" xml:id="n348.023880"><graphic url="master/W4_000337_600.tif" xml:id="n348.023881"/>
+<graphic url="300/W4_000337_300.tif" xml:id="n348.023882"/>
+<graphic url="sap/W4_000337_sap.jpg" xml:id="n348.023883"/>
+<graphic url="thumb/W4_000337_thumb.jpg" xml:id="n348.023884"/>
+</surface>
+<surface n="fol. 168v" xml:id="n348.023885"><graphic url="master/W4_000338_600.tif" xml:id="n348.023886"/>
+<graphic url="300/W4_000338_300.tif" xml:id="n348.023887"/>
+<graphic url="sap/W4_000338_sap.jpg" xml:id="n348.023888"/>
+<graphic url="thumb/W4_000338_thumb.jpg" xml:id="n348.023889"/>
+</surface>
+<surface n="fol. 169r" xml:id="n348.023890"><graphic url="master/W4_000339_600.tif" xml:id="n348.023891"/>
+<graphic url="300/W4_000339_300.tif" xml:id="n348.023892"/>
+<graphic url="sap/W4_000339_sap.jpg" xml:id="n348.023893"/>
+<graphic url="thumb/W4_000339_thumb.jpg" xml:id="n348.023894"/>
+</surface>
+<surface n="fol. 169v" xml:id="n348.023895"><graphic url="master/W4_000340_600.tif" xml:id="n348.023896"/>
+<graphic url="300/W4_000340_300.tif" xml:id="n348.023897"/>
+<graphic url="sap/W4_000340_sap.jpg" xml:id="n348.023898"/>
+<graphic url="thumb/W4_000340_thumb.jpg" xml:id="n348.023899"/>
+</surface>
+<surface n="fol. 170r" xml:id="n348.023900"><graphic url="master/W4_000341_600.tif" xml:id="n348.023901"/>
+<graphic url="300/W4_000341_300.tif" xml:id="n348.023902"/>
+<graphic url="sap/W4_000341_sap.jpg" xml:id="n348.023903"/>
+<graphic url="thumb/W4_000341_thumb.jpg" xml:id="n348.023904"/>
+</surface>
+<surface n="fol. 170v" xml:id="n348.023905"><graphic url="master/W4_000342_600.tif" xml:id="n348.023906"/>
+<graphic url="300/W4_000342_300.tif" xml:id="n348.023907"/>
+<graphic url="sap/W4_000342_sap.jpg" xml:id="n348.023908"/>
+<graphic url="thumb/W4_000342_thumb.jpg" xml:id="n348.023909"/>
+</surface>
+<surface n="fol. 171r" xml:id="n348.023910"><graphic url="master/W4_000343_600.tif" xml:id="n348.023911"/>
+<graphic url="300/W4_000343_300.tif" xml:id="n348.023912"/>
+<graphic url="sap/W4_000343_sap.jpg" xml:id="n348.023913"/>
+<graphic url="thumb/W4_000343_thumb.jpg" xml:id="n348.023914"/>
+</surface>
+<surface n="fol. 171v" xml:id="n348.023915"><graphic url="master/W4_000344_600.tif" xml:id="n348.023916"/>
+<graphic url="300/W4_000344_300.tif" xml:id="n348.023917"/>
+<graphic url="sap/W4_000344_sap.jpg" xml:id="n348.023918"/>
+<graphic url="thumb/W4_000344_thumb.jpg" xml:id="n348.023919"/>
+</surface>
+<surface n="fol. 172r" xml:id="n348.023920"><graphic url="master/W4_000345_600.tif" xml:id="n348.023921"/>
+<graphic url="300/W4_000345_300.tif" xml:id="n348.023922"/>
+<graphic url="sap/W4_000345_sap.jpg" xml:id="n348.023923"/>
+<graphic url="thumb/W4_000345_thumb.jpg" xml:id="n348.023924"/>
+</surface>
+<surface n="fol. 172v" xml:id="n348.023925"><graphic url="master/W4_000346_600.tif" xml:id="n348.023926"/>
+<graphic url="300/W4_000346_300.tif" xml:id="n348.023927"/>
+<graphic url="sap/W4_000346_sap.jpg" xml:id="n348.023928"/>
+<graphic url="thumb/W4_000346_thumb.jpg" xml:id="n348.023929"/>
+</surface>
+<surface n="fol. 173r" xml:id="n348.023930"><graphic url="master/W4_000347_600.tif" xml:id="n348.023931"/>
+<graphic url="300/W4_000347_300.tif" xml:id="n348.023932"/>
+<graphic url="sap/W4_000347_sap.jpg" xml:id="n348.023933"/>
+<graphic url="thumb/W4_000347_thumb.jpg" xml:id="n348.023934"/>
+</surface>
+<surface n="fol. 173v" xml:id="n348.023935"><graphic url="master/W4_000348_600.tif" xml:id="n348.023936"/>
+<graphic url="300/W4_000348_300.tif" xml:id="n348.023937"/>
+<graphic url="sap/W4_000348_sap.jpg" xml:id="n348.023938"/>
+<graphic url="thumb/W4_000348_thumb.jpg" xml:id="n348.023939"/>
+</surface>
+<surface n="fol. 174r" xml:id="n348.023940"><graphic url="master/W4_000349_600.tif" xml:id="n348.023941"/>
+<graphic url="300/W4_000349_300.tif" xml:id="n348.023942"/>
+<graphic url="sap/W4_000349_sap.jpg" xml:id="n348.023943"/>
+<graphic url="thumb/W4_000349_thumb.jpg" xml:id="n348.023944"/>
+</surface>
+<surface n="fol. 174v" xml:id="n348.023945"><graphic url="master/W4_000350_600.tif" xml:id="n348.023946"/>
+<graphic url="300/W4_000350_300.tif" xml:id="n348.023947"/>
+<graphic url="sap/W4_000350_sap.jpg" xml:id="n348.023948"/>
+<graphic url="thumb/W4_000350_thumb.jpg" xml:id="n348.023949"/>
+</surface>
+<surface n="fol. 175r" xml:id="n348.023950"><graphic url="master/W4_000351_600.tif" xml:id="n348.023951"/>
+<graphic url="300/W4_000351_300.tif" xml:id="n348.023952"/>
+<graphic url="sap/W4_000351_sap.jpg" xml:id="n348.023953"/>
+<graphic url="thumb/W4_000351_thumb.jpg" xml:id="n348.023954"/>
+</surface>
+<surface n="fol. 175v" xml:id="n348.023955"><graphic url="master/W4_000352_600.tif" xml:id="n348.023956"/>
+<graphic url="300/W4_000352_300.tif" xml:id="n348.023957"/>
+<graphic url="sap/W4_000352_sap.jpg" xml:id="n348.023958"/>
+<graphic url="thumb/W4_000352_thumb.jpg" xml:id="n348.023959"/>
+</surface>
+<surface n="fol. 176r" xml:id="n348.023960"><graphic url="master/W4_000353_600.tif" xml:id="n348.023961"/>
+<graphic url="300/W4_000353_300.tif" xml:id="n348.023962"/>
+<graphic url="sap/W4_000353_sap.jpg" xml:id="n348.023963"/>
+<graphic url="thumb/W4_000353_thumb.jpg" xml:id="n348.023964"/>
+</surface>
+<surface n="fol. 176v" xml:id="n348.023965"><graphic url="master/W4_000354_600.tif" xml:id="n348.023966"/>
+<graphic url="300/W4_000354_300.tif" xml:id="n348.023967"/>
+<graphic url="sap/W4_000354_sap.jpg" xml:id="n348.023968"/>
+<graphic url="thumb/W4_000354_thumb.jpg" xml:id="n348.023969"/>
+</surface>
+<surface n="fol. 177r" xml:id="n348.023970"><graphic url="master/W4_000355_600.tif" xml:id="n348.023971"/>
+<graphic url="300/W4_000355_300.tif" xml:id="n348.023972"/>
+<graphic url="sap/W4_000355_sap.jpg" xml:id="n348.023973"/>
+<graphic url="thumb/W4_000355_thumb.jpg" xml:id="n348.023974"/>
+</surface>
+<surface n="fol. 177v" xml:id="n348.023975"><graphic url="master/W4_000356_600.tif" xml:id="n348.023976"/>
+<graphic url="300/W4_000356_300.tif" xml:id="n348.023977"/>
+<graphic url="sap/W4_000356_sap.jpg" xml:id="n348.023978"/>
+<graphic url="thumb/W4_000356_thumb.jpg" xml:id="n348.023979"/>
+</surface>
+<surface n="fol. 178r" xml:id="n348.023980"><graphic url="master/W4_000357_600.tif" xml:id="n348.023981"/>
+<graphic url="300/W4_000357_300.tif" xml:id="n348.023982"/>
+<graphic url="sap/W4_000357_sap.jpg" xml:id="n348.023983"/>
+<graphic url="thumb/W4_000357_thumb.jpg" xml:id="n348.023984"/>
+</surface>
+<surface n="fol. 178v" xml:id="n348.023985"><graphic url="master/W4_000358_1200.tif" xml:id="n348.023986"/>
+<graphic url="300/W4_000358_300.tif" xml:id="n348.023987"/>
+<graphic url="sap/W4_000358_sap.jpg" xml:id="n348.023988"/>
+<graphic url="thumb/W4_000358_thumb.jpg" xml:id="n348.023989"/>
+</surface>
+<surface n="fol. 179r" xml:id="n348.023990"><graphic url="master/W4_000359_600.tif" xml:id="n348.023991"/>
+<graphic url="300/W4_000359_300.tif" xml:id="n348.023992"/>
+<graphic url="sap/W4_000359_sap.jpg" xml:id="n348.023993"/>
+<graphic url="thumb/W4_000359_thumb.jpg" xml:id="n348.023994"/>
+</surface>
+<surface n="fol. 179v" xml:id="n348.023995"><graphic url="master/W4_000360_600.tif" xml:id="n348.023996"/>
+<graphic url="300/W4_000360_300.tif" xml:id="n348.023997"/>
+<graphic url="sap/W4_000360_sap.jpg" xml:id="n348.023998"/>
+<graphic url="thumb/W4_000360_thumb.jpg" xml:id="n348.023999"/>
+</surface>
+<surface n="fol. 180r" xml:id="n348.024000"><graphic url="master/W4_000361_600.tif" xml:id="n348.024001"/>
+<graphic url="300/W4_000361_300.tif" xml:id="n348.024002"/>
+<graphic url="sap/W4_000361_sap.jpg" xml:id="n348.024003"/>
+<graphic url="thumb/W4_000361_thumb.jpg" xml:id="n348.024004"/>
+</surface>
+<surface n="fol. 180v" xml:id="n348.024005"><graphic url="master/W4_000362_600.tif" xml:id="n348.024006"/>
+<graphic url="300/W4_000362_300.tif" xml:id="n348.024007"/>
+<graphic url="sap/W4_000362_sap.jpg" xml:id="n348.024008"/>
+<graphic url="thumb/W4_000362_thumb.jpg" xml:id="n348.024009"/>
+</surface>
+<surface n="fol. 181r" xml:id="n348.024010"><graphic url="master/W4_000363_600.tif" xml:id="n348.024011"/>
+<graphic url="300/W4_000363_300.tif" xml:id="n348.024012"/>
+<graphic url="sap/W4_000363_sap.jpg" xml:id="n348.024013"/>
+<graphic url="thumb/W4_000363_thumb.jpg" xml:id="n348.024014"/>
+</surface>
+<surface n="fol. 181v" xml:id="n348.024015"><graphic url="master/W4_000364_600.tif" xml:id="n348.024016"/>
+<graphic url="300/W4_000364_300.tif" xml:id="n348.024017"/>
+<graphic url="sap/W4_000364_sap.jpg" xml:id="n348.024018"/>
+<graphic url="thumb/W4_000364_thumb.jpg" xml:id="n348.024019"/>
+</surface>
+<surface n="fol. 182r" xml:id="n348.024020"><graphic url="master/W4_000365_600.tif" xml:id="n348.024021"/>
+<graphic url="300/W4_000365_300.tif" xml:id="n348.024022"/>
+<graphic url="sap/W4_000365_sap.jpg" xml:id="n348.024023"/>
+<graphic url="thumb/W4_000365_thumb.jpg" xml:id="n348.024024"/>
+</surface>
+<surface n="fol. 182v" xml:id="n348.024025"><graphic url="master/W4_000366_600.tif" xml:id="n348.024026"/>
+<graphic url="300/W4_000366_300.tif" xml:id="n348.024027"/>
+<graphic url="sap/W4_000366_sap.jpg" xml:id="n348.024028"/>
+<graphic url="thumb/W4_000366_thumb.jpg" xml:id="n348.024029"/>
+</surface>
+<surface n="fol. 183r" xml:id="n348.024030"><graphic url="master/W4_000367_600.tif" xml:id="n348.024031"/>
+<graphic url="300/W4_000367_300.tif" xml:id="n348.024032"/>
+<graphic url="sap/W4_000367_sap.jpg" xml:id="n348.024033"/>
+<graphic url="thumb/W4_000367_thumb.jpg" xml:id="n348.024034"/>
+</surface>
+<surface n="fol. 183v" xml:id="n348.024035"><graphic url="master/W4_000368_600.tif" xml:id="n348.024036"/>
+<graphic url="300/W4_000368_300.tif" xml:id="n348.024037"/>
+<graphic url="sap/W4_000368_sap.jpg" xml:id="n348.024038"/>
+<graphic url="thumb/W4_000368_thumb.jpg" xml:id="n348.024039"/>
+</surface>
+<surface n="fol. 184r" xml:id="n348.024040"><graphic url="master/W4_000369_600.tif" xml:id="n348.024041"/>
+<graphic url="300/W4_000369_300.tif" xml:id="n348.024042"/>
+<graphic url="sap/W4_000369_sap.jpg" xml:id="n348.024043"/>
+<graphic url="thumb/W4_000369_thumb.jpg" xml:id="n348.024044"/>
+</surface>
+<surface n="fol. 184v" xml:id="n348.024045"><graphic url="master/W4_000370_600.tif" xml:id="n348.024046"/>
+<graphic url="300/W4_000370_300.tif" xml:id="n348.024047"/>
+<graphic url="sap/W4_000370_sap.jpg" xml:id="n348.024048"/>
+<graphic url="thumb/W4_000370_thumb.jpg" xml:id="n348.024049"/>
+</surface>
+<surface n="fol. 185r" xml:id="n348.024050"><graphic url="master/W4_000371_600.tif" xml:id="n348.024051"/>
+<graphic url="300/W4_000371_300.tif" xml:id="n348.024052"/>
+<graphic url="sap/W4_000371_sap.jpg" xml:id="n348.024053"/>
+<graphic url="thumb/W4_000371_thumb.jpg" xml:id="n348.024054"/>
+</surface>
+<surface n="fol. 185v" xml:id="n348.024055"><graphic url="master/W4_000372_600.tif" xml:id="n348.024056"/>
+<graphic url="300/W4_000372_300.tif" xml:id="n348.024057"/>
+<graphic url="sap/W4_000372_sap.jpg" xml:id="n348.024058"/>
+<graphic url="thumb/W4_000372_thumb.jpg" xml:id="n348.024059"/>
+</surface>
+<surface n="fol. 186r" xml:id="n348.024060"><graphic url="master/W4_000373_600.tif" xml:id="n348.024061"/>
+<graphic url="300/W4_000373_300.tif" xml:id="n348.024062"/>
+<graphic url="sap/W4_000373_sap.jpg" xml:id="n348.024063"/>
+<graphic url="thumb/W4_000373_thumb.jpg" xml:id="n348.024064"/>
+</surface>
+<surface n="fol. 186v" xml:id="n348.024065"><graphic url="master/W4_000374_600.tif" xml:id="n348.024066"/>
+<graphic url="300/W4_000374_300.tif" xml:id="n348.024067"/>
+<graphic url="sap/W4_000374_sap.jpg" xml:id="n348.024068"/>
+<graphic url="thumb/W4_000374_thumb.jpg" xml:id="n348.024069"/>
+</surface>
+<surface n="fol. 187r" xml:id="n348.024070"><graphic url="master/W4_000375_600.tif" xml:id="n348.024071"/>
+<graphic url="300/W4_000375_300.tif" xml:id="n348.024072"/>
+<graphic url="sap/W4_000375_sap.jpg" xml:id="n348.024073"/>
+<graphic url="thumb/W4_000375_thumb.jpg" xml:id="n348.024074"/>
+</surface>
+<surface n="fol. 187v" xml:id="n348.024075"><graphic url="master/W4_000376_600.tif" xml:id="n348.024076"/>
+<graphic url="300/W4_000376_300.tif" xml:id="n348.024077"/>
+<graphic url="sap/W4_000376_sap.jpg" xml:id="n348.024078"/>
+<graphic url="thumb/W4_000376_thumb.jpg" xml:id="n348.024079"/>
+</surface>
+<surface n="fol. 188r" xml:id="n348.024080"><graphic url="master/W4_000377_600.tif" xml:id="n348.024081"/>
+<graphic url="300/W4_000377_300.tif" xml:id="n348.024082"/>
+<graphic url="sap/W4_000377_sap.jpg" xml:id="n348.024083"/>
+<graphic url="thumb/W4_000377_thumb.jpg" xml:id="n348.024084"/>
+</surface>
+<surface n="fol. 188v" xml:id="n348.024085"><graphic url="master/W4_000378_600.tif" xml:id="n348.024086"/>
+<graphic url="300/W4_000378_300.tif" xml:id="n348.024087"/>
+<graphic url="sap/W4_000378_sap.jpg" xml:id="n348.024088"/>
+<graphic url="thumb/W4_000378_thumb.jpg" xml:id="n348.024089"/>
+</surface>
+<surface n="fol. 189r" xml:id="n348.024090"><graphic url="master/W4_000379_600.tif" xml:id="n348.024091"/>
+<graphic url="300/W4_000379_300.tif" xml:id="n348.024092"/>
+<graphic url="sap/W4_000379_sap.jpg" xml:id="n348.024093"/>
+<graphic url="thumb/W4_000379_thumb.jpg" xml:id="n348.024094"/>
+</surface>
+<surface n="fol. 189v" xml:id="n348.024095"><graphic url="master/W4_000380_600.tif" xml:id="n348.024096"/>
+<graphic url="300/W4_000380_300.tif" xml:id="n348.024097"/>
+<graphic url="sap/W4_000380_sap.jpg" xml:id="n348.024098"/>
+<graphic url="thumb/W4_000380_thumb.jpg" xml:id="n348.024099"/>
+</surface>
+<surface n="fol. 190r" xml:id="n348.024100"><graphic url="master/W4_000381_600.tif" xml:id="n348.024101"/>
+<graphic url="300/W4_000381_300.tif" xml:id="n348.024102"/>
+<graphic url="sap/W4_000381_sap.jpg" xml:id="n348.024103"/>
+<graphic url="thumb/W4_000381_thumb.jpg" xml:id="n348.024104"/>
+</surface>
+<surface n="fol. 190v" xml:id="n348.024105"><graphic url="master/W4_000382_600.tif" xml:id="n348.024106"/>
+<graphic url="300/W4_000382_300.tif" xml:id="n348.024107"/>
+<graphic url="sap/W4_000382_sap.jpg" xml:id="n348.024108"/>
+<graphic url="thumb/W4_000382_thumb.jpg" xml:id="n348.024109"/>
+</surface>
+<surface n="fol. 191r" xml:id="n348.024110"><graphic url="master/W4_000383_600.tif" xml:id="n348.024111"/>
+<graphic url="300/W4_000383_300.tif" xml:id="n348.024112"/>
+<graphic url="sap/W4_000383_sap.jpg" xml:id="n348.024113"/>
+<graphic url="thumb/W4_000383_thumb.jpg" xml:id="n348.024114"/>
+</surface>
+<surface n="fol. 191v" xml:id="n348.024115"><graphic url="master/W4_000384_600.tif" xml:id="n348.024116"/>
+<graphic url="300/W4_000384_300.tif" xml:id="n348.024117"/>
+<graphic url="sap/W4_000384_sap.jpg" xml:id="n348.024118"/>
+<graphic url="thumb/W4_000384_thumb.jpg" xml:id="n348.024119"/>
+</surface>
+<surface n="fol. 192r" xml:id="n348.024120"><graphic url="master/W4_000385_600.tif" xml:id="n348.024121"/>
+<graphic url="300/W4_000385_300.tif" xml:id="n348.024122"/>
+<graphic url="sap/W4_000385_sap.jpg" xml:id="n348.024123"/>
+<graphic url="thumb/W4_000385_thumb.jpg" xml:id="n348.024124"/>
+</surface>
+<surface n="fol. 192v" xml:id="n348.024125"><graphic url="master/W4_000386_600.tif" xml:id="n348.024126"/>
+<graphic url="300/W4_000386_300.tif" xml:id="n348.024127"/>
+<graphic url="sap/W4_000386_sap.jpg" xml:id="n348.024128"/>
+<graphic url="thumb/W4_000386_thumb.jpg" xml:id="n348.024129"/>
+</surface>
+<surface n="fol. 193r" xml:id="n348.024130"><graphic url="master/W4_000387_600.tif" xml:id="n348.024131"/>
+<graphic url="300/W4_000387_300.tif" xml:id="n348.024132"/>
+<graphic url="sap/W4_000387_sap.jpg" xml:id="n348.024133"/>
+<graphic url="thumb/W4_000387_thumb.jpg" xml:id="n348.024134"/>
+</surface>
+<surface n="fol. 193v" xml:id="n348.024135"><graphic url="master/W4_000388_600.tif" xml:id="n348.024136"/>
+<graphic url="300/W4_000388_300.tif" xml:id="n348.024137"/>
+<graphic url="sap/W4_000388_sap.jpg" xml:id="n348.024138"/>
+<graphic url="thumb/W4_000388_thumb.jpg" xml:id="n348.024139"/>
+</surface>
+<surface n="fol. 194r" xml:id="n348.024140"><graphic url="master/W4_000389_600.tif" xml:id="n348.024141"/>
+<graphic url="300/W4_000389_300.tif" xml:id="n348.024142"/>
+<graphic url="sap/W4_000389_sap.jpg" xml:id="n348.024143"/>
+<graphic url="thumb/W4_000389_thumb.jpg" xml:id="n348.024144"/>
+</surface>
+<surface n="fol. 194v" xml:id="n348.024145"><graphic url="master/W4_000390_600.tif" xml:id="n348.024146"/>
+<graphic url="300/W4_000390_300.tif" xml:id="n348.024147"/>
+<graphic url="sap/W4_000390_sap.jpg" xml:id="n348.024148"/>
+<graphic url="thumb/W4_000390_thumb.jpg" xml:id="n348.024149"/>
+</surface>
+<surface n="fol. 195r" xml:id="n348.024150"><graphic url="master/W4_000391_600.tif" xml:id="n348.024151"/>
+<graphic url="300/W4_000391_300.tif" xml:id="n348.024152"/>
+<graphic url="sap/W4_000391_sap.jpg" xml:id="n348.024153"/>
+<graphic url="thumb/W4_000391_thumb.jpg" xml:id="n348.024154"/>
+</surface>
+<surface n="fol. 195v" xml:id="n348.024155"><graphic url="master/W4_000392_600.tif" xml:id="n348.024156"/>
+<graphic url="300/W4_000392_300.tif" xml:id="n348.024157"/>
+<graphic url="sap/W4_000392_sap.jpg" xml:id="n348.024158"/>
+<graphic url="thumb/W4_000392_thumb.jpg" xml:id="n348.024159"/>
+</surface>
+<surface n="fol. 196r" xml:id="n348.024160"><graphic url="master/W4_000393_600.tif" xml:id="n348.024161"/>
+<graphic url="300/W4_000393_300.tif" xml:id="n348.024162"/>
+<graphic url="sap/W4_000393_sap.jpg" xml:id="n348.024163"/>
+<graphic url="thumb/W4_000393_thumb.jpg" xml:id="n348.024164"/>
+</surface>
+<surface n="fol. 196v" xml:id="n348.024165"><graphic url="master/W4_000394_600.tif" xml:id="n348.024166"/>
+<graphic url="300/W4_000394_300.tif" xml:id="n348.024167"/>
+<graphic url="sap/W4_000394_sap.jpg" xml:id="n348.024168"/>
+<graphic url="thumb/W4_000394_thumb.jpg" xml:id="n348.024169"/>
+</surface>
+<surface n="fol. 197r" xml:id="n348.024170"><graphic url="master/W4_000395_600.tif" xml:id="n348.024171"/>
+<graphic url="300/W4_000395_300.tif" xml:id="n348.024172"/>
+<graphic url="sap/W4_000395_sap.jpg" xml:id="n348.024173"/>
+<graphic url="thumb/W4_000395_thumb.jpg" xml:id="n348.024174"/>
+</surface>
+<surface n="fol. 197v" xml:id="n348.024175"><graphic url="master/W4_000396_600.tif" xml:id="n348.024176"/>
+<graphic url="300/W4_000396_300.tif" xml:id="n348.024177"/>
+<graphic url="sap/W4_000396_sap.jpg" xml:id="n348.024178"/>
+<graphic url="thumb/W4_000396_thumb.jpg" xml:id="n348.024179"/>
+</surface>
+<surface n="fol. 198r" xml:id="n348.024180"><graphic url="master/W4_000397_600.tif" xml:id="n348.024181"/>
+<graphic url="300/W4_000397_300.tif" xml:id="n348.024182"/>
+<graphic url="sap/W4_000397_sap.jpg" xml:id="n348.024183"/>
+<graphic url="thumb/W4_000397_thumb.jpg" xml:id="n348.024184"/>
+</surface>
+<surface n="fol. 198v" xml:id="n348.024185"><graphic url="master/W4_000398_600.tif" xml:id="n348.024186"/>
+<graphic url="300/W4_000398_300.tif" xml:id="n348.024187"/>
+<graphic url="sap/W4_000398_sap.jpg" xml:id="n348.024188"/>
+<graphic url="thumb/W4_000398_thumb.jpg" xml:id="n348.024189"/>
+</surface>
+<surface n="fol. 199r" xml:id="n348.024190"><graphic url="master/W4_000399_600.tif" xml:id="n348.024191"/>
+<graphic url="300/W4_000399_300.tif" xml:id="n348.024192"/>
+<graphic url="sap/W4_000399_sap.jpg" xml:id="n348.024193"/>
+<graphic url="thumb/W4_000399_thumb.jpg" xml:id="n348.024194"/>
+</surface>
+<surface n="fol. 199v" xml:id="n348.024195"><graphic url="master/W4_000400_600.tif" xml:id="n348.024196"/>
+<graphic url="300/W4_000400_300.tif" xml:id="n348.024197"/>
+<graphic url="sap/W4_000400_sap.jpg" xml:id="n348.024198"/>
+<graphic url="thumb/W4_000400_thumb.jpg" xml:id="n348.024199"/>
+</surface>
+<surface n="fol. 200r" xml:id="n348.024200"><graphic url="master/W4_000401_600.tif" xml:id="n348.024201"/>
+<graphic url="300/W4_000401_300.tif" xml:id="n348.024202"/>
+<graphic url="sap/W4_000401_sap.jpg" xml:id="n348.024203"/>
+<graphic url="thumb/W4_000401_thumb.jpg" xml:id="n348.024204"/>
+</surface>
+<surface n="fol. 200v" xml:id="n348.024205"><graphic url="master/W4_000402_600.tif" xml:id="n348.024206"/>
+<graphic url="300/W4_000402_300.tif" xml:id="n348.024207"/>
+<graphic url="sap/W4_000402_sap.jpg" xml:id="n348.024208"/>
+<graphic url="thumb/W4_000402_thumb.jpg" xml:id="n348.024209"/>
+</surface>
+<surface n="fol. 201r" xml:id="n348.024210"><graphic url="master/W4_000403_600.tif" xml:id="n348.024211"/>
+<graphic url="300/W4_000403_300.tif" xml:id="n348.024212"/>
+<graphic url="sap/W4_000403_sap.jpg" xml:id="n348.024213"/>
+<graphic url="thumb/W4_000403_thumb.jpg" xml:id="n348.024214"/>
+</surface>
+<surface n="fol. 201v" xml:id="n348.024215"><graphic url="master/W4_000404_600.tif" xml:id="n348.024216"/>
+<graphic url="300/W4_000404_300.tif" xml:id="n348.024217"/>
+<graphic url="sap/W4_000404_sap.jpg" xml:id="n348.024218"/>
+<graphic url="thumb/W4_000404_thumb.jpg" xml:id="n348.024219"/>
+</surface>
+<surface n="fol. 202r" xml:id="n348.024220"><graphic url="master/W4_000405_600.tif" xml:id="n348.024221"/>
+<graphic url="300/W4_000405_300.tif" xml:id="n348.024222"/>
+<graphic url="sap/W4_000405_sap.jpg" xml:id="n348.024223"/>
+<graphic url="thumb/W4_000405_thumb.jpg" xml:id="n348.024224"/>
+</surface>
+<surface n="fol. 202v" xml:id="n348.024225"><graphic url="master/W4_000406_600.tif" xml:id="n348.024226"/>
+<graphic url="300/W4_000406_300.tif" xml:id="n348.024227"/>
+<graphic url="sap/W4_000406_sap.jpg" xml:id="n348.024228"/>
+<graphic url="thumb/W4_000406_thumb.jpg" xml:id="n348.024229"/>
+</surface>
+<surface n="fol. 203r" xml:id="n348.024230"><graphic url="master/W4_000407_600.tif" xml:id="n348.024231"/>
+<graphic url="300/W4_000407_300.tif" xml:id="n348.024232"/>
+<graphic url="sap/W4_000407_sap.jpg" xml:id="n348.024233"/>
+<graphic url="thumb/W4_000407_thumb.jpg" xml:id="n348.024234"/>
+</surface>
+<surface n="fol. 203v" xml:id="n348.024235"><graphic url="master/W4_000408_600.tif" xml:id="n348.024236"/>
+<graphic url="300/W4_000408_300.tif" xml:id="n348.024237"/>
+<graphic url="sap/W4_000408_sap.jpg" xml:id="n348.024238"/>
+<graphic url="thumb/W4_000408_thumb.jpg" xml:id="n348.024239"/>
+</surface>
+<surface n="fol. 204r" xml:id="n348.024240"><graphic url="master/W4_000409_600.tif" xml:id="n348.024241"/>
+<graphic url="300/W4_000409_300.tif" xml:id="n348.024242"/>
+<graphic url="sap/W4_000409_sap.jpg" xml:id="n348.024243"/>
+<graphic url="thumb/W4_000409_thumb.jpg" xml:id="n348.024244"/>
+</surface>
+<surface n="fol. 204v" xml:id="n348.024245"><graphic url="master/W4_000410_600.tif" xml:id="n348.024246"/>
+<graphic url="300/W4_000410_300.tif" xml:id="n348.024247"/>
+<graphic url="sap/W4_000410_sap.jpg" xml:id="n348.024248"/>
+<graphic url="thumb/W4_000410_thumb.jpg" xml:id="n348.024249"/>
+</surface>
+<surface n="fol. 205r" xml:id="n348.024250"><graphic url="master/W4_000411_600.tif" xml:id="n348.024251"/>
+<graphic url="300/W4_000411_300.tif" xml:id="n348.024252"/>
+<graphic url="sap/W4_000411_sap.jpg" xml:id="n348.024253"/>
+<graphic url="thumb/W4_000411_thumb.jpg" xml:id="n348.024254"/>
+</surface>
+<surface n="fol. 205v" xml:id="n348.024255"><graphic url="master/W4_000412_600.tif" xml:id="n348.024256"/>
+<graphic url="300/W4_000412_300.tif" xml:id="n348.024257"/>
+<graphic url="sap/W4_000412_sap.jpg" xml:id="n348.024258"/>
+<graphic url="thumb/W4_000412_thumb.jpg" xml:id="n348.024259"/>
+</surface>
+<surface n="fol. 206r" xml:id="n348.024260"><graphic url="master/W4_000413_600.tif" xml:id="n348.024261"/>
+<graphic url="300/W4_000413_300.tif" xml:id="n348.024262"/>
+<graphic url="sap/W4_000413_sap.jpg" xml:id="n348.024263"/>
+<graphic url="thumb/W4_000413_thumb.jpg" xml:id="n348.024264"/>
+</surface>
+<surface n="fol. 206v" xml:id="n348.024265"><graphic url="master/W4_000414_600.tif" xml:id="n348.024266"/>
+<graphic url="300/W4_000414_300.tif" xml:id="n348.024267"/>
+<graphic url="sap/W4_000414_sap.jpg" xml:id="n348.024268"/>
+<graphic url="thumb/W4_000414_thumb.jpg" xml:id="n348.024269"/>
+</surface>
+<surface n="fol. 207r" xml:id="n348.024270"><graphic url="master/W4_000415_600.tif" xml:id="n348.024271"/>
+<graphic url="300/W4_000415_300.tif" xml:id="n348.024272"/>
+<graphic url="sap/W4_000415_sap.jpg" xml:id="n348.024273"/>
+<graphic url="thumb/W4_000415_thumb.jpg" xml:id="n348.024274"/>
+</surface>
+<surface n="fol. 207v" xml:id="n348.024275"><graphic url="master/W4_000416_600.tif" xml:id="n348.024276"/>
+<graphic url="300/W4_000416_300.tif" xml:id="n348.024277"/>
+<graphic url="sap/W4_000416_sap.jpg" xml:id="n348.024278"/>
+<graphic url="thumb/W4_000416_thumb.jpg" xml:id="n348.024279"/>
+</surface>
+<surface n="fol. 208r" xml:id="n348.024280"><graphic url="master/W4_000417_600.tif" xml:id="n348.024281"/>
+<graphic url="300/W4_000417_300.tif" xml:id="n348.024282"/>
+<graphic url="sap/W4_000417_sap.jpg" xml:id="n348.024283"/>
+<graphic url="thumb/W4_000417_thumb.jpg" xml:id="n348.024284"/>
+</surface>
+<surface n="fol. 208v" xml:id="n348.024285"><graphic url="master/W4_000418_600.tif" xml:id="n348.024286"/>
+<graphic url="300/W4_000418_300.tif" xml:id="n348.024287"/>
+<graphic url="sap/W4_000418_sap.jpg" xml:id="n348.024288"/>
+<graphic url="thumb/W4_000418_thumb.jpg" xml:id="n348.024289"/>
+</surface>
+<surface n="fol. 209r" xml:id="n348.024290"><graphic url="master/W4_000419_600.tif" xml:id="n348.024291"/>
+<graphic url="300/W4_000419_300.tif" xml:id="n348.024292"/>
+<graphic url="sap/W4_000419_sap.jpg" xml:id="n348.024293"/>
+<graphic url="thumb/W4_000419_thumb.jpg" xml:id="n348.024294"/>
+</surface>
+<surface n="fol. 209v" xml:id="n348.024295"><graphic url="master/W4_000420_600.tif" xml:id="n348.024296"/>
+<graphic url="300/W4_000420_300.tif" xml:id="n348.024297"/>
+<graphic url="sap/W4_000420_sap.jpg" xml:id="n348.024298"/>
+<graphic url="thumb/W4_000420_thumb.jpg" xml:id="n348.024299"/>
+</surface>
+<surface n="fol. 210r" xml:id="n348.024300"><graphic url="master/W4_000421_600.tif" xml:id="n348.024301"/>
+<graphic url="300/W4_000421_300.tif" xml:id="n348.024302"/>
+<graphic url="sap/W4_000421_sap.jpg" xml:id="n348.024303"/>
+<graphic url="thumb/W4_000421_thumb.jpg" xml:id="n348.024304"/>
+</surface>
+<surface n="fol. 210v" xml:id="n348.024305"><graphic url="master/W4_000422_600.tif" xml:id="n348.024306"/>
+<graphic url="300/W4_000422_300.tif" xml:id="n348.024307"/>
+<graphic url="sap/W4_000422_sap.jpg" xml:id="n348.024308"/>
+<graphic url="thumb/W4_000422_thumb.jpg" xml:id="n348.024309"/>
+</surface>
+<surface n="fol. 211r" xml:id="n348.024310"><graphic url="master/W4_000423_600.tif" xml:id="n348.024311"/>
+<graphic url="300/W4_000423_300.tif" xml:id="n348.024312"/>
+<graphic url="sap/W4_000423_sap.jpg" xml:id="n348.024313"/>
+<graphic url="thumb/W4_000423_thumb.jpg" xml:id="n348.024314"/>
+</surface>
+<surface n="fol. 211v" xml:id="n348.024315"><graphic url="master/W4_000424_600.tif" xml:id="n348.024316"/>
+<graphic url="300/W4_000424_300.tif" xml:id="n348.024317"/>
+<graphic url="sap/W4_000424_sap.jpg" xml:id="n348.024318"/>
+<graphic url="thumb/W4_000424_thumb.jpg" xml:id="n348.024319"/>
+</surface>
+<surface n="fol. 212r" xml:id="n348.024320"><graphic url="master/W4_000425_600.tif" xml:id="n348.024321"/>
+<graphic url="300/W4_000425_300.tif" xml:id="n348.024322"/>
+<graphic url="sap/W4_000425_sap.jpg" xml:id="n348.024323"/>
+<graphic url="thumb/W4_000425_thumb.jpg" xml:id="n348.024324"/>
+</surface>
+<surface n="fol. 212v" xml:id="n348.024325"><graphic url="master/W4_000426_600.tif" xml:id="n348.024326"/>
+<graphic url="300/W4_000426_300.tif" xml:id="n348.024327"/>
+<graphic url="sap/W4_000426_sap.jpg" xml:id="n348.024328"/>
+<graphic url="thumb/W4_000426_thumb.jpg" xml:id="n348.024329"/>
+</surface>
+<surface n="fol. 213r" xml:id="n348.024330"><graphic url="master/W4_000427_600.tif" xml:id="n348.024331"/>
+<graphic url="300/W4_000427_300.tif" xml:id="n348.024332"/>
+<graphic url="sap/W4_000427_sap.jpg" xml:id="n348.024333"/>
+<graphic url="thumb/W4_000427_thumb.jpg" xml:id="n348.024334"/>
+</surface>
+<surface n="fol. 213v" xml:id="n348.024335"><graphic url="master/W4_000428_600.tif" xml:id="n348.024336"/>
+<graphic url="300/W4_000428_300.tif" xml:id="n348.024337"/>
+<graphic url="sap/W4_000428_sap.jpg" xml:id="n348.024338"/>
+<graphic url="thumb/W4_000428_thumb.jpg" xml:id="n348.024339"/>
+</surface>
+<surface n="fol. 214r" xml:id="n348.024340"><graphic url="master/W4_000429_600.tif" xml:id="n348.024341"/>
+<graphic url="300/W4_000429_300.tif" xml:id="n348.024342"/>
+<graphic url="sap/W4_000429_sap.jpg" xml:id="n348.024343"/>
+<graphic url="thumb/W4_000429_thumb.jpg" xml:id="n348.024344"/>
+</surface>
+<surface n="fol. 214v" xml:id="n348.024345"><graphic url="master/W4_000430_600.tif" xml:id="n348.024346"/>
+<graphic url="300/W4_000430_300.tif" xml:id="n348.024347"/>
+<graphic url="sap/W4_000430_sap.jpg" xml:id="n348.024348"/>
+<graphic url="thumb/W4_000430_thumb.jpg" xml:id="n348.024349"/>
+</surface>
+<surface n="fol. 215r" xml:id="n348.024350"><graphic url="master/W4_000431_600.tif" xml:id="n348.024351"/>
+<graphic url="300/W4_000431_300.tif" xml:id="n348.024352"/>
+<graphic url="sap/W4_000431_sap.jpg" xml:id="n348.024353"/>
+<graphic url="thumb/W4_000431_thumb.jpg" xml:id="n348.024354"/>
+</surface>
+<surface n="fol. 215v" xml:id="n348.024355"><graphic url="master/W4_000432_600.tif" xml:id="n348.024356"/>
+<graphic url="300/W4_000432_300.tif" xml:id="n348.024357"/>
+<graphic url="sap/W4_000432_sap.jpg" xml:id="n348.024358"/>
+<graphic url="thumb/W4_000432_thumb.jpg" xml:id="n348.024359"/>
+</surface>
+<surface n="Lower board inside " xml:id="n348.024360"><graphic url="master/W4_000433_600.tif" xml:id="n348.024361"/>
+<graphic url="300/W4_000433_300.tif" xml:id="n348.024362"/>
+<graphic url="sap/W4_000433_sap.jpg" xml:id="n348.024363"/>
+<graphic url="thumb/W4_000433_thumb.jpg" xml:id="n348.024364"/>
+</surface>
+<surface n="Lower board outside " xml:id="n348.024365"><graphic url="master/W4_000434_1200.tif" xml:id="n348.024366"/>
+<graphic url="300/W4_000434_300.tif" xml:id="n348.024367"/>
+<graphic url="sap/W4_000434_sap.jpg" xml:id="n348.024368"/>
+<graphic url="thumb/W4_000434_thumb.jpg" xml:id="n348.024369"/>
+</surface>
+<surface n="Spine" xml:id="n348.024370"><graphic url="master/W4_000435_1200.tif" xml:id="n348.024371"/>
+<graphic url="300/W4_000435_300.tif" xml:id="n348.024372"/>
+<graphic url="sap/W4_000435_sap.jpg" xml:id="n348.024373"/>
+<graphic url="thumb/W4_000435_thumb.jpg" xml:id="n348.024374"/>
+</surface>
+<surface n="Fore-edge" xml:id="n348.024375"><graphic url="master/W4_000436_1200.tif" xml:id="n348.024376"/>
+<graphic url="300/W4_000436_300.tif" xml:id="n348.024377"/>
+<graphic url="sap/W4_000436_sap.jpg" xml:id="n348.024378"/>
+<graphic url="thumb/W4_000436_thumb.jpg" xml:id="n348.024379"/>
+</surface>
+<surface n="Head" xml:id="n348.024380"><graphic url="master/W4_000437_1200.tif" xml:id="n348.024381"/>
+<graphic url="300/W4_000437_300.tif" xml:id="n348.024382"/>
+<graphic url="sap/W4_000437_sap.jpg" xml:id="n348.024383"/>
+<graphic url="thumb/W4_000437_thumb.jpg" xml:id="n348.024384"/>
+</surface>
+<surface n="Tail" xml:id="n348.024385"><graphic url="master/W4_000438_1200.tif" xml:id="n348.024386"/>
+<graphic url="300/W4_000438_300.tif" xml:id="n348.024387"/>
+<graphic url="sap/W4_000438_sap.jpg" xml:id="n348.024388"/>
+<graphic url="thumb/W4_000438_thumb.jpg" xml:id="n348.024389"/>
+</surface>
+</facsimile>
+</TEI>
