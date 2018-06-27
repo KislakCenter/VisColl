@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml-stylesheet href="../../CSS/collation.css" type="text/css"?>
+<!--SVG file generated on: 22 June 2018 at 17:09:19 using SAXON version HE 9.8.0.12-->
+<!DOCTYPE svg
+  PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     x="0"
+     y="0"
+     width="54.75mm"
+     height="54.75mm"
+     preserveAspectRatio="xMidYMid meet"
+     style="background: #FFFFFF;"
+     viewBox="0 0 94.75 94.75">
+   <title>Collation diagram of quire 4 for Ferraioi 208 composed of 6 leaves</title>
+   <defs>
+      <filter id="f1" filterUnits="userSpaceOnUse">
+         <feGaussianBlur in="SourceGraphic" stdDeviation="0"/>
+      </filter>
+      <filter id="f2" filterUnits="userSpaceOnUse">
+         <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+      </filter>
+      <filter id="f3" filterUnits="userSpaceOnUse">
+         <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+      </filter>
+      <pattern xmlns:xlink="http://www.w3.org/1999/xlink"
+               id="gluedPattern"
+               patternUnits="userSpaceOnUse"
+               width="2"
+               height="6"
+               xlink:type="simple"
+               xlink:show="other"
+               xlink:actuate="onLoad"
+               preserveAspectRatio="xMidYMid meet">
+         <desc>Glue pattern</desc>
+         <path d="M 0,0 L 2,12 " class="glued"/>
+      </pattern>
+   </defs>
+   <desc>Collation diagram of quire 4 for Ferraioi 208 composed of 6 leaves</desc>
+   <svg x="25" y="25">
+      <g xml:id="id-Ferr208-4-1">
+         <desc>Folio #1</desc>
+         <g>
+            <g>
+               <desc>Folio #1: arc</desc>
+               <g class="leaf">
+                  <path d="M56,17 Q51,17 51,35"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #1: line</desc>
+               <g class="leaf">
+                  <path d="M206,17 L56,17"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g xml:id="id-Ferr208-4-6">
+         <desc>Folio #6</desc>
+         <g>
+            <g>
+               <desc>Folio #6: arc</desc>
+               <g class="leaf">
+                  <path d="M56,53 Q51,53 51,35"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #6: line</desc>
+               <g class="leaf">
+                  <path d="M206,53 L56,53"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g xml:id="id-Ferr208-4-2">
+         <desc>Folio #2</desc>
+         <g transform="translate(6,0)">
+            <g>
+               <desc>Folio #2: arc</desc>
+               <g class="leaf">
+                  <path d="M56,23 Q51,23 51,26"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #2: line</desc>
+               <g class="leaf">
+                  <path d="M200,23 L56,23"/>
+               </g>
+               <g class="leaf">
+                  <desc>Attachment method - sewn</desc>
+                  <path d="M56,26 L32,26"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g xml:id="id-Ferr208-4-3">
+         <desc>Folio #3</desc>
+         <g transform="translate(6,0)">
+            <g>
+               <desc>Folio #3: arc</desc>
+               <g class="leaf">
+                  <path d="M56,29 Q51,29 51,26"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #3: line</desc>
+               <g class="leaf">
+                  <path d="M200,29 L56,29"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g xml:id="id-Ferr208-4-4">
+         <desc>Folio #4</desc>
+         <g transform="translate(6,0)">
+            <g>
+               <desc>Folio #4: arc</desc>
+               <g class="leaf">
+                  <path d="M56,41 Q51,41 51,44"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #4: line</desc>
+               <g class="leaf">
+                  <path d="M200,41 L56,41"/>
+               </g>
+               <g class="leaf">
+                  <desc>Attachment method - sewn</desc>
+                  <path d="M56,44 L32,44"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g xml:id="id-Ferr208-4-5">
+         <desc>Folio #5</desc>
+         <g transform="translate(6,0)">
+            <g>
+               <desc>Folio #5: arc</desc>
+               <g class="leaf">
+                  <path d="M56,47 Q51,47 51,44"/>
+               </g>
+            </g>
+            <g>
+               <desc>Folio #5: line</desc>
+               <g class="leaf">
+                  <path d="M200,47 L56,47"/>
+               </g>
+            </g>
+         </g>
+      </g>
+   </svg>
+</svg>

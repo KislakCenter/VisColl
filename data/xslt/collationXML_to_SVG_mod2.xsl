@@ -25,16 +25,16 @@
     <xsl:variable name="rotationAngle" select="180"/>
 
     <xsl:template match="/" name="main">
-        <!-- Each manuscript is treated independently of the others -->
-        <xsl:for-each select="viscoll/manuscript">
+        <!-- Each textblock is treated independently of the others -->
+        <xsl:for-each select="viscoll/textblock">
             <!-- Shelfmark -->
             <xsl:variable name="shelfmark">
                 <xsl:value-of select="shelfmark/text()"/>
             </xsl:variable>
-            <!-- Variable to generate a manuscript ID from the shelfmark -->
+            <!-- Variable to generate a textblock ID from the shelfmark -->
             <xsl:variable name="msID" select="concat('id-', translate($shelfmark, ' ', ''))"/>
-            <!-- Copy of the whole manuscript to manage inter-quire references -->
-            <xsl:variable name="manuscript">
+            <!-- Copy of the whole textblock to manage inter-quire references -->
+            <xsl:variable name="textblock">
                 <xsl:copy-of select="."/>
             </xsl:variable>
             <!-- quires are formed by grouping leaves according to the quire to which the are listed as belonging to;
@@ -53,12 +53,12 @@
                     <xsl:value-of select="xs:integer(count(current-group()))"/>
                 </xsl:variable>
                 <!-- Each quire is drawn on a different SVG file -->
-                <xsl:result-document href="{concat($msID, '/', $msID, '-', $quireNumber, '.svg')}"
+                <xsl:result-document href="{concat('../SVG/', $msID, '/', $msID, '-', $quireNumber, '.svg')}"
                     method="xml" indent="yes" encoding="utf-8"
                     doctype-public="-//W3C//DTD SVG 1.1//EN"
                     doctype-system="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
                     <xsl:processing-instruction name="xml-stylesheet">
-                    <xsl:text>href="../CSS/collation.css"&#32;</xsl:text>
+                    <xsl:text>href="../../CSS/collation.css"&#32;</xsl:text>
                     <xsl:text>type="text/css"</xsl:text>
                     <!-- Record date and time of transformation -->
                     </xsl:processing-instruction>
@@ -138,8 +138,8 @@
                                     as="xs:integer"/>
                                 <xsl:with-param name="positions" select="$positions" as="xs:integer"/>
                                 <xsl:with-param name="subquires" select="$subquires"/>
-                                <xsl:with-param name="manuscript">
-                                    <xsl:copy-of select="$manuscript"/>
+                                <xsl:with-param name="textblock">
+                                    <xsl:copy-of select="$textblock"/>
                                 </xsl:with-param>
                                 <xsl:with-param name="quireNumber" select="$quireNumber"/>
                             </xsl:call-template>
@@ -151,13 +151,13 @@
     </xsl:template>
 
     <xsl:template name="bifoliaDiagram">
-        <xsl:param name="manuscript"/>
+        <xsl:param name="textblock"/>
         <xsl:param name="positions" select="1"/>
         <xsl:param name="odd1_Even2" select="2"/>
         <xsl:param name="subquires"/>
         <xsl:param name="quireNumber"/>
         <!-- Variable to count the number of singletons in the quire -->
-        <!-- Singletons are folios with the following pattern: /viscoll/manuscript/leaf/single/@val="yes" 
+        <!-- Singletons are folios with the following pattern: /viscoll/textblock/leaf/single/@val="yes" 
             Whilst folios whose cognate has @mode with value 'missing' are technically singletons they are not counted here as they do not alter the symmetry of the diagram.-->
         <xsl:variable name="countSingletons">
             <xsl:value-of select="count(current-group()/.[single/@val = 'yes'])"/>
@@ -235,7 +235,8 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
-        <xsl:for-each select="current-group()/.">
+        <!-- At first, only draw regular bifolia, no subquires -->
+        <xsl:for-each select="current-group()/.[not(q[1]/@n[contains(., '.')])]">
             <xsl:variable name="currentPosition">
                 <xsl:value-of select="xs:integer(q[1]/@position)"/>
             </xsl:variable>
@@ -313,7 +314,7 @@
             <g xmlns="http://www.w3.org/2000/svg">
                 <!-- Writing Direction -->
                 <xsl:variable name="direction">
-                    <xsl:value-of select="parent::manuscript/direction/@val"/>
+                    <xsl:value-of select="parent::textblock/direction/@val"/>
                 </xsl:variable>
                 <xsl:choose>
                     <xsl:when test="$direction = 'r-l'">
@@ -326,6 +327,10 @@
                         </xsl:attribute>
                     </xsl:when>
                 </xsl:choose>
+                <!-- Add the xml:id of the folio -->
+                <xsl:attribute name="id">
+                    <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
                 <!-- Folio description -->
                 <desc xmlns="http://www.w3.org/2000/svg">
                     <xsl:text>Folio #</xsl:text>
@@ -335,7 +340,7 @@
                 <xsl:call-template name="leafPath">
                     <xsl:with-param name="Cx" select="$Cx"/>
                     <xsl:with-param name="Cy" select="$Cy"/>
-                    <xsl:with-param name="manuscript" select="$manuscript"/>
+                    <xsl:with-param name="textblock" select="$textblock"/>
                     <xsl:with-param name="countRegularBifolia" select="$countRegularBifolia"/>
                     <xsl:with-param name="countRegularBifolia2" select="$countRegularBifolia2"/>
                     <xsl:with-param name="countSubquireLeaves" select="$countSubquireLeaves"/>
@@ -348,6 +353,7 @@
                 </xsl:call-template>
             </g>
         </xsl:for-each>
+        <!-- Then draw also the subquires -->
         <xsl:choose>
             <xsl:when test="current-group()/./q[1]/@n[contains(., '.')]">
                 <!-- Number of subquires: number of iterations -->
@@ -357,8 +363,8 @@
                     <xsl:with-param name="subquires">
                         <xsl:copy-of select="$subquires"/>
                     </xsl:with-param>
-                    <xsl:with-param name="manuscript">
-                        <xsl:copy-of select="$manuscript"/>
+                    <xsl:with-param name="textblock">
+                        <xsl:copy-of select="$textblock"/>
                     </xsl:with-param>
                     <xsl:with-param name="centralLeftLeafPos" select="$centralLeftLeafPos"/>
                     <xsl:with-param name="countRegularBifolia" select="$countRegularBifolia"
@@ -374,7 +380,7 @@
     <xsl:template name="leafPath" xmlns="http://www.w3.org/2000/svg">
         <xsl:param name="Cx" select="$Ox + 20"/>
         <xsl:param name="Cy" select="$Cx"/>
-        <xsl:param name="manuscript"/>
+        <xsl:param name="textblock"/>
         <xsl:param name="countRegularBifolia" select="4"/>
         <xsl:param name="countRegularBifolia2" select="4"/>
         <xsl:param name="countSubquireLeaves"/>
@@ -572,7 +578,7 @@
                             <xsl:when test="sic:attachment-method">
                                 <xsl:for-each select="sic:attachment-method">
                                     <!-- Attachment target identification: the target can refer other quires
-                                        within the same manuscript -->
+                                        within the same textblock -->
                                     <xsl:choose>
                                         <xsl:when test="@target">
                                             <xsl:variable name="ownPosition">
@@ -595,17 +601,17 @@
                                             <!-- Position of the leaf to which the leaf is attached -->
                                             <xsl:variable name="attachmentTargetPosition">
                                                 <xsl:value-of
-                                                  select="$manuscript/sic:manuscript/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@position"
+                                                  select="$textblock/sic:textblock/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@position"
                                                 />
                                             </xsl:variable>
                                             <!-- Checks the number of the quire to which the target leaf belongs: it avoids subquire dot-numbers -->
                                             <xsl:variable name="attachmentTargetQuire">
                                                 <xsl:value-of
                                                   select="
-                                                        if (contains($manuscript/sic:manuscript/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n, '.')) then
-                                                            substring-before($manuscript/sic:manuscript/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n, '.')
+                                                        if (contains($textblock/sic:textblock/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n, '.')) then
+                                                            substring-before($textblock/sic:textblock/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n, '.')
                                                         else
-                                                            $manuscript/sic:manuscript/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n"
+                                                            $textblock/sic:textblock/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n"
                                                 />
                                             </xsl:variable>
                                             <!-- Checks the deviation between the leaf and its attachment target: 
@@ -710,7 +716,7 @@
 
     <xsl:template name="bifoliaDiagram_SQ">
         <xsl:param name="subquires"/>
-        <xsl:param name="manuscript"/>
+        <xsl:param name="textblock"/>
         <xsl:param name="counter" select="1"/>
         <xsl:param name="countRegularBifolia" as="xs:integer" select="1"/>
         <xsl:param name="countRegularBifolia2" select="1"/>
@@ -954,7 +960,7 @@
             <g xmlns="http://www.w3.org/2000/svg">
                 <!-- Writing Direction -->
                 <xsl:variable name="direction">
-                    <xsl:value-of select="parent::manuscript/direction/@val"/>
+                    <xsl:value-of select="parent::textblock/direction/@val"/>
                 </xsl:variable>
                 <xsl:choose>
                     <xsl:when test="$direction = 'r-l'">
@@ -967,6 +973,10 @@
                         </xsl:attribute>
                     </xsl:when>
                 </xsl:choose>
+                <!-- Add the xml:id of the folio -->
+                <xsl:attribute name="id">
+                    <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
                 <!-- Folio description -->
                 <desc xmlns="http://www.w3.org/2000/svg">
                     <xsl:text>Folio #</xsl:text>
@@ -974,7 +984,7 @@
                 </desc>
                 <!-- Draw folio -->
                 <xsl:call-template name="leafPath_SQ">
-                    <xsl:with-param name="manuscript" select="$manuscript"/>
+                    <xsl:with-param name="textblock" select="$textblock"/>
                     <xsl:with-param name="subquireN" select="$subquireN"/>
                     <xsl:with-param name="Cx_SQ" select="$Cx"/>
                     <xsl:with-param name="Cy_SQ" select="$Cy"/>
@@ -1001,7 +1011,7 @@
                 <xsl:call-template name="bifoliaDiagram_SQ">
                     <xsl:with-param name="counter" select="$counter + 1"/>
                     <xsl:with-param name="subquires" select="$subquires"/>
-                    <xsl:with-param name="manuscript" select="$manuscript"/>
+                    <xsl:with-param name="textblock" select="$textblock"/>
                     <xsl:with-param name="centralLeftLeafPos" select="$centralLeftLeafPos"/>
                     <xsl:with-param name="countRegularBifolia" select="$countRegularBifolia"/>
                     <xsl:with-param name="countRegularBifolia2" select="$countRegularBifolia2"/>
@@ -1013,7 +1023,7 @@
     </xsl:template>
 
     <xsl:template name="leafPath_SQ" xmlns="http://www.w3.org/2000/svg">
-        <xsl:param name="manuscript"/>
+        <xsl:param name="textblock"/>
         <xsl:param name="subquireN"/>
         <xsl:param name="Cx_SQ" select="$Ox + 20"/>
         <xsl:param name="Cy_SQ" select="$Cx_SQ"/>
@@ -1258,16 +1268,16 @@
                                             </xsl:variable>
                                             <xsl:variable name="attachmentTargetPosition">
                                                 <xsl:value-of
-                                                  select="$manuscript/sic:manuscript/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@position"
+                                                  select="$textblock/sic:textblock/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@position"
                                                 />
                                             </xsl:variable>
                                             <xsl:variable name="attachmentTargetQuire">
                                                 <xsl:value-of
                                                   select="
-                                                        if (contains($manuscript/sic:manuscript/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n, '.')) then
-                                                            substring-before($manuscript/sic:manuscript/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n, '.')
+                                                        if (contains($textblock/sic:textblock/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n, '.')) then
+                                                            substring-before($textblock/sic:textblock/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n, '.')
                                                         else
-                                                            $manuscript/sic:manuscript/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n"
+                                                            $textblock/sic:textblock/sic:leaf[@xml:id = $attachmentTargetID]/sic:q[1]/@n"
                                                 />
                                             </xsl:variable>
                                             <xsl:variable name="attachmentDeviation">
