@@ -145,7 +145,6 @@
                                             <value>original</value>
                                             <value>added</value>
                                             <value>replaced</value>
-                                            <value>false</value>
                                             <value>missing</value>
                                         </choice>
                                     </attribute>
@@ -219,6 +218,7 @@
                                     <attribute name="direction">
                                         <choice>
                                             <value>out</value>
+                                            <value>in</value>
                                             <value>up</value>
                                             <value>down</value>
                                         </choice>
