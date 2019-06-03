@@ -230,11 +230,11 @@
                             </zeroOrMore>
                             <zeroOrMore>
                                 <element name="attachment-method">
-                                    <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">defines the values allowed for identifying the methods by which one leaf is attached to another. For "sewn" if there is a @target identified, the two leaves are sewn together, if there is no @target identified it is sewn through the fold. Use "sewn" through the fold only when you see it (i.e., in the center of a quire)</documentation>
+                                    <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">defines the values allowed for identifying the methods by which one leaf is attached to another. For "sewn" if there is a @target identified, the two leaves are sewn together, if there is no @target identified it is sewn through the fold. Use "sewn" through the fold only when you see it (i.e., in the center of a quire). Stitching goes through the margin instead of through the fold. Stitching will have two @targets, one for the beginning [entry point] and a second one for the end [exit point].</documentation>
                                     <ref name="certainty"/>
-                                    <optional>
+                                    <zeroOrMore>
                                         <ref name="target"/>
-                                    </optional>
+                                    </zeroOrMore>
                                     <optional>
                                         <attribute name="type">
                                             <choice>
@@ -242,6 +242,7 @@
                                                 <value>pasted</value>
                                                 <value>tipped</value>
                                                 <value>drummed</value>
+                                                <value>stitched</value>
                                                 <value>other</value>
                                             </choice>
                                         </attribute>
