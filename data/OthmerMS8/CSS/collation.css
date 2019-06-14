@@ -1,0 +1,59 @@
+/* style.css */
+
+@font-face{
+    font-family: 'Archivo Narrow', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Archivo+Narrow&display=swap');
+}
+
+.folioNumber {
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 0.5em;
+    alignment-baseline: middle;
+}
+
+.leaf{
+    stroke:#000000;
+    stroke-width:1pt;
+    fill:none;
+    stroke-linecap:round;
+}
+
+.current{
+stroke:red;
+}
+
+.missingLeaf{
+    stroke:none;
+    stroke-width:1pt;
+    fill:none;
+    stroke-linecap:round;
+}
+
+.replacedLeaf{
+    stroke:#000000;
+    stroke-dasharray:0.25, 3, 4, 3;
+    stroke-width:1pt;
+    fill:none;
+    stroke-linecap:round;
+}
+
+.addedLeaf{
+    stroke:#000000;
+    stroke-dasharray:0.8, 2;
+    stroke-width:0.8pt;
+    fill:none;
+    stroke-linecap:square;
+}
+
+.addedLeaf2{
+    stroke:#000000;
+    stroke-dasharray:0.8, 2;
+    stroke-width:1.8pt;
+    fill:none;
+}
+
+.glued{
+    stroke:grey;
+    stroke-width:0.5;
+    stroke-linecap:round;
+}

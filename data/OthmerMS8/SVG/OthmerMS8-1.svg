@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--SVG file generated on: 14 June 2019 at 13:59:50 using SAXON version HE 9.8.0.12-->
+<!DOCTYPE svg
+  PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     x="0"
+     y="0"
+     preserveAspectRatio="xMidYMid meet"
+     viewBox="0 -20 104 104">
+   <title>Collation diagram of quire 1 for Othmer MS 8 composed of 7 leaves</title>
+   <defs>
+      <style type="text/css">@import url(../CSS/collation.css)</style>
+      <filter id="f1" filterUnits="userSpaceOnUse">
+         <feGaussianBlur in="SourceGraphic" stdDeviation="0"/>
+      </filter>
+      <filter id="f2" filterUnits="userSpaceOnUse">
+         <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+      </filter>
+      <filter id="f3" filterUnits="userSpaceOnUse">
+         <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+      </filter>
+      <pattern xmlns:xlink="http://www.w3.org/1999/xlink"
+               id="gluedPattern"
+               patternUnits="userSpaceOnUse"
+               width="2"
+               height="6"
+               xlink:type="simple"
+               xlink:show="other"
+               xlink:actuate="onLoad"
+               preserveAspectRatio="xMidYMid meet">
+         <desc>Glue pattern</desc>
+         <path d="M 0,0 L 2,12 " class="glued"/>
+      </pattern>
+   </defs>
+   <desc>Collation diagram of quire 1 for Othmer MS 8 composed of 7 leaves</desc>
+   <svg x="0" y="0">
+      <g>
+         <g id="id-OthmerMS8-1-1">
+            <desc>Folio #1</desc>
+            <g>
+               <g/>
+               <g>
+                  <desc>Folio #1: line</desc>
+                  <g class="leaf g1-1_leaf">
+                     <path d="M68,9 L18,9"/>
+                  </g>
+                  <g filter="url(#f1)" class="leaf">
+                     <desc>Attachment method - stitched</desc>
+                     <path d="M24,3 L24,51"/>
+                  </g>
+               </g>
+            </g>
+            <text dy="9" dx="71" class="folioNumber">1</text>
+         </g>
+         <g id="id-OthmerMS8-1-2">
+            <desc>Folio #2</desc>
+            <g>
+               <g/>
+               <g>
+                  <desc>Folio #2: line</desc>
+                  <g class="leaf g1-2_leaf">
+                     <path d="M68,15 L18,15"/>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g id="id-OthmerMS8-1-3">
+            <desc>Folio #3</desc>
+            <g>
+               <g/>
+               <g>
+                  <desc>Folio #3: line</desc>
+                  <g class="leaf g1-3_leaf">
+                     <path d="M68,21 L18,21"/>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g id="id-OthmerMS8-1-4">
+            <desc>Folio #4</desc>
+            <g>
+               <g/>
+               <g>
+                  <desc>Folio #4: line</desc>
+                  <g class="leaf g1-4_leaf">
+                     <path d="M68,27 L18,27"/>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g id="id-OthmerMS8-1-5">
+            <desc>Folio #5</desc>
+            <g>
+               <g/>
+               <g>
+                  <desc>Folio #5: line</desc>
+                  <g class="leaf g1-5_leaf">
+                     <path d="M68,33 L18,33"/>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g id="id-OthmerMS8-1-6">
+            <desc>Folio #6</desc>
+            <g>
+               <g/>
+               <g>
+                  <desc>Folio #6: line</desc>
+                  <g class="leaf g1-6_leaf">
+                     <path d="M68,39 L18,39"/>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g id="id-OthmerMS8-1-7">
+            <desc>Folio #7</desc>
+            <g>
+               <g/>
+               <g>
+                  <desc>Folio #7: line</desc>
+                  <g class="leaf g1-7_leaf">
+                     <path d="M68,45 L18,45"/>
+                  </g>
+               </g>
+            </g>
+            <text dy="45" dx="71" class="folioNumber">7</text>
+         </g>
+      </g>
+   </svg>
+</svg>
