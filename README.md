@@ -32,7 +32,7 @@ Video tutorial online (comparing Collation Modeler outputs - advanced): https://
 
 In addition to the Leaves XML file, you will also need to have a file listing URLs to images, matched with the folio or page number for those images. 
 
-The simplest way to create this file is using Excel. First, create a spreadsheet with folio or page numbers in the first column, and the corresponding image URL in the second column (*do not* include column headings). For example:
+The simplest way to create this file is using Excel. First, create a spreadsheet with folio or page numbers in the first column, and the corresponding image URL in the second column (*do not* include column headings). For example (urls are false and will not show you images):
 
 1r http://project.org/image1r.jpg
 
