@@ -376,12 +376,12 @@
             <optional>
                 <ref name="n"/>
             </optional>
-            <!--<optional>
+            <optional>
                 <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">subquires must point to a parent quire</documentation>
                 <attribute name="parent">
                     <data type="IDREF"/>
                 </attribute>
-            </optional>-->
+            </optional>
             <optional>
                 <attribute>
                     <name ns="http://www.w3.org/XML/1998/namespace">id</name>
