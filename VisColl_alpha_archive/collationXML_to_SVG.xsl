@@ -13,6 +13,7 @@
 
     <!-- Parameter to be fed the source file name -->
     <xsl:param name="sourceFileName" select="'Wnnn'"/>
+    
     <!-- Variable to extrapolate the manuscript ID from the source file name -->
     <xsl:variable name="msID" select="tokenize($sourceFileName, '_')[1]"/>
 
