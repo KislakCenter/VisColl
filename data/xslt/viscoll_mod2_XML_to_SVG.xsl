@@ -1213,7 +1213,7 @@
                                                   </xsl:variable>
                                                   <xsl:value-of
                                                   select="
-                                                                    $Cy + $parametricY - ($delta div 2) + $delta * (if (xs:integer($difference) eq 1) then
+                                                                    $Cy + $parametricY + ($delta div 2) + $delta * (if (xs:integer($difference) eq 1) then
                                                                         0
                                                                     else
                                                                         xs:integer($difference))"
