@@ -2249,7 +2249,7 @@
                                                 1) * $delta"/>
                                     <xsl:text>,</xsl:text>
                                     <xsl:value-of
-                                        select="$Cy_A - ($delta * $attachmentDeviation) + ($delta div 2)"
+                                        select="$Cy_A + ($delta * (if (xs:integer($attachmentDeviation) lt 0) then -$attachmentDeviation else $attachmentDeviation)) + ($delta div 2)"
                                     />
                                 </xsl:attribute>
                             </path>
