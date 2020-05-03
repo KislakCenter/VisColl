@@ -2277,12 +2277,12 @@
                         <xsl:choose>
                             <xsl:when
                                 test="
-                                    every $leaf in current-group()
-                                        satisfies $leaf/single[@val = 'yes']">
+                                every $leaf in current-group()
+                                satisfies $leaf/single[@val = 'yes']">
                                 <xsl:value-of select="$delta"/>
                             </xsl:when>
                             <xsl:otherwise>
-                                <xsl:value-of select="2 * $delta"/>
+                                <xsl:value-of select="2 * $delta - (2*($delta div 3))"/>
                             </xsl:otherwise>
                         </xsl:choose>
                     </xsl:variable>
@@ -2292,7 +2292,7 @@
                             <xsl:value-of
                                 select="$Cx_A + ($delta * $countRegularBifolia - 2) + $delta"/>
                             <xsl:text>,</xsl:text>
-                            <xsl:value-of select="$Cy_A - $delta"/>
+                            <xsl:value-of select="$Cy_A - ($delta div 3)"/>
                             <xsl:text>&#32;L</xsl:text>
                             <xsl:value-of
                                 select="$Cx_A + ($delta * $countRegularBifolia - 2) + $delta"/>
