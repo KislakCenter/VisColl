@@ -214,15 +214,18 @@
                                 <element name="foldout">
                                     <documentation
                                         xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                                        >Indicates if the leaf includes a foldout. The @direction attribute specifies direction (out, up, or down). May be repeated if the leaf has multiple foldouts. The order of multiple foldouts must be the order in which the leaf is unfolded.</documentation>
-                                    <attribute name="direction">
+                                        >Indicates if the leaf includes a foldout. The <direction/> node specifies direction (out, up, or down). May be repeated if the leaf has multiple foldouts. The order of multiple foldouts must be the order in which the leaf is unfolded.</documentation>
+                                    <element name="direction">
                                         <choice>
                                             <value>out</value>
                                             <value>in</value>
                                             <value>up</value>
                                             <value>down</value>
                                         </choice>
-                                    </attribute>
+                                        <optional>
+                                            <ref name="certainty"/>
+                                        </optional>
+                                    </element>
                                     <optional>
                                         <ref name="certainty"/>
                                     </optional>
@@ -230,11 +233,11 @@
                             </zeroOrMore>
                             <zeroOrMore>
                                 <element name="attachment-method">
-                                    <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">defines the values allowed for identifying the methods by which one leaf is attached to another. For "sewn" if there is a @target identified, the two leaves are sewn together, if there is no @target identified it is sewn through the fold. Use "sewn" through the fold only when you see it (i.e., in the center of a quire). Stitching goes through the margin instead of through the fold. Stitching will have two @targets, one for the beginning [entry point] and a second one for the end [exit point].</documentation>
+                                    <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">defines the values allowed for identifying the methods by which one leaf is attached to another. For "sewn" if there is a @target identified, the two leaves are sewn together, if there is no @target identified it is sewn through the fold. Use "sewn" through the fold only when you see it (i.e., in the center of a quire). Stitching goes through the margin instead of through the fold. Stitching will have one @target identifying the exit point.</documentation>
                                     <ref name="certainty"/>
-                                    <zeroOrMore>
+                                    <optional>
                                         <ref name="target"/>
-                                    </zeroOrMore>
+                                    </optional>
                                     <optional>
                                         <attribute name="type">
                                             <choice>

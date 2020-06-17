@@ -1,10 +1,11 @@
 <img src="https://raw.githubusercontent.com/leoba/VisColl/master/viscoll-logo.png" align="center"/>
 
-VisColl is for building models of the physical collation of manuscripts, and then visualizing them in various ways. The VisColl project is led by Dot Porter at the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) at the University of Pennsylvania, in collaboration with the [University of Toronto Libraries](https://onesearch.library.utoronto.ca/about) and the [Old Books New Science](https://oldbooksnewscience.com/) lab. Collaborators include Alexandra Gillespie, Alberto Campagnolo, and Conal Tuohy.
+VisColl is for building models of the physical collation of manuscripts, and then visualizing them in various ways. The VisColl project is led by Dot Porter at the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) at the University of Pennsylvania, in collaboration with the [University of Toronto Libraries](https://onesearch.library.utoronto.ca/about) and the [Old Books New Science](https://oldbooksnewscience.com/) lab. Collaborators include Alexandra Gillespie, Alberto Campagnolo, and Conal Tuohy. 
+
 
 The core of VisColl is the data model, which is described below. There is a schema and example data models in the [data](https://github.com/leoba/VisColl/tree/master/data) section of this repo. The Collation Modeler and Collation Visualization described here are SIMS-developed implementations, and serve as proof of concept for the project. For more information on the VisColl web application, currently under development at the University of Toronto through the Digital Tools for Manuscript Study project, visit [the website here](https://digitaltoolsmss.library.utoronto.ca/).
 
-![screenshot of VisColl output](https://raw.githubusercontent.com/leoba/VisColl/master/Screen%20Shot%202016-06-18%20at%208.27.34%20AM.png)
+![screenshot of VisColl output](https://github.com/leoba/VisColl/blob/master/Screen%20Shot%202019-07-08%20at%2011.42.35%20AM.png?raw=true)
 
 VisColl is free and available for anyone to use.
 
@@ -32,7 +33,7 @@ Video tutorial online (comparing Collation Modeler outputs - advanced): https://
 
 In addition to the Leaves XML file, you will also need to have a file listing URLs to images, matched with the folio or page number for those images. 
 
-The simplest way to create this file is using Excel. First, create a spreadsheet with folio or page numbers in the first column, and the corresponding image URL in the second column (*do not* include column headings). For example:
+The simplest way to create this file is using Excel. First, create a spreadsheet with folio or page numbers in the first column, and the corresponding image URL in the second column (*do not* include column headings). For example (urls are false and will not show you images):
 
 1r http://project.org/image1r.jpg
 
