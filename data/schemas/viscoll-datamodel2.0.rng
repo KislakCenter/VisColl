@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar ns="http://schoenberginstitute.org/schema/collation"
-    xmlns="http://relaxng.org/ns/structure/1.0"
-    datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+<grammar ns="http://schoenberginstitute.org/schema/collation" 
+    xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
     <start>
         <element name="viscoll">
             <oneOrMore>
                 <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">On viscoll document may contain multiple textblock elements</documentation>
                 <element name="textblock">
-                    <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                        >Optional @url points to a record describing the textblock, e.g. a catalog
+                    <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">Optional @url points to a record describing the textblock, e.g. a catalog
                         record</documentation>
                     <optional>
                         <element name="url">
@@ -17,8 +15,7 @@
                     </optional>
                     <optional>
                         <element name="title">
-                            <documentation
-                                xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">Optional
+                            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">Optional
                                 @title provides the title of the textblock as defined by the people
                                 or group doing the cataloging (viscoll does not define
                                 title)</documentation>
@@ -30,8 +27,7 @@
                     </element>
                     <optional>
                         <element name="date">
-                            <documentation
-                                xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">@date is
+                            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">@date is
                                 optional and is undefined. Could be linked to a controlled
                                 vocabulary in tools (e.g., a list of centuries)</documentation>
                             <text/>
@@ -39,9 +35,7 @@
                     </optional>
                     <optional>
                         <element name="origPlace">
-                            <documentation
-                                xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                                >origPlace is optional and is undefined. Could be linked to a
+                            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">origPlace is optional and is undefined. Could be linked to a
                                 controlled vocabulary in tools</documentation>
                             <text/>
                         </element>
@@ -49,8 +43,7 @@
 
 
                     <element name="direction">
-                        <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                            >direction is required and the default value is l-r</documentation>
+                        <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">direction is required and the default value is l-r</documentation>
                         <attribute name="val">
                             <choice>
                                 <value>l-r</value>
@@ -58,28 +51,26 @@
                             </choice>
                         </attribute>
                     </element>
-                    
+
                     <optional>
                         <element name="format">
-                        <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                            >refers to the format, usually of a printed book. Possible values are 2mo, 4mo, 8mo, 12mo, 16mo, 32mo, 64mo</documentation>
-                        <attribute name="val">
-                            <choice>
-                                <value>2mo</value>
-                                <value>4mo</value>
-                                <value>8mo</value>
-                                <value>12mo</value>
-                                <value>16mo</value>
-                                <value>24mo</value>
-                            </choice>
-                        </attribute>
-                    </element>
+                            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">refers to the format, usually of a printed book. Possible values are 2mo, 4mo, 8mo, 12mo, 16mo, 32mo, 64mo</documentation>
+                            <attribute name="val">
+                                <choice>
+                                    <value>2mo</value>
+                                    <value>4mo</value>
+                                    <value>8mo</value>
+                                    <value>12mo</value>
+                                    <value>16mo</value>
+                                    <value>24mo</value>
+                                </choice>
+                            </attribute>
+                        </element>
                     </optional>
-                    
+
                     <optional>
                         <element name="paper_flavor">
-                            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                                >refers to the category list in the "Table of Fifteenth-Century Paper Flavors" for the Needham Calculator (http://www.needhamcalculator.net/)</documentation>
+                            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">refers to the category list in the "Table of Fifteenth-Century Paper Flavors" for the Needham Calculator (http://www.needhamcalculator.net/)</documentation>
                             <attribute name="val">
                                 <choice>
                                     <value>imperial</value>
@@ -104,156 +95,152 @@
                         </oneOrMore>
                     </element>
 
-                    <oneOrMore>
-                        <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                            >One leaf element to describe each leaf in the
+                    <element name="leaves">
+                        <oneOrMore>
+                            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">One leaf element to describe each leaf in the
                             textblock</documentation>
-                        <element name="leaf">
-                            <optional>
-                                <attribute name="stub">
-                                    <documentation
-                                        xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                                        >If a leaf is a stub, the value of @stub is "yes" -
+                            <element name="leaf">
+                                <optional>
+                                    <attribute name="stub">
+                                        <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">If a leaf is a stub, the value of @stub is "yes" -
                                         otherwise @stub is not there</documentation>
-                                    <value>yes</value>
+                                        <value>yes</value>
+                                    </attribute>
+                                </optional>
+                                <attribute>
+                                    <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+                                    <data type="NCName"/>
                                 </attribute>
-                            </optional>
-                            <attribute>
-                                <name ns="http://www.w3.org/XML/1998/namespace">id</name>
-                                <data type="NCName"/>
-                            </attribute>
-                            <optional>
-                                <element name="folioNumber">
-                                    <attribute name="val">
-                                        <choice>
-                                            <data type="NMTOKEN"/>
-                                            <data type="string"/>
-                                            <empty/>
-                                        </choice>
-                                    </attribute>
-                                    <ref name="certainty"/>
-                                    <text/>
-                                </element>
-                            </optional>
-                            <element name="mode">
                                 <optional>
-                                    <ref name="certainty"/>
-                                </optional>
-                                <optional>
-                                    <attribute name="val">
-                                        <choice>
-                                            <value>original</value>
-                                            <value>added</value>
-                                            <value>replaced</value>
-                                            <value>missing</value>
-                                        </choice>
-                                    </attribute>
-                                </optional>
-                            </element>
-                            <oneOrMore>
-                                <element name="q">
-                                    <ref name="position"/>
-                                    <optional>
-                                        <ref name="leafno"/>
-                                    </optional>
-                                    <optional>
-                                        <ref name="certainty"/>
-                                    </optional>
-                                    <optional>
-                                        <ref name="target"/>
-                                    </optional>
-                                    <optional>
-                                        <attribute name="type">
-                                            <data type="NCName"/>
-                                        </attribute>
-                                    </optional>
-                                    <optional>
-                                        <ref name="n"/>
-                                    </optional>
-                                    <optional>
-                                        <element name="conjoin">
-                                            <ref name="certainty"/>
-                                            <ref name="target"/>
-                                            <text/>
-                                        </element>
-                                    </optional>
-                                </element>
-                            </oneOrMore>
-                            <optional>
-                                <element name="single">
-                                    <documentation
-                                        xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                                        >single only has the value of "yes" and is only used if the
-                                        leaf is a singleton</documentation>
-                                    <attribute name="val">
-                                        <choice>
-                                            <value>yes</value>
-                                        </choice>
-                                    </attribute>
-                                    <optional>
-                                        <ref name="certainty"/>
-                                    </optional>
-                                </element>
-                            </optional>
-                            <optional>
-                                <element name="firstLeaf">
-                                    <documentation
-                                        xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                                        >Indicates the leaf (recto of) which is the start of the first quire.</documentation>
-                                    <attribute name="val">
-                                        <choice>
-                                            <value>yes</value>
-                                        </choice>
-                                    </attribute>
-                                    <optional>
-                                        <ref name="certainty"/>
-                                    </optional>
-                                </element>
-                            </optional>
-                            <zeroOrMore>
-                                <element name="foldout">
-                                    <documentation
-                                        xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                                        >Indicates if the leaf includes a foldout. The <direction/> node specifies direction (out, up, or down). May be repeated if the leaf has multiple foldouts. The order of multiple foldouts must be the order in which the leaf is unfolded.</documentation>
-                                    <element name="direction">
-                                        <choice>
-                                            <value>out</value>
-                                            <value>in</value>
-                                            <value>up</value>
-                                            <value>down</value>
-                                        </choice>
-                                        <optional>
-                                            <ref name="certainty"/>
-                                        </optional>
-                                    </element>
-                                    <optional>
-                                        <ref name="certainty"/>
-                                    </optional>
-                                </element>
-                            </zeroOrMore>
-                            <zeroOrMore>
-                                <element name="attachment-method">
-                                    <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">defines the values allowed for identifying the methods by which one leaf is attached to another. For "sewn" if there is a @target identified, the two leaves are sewn together, if there is no @target identified it is sewn through the fold. Use "sewn" through the fold only when you see it (i.e., in the center of a quire). Stitching goes through the margin instead of through the fold. Stitching will have one @target identifying the exit point.</documentation>
-                                    <ref name="certainty"/>
-                                    <optional>
-                                        <ref name="target"/>
-                                    </optional>
-                                    <optional>
-                                        <attribute name="type">
+                                    <element name="folioNumber">
+                                        <attribute name="val">
                                             <choice>
-                                                <value>sewn</value>
-                                                <value>pasted</value>
-                                                <value>tipped</value>
-                                                <value>drummed</value>
-                                                <value>stitched</value>
-                                                <value>other</value>
+                                                <data type="NMTOKEN"/>
+                                                <data type="string"/>
+                                                <empty/>
+                                            </choice>
+                                        </attribute>
+                                        <ref name="certainty"/>
+                                        <text/>
+                                    </element>
+                                </optional>
+                                <element name="mode">
+                                    <optional>
+                                        <ref name="certainty"/>
+                                    </optional>
+                                    <optional>
+                                        <attribute name="val">
+                                            <choice>
+                                                <value>original</value>
+                                                <value>added</value>
+                                                <value>replaced</value>
+                                                <value>missing</value>
                                             </choice>
                                         </attribute>
                                     </optional>
                                 </element>
-                            </zeroOrMore>
-                        </element>
-                    </oneOrMore>
+                                <oneOrMore>
+                                    <element name="q">
+                                        <ref name="position"/>
+                                        <optional>
+                                            <ref name="leafno"/>
+                                        </optional>
+                                        <optional>
+                                            <ref name="certainty"/>
+                                        </optional>
+                                        <optional>
+                                            <ref name="target"/>
+                                        </optional>
+                                        <optional>
+                                            <attribute name="type">
+                                                <data type="NCName"/>
+                                            </attribute>
+                                        </optional>
+                                        <optional>
+                                            <ref name="n"/>
+                                        </optional>
+                                        <optional>
+                                            <element name="conjoin">
+                                                <ref name="certainty"/>
+                                                <ref name="target"/>
+                                                <text/>
+                                            </element>
+                                        </optional>
+                                        <optional>
+                                            <element name="single">
+                                                <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">single only has the value of "yes" and is only used if the
+                                        leaf is a singleton</documentation>
+                                                <attribute name="val">
+                                                    <choice>
+                                                        <value>yes</value>
+                                                    </choice>
+                                                </attribute>
+                                                <optional>
+                                                    <ref name="certainty"/>
+                                                </optional>
+                                            </element>
+                                        </optional>
+                                    </element>
+                                </oneOrMore>
+                                <optional>
+                                    <element name="firstLeaf">
+                                        <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">Indicates the leaf (recto of) which is the start of the first quire.</documentation>
+                                        <attribute name="val">
+                                            <choice>
+                                                <value>yes</value>
+                                            </choice>
+                                        </attribute>
+                                        <optional>
+                                            <ref name="certainty"/>
+                                        </optional>
+                                    </element>
+                                </optional>
+                                <zeroOrMore>
+                                    <element name="foldout">
+                                        <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">Indicates if the leaf includes a foldout. The <direction/>
+ node specifies direction (out, up, or down). May be repeated if the leaf has multiple foldouts. The order of multiple foldouts must be the order in which the leaf is unfolded.</documentation>
+                                        <element name="direction">
+                                            <choice>
+                                                <value>out</value>
+                                                <value>in</value>
+                                                <value>up</value>
+                                                <value>down</value>
+                                            </choice>
+                                            <optional>
+                                                <ref name="certainty"/>
+                                            </optional>
+                                        </element>
+                                        <optional>
+                                            <ref name="certainty"/>
+                                        </optional>
+                                    </element>
+                                </zeroOrMore>
+                                <zeroOrMore>
+                                    <element name="attachment-method">
+                                        <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">defines the values allowed for identifying the methods by which one leaf is attached to another. For "sewn" if there is a @target identified, the two leaves are sewn together, if there is no @target identified it is sewn through the fold. Use "sewn" through the fold only when you see it (i.e., in the center of a quire). Stitching goes through the margin instead of through the fold. Stitching will have one @target identifying the exit point.</documentation>
+                                        <ref name="certainty"/>
+                                        <optional>
+                                            <ref name="target"/>
+                                        </optional>
+                                        <optional>
+                                            <attribute name="type">
+                                                <choice>
+                                                    <value>sewn</value>
+                                                    <value>pasted</value>
+                                                    <value>tipped</value>
+                                                    <value>drummed</value>
+                                                    <value>stitched</value>
+                                                    <value>other</value>
+                                                </choice>
+                                            </attribute>
+                                        </optional>
+                                    </element>
+                                </zeroOrMore>
+                            </element>
+                        </oneOrMore>
+
+                    </element>
+
                     <zeroOrMore>
                         <element name="note">
                             <ref name="target"/>
@@ -310,6 +297,14 @@
                     </oneOrMore>
                 </element>
             </zeroOrMore>
+            <optional>
+                <element>
+                    <name>notes</name>
+                    <oneOrMore>
+                        <ref name="note"/>
+                    </oneOrMore>
+                </element>
+            </optional>
             <optional>
                 <element>
                     <name>mapping</name>
@@ -390,5 +385,21 @@
             </optional>
             <data type="short"/>
         </element>
+    </define>
+    <define name="note">
+            <element name="note">
+                <ref name="target"/>
+                <attribute name="type">
+                    <choice>
+                        <value>certainty</value>
+                        <text/>
+                    </choice>
+                </attribute>
+                <attribute>
+                    <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+                </attribute>
+                <text/>
+            </element>
+        
     </define>
 </grammar>

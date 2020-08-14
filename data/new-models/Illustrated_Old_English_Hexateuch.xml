@@ -1,0 +1,2275 @@
+<?xml version="1.0"?>
+<viscoll xmlns="http://schoenberginstitute.org/schema/collation">
+  <textblock>
+    <title>Illustrated Old English Hexateuch</title>
+    <shelfmark>BL Cotton Claudius B iv</shelfmark>
+    <date>11th century</date>
+    <direction val="l-r"/>
+    <quires>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-1" n="1" certainty="1">1</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-2" n="2" certainty="1">2</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-3" n="3" certainty="1">3</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-4" n="4" certainty="1">4</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-5" n="5" certainty="1">5</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-6" n="6" certainty="1">6</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-7" n="7" certainty="1">7</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-8" n="8" certainty="1">8</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-9" n="9" certainty="1">9</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-10" n="10" certainty="1">10</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-11" n="11" certainty="1">11</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-12" n="12" certainty="1">12</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-13" n="13" certainty="1">13</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-14" n="14" certainty="1">14</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-15" n="15" certainty="1">15</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-16" n="16" certainty="1">16</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-17" n="17" certainty="1">17</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-18" n="18" certainty="1">18</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-19" n="19" certainty="1">19</quire>
+      <quire xml:id="bl_cotton_claudius_b_iv-q-20" n="20" certainty="1">20</quire>
+    </quires>
+    <leaves>
+      <leaf xml:id="bl_cotton_claudius_b_iv-1-1">
+      <folioNumber val="1" certainty="1">1</folioNumber>
+      <mode/>
+        <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-1" n="1"><single val="yes"/></q>
+      
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-1-2">
+      <folioNumber val="2" certainty="1">2</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-1" n="1">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-1-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-1-3">
+      <folioNumber val="3" certainty="1">3</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-1" n="1">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-1-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-1-4">
+      <folioNumber val="4" certainty="1">4</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-1" n="1">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-1-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-1-5">
+      <folioNumber val="5" certainty="1">5</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-1" n="1">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-1-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-1-6">
+      <folioNumber val="6" certainty="1">6</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-1" n="1">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-1-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-1-7">
+      <folioNumber val="7" certainty="1">7</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-1" n="1">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-1-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-1-8">
+      <folioNumber val="8" certainty="1">8</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-1" n="1"><single val="yes"/></q>
+      
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-2-1">
+      <folioNumber val="9" certainty="1">9</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-2" n="2">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-2-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-2-2">
+      <folioNumber val="10" certainty="1">10</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-2" n="2">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-2-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-2-3">
+      <folioNumber val="11" certainty="1">11</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-2" n="2">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-2-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-2-4">
+      <folioNumber val="12" certainty="1">12</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-2" n="2">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-2-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-2-5">
+      <folioNumber val="13" certainty="1">13</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-2" n="2">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-2-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-2-6">
+      <folioNumber val="14" certainty="1">14</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-2" n="2">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-2-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-2-7">
+      <folioNumber val="15" certainty="1">15</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-2" n="2">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-2-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-2-8">
+      <folioNumber val="16" certainty="1">16</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-2" n="2">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-2-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-3-1">
+      <folioNumber val="17" certainty="1">17</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-3" n="3">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-3-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-3-2">
+      <folioNumber val="18" certainty="1">18</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-3" n="3"><single val="yes"/></q>
+      
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-3-3">
+      <folioNumber val="19" certainty="1">19</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-3" n="3">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-3-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-3-4">
+      <folioNumber val="20" certainty="1">20</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-3" n="3">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-3-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-3-5">
+      <folioNumber val="21" certainty="1">21</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-3" n="3">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-3-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-4-1">
+      <folioNumber val="22" certainty="1">22</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-4" n="4">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-4-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-4-2">
+      <folioNumber val="23" certainty="1">23</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-4" n="4">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-4-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-4-3">
+      <folioNumber val="24" certainty="1">24</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-4" n="4">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-4-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-4-4">
+      <folioNumber val="25" certainty="1">25</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-4" n="4">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-4-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-4-5">
+      <folioNumber val="26" certainty="1">26</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-4" n="4">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-4-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-4-6">
+      <folioNumber val="27" certainty="1">27</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-4" n="4">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-4-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-4-7">
+      <folioNumber val="28" certainty="1">28</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-4" n="4">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-4-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-4-8">
+      <folioNumber val="29" certainty="1">29</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-4" n="4">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-4-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-5-1">
+      <folioNumber val="30" certainty="1">30</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-5" n="5">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-5-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-5-2">
+      <folioNumber val="31" certainty="1">31</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-5" n="5">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-5-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-5-3">
+      <folioNumber val="32" certainty="1">32</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-5" n="5">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-5-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-5-4">
+      <folioNumber val="33" certainty="1">33</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-5" n="5">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-5-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-5-5">
+      <folioNumber val="34" certainty="1">34</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-5" n="5">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-5-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-5-6">
+      <folioNumber val="35" certainty="1">35</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-5" n="5">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-5-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-5-7">
+      <folioNumber val="36" certainty="1">36</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-5" n="5">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-5-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-5-8">
+      <folioNumber val="37" certainty="1">37</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-5" n="5">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-5-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-6-1">
+      <folioNumber val="38" certainty="1">38</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-6" n="6">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-6-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-6-2">
+      <folioNumber val="39" certainty="1">39</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-6" n="6">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-6-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-6-3">
+      <folioNumber val="40" certainty="1">40</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-6" n="6">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-6-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-6-4">
+      <folioNumber val="41" certainty="1">41</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-6" n="6">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-6-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-6-5">
+      <folioNumber val="42" certainty="1">42</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-6" n="6">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-6-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-6-6">
+      <folioNumber val="43" certainty="1">43</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-6" n="6">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-6-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-6-7">
+      <folioNumber val="44" certainty="1">44</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-6" n="6">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-6-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-6-8">
+      <folioNumber val="45" certainty="1">45</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-6" n="6">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-6-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-7-1">
+      <folioNumber val="46" certainty="1">46</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-7" n="7">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-7-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-7-2">
+      <folioNumber val="47" certainty="1">47</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-7" n="7">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-7-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-7-3">
+      <folioNumber val="48" certainty="1">48</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-7" n="7">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-7-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-7-4">
+      <folioNumber val="49" certainty="1">49</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-7" n="7">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-7-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-7-5">
+      <folioNumber val="50" certainty="1">50</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-7" n="7">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-7-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-7-6">
+      <folioNumber val="51" certainty="1">51</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-7" n="7">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-7-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-7-7">
+      <folioNumber val="52" certainty="1">52</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-7" n="7">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-7-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-7-8">
+      <folioNumber val="53" certainty="1">53</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-7" n="7">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-7-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-8-1">
+      <folioNumber val="54" certainty="1">54</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-8" n="8">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-8-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-8-2">
+      <folioNumber val="55" certainty="1">55</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-8" n="8">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-8-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-8-3">
+      <folioNumber val="56" certainty="1">56</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-8" n="8">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-8-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-8-4">
+      <folioNumber val="57" certainty="1">57</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-8" n="8">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-8-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-8-5">
+      <folioNumber val="58" certainty="1">58</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-8" n="8">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-8-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-8-6">
+      <folioNumber val="59" certainty="1">59</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-8" n="8">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-8-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-8-7">
+      <folioNumber val="60" certainty="1">60</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-8" n="8">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-8-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-8-8">
+      <folioNumber val="61" certainty="1">61</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-8" n="8">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-8-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-9-1">
+      <folioNumber val="62" certainty="1">62</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-9" n="9">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-9-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-9-2">
+      <folioNumber val="63" certainty="1">63</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-9" n="9">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-9-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-9-3">
+      <folioNumber val="64" certainty="1">64</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-9" n="9">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-9-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-9-4">
+      <folioNumber val="65" certainty="1">65</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-9" n="9">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-9-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-9-5">
+      <folioNumber val="66" certainty="1">66</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-9" n="9">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-9-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-9-6">
+      <folioNumber val="67" certainty="1">67</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-9" n="9">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-9-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-9-7">
+      <folioNumber val="68" certainty="1">68</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-9" n="9">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-9-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-9-8">
+      <folioNumber val="69" certainty="1">69</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-9" n="9">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-9-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-10-1">
+      <folioNumber val="70" certainty="1">70</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-10" n="10">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-10-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-10-2">
+      <folioNumber val="71" certainty="1">71</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-10" n="10">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-10-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-10-3">
+      <folioNumber val="72" certainty="1">72</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-10" n="10">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-10-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-10-4">
+      <folioNumber val="73" certainty="1">73</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-10" n="10">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-10-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-10-5">
+      <folioNumber val="74" certainty="1">74</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-10" n="10">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-10-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-10-6">
+      <folioNumber val="75" certainty="1">75</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-10" n="10"><single val="yes"/></q>
+      
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-10-7">
+      <folioNumber val="76" certainty="1">76</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-10" n="10">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-10-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-10-8">
+      <folioNumber val="77" certainty="1">77</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-10" n="10"><single val="yes"/></q>
+      
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-11-1">
+      <folioNumber val="78" certainty="1">78</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-11" n="11">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-11-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-11-2">
+      <folioNumber val="79" certainty="1">79</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-11" n="11">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-11-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-11-3">
+      <folioNumber val="80" certainty="1">80</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-11" n="11">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-11-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-11-4">
+      <folioNumber val="81" certainty="1">81</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-11" n="11">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-11-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-11-5">
+      <folioNumber val="82" certainty="1">82</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-11" n="11">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-11-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-11-6">
+      <folioNumber val="83" certainty="1">83</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-11" n="11">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-11-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-11-7">
+      <folioNumber val="84" certainty="1">84</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-11" n="11">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-11-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-11-8">
+      <folioNumber val="85" certainty="1">85</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-11" n="11">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-11-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-12-1">
+      <folioNumber val="86" certainty="1">86</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-12" n="12">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-12-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-12-2">
+      <folioNumber val="87" certainty="1">87</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-12" n="12">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-12-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-12-3">
+      <folioNumber val="88" certainty="1">88</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-12" n="12">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-12-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-12-4">
+      <folioNumber val="89" certainty="1">89</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-12" n="12">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-12-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-12-5">
+      <folioNumber val="90" certainty="1">90</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-12" n="12">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-12-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-12-6">
+      <folioNumber val="91" certainty="1">91</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-12" n="12">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-12-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-12-7">
+      <folioNumber val="92" certainty="1">92</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-12" n="12">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-12-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-12-8">
+      <folioNumber val="93" certainty="1">93</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-12" n="12">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-12-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-13-1">
+      <folioNumber val="94" certainty="1">94</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-13" n="13">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-13-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-13-2">
+      <folioNumber val="95" certainty="1">95</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-13" n="13">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-13-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-13-3">
+      <folioNumber val="96" certainty="1">96</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-13" n="13">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-13-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-13-4">
+      <folioNumber val="97" certainty="1">97</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-13" n="13">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-13-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-13-5">
+      <folioNumber val="98" certainty="1">98</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-13" n="13">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-13-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-13-6">
+      <folioNumber val="99" certainty="1">99</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-13" n="13">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-13-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-13-7">
+      <folioNumber val="100" certainty="1">100</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-13" n="13">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-13-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-13-8">
+      <folioNumber val="101" certainty="1">101</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-13" n="13">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-13-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-14-1">
+      <folioNumber val="102" certainty="1">102</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-14" n="14">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-14-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-14-2">
+      <folioNumber val="103" certainty="1">103</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-14" n="14">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-14-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-14-3">
+      <folioNumber val="104" certainty="1">104</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-14" n="14">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-14-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-14-4">
+      <folioNumber val="105" certainty="1">105</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-14" n="14">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-14-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-14-5">
+      <folioNumber val="106" certainty="1">106</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-14" n="14">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-14-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-14-6">
+      <folioNumber val="107" certainty="1">107</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-14" n="14">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-14-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-14-7">
+      <folioNumber val="108" certainty="1">108</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-14" n="14">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-14-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-14-8">
+      <folioNumber val="109" certainty="1">109</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-14" n="14">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-14-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-15-1">
+      <folioNumber val="110" certainty="1">110</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-15" n="15">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-15-9"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-15-2">
+      <folioNumber val="111" certainty="1">111</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-15" n="15">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-15-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-15-3">
+      <folioNumber val="112" certainty="1">112</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-15" n="15">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-15-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-15-4">
+      <folioNumber val="113" certainty="1">113</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-15" n="15">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-15-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-15-5">
+      <folioNumber val="114" certainty="1">114</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-15" n="15"><single val="yes"/></q>
+      
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-15-6">
+      <folioNumber val="115" certainty="1">115</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-15" n="15">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-15-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-15-7">
+      <folioNumber val="116" certainty="1">116</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-15" n="15">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-15-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-15-8">
+      <folioNumber val="117" certainty="1">117</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-15" n="15">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-15-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-15-9">
+      <folioNumber val="118" certainty="1">118</folioNumber>
+      <mode/>
+      <q position="9" leafno="9" certainty="1" target="#bl_cotton_claudius_b_iv-q-15" n="15">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-15-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-16-1">
+      <folioNumber val="119" certainty="1">119</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-16" n="16">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-16-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-16-2">
+      <folioNumber val="120" certainty="1">120</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-16" n="16">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-16-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-16-3">
+      <folioNumber val="121" certainty="1">121</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-16" n="16">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-16-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-16-4">
+      <folioNumber val="122" certainty="1">122</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-16" n="16">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-16-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-16-5">
+      <folioNumber val="123" certainty="1">123</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-16" n="16">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-16-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-16-6">
+      <folioNumber val="124" certainty="1">124</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-16" n="16">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-16-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-16-7">
+      <folioNumber val="125" certainty="1">125</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-16" n="16">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-16-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-16-8">
+      <folioNumber val="126" certainty="1">126</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-16" n="16">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-16-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-17-1">
+      <folioNumber val="127" certainty="1">127</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-17" n="17">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-17-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-17-2">
+      <folioNumber val="128" certainty="1">128</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-17" n="17">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-17-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-17-3">
+      <folioNumber val="129" certainty="1">129</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-17" n="17">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-17-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-17-4">
+      <folioNumber val="130" certainty="1">130</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-17" n="17">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-17-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-17-5">
+      <folioNumber val="131" certainty="1">131</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-17" n="17">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-17-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-17-6">
+      <folioNumber val="132" certainty="1">132</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-17" n="17">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-17-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-17-7">
+      <folioNumber val="133" certainty="1">133</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-17" n="17">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-17-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-17-8">
+      <folioNumber val="134" certainty="1">134</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-17" n="17">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-17-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-18-1">
+      <folioNumber val="135" certainty="1">135</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-18" n="18">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-18-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-18-2">
+      <folioNumber val="136" certainty="1">136</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-18" n="18">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-18-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-18-3">
+      <folioNumber val="137" certainty="1">137</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-18" n="18">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-18-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-18-4">
+      <folioNumber val="138" certainty="1">138</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-18" n="18">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-18-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-18-5">
+      <folioNumber val="139" certainty="1">139</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-18" n="18">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-18-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-18-6">
+      <folioNumber val="140" certainty="1">140</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-18" n="18">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-18-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-18-7">
+      <folioNumber val="141" certainty="1">141</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-18" n="18">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-18-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-18-8">
+      <folioNumber val="142" certainty="1">142</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-18" n="18">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-18-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-19-1">
+      <folioNumber val="143" certainty="1">143</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-19" n="19">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-19-9"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-19-2">
+      <folioNumber val="144" certainty="1">144</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-19" n="19">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-19-8"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-19-3">
+      <folioNumber val="145" certainty="1">145</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-19" n="19">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-19-7"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-19-4">
+      <folioNumber val="146" certainty="1">146</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-19" n="19">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-19-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-19-5">
+      <folioNumber val="147" certainty="1">147</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-19" n="19">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-19-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-19-6">
+      <folioNumber val="148" certainty="1">148</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-19" n="19"><single val="yes"/></q>
+      
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-19-7">
+      <folioNumber val="149" certainty="1">149</folioNumber>
+      <mode/>
+      <q position="7" leafno="7" certainty="1" target="#bl_cotton_claudius_b_iv-q-19" n="19">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-19-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-19-8">
+      <folioNumber val="150" certainty="1">150</folioNumber>
+      <mode/>
+      <q position="8" leafno="8" certainty="1" target="#bl_cotton_claudius_b_iv-q-19" n="19">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-19-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-19-9">
+      <folioNumber val="151" certainty="1">151</folioNumber>
+      <mode/>
+      <q position="9" leafno="9" certainty="1" target="#bl_cotton_claudius_b_iv-q-19" n="19">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-19-1"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-20-1">
+      <folioNumber val="152" certainty="1">152</folioNumber>
+      <mode/>
+      <q position="1" leafno="1" certainty="1" target="#bl_cotton_claudius_b_iv-q-20" n="20">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-20-6"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-20-2">
+      <folioNumber val="153" certainty="1">153</folioNumber>
+      <mode/>
+      <q position="2" leafno="2" certainty="1" target="#bl_cotton_claudius_b_iv-q-20" n="20">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-20-5"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-20-3">
+      <folioNumber val="154" certainty="1">154</folioNumber>
+      <mode/>
+      <q position="3" leafno="3" certainty="1" target="#bl_cotton_claudius_b_iv-q-20" n="20">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-20-4"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-20-4">
+      <folioNumber val="155" certainty="1">155</folioNumber>
+      <mode/>
+      <q position="4" leafno="4" certainty="1" target="#bl_cotton_claudius_b_iv-q-20" n="20">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-20-3"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-20-5">
+      <folioNumber val="156" certainty="1">156</folioNumber>
+      <mode/>
+      <q position="5" leafno="5" certainty="1" target="#bl_cotton_claudius_b_iv-q-20" n="20">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-20-2"/>
+      </q>
+    </leaf>
+    <leaf xml:id="bl_cotton_claudius_b_iv-20-6">
+      <folioNumber val="157" certainty="1">157</folioNumber>
+      <mode/>
+      <q position="6" leafno="6" certainty="1" target="#bl_cotton_claudius_b_iv-q-20" n="20">
+        <conjoin certainty="1" target="#bl_cotton_claudius_b_iv-20-1"/>
+      </q>
+    </leaf></leaves>
+  </textblock>
+  <taxonomy xml:id="manuscript_preferences">
+    <label>Manuscript preferences</label>
+    <term xml:id="manuscript_preferences_bl_cotton_claudius_b_iv_showTips">false</term>
+  </taxonomy>
+  <taxonomy xml:id="group_title">
+    <label>List of values for Group title</label>
+    <term xml:id="group_title_default">Default</term>
+  </taxonomy>
+  <taxonomy xml:id="group_type">
+    <label>List of values for Group type</label>
+    <term xml:id="group_type_quire">Quire</term>
+  </taxonomy>
+  <taxonomy xml:id="group_members">
+    <label>List of values for each Group's members</label>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-1">#bl_cotton_claudius_b_iv-1-1 #bl_cotton_claudius_b_iv-1-2 #bl_cotton_claudius_b_iv-1-3 #bl_cotton_claudius_b_iv-1-4 #bl_cotton_claudius_b_iv-1-5 #bl_cotton_claudius_b_iv-1-6 #bl_cotton_claudius_b_iv-1-7 #bl_cotton_claudius_b_iv-1-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-2">#bl_cotton_claudius_b_iv-2-1 #bl_cotton_claudius_b_iv-2-2 #bl_cotton_claudius_b_iv-2-3 #bl_cotton_claudius_b_iv-2-4 #bl_cotton_claudius_b_iv-2-5 #bl_cotton_claudius_b_iv-2-6 #bl_cotton_claudius_b_iv-2-7 #bl_cotton_claudius_b_iv-2-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-3">#bl_cotton_claudius_b_iv-3-1 #bl_cotton_claudius_b_iv-3-2 #bl_cotton_claudius_b_iv-3-3 #bl_cotton_claudius_b_iv-3-4 #bl_cotton_claudius_b_iv-3-5</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-4">#bl_cotton_claudius_b_iv-4-1 #bl_cotton_claudius_b_iv-4-2 #bl_cotton_claudius_b_iv-4-3 #bl_cotton_claudius_b_iv-4-4 #bl_cotton_claudius_b_iv-4-5 #bl_cotton_claudius_b_iv-4-6 #bl_cotton_claudius_b_iv-4-7 #bl_cotton_claudius_b_iv-4-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-5">#bl_cotton_claudius_b_iv-5-1 #bl_cotton_claudius_b_iv-5-2 #bl_cotton_claudius_b_iv-5-3 #bl_cotton_claudius_b_iv-5-4 #bl_cotton_claudius_b_iv-5-5 #bl_cotton_claudius_b_iv-5-6 #bl_cotton_claudius_b_iv-5-7 #bl_cotton_claudius_b_iv-5-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-6">#bl_cotton_claudius_b_iv-6-1 #bl_cotton_claudius_b_iv-6-2 #bl_cotton_claudius_b_iv-6-3 #bl_cotton_claudius_b_iv-6-4 #bl_cotton_claudius_b_iv-6-5 #bl_cotton_claudius_b_iv-6-6 #bl_cotton_claudius_b_iv-6-7 #bl_cotton_claudius_b_iv-6-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-7">#bl_cotton_claudius_b_iv-7-1 #bl_cotton_claudius_b_iv-7-2 #bl_cotton_claudius_b_iv-7-3 #bl_cotton_claudius_b_iv-7-4 #bl_cotton_claudius_b_iv-7-5 #bl_cotton_claudius_b_iv-7-6 #bl_cotton_claudius_b_iv-7-7 #bl_cotton_claudius_b_iv-7-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-8">#bl_cotton_claudius_b_iv-8-1 #bl_cotton_claudius_b_iv-8-2 #bl_cotton_claudius_b_iv-8-3 #bl_cotton_claudius_b_iv-8-4 #bl_cotton_claudius_b_iv-8-5 #bl_cotton_claudius_b_iv-8-6 #bl_cotton_claudius_b_iv-8-7 #bl_cotton_claudius_b_iv-8-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-9">#bl_cotton_claudius_b_iv-9-1 #bl_cotton_claudius_b_iv-9-2 #bl_cotton_claudius_b_iv-9-3 #bl_cotton_claudius_b_iv-9-4 #bl_cotton_claudius_b_iv-9-5 #bl_cotton_claudius_b_iv-9-6 #bl_cotton_claudius_b_iv-9-7 #bl_cotton_claudius_b_iv-9-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-10">#bl_cotton_claudius_b_iv-10-1 #bl_cotton_claudius_b_iv-10-2 #bl_cotton_claudius_b_iv-10-3 #bl_cotton_claudius_b_iv-10-4 #bl_cotton_claudius_b_iv-10-5 #bl_cotton_claudius_b_iv-10-6 #bl_cotton_claudius_b_iv-10-7 #bl_cotton_claudius_b_iv-10-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-11">#bl_cotton_claudius_b_iv-11-1 #bl_cotton_claudius_b_iv-11-2 #bl_cotton_claudius_b_iv-11-3 #bl_cotton_claudius_b_iv-11-4 #bl_cotton_claudius_b_iv-11-5 #bl_cotton_claudius_b_iv-11-6 #bl_cotton_claudius_b_iv-11-7 #bl_cotton_claudius_b_iv-11-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-12">#bl_cotton_claudius_b_iv-12-1 #bl_cotton_claudius_b_iv-12-2 #bl_cotton_claudius_b_iv-12-3 #bl_cotton_claudius_b_iv-12-4 #bl_cotton_claudius_b_iv-12-5 #bl_cotton_claudius_b_iv-12-6 #bl_cotton_claudius_b_iv-12-7 #bl_cotton_claudius_b_iv-12-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-13">#bl_cotton_claudius_b_iv-13-1 #bl_cotton_claudius_b_iv-13-2 #bl_cotton_claudius_b_iv-13-3 #bl_cotton_claudius_b_iv-13-4 #bl_cotton_claudius_b_iv-13-5 #bl_cotton_claudius_b_iv-13-6 #bl_cotton_claudius_b_iv-13-7 #bl_cotton_claudius_b_iv-13-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-14">#bl_cotton_claudius_b_iv-14-1 #bl_cotton_claudius_b_iv-14-2 #bl_cotton_claudius_b_iv-14-3 #bl_cotton_claudius_b_iv-14-4 #bl_cotton_claudius_b_iv-14-5 #bl_cotton_claudius_b_iv-14-6 #bl_cotton_claudius_b_iv-14-7 #bl_cotton_claudius_b_iv-14-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-15">#bl_cotton_claudius_b_iv-15-1 #bl_cotton_claudius_b_iv-15-2 #bl_cotton_claudius_b_iv-15-3 #bl_cotton_claudius_b_iv-15-4 #bl_cotton_claudius_b_iv-15-5 #bl_cotton_claudius_b_iv-15-6 #bl_cotton_claudius_b_iv-15-7 #bl_cotton_claudius_b_iv-15-8 #bl_cotton_claudius_b_iv-15-9</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-16">#bl_cotton_claudius_b_iv-16-1 #bl_cotton_claudius_b_iv-16-2 #bl_cotton_claudius_b_iv-16-3 #bl_cotton_claudius_b_iv-16-4 #bl_cotton_claudius_b_iv-16-5 #bl_cotton_claudius_b_iv-16-6 #bl_cotton_claudius_b_iv-16-7 #bl_cotton_claudius_b_iv-16-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-17">#bl_cotton_claudius_b_iv-17-1 #bl_cotton_claudius_b_iv-17-2 #bl_cotton_claudius_b_iv-17-3 #bl_cotton_claudius_b_iv-17-4 #bl_cotton_claudius_b_iv-17-5 #bl_cotton_claudius_b_iv-17-6 #bl_cotton_claudius_b_iv-17-7 #bl_cotton_claudius_b_iv-17-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-18">#bl_cotton_claudius_b_iv-18-1 #bl_cotton_claudius_b_iv-18-2 #bl_cotton_claudius_b_iv-18-3 #bl_cotton_claudius_b_iv-18-4 #bl_cotton_claudius_b_iv-18-5 #bl_cotton_claudius_b_iv-18-6 #bl_cotton_claudius_b_iv-18-7 #bl_cotton_claudius_b_iv-18-8</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-19">#bl_cotton_claudius_b_iv-19-1 #bl_cotton_claudius_b_iv-19-2 #bl_cotton_claudius_b_iv-19-3 #bl_cotton_claudius_b_iv-19-4 #bl_cotton_claudius_b_iv-19-5 #bl_cotton_claudius_b_iv-19-6 #bl_cotton_claudius_b_iv-19-7 #bl_cotton_claudius_b_iv-19-8 #bl_cotton_claudius_b_iv-19-9</term>
+    <term xml:id="group_members_bl_cotton_claudius_b_iv-q-20">#bl_cotton_claudius_b_iv-20-1 #bl_cotton_claudius_b_iv-20-2 #bl_cotton_claudius_b_iv-20-3 #bl_cotton_claudius_b_iv-20-4 #bl_cotton_claudius_b_iv-20-5 #bl_cotton_claudius_b_iv-20-6</term>
+  </taxonomy>
+  <taxonomy xml:id="leaf_attachment_method">
+    <label>List of Attachment Methods</label>
+    <term xml:id="Glued_Above_Partial">Glued (Partial)</term>
+    <term xml:id="Glued_Above_Complete">Glued (Complete)</term>
+    <term xml:id="Glued_Above_Drumming">Glued (Drumming)</term>
+    <term xml:id="Glued_Above_Other">Glued (Other)</term>
+    <term xml:id="Glued_Below_Partial">Glued (Partial)</term>
+    <term xml:id="Glued_Below_Complete">Glued (Complete)</term>
+    <term xml:id="Glued_Below_Drumming">Glued (Drumming)</term>
+    <term xml:id="Glued_Below_Other">Glued (Other)</term>
+  </taxonomy>
+  <taxonomy xml:id="side_texture">
+    <label>List of values for Side texture</label>
+    <term xml:id="side_texture_hair">Hair</term>
+    <term xml:id="side_texture_flesh">Flesh</term>
+  </taxonomy>
+  <taxonomy xml:id="side_page_number">
+    <label>List of values for Side page_number</label>
+    <term xml:id="side_page_number_empty">EMPTY</term>
+  </taxonomy>
+  <taxonomy xml:id="note_title">
+    <label>List of values for Note Titles</label>
+    <term xml:id="note_title_added">added</term>
+    <term xml:id="note_title_missing">missing</term>
+    <term xml:id="note_title_single">single</term>
+    <term xml:id="note_title_genesis">Genesis</term>
+    <term xml:id="note_title_exodus">Exodus</term>
+    <term xml:id="note_title_leviticus">Leviticus</term>
+    <term xml:id="note_title_numbers">Numbers</term>
+    <term xml:id="note_title_deuteronomy">Deuteronomy</term>
+    <term xml:id="note_title_joshua">Joshua</term>
+    <term xml:id="note_title_illustration">Illustration</term>
+    <term xml:id="note_title_text_block_with_initial">Text block with initial</term>
+    <term xml:id="note_title_text_with_final_punctuation">Text with final punctuation</term>
+    <term xml:id="note_title_text_continues">Text continues</term>
+  </taxonomy>
+  <taxonomy xml:id="note_show">
+    <label>Whether to show Note in Visualizations</label>
+    <term xml:id="note_show">true</term>
+  </taxonomy>
+  <notes>
+    <note xml:id="bl_cotton_claudius_b_iv-n-1" type="Leaf elements" target="abc">leaf was added after the manuscript was made</note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-2" type="Leaf elements" target="abc">the leaf that was here originally is now missing</note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-3" type="Leaf elements" target="abc">this leaf is single, it is unconjoined</note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-4" type="Books of the Bible" target="abc"></note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-5" type="Books of the Bible" target="abc"></note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-6" type="Books of the Bible" target="abc"></note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-7" type="Books of the Bible" target="abc"></note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-8" type="Books of the Bible" target="abc"></note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-9" type="Books of the Bible" target="abc"></note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-10" type="Page Layouts" target="abc"></note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-11" type="Page Layouts" target="abc"></note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-12" type="Page Layouts" target="abc"></note>
+    <note xml:id="bl_cotton_claudius_b_iv-n-13" type="Page Layouts" target="abc"></note>
+  </notes>
+  <mapping>
+    <map target="#bl_cotton_claudius_b_iv-q-1">
+      <term target="#note_title_genesis #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-1"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-2">
+      <term target="#note_title_genesis #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-2"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-3">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-3"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-4">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-4"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-5">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-5"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-6">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-6"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-7">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-7"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-8">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-8"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-9">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-9"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-10">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-10"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-11">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-11"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-12">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-12"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-13">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-13"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-14">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-14"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-15">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-15"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-16">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-16"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-17">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-17"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-18">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-18"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-19">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-19"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-q-20">
+      <term target=" #group_title_default #group_type_quire #group_members_bl_cotton_claudius_b_iv-q-20"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-1-1">
+      <term target="#note_title_missing"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-3-2">
+      <term target="#note_title_added"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-10-6">
+      <term target="#note_title_added #note_title_single"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-10-8">
+      <term target="#note_title_added #note_title_single"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-15-5">
+      <term target="#note_title_added #note_title_single"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-19-6">
+      <term target="#note_title_added #note_title_single"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-1-1">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-1-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f4f3_1r.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-1-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f4f6_2r.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-1-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f4f9_3r.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-1-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f4fc_4r.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-1-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f4ff_5r.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-1-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f501_6r.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-1-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f503_7r.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-2-1">
+      <term target="#note_title_text_block_with_initial #side_texture_hair #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f505_8r.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-2-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-2-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-2-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-2-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-2-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-2-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-2-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-3-1">
+      <term target="#note_title_text_block_with_initial #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-3-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-3-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-3-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-3-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-4-1">
+      <term target="#note_title_text_block_with_initial #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-4-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-4-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-4-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-4-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-4-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-4-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-4-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-5-1">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-5-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-5-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-5-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-5-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-5-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-5-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-5-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-6-1">
+      <term target="#note_title_text_block_with_initial #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-6-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-6-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-6-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-6-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-6-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-6-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-6-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-7-1">
+      <term target="#note_title_text_block_with_initial #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-7-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-7-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-7-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-7-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-7-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-7-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-7-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-8-1">
+      <term target="#note_title_text_block_with_initial #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-8-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-8-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-8-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-8-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-8-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-8-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-8-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-9-1">
+      <term target="#note_title_text_block_with_initial #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-9-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-9-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-9-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-9-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-9-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-9-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-9-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-10-1">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-10-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-10-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-10-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-10-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-10-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-10-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-10-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-11-1">
+      <term target="#note_title_text_continues #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-11-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-11-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-11-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-11-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-11-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-11-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-11-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-12-1">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-12-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-12-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-12-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-12-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-12-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-12-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-12-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-13-1">
+      <term target="#note_title_text_continues #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-13-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-13-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-13-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-13-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-13-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-13-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-13-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-14-1">
+      <term target="#note_title_text_continues #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-14-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-14-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-14-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-14-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-14-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-14-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-14-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-15-1">
+      <term target="#note_title_text_block_with_initial #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-15-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-15-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-15-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-15-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-15-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-15-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-15-8">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-15-9">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-16-1">
+      <term target="#note_title_text_continues #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-16-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-16-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-16-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-16-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-16-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-16-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-16-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-17-1">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-17-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-17-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-17-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-17-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-17-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-17-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-17-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-18-1">
+      <term target="#note_title_text_block_with_initial #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-18-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-18-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-18-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-18-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-18-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-18-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-18-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-19-1">
+      <term target="#note_title_text_block_with_initial #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-19-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-19-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-19-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-19-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-19-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-19-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-19-8">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-19-9">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-20-1">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-20-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-20-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-20-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-20-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="recto" target="#bl_cotton_claudius_b_iv-20-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-1-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-1-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f4f4_1v.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-1-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f4f7_2v.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-1-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f4fa_3v.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-1-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f4fd_4v.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-1-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f500_5v.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-1-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f502_6v.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-1-8">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f504_7v.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-2-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY https://viscodex.library.utoronto.ca/api/images/5eea66c086a7220662a1f506_8v.jpeg #manifest_DIYImages"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-2-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-2-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-2-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-2-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-2-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-2-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-2-8">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-3-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-3-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-3-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-3-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-3-5">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-4-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-4-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-4-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-4-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-4-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-4-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-4-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-4-8">
+      <term target="#note_title_text_with_final_punctuation #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-5-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-5-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-5-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-5-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-5-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-5-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-5-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-5-8">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-6-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-6-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-6-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-6-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-6-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-6-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-6-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-6-8">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-7-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-7-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-7-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-7-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-7-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-7-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-7-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-7-8">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-8-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-8-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-8-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-8-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-8-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-8-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-8-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-8-8">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-9-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-9-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-9-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-9-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-9-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-9-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-9-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-9-8">
+      <term target="#note_title_text_with_final_punctuation #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-10-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-10-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-10-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-10-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-10-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-10-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-10-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-10-8">
+      <term target="#note_title_text_continues #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-11-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-11-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-11-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-11-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-11-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-11-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-11-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-11-8">
+      <term target="#note_title_text_with_final_punctuation #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-12-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-12-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-12-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-12-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-12-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-12-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-12-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-12-8">
+      <term target="#note_title_text_continues #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-13-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-13-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-13-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-13-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-13-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-13-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-13-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-13-8">
+      <term target="#note_title_text_continues #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-14-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-14-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-14-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-14-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-14-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-14-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-14-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-14-8">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-15-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-15-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-15-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-15-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-15-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-15-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-15-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-15-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-15-9">
+      <term target="#note_title_text_continues #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-16-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-16-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-16-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-16-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-16-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-16-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-16-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-16-8">
+      <term target="#note_title_text_with_final_punctuation #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-17-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-17-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-17-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-17-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-17-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-17-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-17-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-17-8">
+      <term target="#note_title_text_with_final_punctuation #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-18-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-18-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-18-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-18-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-18-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-18-6">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-18-7">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-18-8">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-19-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-19-2">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-19-3">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-19-4">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-19-5">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-19-6">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-19-7">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-19-8">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-19-9">
+      <term target="#note_title_text_with_final_punctuation #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-20-1">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-20-2">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-20-3">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-20-4">
+      <term target="#side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-20-5">
+      <term target="#side_texture_flesh #side_page_number_EMPTY"/>
+    </map>
+    <map side="verso" target="#bl_cotton_claudius_b_iv-20-6">
+      <term target="#note_title_illustration #side_texture_hair #side_page_number_EMPTY"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-1">
+      <term target="#note_title_added #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-2">
+      <term target="#note_title_missing #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-3">
+      <term target="#note_title_single #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-4">
+      <term target="#note_title_genesis #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-5">
+      <term target="#note_title_exodus #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-6">
+      <term target="#note_title_leviticus #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-7">
+      <term target="#note_title_numbers #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-8">
+      <term target="#note_title_deuteronomy #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-9">
+      <term target="#note_title_joshua #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-10">
+      <term target="#note_title_illustration #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-11">
+      <term target="#note_title_text_block_with_initial #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-12">
+      <term target="#note_title_text_with_final_punctuation #note_show"/>
+    </map>
+    <map target="#bl_cotton_claudius_b_iv-n-13">
+      <term target="#note_title_text_continues #note_show"/>
+    </map>
+  </mapping>
+</viscoll>
