@@ -19,6 +19,8 @@
             <xd:p><xd:b>Author:</xd:b> Alberto Campagnolo</xd:p>
             <xd:p><xd:b>Modified on:</xd:b>2019-06-05</xd:p>
             <xd:p><xd:b>Modified by:</xd:b> Alberto Campagnolo</xd:p>
+            <xd:p><xd:b>Modified on:</xd:b>2020-08-14</xd:p>
+            <xd:p><xd:b>Modified by:</xd:b> Alberto Campagnolo</xd:p>
             <xd:p>This document takes as its input the output from the Collation Modeler. It
                 generates one SVG diagram per gathering. A general parameter permits to insert the
                 CSS information directly into the SVG file. </xd:p>
@@ -104,7 +106,7 @@
         <!-- quires are formed by grouping leaves according to the quire to which the are listed as belonging to;
         if there are subquires, these are listed a quire-number.subquire-number.etc: this code will group all leaves 
         in the same quire regardless of subquires -->
-        <xsl:for-each-group select="leaf"
+        <xsl:for-each-group select="leaves/leaf"
             group-by="
                 if (contains(q[1]/@n, '.')) then
                     substring-before(q[1]/@n, '.')
@@ -181,15 +183,15 @@
                 </xsl:for-each-group>
             </xsl:variable>
             <!-- Variable to count the number of singletons in the quire -->
-            <!-- Singletons are folios with the following pattern: /viscoll/textblock/leaf/single/@val="yes" 
+            <!-- Singletons are folios with the following pattern: /viscoll/textblock/leaves/leaf/q/single/@val="yes" 
             Whilst folios whose cognate has @mode with value 'missing' are technically singletons they are not counted here as they do not alter the symmetry of the diagram.-->
             <xsl:variable name="countSingletons">
-                <xsl:value-of select="count(current-group()/.[single/@val = 'yes'])"/>
+                <xsl:value-of select="count(current-group()/.[q[1]/single/@val = 'yes'])"/>
             </xsl:variable>
             <!-- Variable to count the number of leaves in subquires -->
             <xsl:variable name="countSubquireLeaves">
                 <xsl:value-of
-                    select="count(current-group()/.[contains(q[1]/@n, '.') and not(single/@val = 'yes')])"
+                    select="count(current-group()/.[contains(q[1]/@n, '.') and not(q[1]/single/@val = 'yes')])"
                 />
             </xsl:variable>
             <!-- Variable to count if number of leaves in group is odd (1) or even (2) -->
@@ -225,21 +227,21 @@
                     <xsl:when
                         test="
                             every $leaf in current-group()
-                                satisfies $leaf/single[@val = 'yes']">
+                                satisfies $leaf/q[1]/single[@val = 'yes']">
                         <xsl:value-of select="count(current-group())"/>
                     </xsl:when>
                     <!-- For normal and complex quires, the variable returns the position of the last leaf 
                 to be drawn in the left (upper) part of the quire -->
                     <xsl:otherwise>
                         <xsl:for-each
-                            select="current-group()/.[not(single/@val = 'yes' or contains(q[1]/@n, '.'))]">
+                            select="current-group()/.[not(q[1]/single/@val = 'yes' or contains(q[1]/@n, '.'))]">
                             <xsl:variable name="ownIdRef">
                                 <xsl:value-of select="concat('#', @xml:id)"/>
                             </xsl:variable>
                             <!-- The pattern looks for the next regular folio -->
                             <xsl:variable name="followingConjoinID">
                                 <xsl:value-of
-                                    select="(following-sibling::leaf[not(single/@val = 'yes' or contains(q[1]/@n, '.'))])[1]/q[1]/conjoin/@target"
+                                    select="(following-sibling::leaf[not(q[1]/single/@val = 'yes' or contains(q[1]/@n, '.'))])[1]/q[1]/conjoin/@target"
                                 />
                             </xsl:variable>
                             <xsl:choose>
@@ -457,7 +459,7 @@
                 <xsl:call-template name="conjoinPosition">
                     <xsl:with-param name="test" select="q[1]/conjoin"/>
                     <xsl:with-param name="conjoinPos"
-                        select="ancestor::textblock/leaf[@xml:id = $conjoinID]/q[1]/@position"/>
+                        select="ancestor::textblock/leaves/leaf[@xml:id = $conjoinID]/q[1]/@position"/>
                 </xsl:call-template>
             </xsl:variable>
             <!-- Variable to generate a unique ID that puts together conjoined leaf positions in the correct order -->
@@ -470,7 +472,7 @@
             <!-- Variable to determine if the current folio is in the left or the right half of the quire -->
             <xsl:variable name="left1_Right2">
                 <xsl:call-template name="left1_Right2">
-                    <xsl:with-param name="test" select="single/@val"/>
+                    <xsl:with-param name="test" select="q[1]/single/@val"/>
                     <xsl:with-param name="currentPosition" select="$currentPosition"/>
                     <xsl:with-param name="centralLeftLeafPos" select="$centralLeftLeafPos"/>
                     <xsl:with-param name="sq" select="0"/>
@@ -495,9 +497,9 @@
                 <xsl:call-template name="followingRegularComponents">
                     <xsl:with-param name="left1_Right2" select="$left1_Right2"/>
                     <xsl:with-param name="countRegularComponentsLeft"
-                        select="count(following-sibling::leaf[q[1]/@n = current-grouping-key() and not(single/@val = 'yes' or contains(q[1]/@n, '.')) and ./q[1]/xs:integer(@position) le xs:integer($centralLeftLeafPos)])"/>
+                        select="count(following-sibling::leaf[q[1]/@n = current-grouping-key() and not(q[1]/single/@val = 'yes' or contains(q[1]/@n, '.')) and ./q[1]/xs:integer(@position) le xs:integer($centralLeftLeafPos)])"/>
                     <xsl:with-param name="countRegularComponentsRight"
-                        select="count(preceding-sibling::leaf[q[1]/@n = current-grouping-key() and not(single/@val = 'yes' or contains(q[1]/@n, '.')) and ./q[1]/xs:integer(@position) gt xs:integer($centralLeftLeafPos)])"
+                        select="count(preceding-sibling::leaf[q[1]/@n = current-grouping-key() and not(q[1]/single/@val = 'yes' or contains(q[1]/@n, '.')) and ./q[1]/xs:integer(@position) gt xs:integer($centralLeftLeafPos)])"
                     />
                 </xsl:call-template>
             </xsl:variable>
@@ -935,12 +937,12 @@
                 <xsl:choose>
                     <!-- The arc is drawn only for complete bifolia or for subquires-->
                     <xsl:when
-                        test="(single/@certainty != 1) or not((single/@val = 'yes') or contains(q[1]/@n, '.'))">
+                        test="(q[1]/single/@certainty != 1) or not((q[1]/single/@val = 'yes') or contains(q[1]/@n, '.'))">
                         <!-- Uncertainty levels -->
                         <xsl:choose>
-                            <xsl:when test="(single/@certainty = 2) or (single/@certainty = 3)">
+                            <xsl:when test="(q[1]/single/@certainty = 2) or (q[1]/single/@certainty = 3)">
                                 <xsl:call-template name="certainty">
-                                    <xsl:with-param name="certainty" select="single/@certainty"/>
+                                    <xsl:with-param name="certainty" select="q[1]/single/@certainty"/>
                                 </xsl:call-template>
                             </xsl:when>
                             <xsl:when test="q[1]/conjoin/@certainty != 1">
@@ -1120,17 +1122,17 @@
                                             <!-- Position of the leaf to which the leaf is attached -->
                                             <xsl:variable name="attachmentTargetPosition">
                                                 <xsl:value-of
-                                                  select="$textblock/vc:textblock/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@position"
+                                                    select="$textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@position"
                                                 />
                                             </xsl:variable>
                                             <!-- Checks the number of the quire to which the target leaf belongs: it avoids subquire dot-numbers -->
                                             <xsl:variable name="attachmentTargetQuire">
                                                 <xsl:value-of
                                                   select="
-                                                        if (contains($textblock/vc:textblock/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')) then
-                                                            substring-before($textblock/vc:textblock/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')
+                                                        if (contains($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')) then
+                                                        substring-before($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')
                                                         else
-                                                            $textblock/vc:textblock/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n"
+                                                        $textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n"
                                                 />
                                             </xsl:variable>
                                             <!-- Checks the deviation between the leaf and its attachment target: 
@@ -1342,7 +1344,7 @@
         <!-- Variable to count the number of singletons in the subquire -->
         <xsl:variable name="countSingletons_SQ">
             <xsl:value-of
-                select="count($subquires/tp:subquire[$counter]/vc:leaf[vc:single/@val = 'yes'])"/>
+                select="count($subquires/tp:subquire[$counter]/vc:leaf[vc:q[1]/vc:single/@val = 'yes'])"/>
         </xsl:variable>
         <!-- Variable to find the left regular inner leaf position:
         it avoids singletons and leaves belonging to other subquires-->
@@ -1359,7 +1361,7 @@
             <!-- Variable to determine if the current folio is in the left or the right half in the principal quire -->
             <xsl:variable name="left1_Right2">
                 <xsl:call-template name="left1_Right2">
-                    <xsl:with-param name="test" select="vc:single/@val"/>
+                    <xsl:with-param name="test" select="vc:q[1]/vc:single/@val"/>
                     <xsl:with-param name="test2" select="contains(q[1]/@n, '.')"/>
                     <xsl:with-param name="test3"
                         select="(xs:integer(parent::tp:subquire/vc:leaf[1]/vc:q[1]/@position) - xs:integer($centralLeftLeafPos)) le 1"/>
@@ -1415,9 +1417,9 @@
                 <xsl:call-template name="followingRegularComponents">
                     <xsl:with-param name="left1_Right2" select="$left1_Right2_SQ"/>
                     <xsl:with-param name="countRegularComponentsLeft"
-                        select="count(following-sibling::vc:leaf[not(vc:single/@val = 'yes') and ./vc:q[1]/xs:integer(@position) le xs:integer($centralLeftLeafPos_SQ)])"/>
+                        select="count(following-sibling::vc:leaf[not(vc:q[1]/vc:single/@val = 'yes') and ./vc:q[1]/xs:integer(@position) le xs:integer($centralLeftLeafPos_SQ)])"/>
                     <xsl:with-param name="countRegularComponentsRight"
-                        select="count(preceding-sibling::vc:leaf[not(vc:single/@val = 'yes') and ./vc:q[1]/xs:integer(@position) gt xs:integer($centralLeftLeafPos_SQ)])"
+                        select="count(preceding-sibling::vc:leaf[not(vc:q[1]/vc:single/@val = 'yes') and ./vc:q[1]/xs:integer(@position) gt xs:integer($centralLeftLeafPos_SQ)])"
                     />
                 </xsl:call-template>
             </xsl:variable>
@@ -1548,7 +1550,7 @@
         <xsl:param name="centralLeftLeafPos"/>
         <xsl:choose>
             <!-- Considers irregular folios: singletons -->
-            <xsl:when test="vc:single/@val = 'yes'">
+            <xsl:when test="vc:q[1]/vc:single/@val = 'yes'">
                 <xsl:choose>
                     <!-- if its position is less than the middle bifolio it is in the left half -->
                     <xsl:when
@@ -1616,7 +1618,7 @@
             <!-- The pattern looks for the next regular folio -->
             <xsl:variable name="followingConjoinID_SQ">
                 <xsl:value-of
-                    select="(following-sibling::vc:leaf[not(vc:single/@val = 'yes') and vc:q[1]/@n = $subquireN])[1]/vc:q[1]/vc:conjoin/@target"
+                    select="(following-sibling::vc:leaf[not(vc:q[1]/vc:single/@val = 'yes') and vc:q[1]/@n = $subquireN])[1]/vc:q[1]/vc:conjoin/@target"
                 />
             </xsl:variable>
             <!--  -->
@@ -1753,12 +1755,12 @@
             <!-- The arc is drawn only for complete bifolia -->
             <g>
                 <xsl:choose>
-                    <xsl:when test="(vc:single/@certainty != 1) or not(vc:single/@val = 'yes')">
+                    <xsl:when test="(vc:q[1]/vc:single/@certainty != 1) or not(vc:q[1]/vc:single/@val = 'yes')">
                         <!-- arc -->
                         <xsl:choose>
-                            <xsl:when test="vc:single/@certainty = '2 | 3'">
+                            <xsl:when test="vc:q[1]/vc:single/@certainty = '2 | 3'">
                                 <xsl:call-template name="certainty">
-                                    <xsl:with-param name="certainty" select="vc:single/@certainty"/>
+                                    <xsl:with-param name="certainty" select="vc:q[1]/vc:single/@certainty"/>
                                 </xsl:call-template>
                             </xsl:when>
                             <xsl:when test="vc:q[1]/vc:conjoin/@certainty != 1">
@@ -1937,16 +1939,16 @@
                                             </xsl:variable>
                                             <xsl:variable name="attachmentTargetPosition">
                                                 <xsl:value-of
-                                                  select="$textblock/vc:textblock/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@position"
+                                                  select="$textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@position"
                                                 />
                                             </xsl:variable>
                                             <xsl:variable name="attachmentTargetQuire">
                                                 <xsl:value-of
                                                   select="
-                                                        if (contains($textblock/vc:textblock/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')) then
-                                                            substring-before($textblock/vc:textblock/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')
+                                                  if (contains($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')) then
+                                                  substring-before($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')
                                                         else
-                                                            $textblock/vc:textblock/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n"
+                                                        $textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n"
                                                 />
                                             </xsl:variable>
                                             <xsl:variable name="attachmentDeviation">
@@ -2278,7 +2280,7 @@
                             <xsl:when
                                 test="
                                 every $leaf in current-group()
-                                satisfies $leaf/single[@val = 'yes']">
+                                satisfies $leaf/q[1]/single[@val = 'yes']">
                                 <xsl:value-of select="$delta"/>
                             </xsl:when>
                             <xsl:otherwise>
