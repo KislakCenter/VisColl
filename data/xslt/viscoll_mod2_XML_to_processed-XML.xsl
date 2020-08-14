@@ -14,6 +14,8 @@
         <xd:desc>
             <xd:p><xd:b>Created on:</xd:b> 2019-06-5</xd:p>
             <xd:p><xd:b>Author:</xd:b> Alberto Campagnolo</xd:p>
+            <xd:p><xd:b>Modified by:</xd:b> Alberto Campagnolo</xd:p>
+            <xd:p><xd:b>Modified on:</xd:b>2020-08-14</xd:p>
             <xd:p><xd:b>Based on templates created by:</xd:b> Dot Porter, <xd:b>created on:</xd:b>
                 2014-07-02 <xd:p><xd:b>Modified on:</xd:b>May 5, 2015</xd:p>
                 <xd:p><xd:b>Modified by:</xd:b> Dot Porter</xd:p>
@@ -94,7 +96,7 @@
                             <!-- gatherings are formed by grouping leaves according to the gathering to which the are listed as belonging to;
         if there are subgatherings, these are listed a gathering-number.subgathering-number.etc: this code will group all leaves 
         in the same gathering regardless of subgatherings -->
-                            <xsl:for-each-group select="leaf"
+                            <xsl:for-each-group select="leaves/leaf"
                                 group-by="
                                     if (contains(q[1]/@n, '.')) then
                                         substring-before(q[1]/@n, '.')
