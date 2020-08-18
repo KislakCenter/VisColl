@@ -7,7 +7,7 @@
 
 
     <xsl:template match="/">
-        <xsl:for-each select="collection(iri-to-uri('../../../BiblioPhilly/VisColl/collationmodels/?select=*.xml;recurse=yes'))">
+        <xsl:for-each select="collection(iri-to-uri('../data/collationmodels/?select=*.xml;recurse=yes'))">
             <xsl:variable name="fileName-1" select="tokenize(replace(document-uri(.), '.xml', ''), '/')[position() = last()]"/>
             <xsl:variable name="fileName" select="replace(replace($fileName-1,'\(',''),'\)','')"/>
             <!--<xsl:if test="starts-with($fileName,'Lewis')">-->
@@ -28,9 +28,9 @@
             </xsl:variable>
 
             <xsl:result-document href="{concat('new-models/',$fileName,'.xml')}">
-                <xsl:processing-instruction name="xml-model">href="../data/schemas/viscoll-datamodel2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
+                <xsl:processing-instruction name="xml-model">href="../schemas/viscoll-datamodel2.0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
                 <viscoll>
-                    <manuscript>
+                    <textblock>
                         <url><xsl:value-of select="$url"/></url>
                         <title><xsl:value-of select="$title"/></title>
                         <shelfmark><xsl:value-of select="$shelfmark"/></shelfmark>
@@ -44,7 +44,7 @@
                             <xsl:variable name="qID" select="concat('id-',$fileName,'-q-',$qNo)"/>
                             <quire xml:id="{$qID}" n="{$qNo}"><xsl:value-of select="$qNo"/></quire></xsl:for-each>
                     </quires>
-                    
+                    <leaves>
                     <xsl:for-each select="//leaf">
                         <xsl:choose>
                             <xsl:when test="@n = ''"/>
@@ -76,22 +76,19 @@
                                             <xsl:when test="@single='true'"/>
                                             <xsl:otherwise><conjoin certainty="1" target="{concat('#id-',$fileName,'-',$quire,'-',$conjoin)}"/></xsl:otherwise>
                                         </xsl:choose>
+                                        <xsl:choose>
+                                            <xsl:when test="matches($single,'false')"/>
+                                            <xsl:when test="matches($single,'true')"><single val="yes"/></xsl:when>
+                                            <xsl:otherwise/>
+                                        </xsl:choose>
                                     </xsl:element>
-                                    
-                                    <xsl:choose>
-                                        <xsl:when test="matches($single,'false')"/>
-                                        <xsl:when test="matches($single,'true')"><single val="yes"/></xsl:when>
-                                        <xsl:otherwise/>
-                                    </xsl:choose>
-                                    
-                                    
-                                    
-                                </leaf></xsl:otherwise></xsl:choose>
+                              </leaf></xsl:otherwise></xsl:choose>
                             </xsl:otherwise>
                         </xsl:choose>
                         
                     </xsl:for-each>
-                    </manuscript>
+                    </leaves>
+                    </textblock>
                     
                     
                     

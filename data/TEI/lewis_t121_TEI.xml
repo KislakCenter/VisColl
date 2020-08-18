@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis T121: De Virginitate (prose version)</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>David Kalish</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Dot Porter</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis T121: De Virginitate (prose version) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis T121: De Virginitate (prose version). This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Inc recto: et contritis corde...consuleus.</note>
+        <note>Expl. verso:...et aruspicibus uana falsitatis deleramenta</note>
+        <note>De Ricci 358</note>
+        <note>Other leaves of this ms. are scattered in several different libraries.</note>
+        <note>Cf. E. A. Lowe in Levre</note>
+        <note>Kraus catal. 88, also #3, cat. 95</note>
+        <note>Given to me by Mr. R. Contan Mar. 1855</note>
+        <note>Acquired by J. F. Lewis in 1914</note>
+        <note>See also Kraus Catalogue 88, Early Medieaeval and Renaissance Mss., p. 11 for desc. and photos of leaves from same ms. and his Catalogue 95, Item 3 (1962), pp. 12-15 for same leaves.</note>
+        <note>See Letter of Francis Wormald, 4 Sept. 1957.</note>
+        <note>Capp. XLIII-XLIV R. Ehwald, Aldhelmi Opera [=Monumenta Germaniae Historica, Auctores Antiquissimi, XV]. pp. 296, line 9-297, line 9.</note>
+        <note type="relatedResource">Anglo-Saxon Manuscripts in America, by Roland L. Collins (1976) - no. 1b reproduced as Plate 2</note>
+        <note type="relatedResource">Bond's Supplement (1962), p. 454; call number is XXIV:1</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis Collection of European Manuscripts</collection>
+            <idno type="call-number">Lewis T121</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>De Virginitate (prose version)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Anglo-Saxon script</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="0800" notAfter="0899"/>
+              <p>800-899</p>
+              <origPlace>England</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>9th century</term>
+          <term>English</term>
+          <term>England</term>
+          <term>Literature -- Prose</term>
+          <term>Treatise</term>
+          <term>Saint's Life</term>
+          <term>Christian</term>
+          <term>Theology</term>
+          <term>Fragment</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis T121 front" xml:id="surface-lewis-t121-1">
+      <graphic height="5903px" url="master/8599_0000.tif" width="4642px"/>
+      <graphic height="190px" url="thumb/8599_0000_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/8599_0000_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="Lewis T121 reverse" xml:id="surface-lewis-t121-2">
+      <graphic height="5903px" url="master/8599_0001.tif" width="4642px"/>
+      <graphic height="190px" url="thumb/8599_0001_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/8599_0001_web.jpg" width="1416px"/>
+    </surface>
+  </facsimile>
+</TEI>

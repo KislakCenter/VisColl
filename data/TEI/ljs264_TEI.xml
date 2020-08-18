@@ -1,0 +1,2815 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 264: Ymage du monde</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts LJS 264: Ymage du monde are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from opening rubric (f. 2r); title Mapemonde in caption title (f. 2r) and closing rubric (f. 130r).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">LJS 264</idno>
+            <altIdentifier type="bibid">
+              <idno>9957607433503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/794857387</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5760743</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Summary of all knowledge, divided into 3 parts on the creation of the world and man, geography, and astronomy; copy of the earliest recension in 6,600 octosyllabic lines of verse, as composed in 1245 by Gautier of Metz.</summary>
+            <textLang mainLang="frm">Middle French</textLang>
+            <msItem>
+              <title>Ymage du monde</title>
+              <author>
+                <persName type="authority">Gautier, of Metz, active 1245</persName>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Court, Benoît de</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Court, Antoine de, 16th cent</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Gaignières, Jehan de, 16th cent</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>132 leaves : 210 x 153 (144 x 80) mm. bound to 220 x 160 mm</extent>
+                <collation>
+                  <p>Parchment, i (16th-century paper) + 132; 1-2⁸ 3⁶ 4-5⁸ 6-7⁴ 8-17⁸ 18⁴(+2). Horizontal catchwords, lower center.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 26 long lines; frame-ruled in lead with a narrow column along the left side of the text block for the initials at the beginning of each line.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a French hybrid script by at least 2 hands.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>7-line illuminated opening initial in blue and red on a gold ground with extensions (f. 2r); 18 astronomical diagrams in red and black (f. 38r, 39v, 40v, 41r, 42r, 45r, 46r, 46v, 47r, 86v, 90r, 91v, 93r, 94v, 128r); first initials of sections alternate between red with purple flourishing and blue with red flourishing; first initials of page often enlarged and decorated, sometimes with red or blue pigment added, sometimes with faces (f. 14r-15v) or hands (f. 28v, 47v, 69r, 111v) or zoomorphic forms (dragons, f. 24r, 64r, 99r, 121r; storks or cranes, f. 71r, 119v, 127v; snake, f. 78v; wolves' or dragons' heads, f. 66r, 82r, 126v; geese, f. 49r, 120v, 130r); rubrics in red; initials touched with yellow; ascenders of top line and descenders of bottom line elongated and decorated; most catchwords enclosed in decorative frames, mostly touched with yellow, sometimes with additions in red ink (f. 8v, 16v, 22v, 30v, 38v, 46v, 50v, 54v, 62v, 70v, 78v, 86v, 94v, 102v, 110v, 118v).</decoNote>
+              <decoNote n="2r">Illuminated initial, Initial C, f. 2r</decoNote>
+              <decoNote n="2r">Decorated initial, Initial L, f. 2r</decoNote>
+              <decoNote n="2r">Decorated initial, Initial P, f. 2r</decoNote>
+              <decoNote n="2r">Decorated initial, Initial D, f. 2r</decoNote>
+              <decoNote n="2r">Decorated ascender, f. 2r</decoNote>
+              <decoNote n="2r">Decorated descender, f. 2r</decoNote>
+              <decoNote n="2v">Decorated initial, Initial L, f. 2v</decoNote>
+              <decoNote n="2v">Decorated ascender, f. 2v</decoNote>
+              <decoNote n="2v">Decorated descender, f. 2v</decoNote>
+              <decoNote n="3r">Decorated initial, Initial L, f. 3r</decoNote>
+              <decoNote n="3r">Decorated ascender, f. 3r</decoNote>
+              <decoNote n="3r">Decorated descender, f. 3r</decoNote>
+              <decoNote n="3v">Decorated ascender, f. 3v</decoNote>
+              <decoNote n="3v">Decorated descender, f. 3v</decoNote>
+              <decoNote n="4r">Decorated initial, Initial S, f. 4r</decoNote>
+              <decoNote n="4r">Decorated initial, Initial Q, f. 4r</decoNote>
+              <decoNote n="4r">Decorated descender, f. 4r</decoNote>
+              <decoNote n="4v">Decorated ascender, f. 4v</decoNote>
+              <decoNote n="5r">Decorated ascender, f. 5r</decoNote>
+              <decoNote n="5r">Decorated descender, f. 5r</decoNote>
+              <decoNote n="5v">Decorated ascender, f. 5v</decoNote>
+              <decoNote n="5v">Decorated descender, f. 5v</decoNote>
+              <decoNote n="6r">Decorated Initial, Initial D, f. 6r</decoNote>
+              <decoNote n="6r">Decorated ascender, f. 6r</decoNote>
+              <decoNote n="6r">Decorated descender, f. 6r</decoNote>
+              <decoNote n="6v">Decorated ascender, f. 6v</decoNote>
+              <decoNote n="6v">Decorated descender, f. 6v</decoNote>
+              <decoNote n="7r">Decorated Initial, Initial D, f. 7r</decoNote>
+              <decoNote n="7r">Decorated ascender, f. 7r</decoNote>
+              <decoNote n="7r">Decorated descender, f. 7r</decoNote>
+              <decoNote n="7v">Decorated ascender, f. 7v</decoNote>
+              <decoNote n="7v">Decorated descender, f. 7v</decoNote>
+              <decoNote n="8r">Decorated Initial, Initial L, f. 8r</decoNote>
+              <decoNote n="8r">Decorated ascender, f. 8r</decoNote>
+              <decoNote n="8r">Decorated descender, f. 8r</decoNote>
+              <decoNote n="8v">Decorated ascender, f. 8v</decoNote>
+              <decoNote n="8v">Decorated descender, f. 8v</decoNote>
+              <decoNote n="8v">Decorated catchword, f. 8v</decoNote>
+              <decoNote n="9r">Decorated ascender, f. 9r</decoNote>
+              <decoNote n="9r">Decorated descender, f. 9r</decoNote>
+              <decoNote n="9v">Decorated ascender, f. 9v</decoNote>
+              <decoNote n="9v">Decorated descender, f. 9v</decoNote>
+              <decoNote n="10r">Decorated ascender, f. 10r</decoNote>
+              <decoNote n="10r">Decorated descender, f. 10r</decoNote>
+              <decoNote n="10v">Decorated ascender, Face, f. 10v</decoNote>
+              <decoNote n="10v">Decorated descender, f. 10v</decoNote>
+              <decoNote n="11r">Decorated ascender, f. 11r</decoNote>
+              <decoNote n="11r">Decorated descender, f. 11r</decoNote>
+              <decoNote n="11v">Decorated initial, Initial O, f. 11v</decoNote>
+              <decoNote n="11v">Decorated ascender, f. 11v</decoNote>
+              <decoNote n="11v">Decorated descender, f. 11v</decoNote>
+              <decoNote n="12r">Decorated ascender, f. 12r</decoNote>
+              <decoNote n="12r">Decorated descender, f. 12r</decoNote>
+              <decoNote n="12v">Decorated ascender, f. 12v</decoNote>
+              <decoNote n="12v">Decorated descender, f. 12v</decoNote>
+              <decoNote n="13r">Decorated ascender, Face, f. 13r</decoNote>
+              <decoNote n="13r">Decorated descender, f. 13r</decoNote>
+              <decoNote n="13v">Decorated ascender, f. 13v</decoNote>
+              <decoNote n="13v">Decorated descender, f. 13v</decoNote>
+              <decoNote n="14r">Decorated ascender, Face, f. 14r</decoNote>
+              <decoNote n="14r">Decorated descender, f. 14r</decoNote>
+              <decoNote n="14v">Decorated ascender, Face, f. 14v</decoNote>
+              <decoNote n="14v">Decorated descender, f. 14v</decoNote>
+              <decoNote n="15r">Decorated ascender, Face, f. 15r</decoNote>
+              <decoNote n="15r">Decorated descender, f. 15r</decoNote>
+              <decoNote n="15v">Decorated initial, Initial Q, f. 15v</decoNote>
+              <decoNote n="15v">Decorated ascender, Face, f. 15v</decoNote>
+              <decoNote n="15v">Decorated descender, f. 15v</decoNote>
+              <decoNote n="16r">Decorated initial, Initial Q, f. 16r</decoNote>
+              <decoNote n="16r">Decorated ascender, f. 16r</decoNote>
+              <decoNote n="16r">Decorated descender, f. 16r</decoNote>
+              <decoNote n="16v">Decorated ascender, f. 16v</decoNote>
+              <decoNote n="16v">Decorated descender, f. 16v</decoNote>
+              <decoNote n="16v">Decorated catchword, f. 16v</decoNote>
+              <decoNote n="17r">Decorated ascender, f. 17r</decoNote>
+              <decoNote n="17r">Decorated initial, Initial Q, f. 17r</decoNote>
+              <decoNote n="17v">Decorated initial, Initial S, f. 17v</decoNote>
+              <decoNote n="17v">Decorated ascender, f. 17v</decoNote>
+              <decoNote n="17v">Decorated descender, f. 17v</decoNote>
+              <decoNote n="18r">Decorated ascender, f. 18r</decoNote>
+              <decoNote n="18r">Decorated descender, f. 18r</decoNote>
+              <decoNote n="18r">Decorated initial, Initial P, f. 18r</decoNote>
+              <decoNote n="18v">Decorated initial, Initial D, f. 18v</decoNote>
+              <decoNote n="18v">Decorated ascender, f. 18v</decoNote>
+              <decoNote n="18v">Decorated descender, f. 18v</decoNote>
+              <decoNote n="19r">Decorated ascender, f. 19r</decoNote>
+              <decoNote n="19r">Decorated descender, f. 19r</decoNote>
+              <decoNote n="19r">Decorated initial, Initial P, f. 19r</decoNote>
+              <decoNote n="19v">Decorated initial, Initial P, f. 19v</decoNote>
+              <decoNote n="19v">Decorated ascender, f. 19v</decoNote>
+              <decoNote n="19v">Decorated descender, f. 19v</decoNote>
+              <decoNote n="20r">Decorated initial, Initial T, f. 20r</decoNote>
+              <decoNote n="20v">Decorated ascender, f. 20v</decoNote>
+              <decoNote n="20v">Decorated descender, f. 20v</decoNote>
+              <decoNote n="21r">Decorated initial, Initial Q, f. 21r</decoNote>
+              <decoNote n="21r">Decorated ascender, f. 21r</decoNote>
+              <decoNote n="21r">Decorated descender, f. 21r</decoNote>
+              <decoNote n="21v">Decorated initial, Initial M, f. 21v</decoNote>
+              <decoNote n="21v">Decorated ascender, f. 21v</decoNote>
+              <decoNote n="21v">Decorated descender, f. 21v</decoNote>
+              <decoNote n="22r">Decorated initial, Initial T, f. 22r</decoNote>
+              <decoNote n="22r">Decorated initial, Initial C, f. 22r</decoNote>
+              <decoNote n="22r">Decorated ascender, f. 22r</decoNote>
+              <decoNote n="22r">Decorated descender, f. 22r</decoNote>
+              <decoNote n="22v">Decorated catchword, f. 22v</decoNote>
+              <decoNote n="23r">Decorated initial, Initial E, f. 23r</decoNote>
+              <decoNote n="23r">Decorated descender, f. 23r</decoNote>
+              <decoNote n="23v">Decorated ascender, f. 23v</decoNote>
+              <decoNote n="23v">Decorated descender, f. 23v</decoNote>
+              <decoNote n="24r">Zoomorphic initial, Initial S, Dragon, f. 24r</decoNote>
+              <decoNote n="24r">Decorated ascender, f. 24r</decoNote>
+              <decoNote n="24r">Decorated descender, f. 24r</decoNote>
+              <decoNote n="24v">Decorated initial, Initial E, f. 24v</decoNote>
+              <decoNote n="24v">Decorated ascender, f. 24v</decoNote>
+              <decoNote n="24v">Decorated descender, f. 24v</decoNote>
+              <decoNote n="25r">Decorated initial, Initial I, f. 25r</decoNote>
+              <decoNote n="25r">Decorated ascender, f. 25r</decoNote>
+              <decoNote n="25r">Decorated descender, f. 25r</decoNote>
+              <decoNote n="25v">Decorated initial, Initial P, f. 25v</decoNote>
+              <decoNote n="25v">Decorated ascender, f. 25v</decoNote>
+              <decoNote n="25v">Decorated descender, f. 25v</decoNote>
+              <decoNote n="26r">Decorated initial, Initial Q, f. 26r</decoNote>
+              <decoNote n="26r">Decorated initial, Initial L, f. 26r</decoNote>
+              <decoNote n="26r">Decorated ascender, f. 26r</decoNote>
+              <decoNote n="26r">Decorated descender, f. 26r</decoNote>
+              <decoNote n="26v">Decorated initial, Initial P, f. 26v</decoNote>
+              <decoNote n="26v">Decorated initial, Initial L, f. 26v</decoNote>
+              <decoNote n="26v">Decorated ascender, f. 26v</decoNote>
+              <decoNote n="26v">Decorated descender, f. 26v</decoNote>
+              <decoNote n="27r">Decorated initial, Initial L, f. 27r</decoNote>
+              <decoNote n="27r">Decorated ascender, f. 27r</decoNote>
+              <decoNote n="27r">Decorated descender, f. 27r</decoNote>
+              <decoNote n="27v">Decorated initial, Initial D, f. 27v</decoNote>
+              <decoNote n="27v">Decorated initial, Initial L, f. 27v</decoNote>
+              <decoNote n="27v">Decorated ascender, f. 27v</decoNote>
+              <decoNote n="27v">Decorated descender, f. 27v</decoNote>
+              <decoNote n="28r">Decorated ascender, f. 28r</decoNote>
+              <decoNote n="28r">Decorated descender, f. 28r</decoNote>
+              <decoNote n="28v">Decorated initial, Initial D, Pointing hand, f. 28v</decoNote>
+              <decoNote n="28v">Decorated initial, Initial L, f. 28v</decoNote>
+              <decoNote n="28v">Decorated ascender, f. 28v</decoNote>
+              <decoNote n="28v">Decorated descender, f. 28v</decoNote>
+              <decoNote n="29r">Decorated initial, Initial T, f. 29r</decoNote>
+              <decoNote n="29r">Decorated descender, f. 29r</decoNote>
+              <decoNote n="29v">Decorated initial, Initial L, f. 29v</decoNote>
+              <decoNote n="29v">Decorated ascender, f. 29v</decoNote>
+              <decoNote n="29v">Decorated descender, f. 29v</decoNote>
+              <decoNote n="30r">Decorated initial, Initial C, f. 30r</decoNote>
+              <decoNote n="30r">Decorated ascender, f. 30r</decoNote>
+              <decoNote n="30r">Decorated descender, f. 30r</decoNote>
+              <decoNote n="30v">Decorated initial, Initial P, f. 30v</decoNote>
+              <decoNote n="30v">Decorated ascender, f. 30v</decoNote>
+              <decoNote n="30v">Decorated descender, f. 30v</decoNote>
+              <decoNote n="30v">Decorated catchword, f. 30v</decoNote>
+              <decoNote n="31r">Decorated initial, Initial N?, f. 31r</decoNote>
+              <decoNote n="31r">Decorated ascender, f. 31r</decoNote>
+              <decoNote n="31r">Decorated descender, f. 31r</decoNote>
+              <decoNote n="31v">Decorated initial, Initial L, f. 31v</decoNote>
+              <decoNote n="31v">Decorated ascender, f. 31v</decoNote>
+              <decoNote n="32r">Decorated initial, Initial U, f. 32r</decoNote>
+              <decoNote n="32r">Decorated ascender, f. 32r</decoNote>
+              <decoNote n="32r">Decorated descender, f. 32r</decoNote>
+              <decoNote n="32v">Decorated initial, f. 32v</decoNote>
+              <decoNote n="32v">Decorated ascender, f. 32v</decoNote>
+              <decoNote n="32v">Decorated descender, f. 32v</decoNote>
+              <decoNote n="33r">Decorated initial, f. 33r</decoNote>
+              <decoNote n="33r">Decorated ascender, f. 33r</decoNote>
+              <decoNote n="33r">Decorated descender, f. 33v</decoNote>
+              <decoNote n="33v">Decorated initial, Initial I, f. 33v</decoNote>
+              <decoNote n="33v">Decorated ascender, f. 33v</decoNote>
+              <decoNote n="33v">Decorated descender, f. 33v</decoNote>
+              <decoNote n="34r">Decorated initial, f. 34r</decoNote>
+              <decoNote n="34r">Decorated ascender, f. 34r</decoNote>
+              <decoNote n="34r">Decorated descender, f. 34r</decoNote>
+              <decoNote n="34v">Decorated initial, f. 34v</decoNote>
+              <decoNote n="34v">Decorated ascender, f. 34v</decoNote>
+              <decoNote n="34v">Decorated descender, f. 34v</decoNote>
+              <decoNote n="35r">Decorated initial, Initial S, f. 35r</decoNote>
+              <decoNote n="35r">Decorated ascender, f. 35r</decoNote>
+              <decoNote n="35v">Decorated initial, Initial C, f. 35v</decoNote>
+              <decoNote n="35v">Decorated initial, Initial D, f. 35v</decoNote>
+              <decoNote n="35v">Decorated ascender, f. 35v</decoNote>
+              <decoNote n="35v">Decorated descender, f. 35v</decoNote>
+              <decoNote n="36r">Decorated initial, Initial D, f. 36r</decoNote>
+              <decoNote n="36r">Decorated ascender, f. 36r</decoNote>
+              <decoNote n="36r">Decorated descender, f. 36r</decoNote>
+              <decoNote n="36v">Decorated initial, Initial E, f. 36v</decoNote>
+              <decoNote n="36v">Decorated ascender, f. 36v</decoNote>
+              <decoNote n="36v">Decorated descender, f. 36v</decoNote>
+              <decoNote n="37r">Decorated initial, Initial S, f. 37r</decoNote>
+              <decoNote n="37r">Decorated initial, Initial C, f. 37r</decoNote>
+              <decoNote n="37r">Decorated ascender, f. 37r</decoNote>
+              <decoNote n="37r">Decorated descender, f. 37r</decoNote>
+              <decoNote n="37v">Decorated initial, Initial A, f. 37v</decoNote>
+              <decoNote n="37v">Decorated ascender, f. 37v</decoNote>
+              <decoNote n="37v">Decorated descender, f. 37v</decoNote>
+              <decoNote n="38r">Decorated initial, Initial E, f. 38r</decoNote>
+              <decoNote n="38r">Decorated ascender, f. 38r</decoNote>
+              <decoNote n="38r">Diagram, f. 38r</decoNote>
+              <decoNote n="38v">Decorated initial, Initial P, f. 38v</decoNote>
+              <decoNote n="38v">Decorated ascender, f. 38v</decoNote>
+              <decoNote n="38v">Decorated descender, f. 38v</decoNote>
+              <decoNote n="38v">Decorated catchword, f. 38v</decoNote>
+              <decoNote n="39r">Decorated initial, Initial E, f. 39r</decoNote>
+              <decoNote n="39r">Decorated ascender, f. 39r</decoNote>
+              <decoNote n="39r">Decorated descender, f. 39r</decoNote>
+              <decoNote n="39v">Decorated initial, Initial E, f. 39v</decoNote>
+              <decoNote n="39v">Decorated ascender, f. 39v</decoNote>
+              <decoNote n="39v">Diagram, f. 39v</decoNote>
+              <decoNote n="40r">Decorated initial, Initial M, f. 40r</decoNote>
+              <decoNote n="40r">Decorated ascender, f. 40r</decoNote>
+              <decoNote n="40r">Decorated descender, f. 40r</decoNote>
+              <decoNote n="40v">Diagram, f. 40v</decoNote>
+              <decoNote n="40v">Decorated descender, f. 40v</decoNote>
+              <decoNote n="41r">Diagram, f. 41r</decoNote>
+              <decoNote n="41r">Decorated descender, f. 41r</decoNote>
+              <decoNote n="41v">Decorated initial, Initial S, f. 41v</decoNote>
+              <decoNote n="41v">Decorated initial, Initial D, f. 41v</decoNote>
+              <decoNote n="41v">Decorated ascender, f. 41v</decoNote>
+              <decoNote n="41v">Decorated descender, f. 41v</decoNote>
+              <decoNote n="42r">Decorated initial, Initial Q, f. 42r</decoNote>
+              <decoNote n="42r">Decorated ascender, f. 42r</decoNote>
+              <decoNote n="42r">Diagram, f. 42r</decoNote>
+              <decoNote n="42v">Decorated initial, Initial E, f. 42v</decoNote>
+              <decoNote n="42v">Decorated initial, Initial D, f. 42v</decoNote>
+              <decoNote n="42v">Decorated ascender, f. 42v</decoNote>
+              <decoNote n="42v">Decorated descender, f. 42v</decoNote>
+              <decoNote n="42v">Decorated catchword, f. 42v</decoNote>
+              <decoNote n="43r">Decorated initial, f. 43r</decoNote>
+              <decoNote n="43r">Decorated ascender, f. 43r</decoNote>
+              <decoNote n="43r">Decorated descender, f. 43r</decoNote>
+              <decoNote n="43v">Decorated initial, Initial E, f. 43v</decoNote>
+              <decoNote n="43v">Decorated ascender, f. 43v</decoNote>
+              <decoNote n="43v">Decorated descender, f. 43v</decoNote>
+              <decoNote n="44r">Decorated initial, Initial E, f. 44r</decoNote>
+              <decoNote n="44r">Decorated initial, Initial L, f. 44r</decoNote>
+              <decoNote n="44v">Decorated initial, Initial P, f. 44v</decoNote>
+              <decoNote n="45r">Decorated initial, Initial L, f. 45r</decoNote>
+              <decoNote n="45r">Decorated ascender, f. 45r</decoNote>
+              <decoNote n="45r">Diagram, f. 45r</decoNote>
+              <decoNote n="45r">Decorated initial, Initial E, f. 45r</decoNote>
+              <decoNote n="45v">Decorated initial, Initial A, f. 45v</decoNote>
+              <decoNote n="45v">Decorated ascender, f. 45v</decoNote>
+              <decoNote n="46r">Diagram, f. 46r</decoNote>
+              <decoNote n="46r">Decorated initial, Initial L, f. 46r</decoNote>
+              <decoNote n="46r">Decorated descender, f. 46r</decoNote>
+              <decoNote n="46v">Diagram, f. 46v</decoNote>
+              <decoNote n="46v">Decorated initial, Initial E, f. 46v</decoNote>
+              <decoNote n="46v">Decorated descender, f. 46v</decoNote>
+              <decoNote n="46v">Decorated catchword, f. 46v</decoNote>
+              <decoNote n="47r">Decorated initial, Initial P, f. 47r</decoNote>
+              <decoNote n="47r">Decorated ascender, f. 47r</decoNote>
+              <decoNote n="47r">Diagram, f. 47r</decoNote>
+              <decoNote n="47v">Decorated initial, Initial D, Pointing hands, f. 47v</decoNote>
+              <decoNote n="48r">Decorated initial, Initial Q, f. 48r</decoNote>
+              <decoNote n="48v">Decorated initial, Initial Q, f. 48v</decoNote>
+              <decoNote n="48v">Decorated initial, Initial A, f. 48v</decoNote>
+              <decoNote n="48v">Decorated ascender, f. 48v</decoNote>
+              <decoNote n="48v">Decorated descender, f. 48v</decoNote>
+              <decoNote n="49r">Zoomorphic initial, Initial M, Geese, f. 49r</decoNote>
+              <decoNote n="49v">Decorated initial, Initial E, f. 49v</decoNote>
+              <decoNote n="49v">Decorated ascender, f. 49v</decoNote>
+              <decoNote n="50r">Decorated initial, Initial P, f. 50r</decoNote>
+              <decoNote n="50r">Decorated ascender, f. 49r</decoNote>
+              <decoNote n="50v">Decorated initial, Initial E, f. 50v</decoNote>
+              <decoNote n="50v">Decorated ascender, f. 50v</decoNote>
+              <decoNote n="51r">Decorated initial, Initial S, f. 51r</decoNote>
+              <decoNote n="51r">Decorated ascender, f. 51r</decoNote>
+              <decoNote n="51v">Decorated initial, Initial D, f. 51v</decoNote>
+              <decoNote n="51v">Decorated ascender, f. 51v</decoNote>
+              <decoNote n="52r">Decorated initial, f. 52r</decoNote>
+              <decoNote n="52r">Decorated ascender, f. 52r</decoNote>
+              <decoNote n="52r">Decorated descender, f. 52r</decoNote>
+              <decoNote n="52v">Decorated initial, Initial Q, f. 52v</decoNote>
+              <decoNote n="52v">Decorated ascender, f. 52v</decoNote>
+              <decoNote n="53r">Decorated initial, Initial U, f. 53r</decoNote>
+              <decoNote n="53r">Decorated ascender, f. 53r</decoNote>
+              <decoNote n="53r">Decorated descender, f. 53r</decoNote>
+              <decoNote n="53v">Decorated initial, Initial Q, f. 53v</decoNote>
+              <decoNote n="53v">Decorated ascender, f. 53v</decoNote>
+              <decoNote n="54r">Decorated initial, Initial Q, f. 54r</decoNote>
+              <decoNote n="54r">Decorated ascender, f. 54r</decoNote>
+              <decoNote n="54r">Decorated descender, f. 54r</decoNote>
+              <decoNote n="54v">Decorated initial, f. 54v</decoNote>
+              <decoNote n="54v">Decorated ascender, f. 54v</decoNote>
+              <decoNote n="54v">Decorated descender, f. 54v</decoNote>
+              <decoNote n="54v">Decorated catchword, f. 54v</decoNote>
+              <decoNote n="55r">Decorated initial, Initial N, f. 55r</decoNote>
+              <decoNote n="55r">Decorated ascender, f. 55r</decoNote>
+              <decoNote n="55r">Decorated descender, f. 55r</decoNote>
+              <decoNote n="55v">Decorated initial, Initial Q, f. 55v</decoNote>
+              <decoNote n="55v">Decorated initial, Initial E, f. 55v</decoNote>
+              <decoNote n="55v">Decorated ascender, f. 55v</decoNote>
+              <decoNote n="56r">Decorated initial, Initial P, f. 56r</decoNote>
+              <decoNote n="56r">Decorated initial, Initial E, f. 56r</decoNote>
+              <decoNote n="56r">Decorated ascender, f. 56r</decoNote>
+              <decoNote n="56r">Decorated descender, f. 56v</decoNote>
+              <decoNote n="56v">Decorated initial, Initial C, f. 56v</decoNote>
+              <decoNote n="56v">Decorated ascender, f. 56v</decoNote>
+              <decoNote n="56v">Decorated descender, f. 56v</decoNote>
+              <decoNote n="57r">Decorated initial, Initial A, f. 57r</decoNote>
+              <decoNote n="57r">Decorated ascender, f. 57r</decoNote>
+              <decoNote n="57r">Decorated descender, f. 57r</decoNote>
+              <decoNote n="57v">Decorated initial, Initial P, f. 57v</decoNote>
+              <decoNote n="57v">Decorated ascender, f. 57v</decoNote>
+              <decoNote n="57v">Decorated descender, f. 57v</decoNote>
+              <decoNote n="58r">Decorated initial, Initial Q, f. 58r</decoNote>
+              <decoNote n="58r">Decorated initial, Initial E, f. 58r</decoNote>
+              <decoNote n="58r">Decorated ascender, f. 58r</decoNote>
+              <decoNote n="58r">Decorated descender, f. 58r</decoNote>
+              <decoNote n="58v">Decorated initial, Initial S, f. 58v</decoNote>
+              <decoNote n="58v">Decorated ascender, f. 58v</decoNote>
+              <decoNote n="59r">Decorated initial, Initial I, f. 59r</decoNote>
+              <decoNote n="59r">Decorated initial, Initial A, f. 59r</decoNote>
+              <decoNote n="59r">Decorated ascender, f. 59r</decoNote>
+              <decoNote n="59r">Decorated descender, f. 59v</decoNote>
+              <decoNote n="59v">Decorated initial, Initial Q, f. 59v</decoNote>
+              <decoNote n="60r">Decorated initial, Initial M, f. 60r</decoNote>
+              <decoNote n="60r">Decorated descender, f. 60r</decoNote>
+              <decoNote n="60v">Decorated initial, Initial E, f. 60v</decoNote>
+              <decoNote n="60v">Decorated ascender, f. 60v</decoNote>
+              <decoNote n="61r">Decorated initial, Initial Q, f. 61r</decoNote>
+              <decoNote n="61r">Decorated ascender, f. 61r</decoNote>
+              <decoNote n="61v">Decorated initial, Initial E, f. 61v</decoNote>
+              <decoNote n="61v">Decorated descender, f. 61v</decoNote>
+              <decoNote n="62r">Decorated initial, Initial D, Pointing hand, f. 62r</decoNote>
+              <decoNote n="62r">Decorated ascender, f. 62r</decoNote>
+              <decoNote n="62v">Decorated initial, Initial D, f. 62v</decoNote>
+              <decoNote n="62v">Decorated ascender, f. 62v</decoNote>
+              <decoNote n="62v">Decorated descender, f. 62v</decoNote>
+              <decoNote n="63r">Decorated initial, Initial C, f. 63r</decoNote>
+              <decoNote n="63r">Decorated initial, Initial L, f. 63r</decoNote>
+              <decoNote n="63v">Decorated initial, Initial E, f. 63v</decoNote>
+              <decoNote n="63v">Decorated initial, Initial A, f. 63v</decoNote>
+              <decoNote n="63v">Decorated ascender, f. 63v</decoNote>
+              <decoNote n="64r">Zoomorphic initial, Initial S, Dragon, f. 64r</decoNote>
+              <decoNote n="64r">Decorated initial, Initial P, f. 64r</decoNote>
+              <decoNote n="64r">Decorated descender, f. 64r</decoNote>
+              <decoNote n="64v">Decorated initial, Initial E, f. 64v</decoNote>
+              <decoNote n="64v">Decorated ascender, f. 64v</decoNote>
+              <decoNote n="64v">Decorated descender, f. 64v</decoNote>
+              <decoNote n="65r">Decorated initial, Initial S, f. 65r</decoNote>
+              <decoNote n="65r">Decorated ascender, f. 65r</decoNote>
+              <decoNote n="65r">Decorated descender, f. 65r</decoNote>
+              <decoNote n="65v">Decorated initial, Initial S, f. 65v</decoNote>
+              <decoNote n="65v">Decorated ascender, f. 65v</decoNote>
+              <decoNote n="66r">Decorated initial, Initial E, f. 66r</decoNote>
+              <decoNote n="66r">Decorated ascender, f. 66r</decoNote>
+              <decoNote n="66r">Decorated descender, f. 66r</decoNote>
+              <decoNote n="66v">Decorated initial, Initial P, f. 66v</decoNote>
+              <decoNote n="66v">Decorated initial, Initial M, f. 66v</decoNote>
+              <decoNote n="66v">Decorated ascender, f. 66v</decoNote>
+              <decoNote n="67r">Decorated initial, Initial S, f. 67r</decoNote>
+              <decoNote n="67r">Decorated ascender, f. 67r</decoNote>
+              <decoNote n="67v">Decorated initial, Initial S, f. 67v</decoNote>
+              <decoNote n="67v">Decorated ascender, f. 67v</decoNote>
+              <decoNote n="68r">Decorated initial, Initial N, f. 68r</decoNote>
+              <decoNote n="68r">Decorated ascender, f. 68r</decoNote>
+              <decoNote n="68v">Decorated initial, Initial Q, f. 68v</decoNote>
+              <decoNote n="68v">Decorated ascender, f. 68v</decoNote>
+              <decoNote n="68v">Decorated descender, f. 68v</decoNote>
+              <decoNote n="69r">Decorated initial, Initial I, f. 69r</decoNote>
+              <decoNote n="69r">Decorated descender, f. 69r</decoNote>
+              <decoNote n="69v">Decorated initial, f. 69v</decoNote>
+              <decoNote n="69v">Decorated ascender, f. 69v</decoNote>
+              <decoNote n="69v">Decorated descender, f. 69v</decoNote>
+              <decoNote n="70r">Decorated initial, Initial S, f. 70r</decoNote>
+              <decoNote n="70r">Decorated ascender, f. 70r</decoNote>
+              <decoNote n="70v">Decorated initial, Initial M, f. 70v</decoNote>
+              <decoNote n="70v">Decorated ascender, f. 70v</decoNote>
+              <decoNote n="71r">Zoomorphic initial, Initial D, Crane, f. 71r</decoNote>
+              <decoNote n="71r">Decorated initial, Initial L, f. 71r</decoNote>
+              <decoNote n="71r">Decorated ascender, f. 71r</decoNote>
+              <decoNote n="71r">Decorated descender, f. 71r</decoNote>
+              <decoNote n="71v">Decorated initial, Initial Q, f. 71v</decoNote>
+              <decoNote n="71v">Decorated ascender, f. 71v</decoNote>
+              <decoNote n="72r">Decorated initial, Initial T, f. 72r</decoNote>
+              <decoNote n="72r">Decorated ascender, f. 72r</decoNote>
+              <decoNote n="72v">Decorated initial, Initial L, f. 72v</decoNote>
+              <decoNote n="72v">Decorated ascender, f. 72v</decoNote>
+              <decoNote n="73r">Decorated initial, Initial A, f. 73r</decoNote>
+              <decoNote n="73r">Decorated ascender, f. 73r</decoNote>
+              <decoNote n="73r">Decorated descender, f. 73r</decoNote>
+              <decoNote n="73v">Decorated initial, Initial L, f. 73v</decoNote>
+              <decoNote n="73v">Decorated ascender, f. 73v</decoNote>
+              <decoNote n="74r">Decorated initial, Initial Q, f. 74r</decoNote>
+              <decoNote n="74r">Decorated ascender, f. 74r</decoNote>
+              <decoNote n="74v">Decorated initial, Initial T, f. 74v</decoNote>
+              <decoNote n="75r">Decorated initial, Initial S, f. 75r</decoNote>
+              <decoNote n="75v">Decorated initial, Initial C, f. 75v</decoNote>
+              <decoNote n="75v">Decorated initial, Initial A, f. 75v</decoNote>
+              <decoNote n="75v">Decorated ascender, f. 75v</decoNote>
+              <decoNote n="76r">Decorated initial, f. 76r</decoNote>
+              <decoNote n="76r">Decorated ascender, f. 76r</decoNote>
+              <decoNote n="76r">Decorated descender, f. 76r</decoNote>
+              <decoNote n="76v">Decorated initial, Initial Q, f. 76v</decoNote>
+              <decoNote n="76v">Decorated ascender, f. 76v</decoNote>
+              <decoNote n="77r">Decorated initial, Initial N, f. 77r</decoNote>
+              <decoNote n="77r">Decorated initial, Initial O, f. 77r</decoNote>
+              <decoNote n="77r">Decorated ascender, f. 77r</decoNote>
+              <decoNote n="77r">Decorated descender, f. 77r</decoNote>
+              <decoNote n="77v">Decorated initial, Initial Q, f. 77v</decoNote>
+              <decoNote n="77v">Decorated ascender, f. 77v</decoNote>
+              <decoNote n="78r">Decorated initial, Initial Q, f. 78r</decoNote>
+              <decoNote n="78r">Decorated initial, Initial L, f. 78r</decoNote>
+              <decoNote n="78r">Decorated ascender, f. 78r</decoNote>
+              <decoNote n="78v">Zoomorphic initial, Initial S, Snake, f. 78v</decoNote>
+              <decoNote n="78v">Decorated initial, Initial D, f. 78v</decoNote>
+              <decoNote n="78v">Decorated ascender, f. 78v</decoNote>
+              <decoNote n="78v">Decorated descender, f. 78v</decoNote>
+              <decoNote n="79r">Decorated initial, Initial Q, f. 79r</decoNote>
+              <decoNote n="79r">Decorated ascender, f. 79r</decoNote>
+              <decoNote n="79r">Decorated descender, f. 79r</decoNote>
+              <decoNote n="79v">Decorated initial, Initial N, f. 79v</decoNote>
+              <decoNote n="79v">Decorated initial, Initial D, f. 79v</decoNote>
+              <decoNote n="79v">Decorated ascender, f. 79v</decoNote>
+              <decoNote n="80r">Decorated initial, Initial E, f. 80r</decoNote>
+              <decoNote n="80r">Decorated ascender, f. 80r</decoNote>
+              <decoNote n="80v">Decorated initial, Initial E, f. 80v</decoNote>
+              <decoNote n="80v">Decorated ascender, f. 80v</decoNote>
+              <decoNote n="81r">Decorated initial, Initial D, f. 81r</decoNote>
+              <decoNote n="81r">Decorated initial, Initial L, f. 81r</decoNote>
+              <decoNote n="81r">Decorated ascender, f. 81r</decoNote>
+              <decoNote n="81v">Decorated initial, f. 81v</decoNote>
+              <decoNote n="81v">Decorated ascender, f. 81v</decoNote>
+              <decoNote n="82r">Decorated initial, Initial E, f. 82r</decoNote>
+              <decoNote n="82r">Decorated initial, Initial L, f. 82r</decoNote>
+              <decoNote n="82r">Decorated ascender, f. 82r</decoNote>
+              <decoNote n="82r">Decorated descender, f. 82r</decoNote>
+              <decoNote n="82v">Decorated initial, Initial C, f. 82v</decoNote>
+              <decoNote n="82v">Decorated ascender, f. 82v</decoNote>
+              <decoNote n="83r">Decorated initial, Initial M, f. 83r</decoNote>
+              <decoNote n="83r">Decorated ascender, f. 83r</decoNote>
+              <decoNote n="83v">Decorated initial, Initial D, f. 83v</decoNote>
+              <decoNote n="84r">Decorated initial, Initial S, f. 84r</decoNote>
+              <decoNote n="84r">Decorated ascender, f. 84r</decoNote>
+              <decoNote n="84v">Decorated initial, Initial E, f. 84v</decoNote>
+              <decoNote n="84v">Decorated initial, Initial L, f. 84v</decoNote>
+              <decoNote n="84v">Decorated ascender, f. 84v</decoNote>
+              <decoNote n="84v">Decorated descender, f. 84v3</decoNote>
+              <decoNote n="85r">Decorated initial, Initial E, f. 85r</decoNote>
+              <decoNote n="85r">Decorated ascender, f. 85r</decoNote>
+              <decoNote n="85r">Decorated descender, f. 85r</decoNote>
+              <decoNote n="85v">Decorated initial, Initial Q, f. 85v</decoNote>
+              <decoNote n="85v">Decorated initial, Initial L, f. 85v</decoNote>
+              <decoNote n="85v">Decorated ascender, f. 85v</decoNote>
+              <decoNote n="85v">Decorated descender, f. 85v</decoNote>
+              <decoNote n="86r">Decorated initial, Initial Q, f. 86r</decoNote>
+              <decoNote n="86r">Decorated ascender, f. 86r</decoNote>
+              <decoNote n="86v">Diagram, f. 86v</decoNote>
+              <decoNote n="86v">Decorated catchword, f. 86v</decoNote>
+              <decoNote n="86v">Decorated descender, f. 86v</decoNote>
+              <decoNote n="87r">Decorated initial, Initial P, f. 87r</decoNote>
+              <decoNote n="87r">Decorated ascender, f. 87r</decoNote>
+              <decoNote n="87v">Decorated initial, Initial Q, f. 87v</decoNote>
+              <decoNote n="87v">Decorated descender, f. 87v</decoNote>
+              <decoNote n="88r">Decorated ascender, f. 88r</decoNote>
+              <decoNote n="88r">Decorated ascender, f. 88r</decoNote>
+              <decoNote n="88v">Decorated ascender, f. 88v</decoNote>
+              <decoNote n="88v">Decorated descender, f. 88v</decoNote>
+              <decoNote n="89r">Decorated initial, Initial E, f. 89r</decoNote>
+              <decoNote n="89r">Decorated initial, Initial D, f. 89r</decoNote>
+              <decoNote n="89r">Decorated ascender, f. 89r</decoNote>
+              <decoNote n="89r">Decorated descender, f. 89r</decoNote>
+              <decoNote n="89v">Decorated initial, Initial Q, f. 89v</decoNote>
+              <decoNote n="89v">Decorated ascender, f. 89v</decoNote>
+              <decoNote n="89v">Decorated descender, f. 89v</decoNote>
+              <decoNote n="90r">Diagram, f. 90r</decoNote>
+              <decoNote n="90r">Decorated initial, Initial M, f. 90r</decoNote>
+              <decoNote n="90r">Decorated ascender, f. 90r</decoNote>
+              <decoNote n="90v">Decorated initial, Initial M, f. 90v</decoNote>
+              <decoNote n="90v">Decorated Initial, Initial E, f. 90v</decoNote>
+              <decoNote n="90v">Decorated Initial, Initial L, f. 90v</decoNote>
+              <decoNote n="91r">Decorated initial, Initial Q, f. 91r</decoNote>
+              <decoNote n="91r">Decorated ascender, f. 91r</decoNote>
+              <decoNote n="91v">Diagram, f. 91v</decoNote>
+              <decoNote n="91v">Decorated initial, Initial F, f. 91v</decoNote>
+              <decoNote n="91v">Decorated ascender, f. 91v</decoNote>
+              <decoNote n="91v">Decorated ascender, f. 91v</decoNote>
+              <decoNote n="92r">Decorated initial, Initial D, f. 92r</decoNote>
+              <decoNote n="92r">Decorated ascender, f. 92r</decoNote>
+              <decoNote n="92r">Decorated descender, f. 92r</decoNote>
+              <decoNote n="92v">Decorated initial, Initial E, f. 92v</decoNote>
+              <decoNote n="92v">Decorated ascender, f. 92v</decoNote>
+              <decoNote n="92v">Decorated descender, f. 92v</decoNote>
+              <decoNote n="93r">Diagram, f. 93r</decoNote>
+              <decoNote n="93r">Decorated ascender, f. 93r</decoNote>
+              <decoNote n="93r">Decorated descender, f. 93r</decoNote>
+              <decoNote n="93r">Decorated initial, Initial D, f. 93r</decoNote>
+              <decoNote n="93v">Decorated initial, f. 93v</decoNote>
+              <decoNote n="93v">Decorated ascender, f. 93v</decoNote>
+              <decoNote n="93v">Decorated descender, f. 93v</decoNote>
+              <decoNote n="94r">Decorated initial, f. 94r</decoNote>
+              <decoNote n="94r">Decorated ascender, f. 94r</decoNote>
+              <decoNote n="94r">Decorated descender, f. 94r</decoNote>
+              <decoNote n="94v">Decorated initial, f. 94v</decoNote>
+              <decoNote n="94v">Decorated ascender, f. 94v</decoNote>
+              <decoNote n="94v">Diagram, f. 94v</decoNote>
+              <decoNote n="95r">Decorated initial, Initial A, f. 95r</decoNote>
+              <decoNote n="95r">Decorated ascender, f. 95r</decoNote>
+              <decoNote n="95r">Decorated descender, f. 95r</decoNote>
+              <decoNote n="95v">Decorated ascender, f. 95v</decoNote>
+              <decoNote n="95v">Decorated descender, f. 95v</decoNote>
+              <decoNote n="96r">Decorated ascender, f. 96r</decoNote>
+              <decoNote n="96r">Decorated ascender, f. 96r</decoNote>
+              <decoNote n="97r">Decorated initial, Initial E, f. 97r</decoNote>
+              <decoNote n="97r">Decorated descender, f. 97r</decoNote>
+              <decoNote n="97r">Decorated initial, Initial O, f. 97r</decoNote>
+              <decoNote n="97v">Decorated ascender, f. 97v</decoNote>
+              <decoNote n="98r">Decorated ascender, f. 98r</decoNote>
+              <decoNote n="98r">Decorated ascender, f. 98r</decoNote>
+              <decoNote n="98v">Decorated initial, Initial M, Fleur de lis, f. 98v</decoNote>
+              <decoNote n="98v">Decorated ascender, f. 98v</decoNote>
+              <decoNote n="98v">Decorated descender, f. 98c</decoNote>
+              <decoNote n="99r">Zoomorphic initial, Initial S, Dragon, f. 99r</decoNote>
+              <decoNote n="99r">Decorated ascender, f. 99r</decoNote>
+              <decoNote n="99r">Decorated descender, f. 99r</decoNote>
+              <decoNote n="99v">Decorated initial, Initial Q, f. 99v</decoNote>
+              <decoNote n="99v">Decorated ascender, f. 99v</decoNote>
+              <decoNote n="99v">Decorated descender, f. 99v</decoNote>
+              <decoNote n="100r">Decorated initial, Initial C, f. 100r</decoNote>
+              <decoNote n="100r">Decorated ascender, f. 100r</decoNote>
+              <decoNote n="100r">Decorated descender, f. 100r</decoNote>
+              <decoNote n="100v">Decorated initial, Initial Q, f. 100v</decoNote>
+              <decoNote n="100v">Decorated ascender, f. 100v</decoNote>
+              <decoNote n="101r">Decorated initial, Initial P, f. 101r</decoNote>
+              <decoNote n="101r">Decorated ascender, f. 101r</decoNote>
+              <decoNote n="101r">Decorated descender, f. 101r</decoNote>
+              <decoNote n="101v">Decorated initial, Initial P, f. 101v</decoNote>
+              <decoNote n="102r">Decorated initial, Initial E, f. 102r</decoNote>
+              <decoNote n="102r">Decorated initial, Initial A, f. 102r</decoNote>
+              <decoNote n="102r">Decorated ascender, f. 102r</decoNote>
+              <decoNote n="102r">Decorated descender, f. 102r</decoNote>
+              <decoNote n="102v">Decorated initial, Initial C, f. 102v</decoNote>
+              <decoNote n="102v">Decorated ascender, f. 102v</decoNote>
+              <decoNote n="102v">Decorated descender, f. 102v</decoNote>
+              <decoNote n="102v">Decorated catchword, f. 102v</decoNote>
+              <decoNote n="103r">Decorated initial, Initial C, f. 103r</decoNote>
+              <decoNote n="103r">Decorated ascender, f. 103r</decoNote>
+              <decoNote n="103v">Decorated ascender, f. 103v</decoNote>
+              <decoNote n="103v">Decorated descender, f. 103v</decoNote>
+              <decoNote n="104r">Decorated initial, Initial S, f. 104r</decoNote>
+              <decoNote n="104v">Decorated ascender, f. 104v</decoNote>
+              <decoNote n="104v">Decorated descender, f. 104v</decoNote>
+              <decoNote n="105r">Decorated ascender, f. 105r</decoNote>
+              <decoNote n="105v">Decorated initial, Initial A, f. 105v</decoNote>
+              <decoNote n="105v">Decorated ascender, f. 105v</decoNote>
+              <decoNote n="106r">Decorated initial, Initial E, f. 106r</decoNote>
+              <decoNote n="106r">Decorated ascender, f. 106r</decoNote>
+              <decoNote n="106v">Decorated ascender, f. 106v</decoNote>
+              <decoNote n="107r">Decorated initial, N, f. 107r</decoNote>
+              <decoNote n="107r">Decorated ascender, f. 107r</decoNote>
+              <decoNote n="107v">Decorated initial, Initial E, f. 107v</decoNote>
+              <decoNote n="107v">Decorated ascender, f. 107v</decoNote>
+              <decoNote n="107v">Decorated initial, Initial P, f. 107v</decoNote>
+              <decoNote n="108r">Decorated initial, Initial Q, f. 108r</decoNote>
+              <decoNote n="108r">Decorated ascender, f. 108r</decoNote>
+              <decoNote n="108v">Decorated initial, Initial Q, f. 108v</decoNote>
+              <decoNote n="108v">Decorated initial, Initial A, f. 108v</decoNote>
+              <decoNote n="109r">Decorated initial, Initial S, f. 109r</decoNote>
+              <decoNote n="109r">Decorated ascender, f. 109r</decoNote>
+              <decoNote n="109v">Decorated initial, Initial C, f. 109v</decoNote>
+              <decoNote n="109v">Decorated descender, f. 109v</decoNote>
+              <decoNote n="110r">Decorated initial, Initial E, f. 110r</decoNote>
+              <decoNote n="110r">Decorated ascender, f. 110r</decoNote>
+              <decoNote n="110v">Decorated initial, Initial D, f. 110v</decoNote>
+              <decoNote n="110v">Decorated catchword, f. 110v</decoNote>
+              <decoNote n="111r">Decorated initial, Initial E, f. 111r</decoNote>
+              <decoNote n="111r">Decorated ascender, f. 111r</decoNote>
+              <decoNote n="111v">Decorated initial, Initial D, f. 111v</decoNote>
+              <decoNote n="111v">Decorated ascender, f. 111v</decoNote>
+              <decoNote n="112r">Decorated initial, Initial D, f. 112r</decoNote>
+              <decoNote n="112r">Decorated ascender, f. 112r</decoNote>
+              <decoNote n="112v">Decorated initial, Initial S, f. 112v</decoNote>
+              <decoNote n="112v">Decorated ascender, f. 112v</decoNote>
+              <decoNote n="113r">Decorated ascender, f. 113r</decoNote>
+              <decoNote n="113v">Decorated initial, Initial C, f. 113v</decoNote>
+              <decoNote n="113v">Decorated ascender, f. 113v</decoNote>
+              <decoNote n="114r">Decorated initial, f. 114r</decoNote>
+              <decoNote n="114r">Decorated initial, Initial M, f. 114r</decoNote>
+              <decoNote n="114r">Decorated ascender, f. 114r</decoNote>
+              <decoNote n="114v">Decorated initial, Initial Q, f. 114v</decoNote>
+              <decoNote n="115r">Decorated initial, f. 115r</decoNote>
+              <decoNote n="115r">Decorated ascender, f. 115r</decoNote>
+              <decoNote n="115r">Decorated descender, f. 115v</decoNote>
+              <decoNote n="115v">Decorated initial, Initial D, f. 115v</decoNote>
+              <decoNote n="116r">Decorated initial, Initial S, f. 116r</decoNote>
+              <decoNote n="116r">Decorated ascender, f. 116r</decoNote>
+              <decoNote n="116v">Decorated initial, Initial M, f. 116v</decoNote>
+              <decoNote n="116v">Decorated ascender, f. 116v</decoNote>
+              <decoNote n="117r">Decorated initial, Initial D, f. 117r</decoNote>
+              <decoNote n="117r">Decorated ascender, f. 117r</decoNote>
+              <decoNote n="117r">Decorated descender, f. 117v</decoNote>
+              <decoNote n="117v">Decorated initial, Initial T, f. 117v</decoNote>
+              <decoNote n="117v">Decorated ascender, f. 117v</decoNote>
+              <decoNote n="118r">Decorated initial P, f. 118r</decoNote>
+              <decoNote n="118v">Decorated initial, f. 118v</decoNote>
+              <decoNote n="118v">Decorated ascender, f. 118v</decoNote>
+              <decoNote n="118v">Decorated descender, f. 118v</decoNote>
+              <decoNote n="118v">Decorated catchword, f. 118v</decoNote>
+              <decoNote n="119r">Decorated initial, f. 119r</decoNote>
+              <decoNote n="119r">Decorated ascender, f. 119r</decoNote>
+              <decoNote n="119v">Zoomorphic initial, Initial M, Birds, f. 119v</decoNote>
+              <decoNote n="120r">Decorated initial, Initial L, f. 120r</decoNote>
+              <decoNote n="120r">Decorated ascender, f. 120r</decoNote>
+              <decoNote n="120v">Zoomorphic initial, Initial D, Bird, f. 120v</decoNote>
+              <decoNote n="120v">Decorated ascender, f. 120v</decoNote>
+              <decoNote n="121r">Zoomorphic initial, Initial S, Dragon, f. 121r</decoNote>
+              <decoNote n="121r">Decorated ascender, f. 121r</decoNote>
+              <decoNote n="121r">Decorated descender, f. 121r</decoNote>
+              <decoNote n="121v">Decorated initial, Initial Q, f. 121v</decoNote>
+              <decoNote n="121v">Decorated initial, Initial S, f. 121v</decoNote>
+              <decoNote n="121v">Decorated descender, f. 121v</decoNote>
+              <decoNote n="122r">Decorated initial, Initial B, f. 122r</decoNote>
+              <decoNote n="122r">Decorated ascender, f. 122r</decoNote>
+              <decoNote n="122r">Decorated descender, f. 122r</decoNote>
+              <decoNote n="122v">Decorated initial, f. 122v</decoNote>
+              <decoNote n="122v">Decorated ascender, f. 122v</decoNote>
+              <decoNote n="122v">Decorated descender, f. 122v</decoNote>
+              <decoNote n="123r">Decorated initial, f. 123r</decoNote>
+              <decoNote n="123r">Decorated descender, f. 123r</decoNote>
+              <decoNote n="123v">Decorated initial, Initial Q, f. 123v</decoNote>
+              <decoNote n="123v">Decorated ascender, f. 123v</decoNote>
+              <decoNote n="124r">Decorated initial, f. 124r</decoNote>
+              <decoNote n="124r">Decorated ascender, f. 124r</decoNote>
+              <decoNote n="124v">Decorated initial, Initial A, f. 124v</decoNote>
+              <decoNote n="124v">Decorated initial, Initial S, f. 124v</decoNote>
+              <decoNote n="124v">Decorated ascender, f. 124v</decoNote>
+              <decoNote n="124v">Decorated descender, f. 124v</decoNote>
+              <decoNote n="125r">Decorated initial, Initial S, f. 125r</decoNote>
+              <decoNote n="125r">Decorated ascender, f. 125r</decoNote>
+              <decoNote n="125v">Zoomorphic initial, Initial E, Dragon head, f. 125v</decoNote>
+              <decoNote n="126r">Decorated initial, f. 126r</decoNote>
+              <decoNote n="126r">Decorated ascender, f. 126r</decoNote>
+              <decoNote n="126v">Zoomorphic initial, Initial H, Bird, f. 126v</decoNote>
+              <decoNote n="127r">Diagram, f. 127r</decoNote>
+              <decoNote n="127v">Decorated initial, Initial D, f. 127v</decoNote>
+              <decoNote n="127v">Decorated ascender, f. 127v</decoNote>
+              <decoNote n="128r">Decorated initial, Initial C, f. 128r</decoNote>
+              <decoNote n="128r">Decorated ascender, f. 128r</decoNote>
+              <decoNote n="128v">Decorated initial, f. 128v</decoNote>
+              <decoNote n="129r">Decorated initial, Initial E, f. 129r</decoNote>
+              <decoNote n="129r">Decorated ascender, f. 129r</decoNote>
+              <decoNote n="129v">Decorated initial, Initial C, f. 129v</decoNote>
+              <decoNote n="129v">Decorated ascender, f. 129v</decoNote>
+              <decoNote n="129v">Decorated descender, f. 129v</decoNote>
+              <decoNote n="130r">Zoomorphic initial, Initial M, f. 130r</decoNote>
+              <decoNote n="130r">Decorated ascender, f. 130r</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>16th-century calf over boards, blind-stamped and -tooled, center armorial medallion of Benoît de Court (3 5-pointed stars on a shield enclosed by a wreath).</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in France, ca. 1400.</p>
+              <origDate>ca. 1400</origDate>
+              <origPlace>France</origPlace>
+            </origin>
+            <provenance>Formerly owned by Benoît le Court (binding, note of price on upper pastedown) and his son Antoine (signature Antonius Curtius Simphorianus on front flyleaf and lower pastedown, later notes in ink, f. 132v).</provenance>
+            <provenance>Formerly owned by Jehan de Gaignières (or Jean, Johannus in manuscript), procurator of the court of the Primate of Lyon (signature, f. 130r).</provenance>
+            <provenance>Sold by Librairie Thomas-Scheler (Paris), cat. Un Choix (1998), no. 1, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="keywords">
+          <category xml:id="keyword_1">
+            <catDesc>Book Type</catDesc>
+            <category xml:id="keyword_1.2">
+              <catDesc>Accounts</catDesc>
+            </category>
+            <category xml:id="keyword_1.3">
+              <catDesc>Antiphonary</catDesc>
+            </category>
+            <category xml:id="keyword_1.4">
+              <catDesc>Armorial</catDesc>
+            </category>
+            <category xml:id="keyword_1.5">
+              <catDesc>Bible</catDesc>
+            </category>
+            <category xml:id="keyword_1.6">
+              <catDesc>Biography</catDesc>
+            </category>
+            <category xml:id="keyword_1.7">
+              <catDesc>Book of Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.8">
+              <catDesc>Breviary</catDesc>
+            </category>
+            <category xml:id="keyword_1.9">
+              <catDesc>Chronicle</catDesc>
+            </category>
+            <category xml:id="keyword_1.10">
+              <catDesc>Collection of Sermons</catDesc>
+            </category>
+            <category xml:id="keyword_1.11">
+              <catDesc>Commentary</catDesc>
+            </category>
+            <category xml:id="keyword_1.12">
+              <catDesc>Dictionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.13">
+              <catDesc>Document</catDesc>
+            </category>
+            <category xml:id="keyword_1.14">
+              <catDesc>Dogale</catDesc>
+            </category>
+            <category xml:id="keyword_1.15">
+              <catDesc>Friendship book</catDesc>
+            </category>
+            <category xml:id="keyword_1.16">
+              <catDesc>Genealogy</catDesc>
+            </category>
+            <category xml:id="keyword_1.17">
+              <catDesc>Glossary</catDesc>
+            </category>
+            <category xml:id="keyword_1.18">
+              <catDesc>Gospel Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.19">
+              <catDesc>Gospels</catDesc>
+            </category>
+            <category xml:id="keyword_1.20">
+              <catDesc>Gradual</catDesc>
+            </category>
+            <category xml:id="keyword_1.22">
+              <catDesc>Haggadah</catDesc>
+            </category>
+            <category xml:id="keyword_1.23">
+              <catDesc>Homilary</catDesc>
+            </category>
+            <category xml:id="keyword_1.24">
+              <catDesc>Horologion</catDesc>
+            </category>
+            <category xml:id="keyword_1.25">
+              <catDesc>Hymnal</catDesc>
+            </category>
+            <category xml:id="keyword_1.26">
+              <catDesc>Koran</catDesc>
+            </category>
+            <category xml:id="keyword_1.27">
+              <catDesc>Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.28">
+              <catDesc>Mass book</catDesc>
+            </category>
+            <category xml:id="keyword_1.29">
+              <catDesc>Miscellany</catDesc>
+            </category>
+            <category xml:id="keyword_1.30">
+              <catDesc>Missal</catDesc>
+            </category>
+            <category xml:id="keyword_1.31">
+              <catDesc>Pontifical</catDesc>
+            </category>
+            <category xml:id="keyword_1.32">
+              <catDesc>Portolan chart</catDesc>
+            </category>
+            <category xml:id="keyword_1.33">
+              <catDesc>Prayer book</catDesc>
+            </category>
+            <category xml:id="keyword_1.34">
+              <catDesc>Private devotional text</catDesc>
+            </category>
+            <category xml:id="keyword_1.35">
+              <catDesc>Processional</catDesc>
+            </category>
+            <category xml:id="keyword_1.36">
+              <catDesc>Protective scroll</catDesc>
+            </category>
+            <category xml:id="keyword_1.37">
+              <catDesc>Psalter</catDesc>
+            </category>
+            <category xml:id="keyword_1.38">
+              <catDesc>Psalter-Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.39">
+              <catDesc>Qur`an</catDesc>
+            </category>
+            <category xml:id="keyword_1.40">
+              <catDesc>Recipe book</catDesc>
+            </category>
+            <category xml:id="keyword_1.41">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.42">
+              <catDesc>Scribal manual</catDesc>
+            </category>
+            <category xml:id="keyword_1.43">
+              <catDesc>Song book</catDesc>
+            </category>
+            <category xml:id="keyword_1.44">
+              <catDesc>Torah</catDesc>
+            </category>
+            <category xml:id="keyword_1.45">
+              <catDesc>Treatise</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_2">
+            <catDesc>Century</catDesc>
+            <category xml:id="keyword_2.2">
+              <catDesc>6th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.3">
+              <catDesc>7th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.4">
+              <catDesc>8th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.5">
+              <catDesc>9th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.6">
+              <catDesc>10th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.7">
+              <catDesc>11th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.8">
+              <catDesc>12th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.9">
+              <catDesc>13th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.10">
+              <catDesc>14th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.11">
+              <catDesc>15th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.12">
+              <catDesc>16th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.13">
+              <catDesc>17th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.14">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.15">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.16">
+              <catDesc>20th century</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_3">
+            <catDesc>Culture</catDesc>
+            <category xml:id="keyword_3.2">
+              <catDesc>Abbasid</catDesc>
+            </category>
+            <category xml:id="keyword_3.3">
+              <catDesc>Arabic</catDesc>
+            </category>
+            <category xml:id="keyword_3.4">
+              <catDesc>Armenian</catDesc>
+            </category>
+            <category xml:id="keyword_3.5">
+              <catDesc>Ashkenazi</catDesc>
+            </category>
+            <category xml:id="keyword_3.6">
+              <catDesc>Austrian</catDesc>
+            </category>
+            <category xml:id="keyword_3.7">
+              <catDesc>Byzantine</catDesc>
+            </category>
+            <category xml:id="keyword_3.8">
+              <catDesc>Carolingian</catDesc>
+            </category>
+            <category xml:id="keyword_3.9">
+              <catDesc>Chinese</catDesc>
+            </category>
+            <category xml:id="keyword_3.10">
+              <catDesc>Christian</catDesc>
+            </category>
+            <category xml:id="keyword_3.11">
+              <catDesc>Coptic</catDesc>
+            </category>
+            <category xml:id="keyword_3.12">
+              <catDesc>Dutch</catDesc>
+            </category>
+            <category xml:id="keyword_3.13">
+              <catDesc>Egyptian</catDesc>
+            </category>
+            <category xml:id="keyword_3.14">
+              <catDesc>English</catDesc>
+            </category>
+            <category xml:id="keyword_3.15">
+              <catDesc>Ethiopian</catDesc>
+            </category>
+            <category xml:id="keyword_3.16">
+              <catDesc>Fatimid</catDesc>
+            </category>
+            <category xml:id="keyword_3.17">
+              <catDesc>Flemish</catDesc>
+            </category>
+            <category xml:id="keyword_3.18">
+              <catDesc>French</catDesc>
+            </category>
+            <category xml:id="keyword_3.19">
+              <catDesc>German</catDesc>
+            </category>
+            <category xml:id="keyword_3.20">
+              <catDesc>Indian</catDesc>
+            </category>
+            <category xml:id="keyword_3.21">
+              <catDesc>Islamic</catDesc>
+            </category>
+            <category xml:id="keyword_3.22">
+              <catDesc>Italian</catDesc>
+            </category>
+            <category xml:id="keyword_3.23">
+              <catDesc>Jewish</catDesc>
+            </category>
+            <category xml:id="keyword_3.25">
+              <catDesc>Mamluk</catDesc>
+            </category>
+            <category xml:id="keyword_3.26">
+              <catDesc>Mughal</catDesc>
+            </category>
+            <category xml:id="keyword_3.27">
+              <catDesc>Ottoman</catDesc>
+            </category>
+            <category xml:id="keyword_3.28">
+              <catDesc>Ottonian</catDesc>
+            </category>
+            <category xml:id="keyword_3.29">
+              <catDesc>Persian</catDesc>
+            </category>
+            <category xml:id="keyword_3.30">
+              <catDesc>Portuguese</catDesc>
+            </category>
+            <category xml:id="keyword_3.31">
+              <catDesc>Qajar</catDesc>
+            </category>
+            <category xml:id="keyword_3.32">
+              <catDesc>Rajput</catDesc>
+            </category>
+            <category xml:id="keyword_3.33">
+              <catDesc>Russian</catDesc>
+            </category>
+            <category xml:id="keyword_3.34">
+              <catDesc>Safavid</catDesc>
+            </category>
+            <category xml:id="keyword_3.35">
+              <catDesc>Sephardi</catDesc>
+            </category>
+            <category xml:id="keyword_3.36">
+              <catDesc>Spanish</catDesc>
+            </category>
+            <category xml:id="keyword_3.37">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.38">
+              <catDesc>Turkish</catDesc>
+            </category>
+            <category xml:id="keyword_3.39">
+              <catDesc>Yemenite</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_4">
+            <catDesc>Descriptive term</catDesc>
+            <category xml:id="keyword_4.2">
+              <catDesc>Accordion book</catDesc>
+            </category>
+            <category xml:id="keyword_4.3">
+              <catDesc>Album</catDesc>
+            </category>
+            <category xml:id="keyword_4.4">
+              <catDesc>Annotated</catDesc>
+            </category>
+            <category xml:id="keyword_4.5">
+              <catDesc>Binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.6">
+              <catDesc>Calligraphy</catDesc>
+            </category>
+            <category xml:id="keyword_4.7">
+              <catDesc>Caroline minuscule</catDesc>
+            </category>
+            <category xml:id="keyword_4.8">
+              <catDesc>Chart</catDesc>
+            </category>
+            <category xml:id="keyword_4.9">
+              <catDesc>Charter</catDesc>
+            </category>
+            <category xml:id="keyword_4.10">
+              <catDesc>Colophon</catDesc>
+            </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Damage</catDesc>
+            </category>
+            <category xml:id="keyword_4.12">
+              <catDesc>Diagrams</catDesc>
+            </category>
+            <category xml:id="keyword_4.13">
+              <catDesc>Drawing</catDesc>
+            </category>
+            <category xml:id="keyword_4.14">
+              <catDesc>Early Abbasid script</catDesc>
+            </category>
+            <category xml:id="keyword_4.15">
+              <catDesc>Fragment</catDesc>
+            </category>
+            <category xml:id="keyword_4.16">
+              <catDesc>Gloss</catDesc>
+            </category>
+            <category xml:id="keyword_4.17">
+              <catDesc>Gothic</catDesc>
+            </category>
+            <category xml:id="keyword_4.18">
+              <catDesc>Gothic book hand</catDesc>
+            </category>
+            <category xml:id="keyword_4.19">
+              <catDesc>Grisaille</catDesc>
+            </category>
+            <category xml:id="keyword_4.20">
+              <catDesc>Grotesques</catDesc>
+            </category>
+            <category xml:id="keyword_4.21">
+              <catDesc>Headpiece</catDesc>
+            </category>
+            <category xml:id="keyword_4.22">
+              <catDesc>Heraldry</catDesc>
+            </category>
+            <category xml:id="keyword_4.23">
+              <catDesc>Historiated initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.24">
+              <catDesc>Humanistic</catDesc>
+            </category>
+            <category xml:id="keyword_4.25">
+              <catDesc>Illumination</catDesc>
+            </category>
+            <category xml:id="keyword_4.26">
+              <catDesc>Illustration</catDesc>
+            </category>
+            <category xml:id="keyword_4.27">
+              <catDesc>Inhabited initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.28">
+              <catDesc>Kufic</catDesc>
+            </category>
+            <category xml:id="keyword_4.29">
+              <catDesc>Manicules</catDesc>
+            </category>
+            <category xml:id="keyword_4.30">
+              <catDesc>Medallion</catDesc>
+            </category>
+            <category xml:id="keyword_4.31">
+              <catDesc>Micrography</catDesc>
+            </category>
+            <category xml:id="keyword_4.32">
+              <catDesc>Miniature</catDesc>
+            </category>
+            <category xml:id="keyword_4.33">
+              <catDesc>Missing leaves</catDesc>
+            </category>
+            <category xml:id="keyword_4.34">
+              <catDesc>Musical notation</catDesc>
+            </category>
+            <category xml:id="keyword_4.35">
+              <catDesc>New Abbasid style</catDesc>
+            </category>
+            <category xml:id="keyword_4.36">
+              <catDesc>Notable binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.37">
+              <catDesc>Original binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.38">
+              <catDesc>Ornament</catDesc>
+            </category>
+            <category xml:id="keyword_4.39">
+              <catDesc>Painting</catDesc>
+            </category>
+            <category xml:id="keyword_4.40">
+              <catDesc>Palimpsest</catDesc>
+            </category>
+            <category xml:id="keyword_4.41">
+              <catDesc>Paper</catDesc>
+            </category>
+            <category xml:id="keyword_4.42">
+              <catDesc>Penwork initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.43">
+              <catDesc>Puzzle initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.44">
+              <catDesc>Ragini</catDesc>
+            </category>
+            <category xml:id="keyword_4.45">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.46">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.47">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.48">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.49">
+              <catDesc>Seals</catDesc>
+            </category>
+            <category xml:id="keyword_4.50">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_4.51">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.52">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.53">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.54">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.55">
+              <catDesc>Woodcuts</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_5">
+            <catDesc>Geography</catDesc>
+            <category xml:id="keyword_5.2">
+              <catDesc>Afghanistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.3">
+              <catDesc>Armenia</catDesc>
+            </category>
+            <category xml:id="keyword_5.4">
+              <catDesc>Austria</catDesc>
+            </category>
+            <category xml:id="keyword_5.5">
+              <catDesc>Belgium</catDesc>
+            </category>
+            <category xml:id="keyword_5.6">
+              <catDesc>Central Arab lands (Near East)</catDesc>
+            </category>
+            <category xml:id="keyword_5.7">
+              <catDesc>Central Asia</catDesc>
+            </category>
+            <category xml:id="keyword_5.8">
+              <catDesc>China</catDesc>
+            </category>
+            <category xml:id="keyword_5.9">
+              <catDesc>Egypt</catDesc>
+            </category>
+            <category xml:id="keyword_5.10">
+              <catDesc>England</catDesc>
+            </category>
+            <category xml:id="keyword_5.11">
+              <catDesc>Ethiopia</catDesc>
+            </category>
+            <category xml:id="keyword_5.12">
+              <catDesc>Flanders</catDesc>
+            </category>
+            <category xml:id="keyword_5.13">
+              <catDesc>France</catDesc>
+            </category>
+            <category xml:id="keyword_5.14">
+              <catDesc>Germany</catDesc>
+            </category>
+            <category xml:id="keyword_5.15">
+              <catDesc>Greece</catDesc>
+            </category>
+            <category xml:id="keyword_5.16">
+              <catDesc>India</catDesc>
+            </category>
+            <category xml:id="keyword_5.17">
+              <catDesc>Iran</catDesc>
+            </category>
+            <category xml:id="keyword_5.18">
+              <catDesc>Iraq</catDesc>
+            </category>
+            <category xml:id="keyword_5.19">
+              <catDesc>Israel</catDesc>
+            </category>
+            <category xml:id="keyword_5.20">
+              <catDesc>Italy</catDesc>
+            </category>
+            <category xml:id="keyword_5.21">
+              <catDesc>Maghreb</catDesc>
+            </category>
+            <category xml:id="keyword_5.22">
+              <catDesc>Morocco</catDesc>
+            </category>
+            <category xml:id="keyword_5.23">
+              <catDesc>Netherlands</catDesc>
+            </category>
+            <category xml:id="keyword_5.24">
+              <catDesc>Pakistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.25">
+              <catDesc>Portugal</catDesc>
+            </category>
+            <category xml:id="keyword_5.26">
+              <catDesc>Romania</catDesc>
+            </category>
+            <category xml:id="keyword_5.27">
+              <catDesc>Russia</catDesc>
+            </category>
+            <category xml:id="keyword_5.28">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.29">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.30">
+              <catDesc>Turkey</catDesc>
+            </category>
+            <category xml:id="keyword_5.31">
+              <catDesc>Wales</catDesc>
+            </category>
+            <category xml:id="keyword_5.32">
+              <catDesc>Yemen</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_6">
+            <catDesc>Other</catDesc>
+            <category xml:id="keyword_6.2">
+              <catDesc>Alchemy</catDesc>
+            </category>
+            <category xml:id="keyword_6.3">
+              <catDesc>Allegory</catDesc>
+            </category>
+            <category xml:id="keyword_6.4">
+              <catDesc>Astrology</catDesc>
+            </category>
+            <category xml:id="keyword_6.5">
+              <catDesc>Astronomy</catDesc>
+            </category>
+            <category xml:id="keyword_6.6">
+              <catDesc>Biblical</catDesc>
+            </category>
+            <category xml:id="keyword_6.7">
+              <catDesc>Binding waste</catDesc>
+            </category>
+            <category xml:id="keyword_6.8">
+              <catDesc>Cartography</catDesc>
+            </category>
+            <category xml:id="keyword_6.9">
+              <catDesc>Church Fathers</catDesc>
+            </category>
+            <category xml:id="keyword_6.10">
+              <catDesc>Cosmology</catDesc>
+            </category>
+            <category xml:id="keyword_6.11">
+              <catDesc>Devotion</catDesc>
+            </category>
+            <category xml:id="keyword_6.12">
+              <catDesc>Financial records</catDesc>
+            </category>
+            <category xml:id="keyword_6.13">
+              <catDesc>Fortune-telling</catDesc>
+            </category>
+            <category xml:id="keyword_6.14">
+              <catDesc>Friendship</catDesc>
+            </category>
+            <category xml:id="keyword_6.15">
+              <catDesc>Games</catDesc>
+            </category>
+            <category xml:id="keyword_6.16">
+              <catDesc>Geography</catDesc>
+            </category>
+            <category xml:id="keyword_6.17">
+              <catDesc>Geomancy</catDesc>
+            </category>
+            <category xml:id="keyword_6.18">
+              <catDesc>Grammar</catDesc>
+            </category>
+            <category xml:id="keyword_6.19">
+              <catDesc>History</catDesc>
+            </category>
+            <category xml:id="keyword_6.20">
+              <catDesc>Kabbalah</catDesc>
+            </category>
+            <category xml:id="keyword_6.21">
+              <catDesc>Legal</catDesc>
+            </category>
+            <category xml:id="keyword_6.22">
+              <catDesc>Literature -- Poetry</catDesc>
+            </category>
+            <category xml:id="keyword_6.23">
+              <catDesc>Literature -- Prose</catDesc>
+            </category>
+            <category xml:id="keyword_6.24">
+              <catDesc>Liturgy</catDesc>
+            </category>
+            <category xml:id="keyword_6.25">
+              <catDesc>Logic</catDesc>
+            </category>
+            <category xml:id="keyword_6.26">
+              <catDesc>Magic</catDesc>
+            </category>
+            <category xml:id="keyword_6.27">
+              <catDesc>Maritime</catDesc>
+            </category>
+            <category xml:id="keyword_6.28">
+              <catDesc>Mathematics</catDesc>
+            </category>
+            <category xml:id="keyword_6.29">
+              <catDesc>Mineralogy</catDesc>
+            </category>
+            <category xml:id="keyword_6.30">
+              <catDesc>Philosophy</catDesc>
+            </category>
+            <category xml:id="keyword_6.31">
+              <catDesc>Piyutim</catDesc>
+            </category>
+            <category xml:id="keyword_6.32">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.33">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.34">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.35">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.36">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.37">
+              <catDesc>Theology</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_7">
+            <catDesc/>
+            <category xml:id="keyword_7.1">
+              <catDesc> </catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Astronomy--Early works to 1800</term>
+          <term>Cosmology--Early works to 1800</term>
+          <term>Geography--Early works to 1800</term>
+          <term>Geography, Medieval</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Diagrams</term>
+          <term>Illuminations</term>
+          <term>Poems</term>
+          <term>Manuscripts, French--14th century</term>
+          <term>Manuscripts, French--15th century</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+        <keywords n="keywords">
+          <term>14th century</term>
+          <term>15th century</term>
+          <term>French</term>
+          <term>France</term>
+          <term>Diagrams</term>
+          <term>Illumination</term>
+          <term>Astronomy</term>
+          <term>Cosmology</term>
+          <term>Geography</term>
+          <term>Illustration</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-ljs-264-1">
+      <graphic height="3903px" url="master/0081_0000.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0000_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0000_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-ljs-264-2">
+      <graphic height="3903px" url="master/0081_0001.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0001_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0001_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-264-3">
+      <graphic height="3903px" url="master/0081_0002.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0002_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0002_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-264-4">
+      <graphic height="3903px" url="master/0081_0003.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0003_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0003_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="1r" xml:id="surface-ljs-264-5">
+      <graphic height="3903px" url="master/0081_0004.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0004_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0004_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ljs-264-6">
+      <graphic height="3903px" url="master/0081_0005.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0005_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0005_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-ljs-264-7">
+      <graphic height="3903px" url="master/0081_0006.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0006_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0006_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ljs-264-8">
+      <graphic height="3903px" url="master/0081_0007.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0007_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0007_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="3r" xml:id="surface-ljs-264-9">
+      <graphic height="3903px" url="master/0081_0008.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0008_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0008_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-ljs-264-10">
+      <graphic height="3903px" url="master/0081_0009.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0009_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0009_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="4r" xml:id="surface-ljs-264-11">
+      <graphic height="3903px" url="master/0081_0010.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0010_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0010_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ljs-264-12">
+      <graphic height="3903px" url="master/0081_0011.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0011_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0011_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="5r" xml:id="surface-ljs-264-13">
+      <graphic height="3903px" url="master/0081_0012.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0012_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0012_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="5v" xml:id="surface-ljs-264-14">
+      <graphic height="3903px" url="master/0081_0013.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0013_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0013_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="6r" xml:id="surface-ljs-264-15">
+      <graphic height="3903px" url="master/0081_0014.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0014_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0014_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="6v" xml:id="surface-ljs-264-16">
+      <graphic height="3903px" url="master/0081_0015.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0015_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0015_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="7r" xml:id="surface-ljs-264-17">
+      <graphic height="3903px" url="master/0081_0016.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0016_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0016_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="7v" xml:id="surface-ljs-264-18">
+      <graphic height="3903px" url="master/0081_0017.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0017_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0017_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="8r" xml:id="surface-ljs-264-19">
+      <graphic height="3903px" url="master/0081_0018.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0018_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0018_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="8v" xml:id="surface-ljs-264-20">
+      <graphic height="3903px" url="master/0081_0019.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0019_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0019_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="9r" xml:id="surface-ljs-264-21">
+      <graphic height="3903px" url="master/0081_0020.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0020_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0020_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="9v" xml:id="surface-ljs-264-22">
+      <graphic height="3903px" url="master/0081_0021.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0021_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0021_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="10r" xml:id="surface-ljs-264-23">
+      <graphic height="3903px" url="master/0081_0022.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0022_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0022_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="10v" xml:id="surface-ljs-264-24">
+      <graphic height="3903px" url="master/0081_0023.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0023_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0023_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="11r" xml:id="surface-ljs-264-25">
+      <graphic height="3903px" url="master/0081_0024.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0024_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0024_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="11v" xml:id="surface-ljs-264-26">
+      <graphic height="3903px" url="master/0081_0025.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0025_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0025_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="12r" xml:id="surface-ljs-264-27">
+      <graphic height="3903px" url="master/0081_0026.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0026_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0026_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="12v" xml:id="surface-ljs-264-28">
+      <graphic height="3903px" url="master/0081_0027.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0027_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0027_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="13r" xml:id="surface-ljs-264-29">
+      <graphic height="3903px" url="master/0081_0028.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0028_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0028_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="13v" xml:id="surface-ljs-264-30">
+      <graphic height="3903px" url="master/0081_0029.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0029_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0029_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="14r" xml:id="surface-ljs-264-31">
+      <graphic height="3903px" url="master/0081_0030.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0030_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0030_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="14v" xml:id="surface-ljs-264-32">
+      <graphic height="3903px" url="master/0081_0031.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0031_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0031_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="15r" xml:id="surface-ljs-264-33">
+      <graphic height="3903px" url="master/0081_0032.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0032_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0032_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="15v" xml:id="surface-ljs-264-34">
+      <graphic height="3903px" url="master/0081_0033.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0033_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0033_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="16r" xml:id="surface-ljs-264-35">
+      <graphic height="3903px" url="master/0081_0034.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0034_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0034_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="16v" xml:id="surface-ljs-264-36">
+      <graphic height="3903px" url="master/0081_0035.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0035_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0035_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="17r" xml:id="surface-ljs-264-37">
+      <graphic height="3903px" url="master/0081_0036.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0036_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0036_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="17v" xml:id="surface-ljs-264-38">
+      <graphic height="3903px" url="master/0081_0037.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0037_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0037_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="18r" xml:id="surface-ljs-264-39">
+      <graphic height="3903px" url="master/0081_0038.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0038_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0038_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="18v" xml:id="surface-ljs-264-40">
+      <graphic height="3903px" url="master/0081_0039.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0039_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0039_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="19r" xml:id="surface-ljs-264-41">
+      <graphic height="3903px" url="master/0081_0040.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0040_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0040_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="19v" xml:id="surface-ljs-264-42">
+      <graphic height="3903px" url="master/0081_0041.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0041_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0041_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="20r" xml:id="surface-ljs-264-43">
+      <graphic height="3903px" url="master/0081_0042.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0042_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0042_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="20v" xml:id="surface-ljs-264-44">
+      <graphic height="3903px" url="master/0081_0043.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0043_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0043_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="21r" xml:id="surface-ljs-264-45">
+      <graphic height="3903px" url="master/0081_0044.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0044_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0044_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="21v" xml:id="surface-ljs-264-46">
+      <graphic height="3903px" url="master/0081_0045.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0045_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0045_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="22r" xml:id="surface-ljs-264-47">
+      <graphic height="3903px" url="master/0081_0046.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0046_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0046_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="22v" xml:id="surface-ljs-264-48">
+      <graphic height="3903px" url="master/0081_0047.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0047_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0047_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="23r" xml:id="surface-ljs-264-49">
+      <graphic height="3903px" url="master/0081_0048.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0048_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0048_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="23v" xml:id="surface-ljs-264-50">
+      <graphic height="3903px" url="master/0081_0049.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0049_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0049_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="24r" xml:id="surface-ljs-264-51">
+      <graphic height="3903px" url="master/0081_0050.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0050_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0050_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="24v" xml:id="surface-ljs-264-52">
+      <graphic height="3903px" url="master/0081_0051.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0051_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0051_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="25r" xml:id="surface-ljs-264-53">
+      <graphic height="3903px" url="master/0081_0052.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0052_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0052_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="25v" xml:id="surface-ljs-264-54">
+      <graphic height="3903px" url="master/0081_0053.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0053_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0053_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="26r" xml:id="surface-ljs-264-55">
+      <graphic height="3903px" url="master/0081_0054.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0054_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0054_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="26v" xml:id="surface-ljs-264-56">
+      <graphic height="3903px" url="master/0081_0055.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0055_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0055_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="27r" xml:id="surface-ljs-264-57">
+      <graphic height="3903px" url="master/0081_0056.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0056_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0056_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="27v" xml:id="surface-ljs-264-58">
+      <graphic height="3903px" url="master/0081_0057.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0057_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0057_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="28r" xml:id="surface-ljs-264-59">
+      <graphic height="3903px" url="master/0081_0058.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0058_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0058_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="28v" xml:id="surface-ljs-264-60">
+      <graphic height="3903px" url="master/0081_0059.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0059_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0059_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="29r" xml:id="surface-ljs-264-61">
+      <graphic height="3903px" url="master/0081_0060.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0060_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0060_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="29v" xml:id="surface-ljs-264-62">
+      <graphic height="3903px" url="master/0081_0061.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0061_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0061_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="30r" xml:id="surface-ljs-264-63">
+      <graphic height="3903px" url="master/0081_0062.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0062_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0062_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="30v" xml:id="surface-ljs-264-64">
+      <graphic height="3903px" url="master/0081_0063.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0063_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0063_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="31r" xml:id="surface-ljs-264-65">
+      <graphic height="3903px" url="master/0081_0064.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0064_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0064_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="31v" xml:id="surface-ljs-264-66">
+      <graphic height="3903px" url="master/0081_0065.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0065_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0065_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="32r" xml:id="surface-ljs-264-67">
+      <graphic height="3903px" url="master/0081_0066.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0066_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0066_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="32v" xml:id="surface-ljs-264-68">
+      <graphic height="3903px" url="master/0081_0067.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0067_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0067_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="33r" xml:id="surface-ljs-264-69">
+      <graphic height="3903px" url="master/0081_0068.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0068_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0068_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="33v" xml:id="surface-ljs-264-70">
+      <graphic height="3903px" url="master/0081_0069.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0069_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0069_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="34r" xml:id="surface-ljs-264-71">
+      <graphic height="3903px" url="master/0081_0070.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0070_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0070_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="34v" xml:id="surface-ljs-264-72">
+      <graphic height="3903px" url="master/0081_0071.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0071_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0071_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="35r" xml:id="surface-ljs-264-73">
+      <graphic height="3903px" url="master/0081_0072.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0072_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0072_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="35v" xml:id="surface-ljs-264-74">
+      <graphic height="3903px" url="master/0081_0073.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0073_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0073_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="36r" xml:id="surface-ljs-264-75">
+      <graphic height="3903px" url="master/0081_0074.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0074_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0074_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="36v" xml:id="surface-ljs-264-76">
+      <graphic height="3903px" url="master/0081_0075.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0075_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0075_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="37r" xml:id="surface-ljs-264-77">
+      <graphic height="3903px" url="master/0081_0076.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0076_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0076_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="37v" xml:id="surface-ljs-264-78">
+      <graphic height="3903px" url="master/0081_0077.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0077_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0077_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="38r" xml:id="surface-ljs-264-79">
+      <graphic height="3903px" url="master/0081_0078.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0078_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0078_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="38v" xml:id="surface-ljs-264-80">
+      <graphic height="3903px" url="master/0081_0079.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0079_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0079_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="39r" xml:id="surface-ljs-264-81">
+      <graphic height="3903px" url="master/0081_0080.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0080_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0080_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="39v" xml:id="surface-ljs-264-82">
+      <graphic height="3903px" url="master/0081_0081.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0081_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0081_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="40r" xml:id="surface-ljs-264-83">
+      <graphic height="3903px" url="master/0081_0082.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0082_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0082_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="40v" xml:id="surface-ljs-264-84">
+      <graphic height="3903px" url="master/0081_0083.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0083_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0083_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="41r" xml:id="surface-ljs-264-85">
+      <graphic height="3903px" url="master/0081_0084.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0084_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0084_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="41v" xml:id="surface-ljs-264-86">
+      <graphic height="3903px" url="master/0081_0085.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0085_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0085_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="42r" xml:id="surface-ljs-264-87">
+      <graphic height="3903px" url="master/0081_0086.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0086_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0086_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="42v" xml:id="surface-ljs-264-88">
+      <graphic height="3903px" url="master/0081_0087.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0087_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0087_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="43r" xml:id="surface-ljs-264-89">
+      <graphic height="3903px" url="master/0081_0088.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0088_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0088_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="43v" xml:id="surface-ljs-264-90">
+      <graphic height="3903px" url="master/0081_0089.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0089_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0089_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="44r" xml:id="surface-ljs-264-91">
+      <graphic height="3903px" url="master/0081_0090.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0090_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0090_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="44v" xml:id="surface-ljs-264-92">
+      <graphic height="3903px" url="master/0081_0091.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0091_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0091_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="45r" xml:id="surface-ljs-264-93">
+      <graphic height="3903px" url="master/0081_0092.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0092_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0092_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="45v" xml:id="surface-ljs-264-94">
+      <graphic height="3903px" url="master/0081_0093.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0093_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0093_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="46r" xml:id="surface-ljs-264-95">
+      <graphic height="3903px" url="master/0081_0094.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0094_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0094_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="46v" xml:id="surface-ljs-264-96">
+      <graphic height="3903px" url="master/0081_0095.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0095_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0095_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="47r" xml:id="surface-ljs-264-97">
+      <graphic height="3903px" url="master/0081_0096.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0096_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0096_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="47v" xml:id="surface-ljs-264-98">
+      <graphic height="3903px" url="master/0081_0097.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0097_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0097_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="48r" xml:id="surface-ljs-264-99">
+      <graphic height="3903px" url="master/0081_0098.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0098_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0098_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="48v" xml:id="surface-ljs-264-100">
+      <graphic height="3903px" url="master/0081_0099.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0099_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0099_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="49r" xml:id="surface-ljs-264-101">
+      <graphic height="3903px" url="master/0081_0100.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0100_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0100_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="49v" xml:id="surface-ljs-264-102">
+      <graphic height="3903px" url="master/0081_0101.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0101_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0101_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="50r" xml:id="surface-ljs-264-103">
+      <graphic height="3903px" url="master/0081_0102.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0102_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0102_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="50v" xml:id="surface-ljs-264-104">
+      <graphic height="3903px" url="master/0081_0103.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0103_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0103_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="51r" xml:id="surface-ljs-264-105">
+      <graphic height="3903px" url="master/0081_0104.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0104_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0104_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="51v" xml:id="surface-ljs-264-106">
+      <graphic height="3903px" url="master/0081_0105.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0105_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0105_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="52r" xml:id="surface-ljs-264-107">
+      <graphic height="3903px" url="master/0081_0106.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0106_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0106_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="52v" xml:id="surface-ljs-264-108">
+      <graphic height="3903px" url="master/0081_0107.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0107_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0107_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="53r" xml:id="surface-ljs-264-109">
+      <graphic height="3903px" url="master/0081_0108.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0108_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0108_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="53v" xml:id="surface-ljs-264-110">
+      <graphic height="3903px" url="master/0081_0109.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0109_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0109_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="54r" xml:id="surface-ljs-264-111">
+      <graphic height="3903px" url="master/0081_0110.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0110_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0110_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="54v" xml:id="surface-ljs-264-112">
+      <graphic height="3903px" url="master/0081_0111.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0111_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0111_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="55r" xml:id="surface-ljs-264-113">
+      <graphic height="3903px" url="master/0081_0112.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0112_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0112_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="55v" xml:id="surface-ljs-264-114">
+      <graphic height="3903px" url="master/0081_0113.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0113_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0113_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="56r" xml:id="surface-ljs-264-115">
+      <graphic height="3903px" url="master/0081_0114.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0114_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0114_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="56v" xml:id="surface-ljs-264-116">
+      <graphic height="3903px" url="master/0081_0115.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0115_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0115_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="57r" xml:id="surface-ljs-264-117">
+      <graphic height="3903px" url="master/0081_0116.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0116_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0116_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="57v" xml:id="surface-ljs-264-118">
+      <graphic height="3903px" url="master/0081_0117.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0117_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0117_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="58r" xml:id="surface-ljs-264-119">
+      <graphic height="3903px" url="master/0081_0118.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0118_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0118_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="58v" xml:id="surface-ljs-264-120">
+      <graphic height="3903px" url="master/0081_0119.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0119_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0119_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="59r" xml:id="surface-ljs-264-121">
+      <graphic height="3903px" url="master/0081_0120.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0120_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0120_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="59v" xml:id="surface-ljs-264-122">
+      <graphic height="3903px" url="master/0081_0121.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0121_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0121_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="60r" xml:id="surface-ljs-264-123">
+      <graphic height="3903px" url="master/0081_0122.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0122_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0122_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="60v" xml:id="surface-ljs-264-124">
+      <graphic height="3903px" url="master/0081_0123.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0123_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0123_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="61r" xml:id="surface-ljs-264-125">
+      <graphic height="3903px" url="master/0081_0124.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0124_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0124_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="61v" xml:id="surface-ljs-264-126">
+      <graphic height="3903px" url="master/0081_0125.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0125_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0125_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="62r" xml:id="surface-ljs-264-127">
+      <graphic height="3903px" url="master/0081_0126.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0126_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0126_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="62v" xml:id="surface-ljs-264-128">
+      <graphic height="3903px" url="master/0081_0127.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0127_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0127_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="63r" xml:id="surface-ljs-264-129">
+      <graphic height="3903px" url="master/0081_0128.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0128_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0128_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="63v" xml:id="surface-ljs-264-130">
+      <graphic height="3903px" url="master/0081_0129.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0129_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0129_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="64r" xml:id="surface-ljs-264-131">
+      <graphic height="3903px" url="master/0081_0130.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0130_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0130_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="64v" xml:id="surface-ljs-264-132">
+      <graphic height="3903px" url="master/0081_0131.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0131_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0131_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="65r" xml:id="surface-ljs-264-133">
+      <graphic height="3903px" url="master/0081_0132.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0132_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0132_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="65v" xml:id="surface-ljs-264-134">
+      <graphic height="3903px" url="master/0081_0133.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0133_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0133_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="66r" xml:id="surface-ljs-264-135">
+      <graphic height="3903px" url="master/0081_0134.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0134_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0134_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="66v" xml:id="surface-ljs-264-136">
+      <graphic height="3903px" url="master/0081_0135.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0135_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0135_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="67r" xml:id="surface-ljs-264-137">
+      <graphic height="3903px" url="master/0081_0136.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0136_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0136_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="67v" xml:id="surface-ljs-264-138">
+      <graphic height="3903px" url="master/0081_0137.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0137_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0137_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="68r" xml:id="surface-ljs-264-139">
+      <graphic height="3903px" url="master/0081_0138.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0138_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0138_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="68v" xml:id="surface-ljs-264-140">
+      <graphic height="3903px" url="master/0081_0139.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0139_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0139_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="69r" xml:id="surface-ljs-264-141">
+      <graphic height="3903px" url="master/0081_0140.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0140_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0140_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="69v" xml:id="surface-ljs-264-142">
+      <graphic height="3903px" url="master/0081_0141.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0141_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0141_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="70r" xml:id="surface-ljs-264-143">
+      <graphic height="3903px" url="master/0081_0142.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0142_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0142_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="70v" xml:id="surface-ljs-264-144">
+      <graphic height="3903px" url="master/0081_0143.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0143_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0143_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="71r" xml:id="surface-ljs-264-145">
+      <graphic height="3903px" url="master/0081_0144.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0144_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0144_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="71v" xml:id="surface-ljs-264-146">
+      <graphic height="3903px" url="master/0081_0145.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0145_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0145_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="72r" xml:id="surface-ljs-264-147">
+      <graphic height="3903px" url="master/0081_0146.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0146_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0146_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="72v" xml:id="surface-ljs-264-148">
+      <graphic height="3903px" url="master/0081_0147.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0147_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0147_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="73r" xml:id="surface-ljs-264-149">
+      <graphic height="3903px" url="master/0081_0148.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0148_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0148_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="73v" xml:id="surface-ljs-264-150">
+      <graphic height="3903px" url="master/0081_0149.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0149_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0149_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="74r" xml:id="surface-ljs-264-151">
+      <graphic height="3903px" url="master/0081_0150.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0150_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0150_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="74v" xml:id="surface-ljs-264-152">
+      <graphic height="3903px" url="master/0081_0151.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0151_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0151_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="75r" xml:id="surface-ljs-264-153">
+      <graphic height="3903px" url="master/0081_0152.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0152_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0152_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="75v" xml:id="surface-ljs-264-154">
+      <graphic height="3903px" url="master/0081_0153.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0153_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0153_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="76r" xml:id="surface-ljs-264-155">
+      <graphic height="3903px" url="master/0081_0154.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0154_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0154_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="76v" xml:id="surface-ljs-264-156">
+      <graphic height="3903px" url="master/0081_0155.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0155_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0155_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="77r" xml:id="surface-ljs-264-157">
+      <graphic height="3903px" url="master/0081_0156.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0156_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0156_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="77v" xml:id="surface-ljs-264-158">
+      <graphic height="3903px" url="master/0081_0157.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0157_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0157_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="78r" xml:id="surface-ljs-264-159">
+      <graphic height="3903px" url="master/0081_0158.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0158_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0158_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="78v" xml:id="surface-ljs-264-160">
+      <graphic height="3903px" url="master/0081_0159.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0159_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0159_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="79r" xml:id="surface-ljs-264-161">
+      <graphic height="3903px" url="master/0081_0160.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0160_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0160_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="79v" xml:id="surface-ljs-264-162">
+      <graphic height="3903px" url="master/0081_0161.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0161_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0161_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="80r" xml:id="surface-ljs-264-163">
+      <graphic height="3903px" url="master/0081_0162.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0162_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0162_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="80v" xml:id="surface-ljs-264-164">
+      <graphic height="3903px" url="master/0081_0163.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0163_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0163_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="81r" xml:id="surface-ljs-264-165">
+      <graphic height="3903px" url="master/0081_0164.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0164_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0164_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="81v" xml:id="surface-ljs-264-166">
+      <graphic height="3903px" url="master/0081_0165.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0165_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0165_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="82r" xml:id="surface-ljs-264-167">
+      <graphic height="3903px" url="master/0081_0166.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0166_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0166_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="82v" xml:id="surface-ljs-264-168">
+      <graphic height="3903px" url="master/0081_0167.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0167_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0167_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="83r" xml:id="surface-ljs-264-169">
+      <graphic height="3903px" url="master/0081_0168.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0168_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0168_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="83v" xml:id="surface-ljs-264-170">
+      <graphic height="3903px" url="master/0081_0169.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0169_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0169_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="84r" xml:id="surface-ljs-264-171">
+      <graphic height="3903px" url="master/0081_0170.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0170_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0170_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="84v" xml:id="surface-ljs-264-172">
+      <graphic height="3903px" url="master/0081_0171.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0171_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0171_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="85r" xml:id="surface-ljs-264-173">
+      <graphic height="3903px" url="master/0081_0172.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0172_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0172_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="85v" xml:id="surface-ljs-264-174">
+      <graphic height="3903px" url="master/0081_0173.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0173_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0173_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="86r" xml:id="surface-ljs-264-175">
+      <graphic height="3903px" url="master/0081_0174.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0174_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0174_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="86v" xml:id="surface-ljs-264-176">
+      <graphic height="3903px" url="master/0081_0175.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0175_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0175_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="87r" xml:id="surface-ljs-264-177">
+      <graphic height="3903px" url="master/0081_0176.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0176_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0176_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="87v" xml:id="surface-ljs-264-178">
+      <graphic height="3903px" url="master/0081_0177.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0177_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0177_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="88r" xml:id="surface-ljs-264-179">
+      <graphic height="3903px" url="master/0081_0178.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0178_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0178_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="88v" xml:id="surface-ljs-264-180">
+      <graphic height="3903px" url="master/0081_0179.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0179_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0179_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="89r" xml:id="surface-ljs-264-181">
+      <graphic height="3903px" url="master/0081_0180.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0180_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0180_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="89v" xml:id="surface-ljs-264-182">
+      <graphic height="3903px" url="master/0081_0181.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0181_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0181_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="90r" xml:id="surface-ljs-264-183">
+      <graphic height="3903px" url="master/0081_0182.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0182_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0182_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="90v" xml:id="surface-ljs-264-184">
+      <graphic height="3903px" url="master/0081_0183.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0183_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0183_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="91r" xml:id="surface-ljs-264-185">
+      <graphic height="3903px" url="master/0081_0184.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0184_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0184_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="91v" xml:id="surface-ljs-264-186">
+      <graphic height="3903px" url="master/0081_0185.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0185_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0185_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="92r" xml:id="surface-ljs-264-187">
+      <graphic height="3903px" url="master/0081_0186.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0186_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0186_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="92v" xml:id="surface-ljs-264-188">
+      <graphic height="3903px" url="master/0081_0187.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0187_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0187_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="93r" xml:id="surface-ljs-264-189">
+      <graphic height="3903px" url="master/0081_0188.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0188_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0188_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="93v" xml:id="surface-ljs-264-190">
+      <graphic height="3903px" url="master/0081_0189.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0189_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0189_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="94r" xml:id="surface-ljs-264-191">
+      <graphic height="3903px" url="master/0081_0190.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0190_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0190_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="94v" xml:id="surface-ljs-264-192">
+      <graphic height="3903px" url="master/0081_0191.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0191_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0191_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="95r" xml:id="surface-ljs-264-193">
+      <graphic height="3903px" url="master/0081_0192.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0192_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0192_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="95v" xml:id="surface-ljs-264-194">
+      <graphic height="3903px" url="master/0081_0193.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0193_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0193_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="96r" xml:id="surface-ljs-264-195">
+      <graphic height="3903px" url="master/0081_0194.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0194_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0194_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="96v" xml:id="surface-ljs-264-196">
+      <graphic height="3903px" url="master/0081_0195.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0195_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0195_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="97r" xml:id="surface-ljs-264-197">
+      <graphic height="3903px" url="master/0081_0196.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0196_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0196_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="97v" xml:id="surface-ljs-264-198">
+      <graphic height="3903px" url="master/0081_0197.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0197_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0197_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="98r" xml:id="surface-ljs-264-199">
+      <graphic height="3903px" url="master/0081_0198.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0198_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0198_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="98v" xml:id="surface-ljs-264-200">
+      <graphic height="3903px" url="master/0081_0199.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0199_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0199_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="99r" xml:id="surface-ljs-264-201">
+      <graphic height="3903px" url="master/0081_0200.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0200_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0200_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="99v" xml:id="surface-ljs-264-202">
+      <graphic height="3903px" url="master/0081_0201.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0201_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0201_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="100r" xml:id="surface-ljs-264-203">
+      <graphic height="3903px" url="master/0081_0202.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0202_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0202_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="100v" xml:id="surface-ljs-264-204">
+      <graphic height="3903px" url="master/0081_0203.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0203_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0203_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="101r" xml:id="surface-ljs-264-205">
+      <graphic height="3903px" url="master/0081_0204.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0204_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0204_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="101v" xml:id="surface-ljs-264-206">
+      <graphic height="3903px" url="master/0081_0205.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0205_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0205_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="102r" xml:id="surface-ljs-264-207">
+      <graphic height="3903px" url="master/0081_0206.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0206_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0206_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="102v" xml:id="surface-ljs-264-208">
+      <graphic height="3903px" url="master/0081_0207.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0207_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0207_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="103r" xml:id="surface-ljs-264-209">
+      <graphic height="3903px" url="master/0081_0208.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0208_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0208_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="103v" xml:id="surface-ljs-264-210">
+      <graphic height="3903px" url="master/0081_0209.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0209_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0209_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="104r" xml:id="surface-ljs-264-211">
+      <graphic height="3903px" url="master/0081_0210.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0210_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0210_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="104v" xml:id="surface-ljs-264-212">
+      <graphic height="3903px" url="master/0081_0211.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0211_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0211_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="105r" xml:id="surface-ljs-264-213">
+      <graphic height="3903px" url="master/0081_0212.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0212_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0212_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="105v" xml:id="surface-ljs-264-214">
+      <graphic height="3903px" url="master/0081_0213.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0213_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0213_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="106r" xml:id="surface-ljs-264-215">
+      <graphic height="3903px" url="master/0081_0214.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0214_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0214_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="106v" xml:id="surface-ljs-264-216">
+      <graphic height="3903px" url="master/0081_0215.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0215_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0215_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="107r" xml:id="surface-ljs-264-217">
+      <graphic height="3903px" url="master/0081_0216.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0216_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0216_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="107v" xml:id="surface-ljs-264-218">
+      <graphic height="3903px" url="master/0081_0217.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0217_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0217_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="108r" xml:id="surface-ljs-264-219">
+      <graphic height="3903px" url="master/0081_0218.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0218_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0218_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="108v" xml:id="surface-ljs-264-220">
+      <graphic height="3903px" url="master/0081_0219.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0219_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0219_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="109r" xml:id="surface-ljs-264-221">
+      <graphic height="3903px" url="master/0081_0220.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0220_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0220_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="109v" xml:id="surface-ljs-264-222">
+      <graphic height="3903px" url="master/0081_0221.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0221_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0221_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="110r" xml:id="surface-ljs-264-223">
+      <graphic height="3903px" url="master/0081_0222.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0222_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0222_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="110v" xml:id="surface-ljs-264-224">
+      <graphic height="3903px" url="master/0081_0223.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0223_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0223_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="111r" xml:id="surface-ljs-264-225">
+      <graphic height="3903px" url="master/0081_0224.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0224_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0224_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="111v" xml:id="surface-ljs-264-226">
+      <graphic height="3903px" url="master/0081_0225.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0225_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0225_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="112r" xml:id="surface-ljs-264-227">
+      <graphic height="3903px" url="master/0081_0226.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0226_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0226_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="112v" xml:id="surface-ljs-264-228">
+      <graphic height="3903px" url="master/0081_0227.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0227_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0227_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="113r" xml:id="surface-ljs-264-229">
+      <graphic height="3903px" url="master/0081_0228.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0228_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0228_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="113v" xml:id="surface-ljs-264-230">
+      <graphic height="3903px" url="master/0081_0229.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0229_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0229_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="114r" xml:id="surface-ljs-264-231">
+      <graphic height="3903px" url="master/0081_0230.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0230_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0230_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="114v" xml:id="surface-ljs-264-232">
+      <graphic height="3903px" url="master/0081_0231.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0231_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0231_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="115r" xml:id="surface-ljs-264-233">
+      <graphic height="3903px" url="master/0081_0232.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0232_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0232_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="115v" xml:id="surface-ljs-264-234">
+      <graphic height="3903px" url="master/0081_0233.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0233_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0233_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="116r" xml:id="surface-ljs-264-235">
+      <graphic height="3903px" url="master/0081_0234.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0234_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0234_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="116v" xml:id="surface-ljs-264-236">
+      <graphic height="3903px" url="master/0081_0235.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0235_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0235_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="117r" xml:id="surface-ljs-264-237">
+      <graphic height="3903px" url="master/0081_0236.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0236_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0236_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="117v" xml:id="surface-ljs-264-238">
+      <graphic height="3903px" url="master/0081_0237.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0237_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0237_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="118r" xml:id="surface-ljs-264-239">
+      <graphic height="3903px" url="master/0081_0238.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0238_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0238_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="118v" xml:id="surface-ljs-264-240">
+      <graphic height="3903px" url="master/0081_0239.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0239_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0239_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="119r" xml:id="surface-ljs-264-241">
+      <graphic height="3903px" url="master/0081_0240.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0240_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0240_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="119v" xml:id="surface-ljs-264-242">
+      <graphic height="3903px" url="master/0081_0241.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0241_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0241_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="120r" xml:id="surface-ljs-264-243">
+      <graphic height="3903px" url="master/0081_0242.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0242_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0242_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="120v" xml:id="surface-ljs-264-244">
+      <graphic height="3903px" url="master/0081_0243.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0243_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0243_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="121r" xml:id="surface-ljs-264-245">
+      <graphic height="3903px" url="master/0081_0244.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0244_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0244_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="121v" xml:id="surface-ljs-264-246">
+      <graphic height="3903px" url="master/0081_0245.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0245_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0245_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="122r" xml:id="surface-ljs-264-247">
+      <graphic height="3903px" url="master/0081_0246.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0246_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0246_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="122v" xml:id="surface-ljs-264-248">
+      <graphic height="3903px" url="master/0081_0247.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0247_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0247_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="123r" xml:id="surface-ljs-264-249">
+      <graphic height="3903px" url="master/0081_0248.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0248_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0248_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="123v" xml:id="surface-ljs-264-250">
+      <graphic height="3903px" url="master/0081_0249.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0249_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0249_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="124r" xml:id="surface-ljs-264-251">
+      <graphic height="3903px" url="master/0081_0250.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0250_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0250_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="124v" xml:id="surface-ljs-264-252">
+      <graphic height="3903px" url="master/0081_0251.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0251_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0251_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="125r" xml:id="surface-ljs-264-253">
+      <graphic height="3903px" url="master/0081_0252.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0252_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0252_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="125v" xml:id="surface-ljs-264-254">
+      <graphic height="3903px" url="master/0081_0253.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0253_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0253_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="126r" xml:id="surface-ljs-264-255">
+      <graphic height="3903px" url="master/0081_0254.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0254_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0254_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="126v" xml:id="surface-ljs-264-256">
+      <graphic height="3903px" url="master/0081_0255.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0255_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0255_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="127r" xml:id="surface-ljs-264-257">
+      <graphic height="3903px" url="master/0081_0256.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0256_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0256_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="127v" xml:id="surface-ljs-264-258">
+      <graphic height="3903px" url="master/0081_0257.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0257_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0257_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="128r" xml:id="surface-ljs-264-259">
+      <graphic height="3903px" url="master/0081_0258.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0258_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0258_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="128v" xml:id="surface-ljs-264-260">
+      <graphic height="3903px" url="master/0081_0259.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0259_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0259_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="129r" xml:id="surface-ljs-264-261">
+      <graphic height="3903px" url="master/0081_0260.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0260_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0260_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="129v" xml:id="surface-ljs-264-262">
+      <graphic height="3903px" url="master/0081_0261.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0261_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0261_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="130r" xml:id="surface-ljs-264-263">
+      <graphic height="3903px" url="master/0081_0262.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0262_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0262_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="130v" xml:id="surface-ljs-264-264">
+      <graphic height="3903px" url="master/0081_0263.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0263_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0263_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="131r" xml:id="surface-ljs-264-265">
+      <graphic height="3903px" url="master/0081_0264.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0264_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0264_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="131v" xml:id="surface-ljs-264-266">
+      <graphic height="3903px" url="master/0081_0265.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0265_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0265_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="132r" xml:id="surface-ljs-264-267">
+      <graphic height="3903px" url="master/0081_0266.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0266_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0266_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="132v" xml:id="surface-ljs-264-268">
+      <graphic height="3903px" url="master/0081_0267.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0267_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0267_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-ljs-264-269">
+      <graphic height="3903px" url="master/0081_0268.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0268_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0268_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-ljs-264-270">
+      <graphic height="3903px" url="master/0081_0269.tif" width="2990px"/>
+      <graphic height="190px" url="thumb/0081_0269_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0081_0269_web.jpg" width="1379px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-ljs-264-271">
+      <graphic height="3903px" url="master/0081_0270.tif" width="1200px"/>
+      <graphic height="190px" url="thumb/0081_0270_thumb.jpg" width="58px"/>
+      <graphic height="1800px" url="web/0081_0270_web.jpg" width="553px"/>
+    </surface>
+  </facsimile>
+</TEI>

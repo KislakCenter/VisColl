@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 409: Kitāb al-Kashf wa-al-bayān. Īḍāḥ al-rumūz fī al-burhān.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts LJS 409: Kitāb al-Kashf wa-al-bayān. Īḍāḥ al-rumūz fī al-burhān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from caption title (p. 349).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">LJS 409</idno>
+            <altIdentifier type="bibid">
+              <idno>9957840863503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/798281355</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5784086</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two brief alchemical works written by a father for his son. Encoded alphabets are used occasionally in the manuscript, and a key is included (f. 3r).</summary>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Kitāb al-Kashf wa-al-bayān. Īḍāḥ al-rumūz fī al-burhān.</title>
+              <title type="vernacular">كتاب الكشف والبيان. ايضاح الرموز في البرهان</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Aga Khan, Sadruddin, Prince, 1933-2003</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>9 leaves : 152 x 105 mm. bound to 157 x 109 mm</extent>
+                <collation>
+                  <p>Paper, i (later paper) + 9 + i (later paper); 1⁹; 348-365, pagination in ink, upper outer corners.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 20-27 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in naskh in black and red; pointed.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Drawing in red and black ink of laboratory equipment, including mortar and pestle, furnace, and glass containers (f. 9v); rubrications in red.</decoNote>
+              <decoNote n="9v">Drawing, Alchemical equipment, f. 9v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Cracked brown leather folder.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>The item is undated; possibly copied in the 16th or 17th century.</p>
+              <origDate>between 1600 and 1799?</origDate>
+            </origin>
+            <provenance>Ownership stamp (f. 9v).</provenance>
+            <provenance>Formerly owned by Prince Sadruddin Aga Khan; sold at auction as part of his collection at Piasa (Paris), 7 June 1999.</provenance>
+            <provenance>Sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, Mar. 2001.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Alchemy--Early works to 1800</term>
+          <term>Islamic magic--Early works to 1800</term>
+          <term>Alchemy</term>
+          <term>Islamic magic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Arabic</term>
+          <term>Manuscripts, 17th century</term>
+          <term>Manuscripts, 18th century</term>
+          <term>Manuscripts, Renaissance</term>
+          <term>Codices (bound manuscripts)</term>
+          <term>Drawings</term>
+          <term>Early works</term>
+          <term>Codices</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-ljs-409-1">
+      <graphic height="3220px" url="master/0208_0000.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0000_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0000_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-ljs-409-2">
+      <graphic height="3220px" url="master/0208_0001.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0001_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0001_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-409-3">
+      <graphic height="3220px" url="master/0208_0002.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0002_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0002_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-409-4">
+      <graphic height="3220px" url="master/0208_0003.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0003_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0003_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="1r" xml:id="surface-ljs-409-5">
+      <graphic height="3220px" url="master/0208_0004.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0004_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0004_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ljs-409-6">
+      <graphic height="3220px" url="master/0208_0005.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0005_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0005_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-ljs-409-7">
+      <graphic height="3220px" url="master/0208_0006.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0006_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0006_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ljs-409-8">
+      <graphic height="3220px" url="master/0208_0007.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0007_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0007_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="3r" xml:id="surface-ljs-409-9">
+      <graphic height="3220px" url="master/0208_0008.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0008_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0008_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-ljs-409-10">
+      <graphic height="3220px" url="master/0208_0009.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0009_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0009_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="4r" xml:id="surface-ljs-409-11">
+      <graphic height="3220px" url="master/0208_0010.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0010_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0010_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ljs-409-12">
+      <graphic height="3220px" url="master/0208_0011.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0011_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0011_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="5r" xml:id="surface-ljs-409-13">
+      <graphic height="3220px" url="master/0208_0012.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0012_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0012_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="5v" xml:id="surface-ljs-409-14">
+      <graphic height="3220px" url="master/0208_0013.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0013_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0013_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="6r" xml:id="surface-ljs-409-15">
+      <graphic height="3220px" url="master/0208_0014.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0014_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0014_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="6v" xml:id="surface-ljs-409-16">
+      <graphic height="3220px" url="master/0208_0015.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0015_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0015_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="7r" xml:id="surface-ljs-409-17">
+      <graphic height="3220px" url="master/0208_0016.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0016_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0016_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="7v" xml:id="surface-ljs-409-18">
+      <graphic height="3220px" url="master/0208_0017.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0017_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0017_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="8r" xml:id="surface-ljs-409-19">
+      <graphic height="3220px" url="master/0208_0018.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0018_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0018_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="8v" xml:id="surface-ljs-409-20">
+      <graphic height="3220px" url="master/0208_0019.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0019_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0019_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="9r" xml:id="surface-ljs-409-21">
+      <graphic height="3220px" url="master/0208_0020.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0020_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0020_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="9v" xml:id="surface-ljs-409-22">
+      <graphic height="3220px" url="master/0208_0021.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0021_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0021_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-409-23">
+      <graphic height="3220px" url="master/0208_0022.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0022_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0022_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-409-24">
+      <graphic height="3220px" url="master/0208_0023.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0023_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0023_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-ljs-409-25">
+      <graphic height="3220px" url="master/0208_0024.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0024_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0024_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-ljs-409-26">
+      <graphic height="3220px" url="master/0208_0025.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0025_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0025_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="No spine" xml:id="surface-ljs-409-27">
+      <graphic height="3220px" url="master/0208_0026.tif" width="2429px"/>
+      <graphic height="190px" url="thumb/0208_0026_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/0208_0026_web.jpg" width="1357px"/>
+    </surface>
+  </facsimile>
+</TEI>

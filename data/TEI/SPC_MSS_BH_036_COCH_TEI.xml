@@ -1,0 +1,1043 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Special Collections Research Center, (SPC) MSS BH 036 COCH: Tractato de le soccite</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Katy Rawdon</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Amey Hutchins</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Special Collections Research Center</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Special Collections Research Center, (SPC) MSS BH 036 COCH: Tractato de le soccite are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Temple University Libraries, Special Collections Research Center has waived all copyright and related or neighboring rights to this metadata about Special Collections Research Center (SPC) MSS BH 036 COCH: Tractato de le soccite. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>Temple University Libraries</institution>
+            <repository>Special Collections Research Center</repository>
+            <collection>Harry C. Cochran History of Business Collection</collection>
+            <idno type="call-number">(SPC) MSS BH 036 COCH</idno>
+            <altIdentifier type="resource">
+              <idno>https://temple-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01TULI_ALMA21293461130003811&amp;context=L&amp;vid=TULI&amp;search_scope=default_scope&amp;tab=default_tab&amp;lang=en_US</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>This manuscript is an abridged Italian version of Paolo de Perugia's Latin juridical treatise De societatibus mercatorum, on three forms of business associations peculiar to late medieval Italy. The manuscript was written in Gothic cursive script in the region of Tuscany in the middle of the fifteenth century.</summary>
+            <textLang mainLang="ita">Italian</textLang>
+            <msItem>
+              <title>Tractato de le soccite</title>
+              <author>Paolo, de Perugia, 15th cent.</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Bruscoli, Carlo</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="http://id.loc.gov/authorities/names/n79055106">Kraus, Hans Peter, 1907-1988</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>24; 110 x 140 mm bound to 111 x 140 mm</extent>
+                <foliation>Modern foliation in pencil, upper right recto</foliation>
+                <collation>
+                  <p>1-2 (12)</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Single column of twenty-nine to thirty-four lines; written area: 110 x 85 mm</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Gothic--cursiva</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Red initials, two or three lines high, at the beginning of chapters, with guide letters usually visible in the margins</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Limp parchment</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1425" notAfter="1475"/>
+              <p>Mid-15th century</p>
+              <origPlace>Tuscany, Italy</origPlace>
+            </origin>
+            <provenance>Owned in 1925 by Carlo Bruscoli (Florence), and in 1955 by H. P. Kraus (New York); purchased by Temple University from H. P. Kraus in 1955</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="keywords">
+          <category xml:id="keyword_1">
+            <catDesc>Book Type</catDesc>
+            <category xml:id="keyword_1.2">
+              <catDesc>Accounts</catDesc>
+            </category>
+            <category xml:id="keyword_1.3">
+              <catDesc>Antiphonary</catDesc>
+            </category>
+            <category xml:id="keyword_1.4">
+              <catDesc>Armorial</catDesc>
+            </category>
+            <category xml:id="keyword_1.5">
+              <catDesc>Bible</catDesc>
+            </category>
+            <category xml:id="keyword_1.6">
+              <catDesc>Biography</catDesc>
+            </category>
+            <category xml:id="keyword_1.7">
+              <catDesc>Book of Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.8">
+              <catDesc>Breviary</catDesc>
+            </category>
+            <category xml:id="keyword_1.9">
+              <catDesc>Chronicle</catDesc>
+            </category>
+            <category xml:id="keyword_1.10">
+              <catDesc>Collection of Sermons</catDesc>
+            </category>
+            <category xml:id="keyword_1.11">
+              <catDesc>Commentary</catDesc>
+            </category>
+            <category xml:id="keyword_1.12">
+              <catDesc>Document</catDesc>
+            </category>
+            <category xml:id="keyword_1.13">
+              <catDesc>Dogale</catDesc>
+            </category>
+            <category xml:id="keyword_1.14">
+              <catDesc>Friendship book</catDesc>
+            </category>
+            <category xml:id="keyword_1.15">
+              <catDesc>Genealogy</catDesc>
+            </category>
+            <category xml:id="keyword_1.16">
+              <catDesc>Glossary</catDesc>
+            </category>
+            <category xml:id="keyword_1.17">
+              <catDesc>Gospel Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.18">
+              <catDesc>Gospels</catDesc>
+            </category>
+            <category xml:id="keyword_1.19">
+              <catDesc>Gradual</catDesc>
+            </category>
+            <category xml:id="keyword_1.21">
+              <catDesc>Haggadah</catDesc>
+            </category>
+            <category xml:id="keyword_1.22">
+              <catDesc>Homilary</catDesc>
+            </category>
+            <category xml:id="keyword_1.23">
+              <catDesc>Horologion</catDesc>
+            </category>
+            <category xml:id="keyword_1.24">
+              <catDesc>Hymnal</catDesc>
+            </category>
+            <category xml:id="keyword_1.25">
+              <catDesc>Koran</catDesc>
+            </category>
+            <category xml:id="keyword_1.26">
+              <catDesc>Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.27">
+              <catDesc>Mass book</catDesc>
+            </category>
+            <category xml:id="keyword_1.28">
+              <catDesc>Miscellany</catDesc>
+            </category>
+            <category xml:id="keyword_1.29">
+              <catDesc>Missal</catDesc>
+            </category>
+            <category xml:id="keyword_1.30">
+              <catDesc>Pontifical</catDesc>
+            </category>
+            <category xml:id="keyword_1.31">
+              <catDesc>Portolan chart</catDesc>
+            </category>
+            <category xml:id="keyword_1.32">
+              <catDesc>Prayer book</catDesc>
+            </category>
+            <category xml:id="keyword_1.33">
+              <catDesc>Private devotional text</catDesc>
+            </category>
+            <category xml:id="keyword_1.34">
+              <catDesc>Processional</catDesc>
+            </category>
+            <category xml:id="keyword_1.35">
+              <catDesc>Protective scroll</catDesc>
+            </category>
+            <category xml:id="keyword_1.36">
+              <catDesc>Psalter</catDesc>
+            </category>
+            <category xml:id="keyword_1.37">
+              <catDesc>Psalter-Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.38">
+              <catDesc>Qur`an</catDesc>
+            </category>
+            <category xml:id="keyword_1.39">
+              <catDesc>Recipe book</catDesc>
+            </category>
+            <category xml:id="keyword_1.40">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.41">
+              <catDesc>Scribal manual</catDesc>
+            </category>
+            <category xml:id="keyword_1.42">
+              <catDesc>Torah</catDesc>
+            </category>
+            <category xml:id="keyword_1.43">
+              <catDesc>Treatise</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_2">
+            <catDesc>Century</catDesc>
+            <category xml:id="keyword_2.2">
+              <catDesc>6th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.3">
+              <catDesc>7th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.4">
+              <catDesc>8th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.5">
+              <catDesc>9th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.6">
+              <catDesc>10th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.7">
+              <catDesc>11th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.8">
+              <catDesc>12th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.9">
+              <catDesc>13th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.10">
+              <catDesc>14th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.11">
+              <catDesc>15th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.12">
+              <catDesc>16th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.13">
+              <catDesc>17th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.14">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.15">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.16">
+              <catDesc>20th century</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_3">
+            <catDesc>Culture</catDesc>
+            <category xml:id="keyword_3.2">
+              <catDesc>Abbasid</catDesc>
+            </category>
+            <category xml:id="keyword_3.3">
+              <catDesc>Arabic</catDesc>
+            </category>
+            <category xml:id="keyword_3.4">
+              <catDesc>Armenian</catDesc>
+            </category>
+            <category xml:id="keyword_3.5">
+              <catDesc>Ashkenazi</catDesc>
+            </category>
+            <category xml:id="keyword_3.6">
+              <catDesc>Austrian</catDesc>
+            </category>
+            <category xml:id="keyword_3.7">
+              <catDesc>Byzantine</catDesc>
+            </category>
+            <category xml:id="keyword_3.8">
+              <catDesc>Carolingian</catDesc>
+            </category>
+            <category xml:id="keyword_3.9">
+              <catDesc>Chinese</catDesc>
+            </category>
+            <category xml:id="keyword_3.10">
+              <catDesc>Christian</catDesc>
+            </category>
+            <category xml:id="keyword_3.11">
+              <catDesc>Coptic</catDesc>
+            </category>
+            <category xml:id="keyword_3.12">
+              <catDesc>Dutch</catDesc>
+            </category>
+            <category xml:id="keyword_3.13">
+              <catDesc>Egyptian</catDesc>
+            </category>
+            <category xml:id="keyword_3.14">
+              <catDesc>English</catDesc>
+            </category>
+            <category xml:id="keyword_3.15">
+              <catDesc>Ethiopian</catDesc>
+            </category>
+            <category xml:id="keyword_3.16">
+              <catDesc>Fatimid</catDesc>
+            </category>
+            <category xml:id="keyword_3.17">
+              <catDesc>Flemish</catDesc>
+            </category>
+            <category xml:id="keyword_3.18">
+              <catDesc>French</catDesc>
+            </category>
+            <category xml:id="keyword_3.19">
+              <catDesc>German</catDesc>
+            </category>
+            <category xml:id="keyword_3.20">
+              <catDesc>Indian</catDesc>
+            </category>
+            <category xml:id="keyword_3.21">
+              <catDesc>Islamic</catDesc>
+            </category>
+            <category xml:id="keyword_3.22">
+              <catDesc>Italian</catDesc>
+            </category>
+            <category xml:id="keyword_3.23">
+              <catDesc>Jewish</catDesc>
+            </category>
+            <category xml:id="keyword_3.25">
+              <catDesc>Mamluk</catDesc>
+            </category>
+            <category xml:id="keyword_3.26">
+              <catDesc>Mughal</catDesc>
+            </category>
+            <category xml:id="keyword_3.27">
+              <catDesc>Ottoman</catDesc>
+            </category>
+            <category xml:id="keyword_3.28">
+              <catDesc>Ottonian</catDesc>
+            </category>
+            <category xml:id="keyword_3.29">
+              <catDesc>Persian</catDesc>
+            </category>
+            <category xml:id="keyword_3.30">
+              <catDesc>Portuguese</catDesc>
+            </category>
+            <category xml:id="keyword_3.31">
+              <catDesc>Qajar</catDesc>
+            </category>
+            <category xml:id="keyword_3.32">
+              <catDesc>Rajput</catDesc>
+            </category>
+            <category xml:id="keyword_3.33">
+              <catDesc>Russian</catDesc>
+            </category>
+            <category xml:id="keyword_3.34">
+              <catDesc>Safavid</catDesc>
+            </category>
+            <category xml:id="keyword_3.35">
+              <catDesc>Sephardi</catDesc>
+            </category>
+            <category xml:id="keyword_3.36">
+              <catDesc>Spanish</catDesc>
+            </category>
+            <category xml:id="keyword_3.37">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.38">
+              <catDesc>Turkish</catDesc>
+            </category>
+            <category xml:id="keyword_3.39">
+              <catDesc>Yemenite</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_4">
+            <catDesc>Descriptive term</catDesc>
+            <category xml:id="keyword_4.2">
+              <catDesc>Accordion book</catDesc>
+            </category>
+            <category xml:id="keyword_4.3">
+              <catDesc>Album</catDesc>
+            </category>
+            <category xml:id="keyword_4.4">
+              <catDesc>Annotated</catDesc>
+            </category>
+            <category xml:id="keyword_4.5">
+              <catDesc>Binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.6">
+              <catDesc>Calligraphy</catDesc>
+            </category>
+            <category xml:id="keyword_4.7">
+              <catDesc>Caroline minuscule</catDesc>
+            </category>
+            <category xml:id="keyword_4.8">
+              <catDesc>Chart</catDesc>
+            </category>
+            <category xml:id="keyword_4.9">
+              <catDesc>Charter</catDesc>
+            </category>
+            <category xml:id="keyword_4.10">
+              <catDesc>Colophon</catDesc>
+            </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Damage</catDesc>
+            </category>
+            <category xml:id="keyword_4.12">
+              <catDesc>Diagrams</catDesc>
+            </category>
+            <category xml:id="keyword_4.13">
+              <catDesc>Drawing</catDesc>
+            </category>
+            <category xml:id="keyword_4.14">
+              <catDesc>Early Abbasid script</catDesc>
+            </category>
+            <category xml:id="keyword_4.15">
+              <catDesc>Fragment</catDesc>
+            </category>
+            <category xml:id="keyword_4.16">
+              <catDesc>Gloss</catDesc>
+            </category>
+            <category xml:id="keyword_4.17">
+              <catDesc>Gothic</catDesc>
+            </category>
+            <category xml:id="keyword_4.18">
+              <catDesc>Gothic book hand</catDesc>
+            </category>
+            <category xml:id="keyword_4.19">
+              <catDesc>Grisaille</catDesc>
+            </category>
+            <category xml:id="keyword_4.20">
+              <catDesc>Grotesques</catDesc>
+            </category>
+            <category xml:id="keyword_4.21">
+              <catDesc>Headpiece</catDesc>
+            </category>
+            <category xml:id="keyword_4.22">
+              <catDesc>Heraldry</catDesc>
+            </category>
+            <category xml:id="keyword_4.23">
+              <catDesc>Historiated initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.24">
+              <catDesc>Humanistic</catDesc>
+            </category>
+            <category xml:id="keyword_4.25">
+              <catDesc>Illumination</catDesc>
+            </category>
+            <category xml:id="keyword_4.26">
+              <catDesc>Illustration</catDesc>
+            </category>
+            <category xml:id="keyword_4.27">
+              <catDesc>Inhabited initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.28">
+              <catDesc>Kufic</catDesc>
+            </category>
+            <category xml:id="keyword_4.29">
+              <catDesc>Manicules</catDesc>
+            </category>
+            <category xml:id="keyword_4.30">
+              <catDesc>Medallion</catDesc>
+            </category>
+            <category xml:id="keyword_4.31">
+              <catDesc>Micrography</catDesc>
+            </category>
+            <category xml:id="keyword_4.32">
+              <catDesc>Miniature</catDesc>
+            </category>
+            <category xml:id="keyword_4.33">
+              <catDesc>Missing leaves</catDesc>
+            </category>
+            <category xml:id="keyword_4.34">
+              <catDesc>Musical notation</catDesc>
+            </category>
+            <category xml:id="keyword_4.35">
+              <catDesc>New Abbasid style</catDesc>
+            </category>
+            <category xml:id="keyword_4.36">
+              <catDesc>Notable binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.37">
+              <catDesc>Original binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.38">
+              <catDesc>Ornament</catDesc>
+            </category>
+            <category xml:id="keyword_4.39">
+              <catDesc>Painting</catDesc>
+            </category>
+            <category xml:id="keyword_4.40">
+              <catDesc>Palimpsest</catDesc>
+            </category>
+            <category xml:id="keyword_4.41">
+              <catDesc>Paper</catDesc>
+            </category>
+            <category xml:id="keyword_4.42">
+              <catDesc>Penwork initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.43">
+              <catDesc>Puzzle initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.44">
+              <catDesc>Ragini</catDesc>
+            </category>
+            <category xml:id="keyword_4.45">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.46">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.47">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.48">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.49">
+              <catDesc>Seals</catDesc>
+            </category>
+            <category xml:id="keyword_4.50">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_4.51">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.52">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.53">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.54">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.55">
+              <catDesc>Woodcuts</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_5">
+            <catDesc>Geography</catDesc>
+            <category xml:id="keyword_5.2">
+              <catDesc>Afghanistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.3">
+              <catDesc>Armenia</catDesc>
+            </category>
+            <category xml:id="keyword_5.4">
+              <catDesc>Austria</catDesc>
+            </category>
+            <category xml:id="keyword_5.5">
+              <catDesc>Belgium</catDesc>
+            </category>
+            <category xml:id="keyword_5.6">
+              <catDesc>Central Arab lands (Near East)</catDesc>
+            </category>
+            <category xml:id="keyword_5.7">
+              <catDesc>Central Asia</catDesc>
+            </category>
+            <category xml:id="keyword_5.8">
+              <catDesc>China</catDesc>
+            </category>
+            <category xml:id="keyword_5.9">
+              <catDesc>Egypt</catDesc>
+            </category>
+            <category xml:id="keyword_5.10">
+              <catDesc>England</catDesc>
+            </category>
+            <category xml:id="keyword_5.11">
+              <catDesc>Ethiopia</catDesc>
+            </category>
+            <category xml:id="keyword_5.12">
+              <catDesc>Flanders</catDesc>
+            </category>
+            <category xml:id="keyword_5.13">
+              <catDesc>France</catDesc>
+            </category>
+            <category xml:id="keyword_5.14">
+              <catDesc>Germany</catDesc>
+            </category>
+            <category xml:id="keyword_5.15">
+              <catDesc>Greece</catDesc>
+            </category>
+            <category xml:id="keyword_5.16">
+              <catDesc>India</catDesc>
+            </category>
+            <category xml:id="keyword_5.17">
+              <catDesc>Iran</catDesc>
+            </category>
+            <category xml:id="keyword_5.18">
+              <catDesc>Iraq</catDesc>
+            </category>
+            <category xml:id="keyword_5.19">
+              <catDesc>Israel</catDesc>
+            </category>
+            <category xml:id="keyword_5.20">
+              <catDesc>Italy</catDesc>
+            </category>
+            <category xml:id="keyword_5.21">
+              <catDesc>Maghreb</catDesc>
+            </category>
+            <category xml:id="keyword_5.22">
+              <catDesc>Morocco</catDesc>
+            </category>
+            <category xml:id="keyword_5.23">
+              <catDesc>Netherlands</catDesc>
+            </category>
+            <category xml:id="keyword_5.24">
+              <catDesc>Pakistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.25">
+              <catDesc>Portugal</catDesc>
+            </category>
+            <category xml:id="keyword_5.26">
+              <catDesc>Romania</catDesc>
+            </category>
+            <category xml:id="keyword_5.27">
+              <catDesc>Russia</catDesc>
+            </category>
+            <category xml:id="keyword_5.28">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.29">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.30">
+              <catDesc>Turkey</catDesc>
+            </category>
+            <category xml:id="keyword_5.31">
+              <catDesc>Yemen</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_6">
+            <catDesc>Other</catDesc>
+            <category xml:id="keyword_6.2">
+              <catDesc>Alchemy</catDesc>
+            </category>
+            <category xml:id="keyword_6.3">
+              <catDesc>Allegory</catDesc>
+            </category>
+            <category xml:id="keyword_6.4">
+              <catDesc>Astrology</catDesc>
+            </category>
+            <category xml:id="keyword_6.5">
+              <catDesc>Astronomy</catDesc>
+            </category>
+            <category xml:id="keyword_6.6">
+              <catDesc>Biblical</catDesc>
+            </category>
+            <category xml:id="keyword_6.7">
+              <catDesc>Binding waste</catDesc>
+            </category>
+            <category xml:id="keyword_6.8">
+              <catDesc>Cartography</catDesc>
+            </category>
+            <category xml:id="keyword_6.9">
+              <catDesc>Church Fathers</catDesc>
+            </category>
+            <category xml:id="keyword_6.10">
+              <catDesc>Cosmology</catDesc>
+            </category>
+            <category xml:id="keyword_6.11">
+              <catDesc>Devotion</catDesc>
+            </category>
+            <category xml:id="keyword_6.12">
+              <catDesc>Financial records</catDesc>
+            </category>
+            <category xml:id="keyword_6.13">
+              <catDesc>Fortune-telling</catDesc>
+            </category>
+            <category xml:id="keyword_6.14">
+              <catDesc>Friendship</catDesc>
+            </category>
+            <category xml:id="keyword_6.15">
+              <catDesc>Games</catDesc>
+            </category>
+            <category xml:id="keyword_6.16">
+              <catDesc>Geography</catDesc>
+            </category>
+            <category xml:id="keyword_6.17">
+              <catDesc>Geomancy</catDesc>
+            </category>
+            <category xml:id="keyword_6.18">
+              <catDesc>Grammar</catDesc>
+            </category>
+            <category xml:id="keyword_6.19">
+              <catDesc>History</catDesc>
+            </category>
+            <category xml:id="keyword_6.20">
+              <catDesc>Kabbalah</catDesc>
+            </category>
+            <category xml:id="keyword_6.21">
+              <catDesc>Legal</catDesc>
+            </category>
+            <category xml:id="keyword_6.22">
+              <catDesc>Literature -- Poetry</catDesc>
+            </category>
+            <category xml:id="keyword_6.23">
+              <catDesc>Literature -- Prose</catDesc>
+            </category>
+            <category xml:id="keyword_6.24">
+              <catDesc>Liturgy</catDesc>
+            </category>
+            <category xml:id="keyword_6.25">
+              <catDesc>Logic</catDesc>
+            </category>
+            <category xml:id="keyword_6.26">
+              <catDesc>Magic</catDesc>
+            </category>
+            <category xml:id="keyword_6.27">
+              <catDesc>Maritime</catDesc>
+            </category>
+            <category xml:id="keyword_6.28">
+              <catDesc>Mathematics</catDesc>
+            </category>
+            <category xml:id="keyword_6.29">
+              <catDesc>Mineralogy</catDesc>
+            </category>
+            <category xml:id="keyword_6.30">
+              <catDesc>Philosophy</catDesc>
+            </category>
+            <category xml:id="keyword_6.31">
+              <catDesc>Piyutim</catDesc>
+            </category>
+            <category xml:id="keyword_6.32">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.33">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.34">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.35">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.36">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.37">
+              <catDesc>Theology</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_7">
+            <catDesc/>
+            <category xml:id="keyword_7.1">
+              <catDesc> </catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>15th century</term>
+          <term>Italian</term>
+          <term>Italy</term>
+          <term>Paper</term>
+          <term>Legal</term>
+        </keywords>
+        <keywords n="subjects">
+          <term>Business enterprises, Foreign -- Italy</term>
+          <term>Manuscripts, Medieval -- Italy</term>
+          <term target="http://id.loc.gov/authorities/names/n79018344">Tuscany (Italy)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term target="http://vocab.getty.edu/aat/300224200">Codices</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface--spc-mss-bh-036-coch-1">
+      <graphic height="3495px" url="master/6765_0000.tif" width="2780px"/>
+      <graphic height="190px" url="thumb/6765_0000_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/6765_0000_web.jpg" width="1432px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface--spc-mss-bh-036-coch-2">
+      <graphic height="3400px" url="master/6765_0001.tif" width="2731px"/>
+      <graphic height="190px" url="thumb/6765_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6765_0001_web.jpg" width="1446px"/>
+    </surface>
+    <surface n="1r" xml:id="surface--spc-mss-bh-036-coch-3">
+      <graphic height="3457px" url="master/6765_0002.tif" width="2744px"/>
+      <graphic height="190px" url="thumb/6765_0002_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/6765_0002_web.jpg" width="1429px"/>
+    </surface>
+    <surface n="1v" xml:id="surface--spc-mss-bh-036-coch-4">
+      <graphic height="3451px" url="master/6765_0003.tif" width="2696px"/>
+      <graphic height="190px" url="thumb/6765_0003_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/6765_0003_web.jpg" width="1406px"/>
+    </surface>
+    <surface n="2r" xml:id="surface--spc-mss-bh-036-coch-5">
+      <graphic height="3455px" url="master/6765_0004.tif" width="2744px"/>
+      <graphic height="190px" url="thumb/6765_0004_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/6765_0004_web.jpg" width="1429px"/>
+    </surface>
+    <surface n="2v" xml:id="surface--spc-mss-bh-036-coch-6">
+      <graphic height="3454px" url="master/6765_0005.tif" width="2696px"/>
+      <graphic height="190px" url="thumb/6765_0005_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/6765_0005_web.jpg" width="1405px"/>
+    </surface>
+    <surface n="3r" xml:id="surface--spc-mss-bh-036-coch-7">
+      <graphic height="3447px" url="master/6765_0006.tif" width="2736px"/>
+      <graphic height="190px" url="thumb/6765_0006_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/6765_0006_web.jpg" width="1429px"/>
+    </surface>
+    <surface n="3v" xml:id="surface--spc-mss-bh-036-coch-8">
+      <graphic height="3473px" url="master/6765_0007.tif" width="2694px"/>
+      <graphic height="190px" url="thumb/6765_0007_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/6765_0007_web.jpg" width="1396px"/>
+    </surface>
+    <surface n="4r" xml:id="surface--spc-mss-bh-036-coch-9">
+      <graphic height="3470px" url="master/6765_0008.tif" width="2744px"/>
+      <graphic height="190px" url="thumb/6765_0008_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/6765_0008_web.jpg" width="1423px"/>
+    </surface>
+    <surface n="4v" xml:id="surface--spc-mss-bh-036-coch-10">
+      <graphic height="3488px" url="master/6765_0009.tif" width="2750px"/>
+      <graphic height="190px" url="thumb/6765_0009_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/6765_0009_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="5r" xml:id="surface--spc-mss-bh-036-coch-11">
+      <graphic height="3458px" url="master/6765_0010.tif" width="2740px"/>
+      <graphic height="190px" url="thumb/6765_0010_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/6765_0010_web.jpg" width="1426px"/>
+    </surface>
+    <surface n="5v" xml:id="surface--spc-mss-bh-036-coch-12">
+      <graphic height="3497px" url="master/6765_0011.tif" width="2763px"/>
+      <graphic height="190px" url="thumb/6765_0011_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/6765_0011_web.jpg" width="1422px"/>
+    </surface>
+    <surface n="6r" xml:id="surface--spc-mss-bh-036-coch-13">
+      <graphic height="3531px" url="master/6765_0012.tif" width="2791px"/>
+      <graphic height="190px" url="thumb/6765_0012_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/6765_0012_web.jpg" width="1422px"/>
+    </surface>
+    <surface n="6v" xml:id="surface--spc-mss-bh-036-coch-14">
+      <graphic height="3509px" url="master/6765_0013.tif" width="2783px"/>
+      <graphic height="190px" url="thumb/6765_0013_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/6765_0013_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="7r" xml:id="surface--spc-mss-bh-036-coch-15">
+      <graphic height="3498px" url="master/6765_0014.tif" width="2774px"/>
+      <graphic height="190px" url="thumb/6765_0014_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/6765_0014_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="7v" xml:id="surface--spc-mss-bh-036-coch-16">
+      <graphic height="3509px" url="master/6765_0015.tif" width="2799px"/>
+      <graphic height="190px" url="thumb/6765_0015_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/6765_0015_web.jpg" width="1436px"/>
+    </surface>
+    <surface n="8r" xml:id="surface--spc-mss-bh-036-coch-17">
+      <graphic height="3509px" url="master/6765_0016.tif" width="2811px"/>
+      <graphic height="190px" url="thumb/6765_0016_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6765_0016_web.jpg" width="1442px"/>
+    </surface>
+    <surface n="8v" xml:id="surface--spc-mss-bh-036-coch-18">
+      <graphic height="3507px" url="master/6765_0017.tif" width="2800px"/>
+      <graphic height="190px" url="thumb/6765_0017_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6765_0017_web.jpg" width="1437px"/>
+    </surface>
+    <surface n="9r" xml:id="surface--spc-mss-bh-036-coch-19">
+      <graphic height="3548px" url="master/6765_0018.tif" width="2840px"/>
+      <graphic height="190px" url="thumb/6765_0018_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6765_0018_web.jpg" width="1441px"/>
+    </surface>
+    <surface n="9v" xml:id="surface--spc-mss-bh-036-coch-20">
+      <graphic height="3517px" url="master/6765_0019.tif" width="2768px"/>
+      <graphic height="190px" url="thumb/6765_0019_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0019_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="10r" xml:id="surface--spc-mss-bh-036-coch-21">
+      <graphic height="3545px" url="master/6765_0020.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/6765_0020_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0020_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="10v" xml:id="surface--spc-mss-bh-036-coch-22">
+      <graphic height="3497px" url="master/6765_0021.tif" width="2835px"/>
+      <graphic height="190px" url="thumb/6765_0021_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/6765_0021_web.jpg" width="1459px"/>
+    </surface>
+    <surface n="11r" xml:id="surface--spc-mss-bh-036-coch-23">
+      <graphic height="3506px" url="master/6765_0022.tif" width="2799px"/>
+      <graphic height="190px" url="thumb/6765_0022_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6765_0022_web.jpg" width="1437px"/>
+    </surface>
+    <surface n="11v" xml:id="surface--spc-mss-bh-036-coch-24">
+      <graphic height="3498px" url="master/6765_0023.tif" width="2812px"/>
+      <graphic height="190px" url="thumb/6765_0023_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6765_0023_web.jpg" width="1447px"/>
+    </surface>
+    <surface n="12r" xml:id="surface--spc-mss-bh-036-coch-25">
+      <graphic height="3527px" url="master/6765_0024.tif" width="2771px"/>
+      <graphic height="190px" url="thumb/6765_0024_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0024_web.jpg" width="1414px"/>
+    </surface>
+    <surface n="12v" xml:id="surface--spc-mss-bh-036-coch-26">
+      <graphic height="3569px" url="master/6765_0025.tif" width="2799px"/>
+      <graphic height="190px" url="thumb/6765_0025_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0025_web.jpg" width="1411px"/>
+    </surface>
+    <surface n="13r" xml:id="surface--spc-mss-bh-036-coch-27">
+      <graphic height="3533px" url="master/6765_0026.tif" width="2775px"/>
+      <graphic height="190px" url="thumb/6765_0026_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0026_web.jpg" width="1414px"/>
+    </surface>
+    <surface n="13v" xml:id="surface--spc-mss-bh-036-coch-28">
+      <graphic height="3546px" url="master/6765_0027.tif" width="2853px"/>
+      <graphic height="190px" url="thumb/6765_0027_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6765_0027_web.jpg" width="1448px"/>
+    </surface>
+    <surface n="14r" xml:id="surface--spc-mss-bh-036-coch-29">
+      <graphic height="3497px" url="master/6765_0028.tif" width="2715px"/>
+      <graphic height="190px" url="thumb/6765_0028_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/6765_0028_web.jpg" width="1397px"/>
+    </surface>
+    <surface n="14v" xml:id="surface--spc-mss-bh-036-coch-30">
+      <graphic height="3545px" url="master/6765_0029.tif" width="2835px"/>
+      <graphic height="190px" url="thumb/6765_0029_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/6765_0029_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="15r" xml:id="surface--spc-mss-bh-036-coch-31">
+      <graphic height="3485px" url="master/6765_0030.tif" width="2744px"/>
+      <graphic height="190px" url="thumb/6765_0030_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0030_web.jpg" width="1417px"/>
+    </surface>
+    <surface n="15v" xml:id="surface--spc-mss-bh-036-coch-32">
+      <graphic height="3502px" url="master/6765_0031.tif" width="2850px"/>
+      <graphic height="190px" url="thumb/6765_0031_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/6765_0031_web.jpg" width="1465px"/>
+    </surface>
+    <surface n="16r" xml:id="surface--spc-mss-bh-036-coch-33">
+      <graphic height="3502px" url="master/6765_0032.tif" width="2742px"/>
+      <graphic height="190px" url="thumb/6765_0032_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0032_web.jpg" width="1409px"/>
+    </surface>
+    <surface n="16v" xml:id="surface--spc-mss-bh-036-coch-34">
+      <graphic height="3487px" url="master/6765_0033.tif" width="2828px"/>
+      <graphic height="190px" url="thumb/6765_0033_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/6765_0033_web.jpg" width="1460px"/>
+    </surface>
+    <surface n="17r" xml:id="surface--spc-mss-bh-036-coch-35">
+      <graphic height="3460px" url="master/6765_0034.tif" width="2710px"/>
+      <graphic height="190px" url="thumb/6765_0034_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0034_web.jpg" width="1409px"/>
+    </surface>
+    <surface n="17v" xml:id="surface--spc-mss-bh-036-coch-36">
+      <graphic height="3503px" url="master/6765_0035.tif" width="2866px"/>
+      <graphic height="190px" url="thumb/6765_0035_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/6765_0035_web.jpg" width="1472px"/>
+    </surface>
+    <surface n="18r" xml:id="surface--spc-mss-bh-036-coch-37">
+      <graphic height="3486px" url="master/6765_0036.tif" width="2755px"/>
+      <graphic height="190px" url="thumb/6765_0036_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/6765_0036_web.jpg" width="1422px"/>
+    </surface>
+    <surface n="18v" xml:id="surface--spc-mss-bh-036-coch-38">
+      <graphic height="3501px" url="master/6765_0037.tif" width="2877px"/>
+      <graphic height="190px" url="thumb/6765_0037_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/6765_0037_web.jpg" width="1479px"/>
+    </surface>
+    <surface n="19r" xml:id="surface--spc-mss-bh-036-coch-39">
+      <graphic height="3487px" url="master/6765_0038.tif" width="2746px"/>
+      <graphic height="190px" url="thumb/6765_0038_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0038_web.jpg" width="1417px"/>
+    </surface>
+    <surface n="19v" xml:id="surface--spc-mss-bh-036-coch-40">
+      <graphic height="3533px" url="master/6765_0039.tif" width="2898px"/>
+      <graphic height="190px" url="thumb/6765_0039_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/6765_0039_web.jpg" width="1476px"/>
+    </surface>
+    <surface n="20r" xml:id="surface--spc-mss-bh-036-coch-41">
+      <graphic height="3509px" url="master/6765_0040.tif" width="2751px"/>
+      <graphic height="190px" url="thumb/6765_0040_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0040_web.jpg" width="1411px"/>
+    </surface>
+    <surface n="20v" xml:id="surface--spc-mss-bh-036-coch-42">
+      <graphic height="3491px" url="master/6765_0041.tif" width="2882px"/>
+      <graphic height="190px" url="thumb/6765_0041_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/6765_0041_web.jpg" width="1486px"/>
+    </surface>
+    <surface n="21r" xml:id="surface--spc-mss-bh-036-coch-43">
+      <graphic height="3473px" url="master/6765_0042.tif" width="2739px"/>
+      <graphic height="190px" url="thumb/6765_0042_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/6765_0042_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="21v" xml:id="surface--spc-mss-bh-036-coch-44">
+      <graphic height="3545px" url="master/6765_0043.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/6765_0043_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/6765_0043_web.jpg" width="1464px"/>
+    </surface>
+    <surface n="22r" xml:id="surface--spc-mss-bh-036-coch-45">
+      <graphic height="3473px" url="master/6765_0044.tif" width="2715px"/>
+      <graphic height="190px" url="thumb/6765_0044_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/6765_0044_web.jpg" width="1407px"/>
+    </surface>
+    <surface n="22v" xml:id="surface--spc-mss-bh-036-coch-46">
+      <graphic height="3544px" url="master/6765_0045.tif" width="2856px"/>
+      <graphic height="190px" url="thumb/6765_0045_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/6765_0045_web.jpg" width="1450px"/>
+    </surface>
+    <surface n="23r" xml:id="surface--spc-mss-bh-036-coch-47">
+      <graphic height="3480px" url="master/6765_0046.tif" width="2724px"/>
+      <graphic height="190px" url="thumb/6765_0046_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0046_web.jpg" width="1409px"/>
+    </surface>
+    <surface n="23v" xml:id="surface--spc-mss-bh-036-coch-48">
+      <graphic height="3546px" url="master/6765_0047.tif" width="2915px"/>
+      <graphic height="190px" url="thumb/6765_0047_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/6765_0047_web.jpg" width="1480px"/>
+    </surface>
+    <surface n="24r" xml:id="surface--spc-mss-bh-036-coch-49">
+      <graphic height="3466px" url="master/6765_0048.tif" width="2726px"/>
+      <graphic height="190px" url="thumb/6765_0048_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0048_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="24v" xml:id="surface--spc-mss-bh-036-coch-50">
+      <graphic height="3529px" url="master/6765_0049.tif" width="2873px"/>
+      <graphic height="190px" url="thumb/6765_0049_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/6765_0049_web.jpg" width="1466px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface--spc-mss-bh-036-coch-51">
+      <graphic height="3440px" url="master/6765_0050.tif" width="2712px"/>
+      <graphic height="190px" url="thumb/6765_0050_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/6765_0050_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface--spc-mss-bh-036-coch-52">
+      <graphic height="3521px" url="master/6765_0051.tif" width="2799px"/>
+      <graphic height="190px" url="thumb/6765_0051_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/6765_0051_web.jpg" width="1431px"/>
+    </surface>
+  </facsimile>
+</TEI>

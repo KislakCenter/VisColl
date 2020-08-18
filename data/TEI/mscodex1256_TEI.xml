@@ -1,0 +1,1705 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Oversize Ms. Codex 1256: Legal records</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 1256: Legal records are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Oversize Ms. Codex 1256</idno>
+            <altIdentifier type="bibid">
+              <idno>9943954263503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/246617836</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4395426</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A series of legal records of the Bagnano family, dated from 1493 to 1604. There is a table of contents on the inside of the upper and lower covers, listing the years, page numbers, and brief descriptions of the records in Italian. A collection of legal records, mostly consisting of wills, contracts, deeds, and inheritances. Some of the records include disagreements over inheritance, and others deal with claims of various monasteries in Florence. The family is sometimes referred to as Albagnano. Many of the records are notarized and contain notarial signets. Contains some marginal notes in a near-contemporary hand.</summary>
+            <textLang mainLang="lat" otherLangs="ita">Latin, with some Italian</textLang>
+            <msItem>
+              <title>Legal records</title>
+              <author>
+                <persName type="authority">Bagnano family</persName>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Ginori Conti, Piero, 1865-1939</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>88 leaves : 285 x 210 (240-250 x 180) mm. bound to 288 x 213 mm</extent>
+                <collation>
+                  <p>Parchment, 88; 1-4¹⁰ 5-10⁸; 1-11, [i], 12-84, [iii]; 1-11, [i], 84, [iii]; contemporary foliation in ink, modern foliation in pencil, upper right recto.</p>
+                </collation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a variety of cursive and secretarial hands.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Contains some initials with foliate decoration (example, f. 14v); manicules in margins throughout.</decoNote>
+              <decoNote n="6r">Notarial signet, f. 6r</decoNote>
+              <decoNote n="11r">Manicule, f. 11r</decoNote>
+              <decoNote n="13v =14v">Decorated initial, Initial I, f. 13v [=14v]</decoNote>
+              <decoNote n="20r =21r">Manicule, f. 20r [=21r]</decoNote>
+              <decoNote n="30v =31v">Manicule, f. 30v [=31v]</decoNote>
+              <decoNote n="39v =40v">Decorated initial, Initial I, f. 39v [=40v]</decoNote>
+              <decoNote n="50v =51v">Notarial signet, f. 50v [=51v]</decoNote>
+              <decoNote n="51r =52r">Decorated initial, Initial I, f. 51r [=52r]</decoNote>
+              <decoNote n="73r =74r">Decorated initial, Initial I, f. 73r [=74r]</decoNote>
+              <decoNote n="Inside back cover">Bookplate, Inside back cover</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Parchment.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Florence (f. 1r), 1493-1604.</p>
+              <origDate>1493-1604</origDate>
+              <origPlace>Florence</origPlace>
+            </origin>
+            <provenance>Formerly owned by Prince Piero Ginor Conti (bookplate, inside lower cover).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="keywords">
+          <category xml:id="keyword_1">
+            <catDesc>Book Type</catDesc>
+            <category xml:id="keyword_1.2">
+              <catDesc>Accounts</catDesc>
+            </category>
+            <category xml:id="keyword_1.3">
+              <catDesc>Antiphonary</catDesc>
+            </category>
+            <category xml:id="keyword_1.4">
+              <catDesc>Armorial</catDesc>
+            </category>
+            <category xml:id="keyword_1.5">
+              <catDesc>Bible</catDesc>
+            </category>
+            <category xml:id="keyword_1.6">
+              <catDesc>Biography</catDesc>
+            </category>
+            <category xml:id="keyword_1.7">
+              <catDesc>Book of Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.8">
+              <catDesc>Breviary</catDesc>
+            </category>
+            <category xml:id="keyword_1.9">
+              <catDesc>Chronicle</catDesc>
+            </category>
+            <category xml:id="keyword_1.10">
+              <catDesc>Collection of Sermons</catDesc>
+            </category>
+            <category xml:id="keyword_1.11">
+              <catDesc>Commentary</catDesc>
+            </category>
+            <category xml:id="keyword_1.12">
+              <catDesc>Dictionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.13">
+              <catDesc>Document</catDesc>
+            </category>
+            <category xml:id="keyword_1.14">
+              <catDesc>Dogale</catDesc>
+            </category>
+            <category xml:id="keyword_1.15">
+              <catDesc>Friendship book</catDesc>
+            </category>
+            <category xml:id="keyword_1.16">
+              <catDesc>Genealogy</catDesc>
+            </category>
+            <category xml:id="keyword_1.17">
+              <catDesc>Glossary</catDesc>
+            </category>
+            <category xml:id="keyword_1.18">
+              <catDesc>Gospel Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.19">
+              <catDesc>Gospels</catDesc>
+            </category>
+            <category xml:id="keyword_1.20">
+              <catDesc>Gradual</catDesc>
+            </category>
+            <category xml:id="keyword_1.22">
+              <catDesc>Haggadah</catDesc>
+            </category>
+            <category xml:id="keyword_1.23">
+              <catDesc>Homilary</catDesc>
+            </category>
+            <category xml:id="keyword_1.24">
+              <catDesc>Horologion</catDesc>
+            </category>
+            <category xml:id="keyword_1.25">
+              <catDesc>Hymnal</catDesc>
+            </category>
+            <category xml:id="keyword_1.26">
+              <catDesc>Koran</catDesc>
+            </category>
+            <category xml:id="keyword_1.27">
+              <catDesc>Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.28">
+              <catDesc>Mass book</catDesc>
+            </category>
+            <category xml:id="keyword_1.29">
+              <catDesc>Miscellany</catDesc>
+            </category>
+            <category xml:id="keyword_1.30">
+              <catDesc>Missal</catDesc>
+            </category>
+            <category xml:id="keyword_1.31">
+              <catDesc>Pontifical</catDesc>
+            </category>
+            <category xml:id="keyword_1.32">
+              <catDesc>Portolan chart</catDesc>
+            </category>
+            <category xml:id="keyword_1.33">
+              <catDesc>Prayer book</catDesc>
+            </category>
+            <category xml:id="keyword_1.34">
+              <catDesc>Private devotional text</catDesc>
+            </category>
+            <category xml:id="keyword_1.35">
+              <catDesc>Processional</catDesc>
+            </category>
+            <category xml:id="keyword_1.36">
+              <catDesc>Protective scroll</catDesc>
+            </category>
+            <category xml:id="keyword_1.37">
+              <catDesc>Psalter</catDesc>
+            </category>
+            <category xml:id="keyword_1.38">
+              <catDesc>Psalter-Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.39">
+              <catDesc>Qur`an</catDesc>
+            </category>
+            <category xml:id="keyword_1.40">
+              <catDesc>Recipe book</catDesc>
+            </category>
+            <category xml:id="keyword_1.41">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.42">
+              <catDesc>Scribal manual</catDesc>
+            </category>
+            <category xml:id="keyword_1.43">
+              <catDesc>Song book</catDesc>
+            </category>
+            <category xml:id="keyword_1.44">
+              <catDesc>Torah</catDesc>
+            </category>
+            <category xml:id="keyword_1.45">
+              <catDesc>Treatise</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_2">
+            <catDesc>Century</catDesc>
+            <category xml:id="keyword_2.2">
+              <catDesc>6th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.3">
+              <catDesc>7th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.4">
+              <catDesc>8th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.5">
+              <catDesc>9th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.6">
+              <catDesc>10th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.7">
+              <catDesc>11th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.8">
+              <catDesc>12th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.9">
+              <catDesc>13th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.10">
+              <catDesc>14th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.11">
+              <catDesc>15th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.12">
+              <catDesc>16th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.13">
+              <catDesc>17th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.14">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.15">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.16">
+              <catDesc>20th century</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_3">
+            <catDesc>Culture</catDesc>
+            <category xml:id="keyword_3.2">
+              <catDesc>Abbasid</catDesc>
+            </category>
+            <category xml:id="keyword_3.3">
+              <catDesc>Arabic</catDesc>
+            </category>
+            <category xml:id="keyword_3.4">
+              <catDesc>Armenian</catDesc>
+            </category>
+            <category xml:id="keyword_3.5">
+              <catDesc>Ashkenazi</catDesc>
+            </category>
+            <category xml:id="keyword_3.6">
+              <catDesc>Austrian</catDesc>
+            </category>
+            <category xml:id="keyword_3.7">
+              <catDesc>Byzantine</catDesc>
+            </category>
+            <category xml:id="keyword_3.8">
+              <catDesc>Carolingian</catDesc>
+            </category>
+            <category xml:id="keyword_3.9">
+              <catDesc>Chinese</catDesc>
+            </category>
+            <category xml:id="keyword_3.10">
+              <catDesc>Christian</catDesc>
+            </category>
+            <category xml:id="keyword_3.11">
+              <catDesc>Coptic</catDesc>
+            </category>
+            <category xml:id="keyword_3.12">
+              <catDesc>Dutch</catDesc>
+            </category>
+            <category xml:id="keyword_3.13">
+              <catDesc>Egyptian</catDesc>
+            </category>
+            <category xml:id="keyword_3.14">
+              <catDesc>English</catDesc>
+            </category>
+            <category xml:id="keyword_3.15">
+              <catDesc>Ethiopian</catDesc>
+            </category>
+            <category xml:id="keyword_3.16">
+              <catDesc>Fatimid</catDesc>
+            </category>
+            <category xml:id="keyword_3.17">
+              <catDesc>Flemish</catDesc>
+            </category>
+            <category xml:id="keyword_3.18">
+              <catDesc>French</catDesc>
+            </category>
+            <category xml:id="keyword_3.19">
+              <catDesc>German</catDesc>
+            </category>
+            <category xml:id="keyword_3.20">
+              <catDesc>Indian</catDesc>
+            </category>
+            <category xml:id="keyword_3.21">
+              <catDesc>Islamic</catDesc>
+            </category>
+            <category xml:id="keyword_3.22">
+              <catDesc>Italian</catDesc>
+            </category>
+            <category xml:id="keyword_3.23">
+              <catDesc>Jewish</catDesc>
+            </category>
+            <category xml:id="keyword_3.25">
+              <catDesc>Mamluk</catDesc>
+            </category>
+            <category xml:id="keyword_3.26">
+              <catDesc>Mughal</catDesc>
+            </category>
+            <category xml:id="keyword_3.27">
+              <catDesc>Ottoman</catDesc>
+            </category>
+            <category xml:id="keyword_3.28">
+              <catDesc>Ottonian</catDesc>
+            </category>
+            <category xml:id="keyword_3.29">
+              <catDesc>Persian</catDesc>
+            </category>
+            <category xml:id="keyword_3.30">
+              <catDesc>Portuguese</catDesc>
+            </category>
+            <category xml:id="keyword_3.31">
+              <catDesc>Qajar</catDesc>
+            </category>
+            <category xml:id="keyword_3.32">
+              <catDesc>Rajput</catDesc>
+            </category>
+            <category xml:id="keyword_3.33">
+              <catDesc>Russian</catDesc>
+            </category>
+            <category xml:id="keyword_3.34">
+              <catDesc>Safavid</catDesc>
+            </category>
+            <category xml:id="keyword_3.35">
+              <catDesc>Sephardi</catDesc>
+            </category>
+            <category xml:id="keyword_3.36">
+              <catDesc>Spanish</catDesc>
+            </category>
+            <category xml:id="keyword_3.37">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.38">
+              <catDesc>Turkish</catDesc>
+            </category>
+            <category xml:id="keyword_3.39">
+              <catDesc>Yemenite</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_4">
+            <catDesc>Descriptive term</catDesc>
+            <category xml:id="keyword_4.2">
+              <catDesc>Accordion book</catDesc>
+            </category>
+            <category xml:id="keyword_4.3">
+              <catDesc>Album</catDesc>
+            </category>
+            <category xml:id="keyword_4.4">
+              <catDesc>Annotated</catDesc>
+            </category>
+            <category xml:id="keyword_4.5">
+              <catDesc>Binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.6">
+              <catDesc>Calligraphy</catDesc>
+            </category>
+            <category xml:id="keyword_4.7">
+              <catDesc>Caroline minuscule</catDesc>
+            </category>
+            <category xml:id="keyword_4.8">
+              <catDesc>Chart</catDesc>
+            </category>
+            <category xml:id="keyword_4.9">
+              <catDesc>Charter</catDesc>
+            </category>
+            <category xml:id="keyword_4.10">
+              <catDesc>Colophon</catDesc>
+            </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Damage</catDesc>
+            </category>
+            <category xml:id="keyword_4.12">
+              <catDesc>Diagrams</catDesc>
+            </category>
+            <category xml:id="keyword_4.13">
+              <catDesc>Drawing</catDesc>
+            </category>
+            <category xml:id="keyword_4.14">
+              <catDesc>Early Abbasid script</catDesc>
+            </category>
+            <category xml:id="keyword_4.15">
+              <catDesc>Fragment</catDesc>
+            </category>
+            <category xml:id="keyword_4.16">
+              <catDesc>Gloss</catDesc>
+            </category>
+            <category xml:id="keyword_4.17">
+              <catDesc>Gothic</catDesc>
+            </category>
+            <category xml:id="keyword_4.18">
+              <catDesc>Gothic book hand</catDesc>
+            </category>
+            <category xml:id="keyword_4.19">
+              <catDesc>Grisaille</catDesc>
+            </category>
+            <category xml:id="keyword_4.20">
+              <catDesc>Grotesques</catDesc>
+            </category>
+            <category xml:id="keyword_4.21">
+              <catDesc>Headpiece</catDesc>
+            </category>
+            <category xml:id="keyword_4.22">
+              <catDesc>Heraldry</catDesc>
+            </category>
+            <category xml:id="keyword_4.23">
+              <catDesc>Historiated initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.24">
+              <catDesc>Humanistic</catDesc>
+            </category>
+            <category xml:id="keyword_4.25">
+              <catDesc>Illumination</catDesc>
+            </category>
+            <category xml:id="keyword_4.26">
+              <catDesc>Illustration</catDesc>
+            </category>
+            <category xml:id="keyword_4.27">
+              <catDesc>Inhabited initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.28">
+              <catDesc>Kufic</catDesc>
+            </category>
+            <category xml:id="keyword_4.29">
+              <catDesc>Manicules</catDesc>
+            </category>
+            <category xml:id="keyword_4.30">
+              <catDesc>Medallion</catDesc>
+            </category>
+            <category xml:id="keyword_4.31">
+              <catDesc>Micrography</catDesc>
+            </category>
+            <category xml:id="keyword_4.32">
+              <catDesc>Miniature</catDesc>
+            </category>
+            <category xml:id="keyword_4.33">
+              <catDesc>Missing leaves</catDesc>
+            </category>
+            <category xml:id="keyword_4.34">
+              <catDesc>Musical notation</catDesc>
+            </category>
+            <category xml:id="keyword_4.35">
+              <catDesc>New Abbasid style</catDesc>
+            </category>
+            <category xml:id="keyword_4.36">
+              <catDesc>Notable binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.37">
+              <catDesc>Original binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.38">
+              <catDesc>Ornament</catDesc>
+            </category>
+            <category xml:id="keyword_4.39">
+              <catDesc>Painting</catDesc>
+            </category>
+            <category xml:id="keyword_4.40">
+              <catDesc>Palimpsest</catDesc>
+            </category>
+            <category xml:id="keyword_4.41">
+              <catDesc>Paper</catDesc>
+            </category>
+            <category xml:id="keyword_4.42">
+              <catDesc>Penwork initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.43">
+              <catDesc>Puzzle initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.44">
+              <catDesc>Ragini</catDesc>
+            </category>
+            <category xml:id="keyword_4.45">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.46">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.47">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.48">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.49">
+              <catDesc>Seals</catDesc>
+            </category>
+            <category xml:id="keyword_4.50">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_4.51">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.52">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.53">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.54">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.55">
+              <catDesc>Woodcuts</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_5">
+            <catDesc>Geography</catDesc>
+            <category xml:id="keyword_5.2">
+              <catDesc>Afghanistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.3">
+              <catDesc>Armenia</catDesc>
+            </category>
+            <category xml:id="keyword_5.4">
+              <catDesc>Austria</catDesc>
+            </category>
+            <category xml:id="keyword_5.5">
+              <catDesc>Belgium</catDesc>
+            </category>
+            <category xml:id="keyword_5.6">
+              <catDesc>Central Arab lands (Near East)</catDesc>
+            </category>
+            <category xml:id="keyword_5.7">
+              <catDesc>Central Asia</catDesc>
+            </category>
+            <category xml:id="keyword_5.8">
+              <catDesc>China</catDesc>
+            </category>
+            <category xml:id="keyword_5.9">
+              <catDesc>Egypt</catDesc>
+            </category>
+            <category xml:id="keyword_5.10">
+              <catDesc>England</catDesc>
+            </category>
+            <category xml:id="keyword_5.11">
+              <catDesc>Ethiopia</catDesc>
+            </category>
+            <category xml:id="keyword_5.12">
+              <catDesc>Flanders</catDesc>
+            </category>
+            <category xml:id="keyword_5.13">
+              <catDesc>France</catDesc>
+            </category>
+            <category xml:id="keyword_5.14">
+              <catDesc>Germany</catDesc>
+            </category>
+            <category xml:id="keyword_5.15">
+              <catDesc>Greece</catDesc>
+            </category>
+            <category xml:id="keyword_5.16">
+              <catDesc>India</catDesc>
+            </category>
+            <category xml:id="keyword_5.17">
+              <catDesc>Iran</catDesc>
+            </category>
+            <category xml:id="keyword_5.18">
+              <catDesc>Iraq</catDesc>
+            </category>
+            <category xml:id="keyword_5.19">
+              <catDesc>Israel</catDesc>
+            </category>
+            <category xml:id="keyword_5.20">
+              <catDesc>Italy</catDesc>
+            </category>
+            <category xml:id="keyword_5.21">
+              <catDesc>Maghreb</catDesc>
+            </category>
+            <category xml:id="keyword_5.22">
+              <catDesc>Morocco</catDesc>
+            </category>
+            <category xml:id="keyword_5.23">
+              <catDesc>Netherlands</catDesc>
+            </category>
+            <category xml:id="keyword_5.24">
+              <catDesc>Pakistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.25">
+              <catDesc>Portugal</catDesc>
+            </category>
+            <category xml:id="keyword_5.26">
+              <catDesc>Romania</catDesc>
+            </category>
+            <category xml:id="keyword_5.27">
+              <catDesc>Russia</catDesc>
+            </category>
+            <category xml:id="keyword_5.28">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.29">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.30">
+              <catDesc>Turkey</catDesc>
+            </category>
+            <category xml:id="keyword_5.31">
+              <catDesc>Wales</catDesc>
+            </category>
+            <category xml:id="keyword_5.32">
+              <catDesc>Yemen</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_6">
+            <catDesc>Other</catDesc>
+            <category xml:id="keyword_6.2">
+              <catDesc>Alchemy</catDesc>
+            </category>
+            <category xml:id="keyword_6.3">
+              <catDesc>Allegory</catDesc>
+            </category>
+            <category xml:id="keyword_6.4">
+              <catDesc>Astrology</catDesc>
+            </category>
+            <category xml:id="keyword_6.5">
+              <catDesc>Astronomy</catDesc>
+            </category>
+            <category xml:id="keyword_6.6">
+              <catDesc>Biblical</catDesc>
+            </category>
+            <category xml:id="keyword_6.7">
+              <catDesc>Binding waste</catDesc>
+            </category>
+            <category xml:id="keyword_6.8">
+              <catDesc>Cartography</catDesc>
+            </category>
+            <category xml:id="keyword_6.9">
+              <catDesc>Church Fathers</catDesc>
+            </category>
+            <category xml:id="keyword_6.10">
+              <catDesc>Cosmology</catDesc>
+            </category>
+            <category xml:id="keyword_6.11">
+              <catDesc>Devotion</catDesc>
+            </category>
+            <category xml:id="keyword_6.12">
+              <catDesc>Financial records</catDesc>
+            </category>
+            <category xml:id="keyword_6.13">
+              <catDesc>Fortune-telling</catDesc>
+            </category>
+            <category xml:id="keyword_6.14">
+              <catDesc>Friendship</catDesc>
+            </category>
+            <category xml:id="keyword_6.15">
+              <catDesc>Games</catDesc>
+            </category>
+            <category xml:id="keyword_6.16">
+              <catDesc>Geography</catDesc>
+            </category>
+            <category xml:id="keyword_6.17">
+              <catDesc>Geomancy</catDesc>
+            </category>
+            <category xml:id="keyword_6.18">
+              <catDesc>Grammar</catDesc>
+            </category>
+            <category xml:id="keyword_6.19">
+              <catDesc>History</catDesc>
+            </category>
+            <category xml:id="keyword_6.20">
+              <catDesc>Kabbalah</catDesc>
+            </category>
+            <category xml:id="keyword_6.21">
+              <catDesc>Legal</catDesc>
+            </category>
+            <category xml:id="keyword_6.22">
+              <catDesc>Literature -- Poetry</catDesc>
+            </category>
+            <category xml:id="keyword_6.23">
+              <catDesc>Literature -- Prose</catDesc>
+            </category>
+            <category xml:id="keyword_6.24">
+              <catDesc>Liturgy</catDesc>
+            </category>
+            <category xml:id="keyword_6.25">
+              <catDesc>Logic</catDesc>
+            </category>
+            <category xml:id="keyword_6.26">
+              <catDesc>Magic</catDesc>
+            </category>
+            <category xml:id="keyword_6.27">
+              <catDesc>Maritime</catDesc>
+            </category>
+            <category xml:id="keyword_6.28">
+              <catDesc>Mathematics</catDesc>
+            </category>
+            <category xml:id="keyword_6.29">
+              <catDesc>Mineralogy</catDesc>
+            </category>
+            <category xml:id="keyword_6.30">
+              <catDesc>Philosophy</catDesc>
+            </category>
+            <category xml:id="keyword_6.31">
+              <catDesc>Piyutim</catDesc>
+            </category>
+            <category xml:id="keyword_6.32">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.33">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.34">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.35">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.36">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.37">
+              <catDesc>Theology</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_7">
+            <catDesc/>
+            <category xml:id="keyword_7.1">
+              <catDesc> </catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Inheritance and succession--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Deeds</term>
+          <term>Legal documents</term>
+          <term>Notarial documents</term>
+          <term>Wills</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+        <keywords n="keywords">
+          <term>16th century</term>
+          <term>Italian</term>
+          <term>Italy</term>
+          <term>Legal</term>
+          <term>Document</term>
+          <term>Genealogy</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-oversize-ms-codex-1256-1">
+      <graphic height="5052px" url="master/1252_0000.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0000_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0000_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-oversize-ms-codex-1256-2">
+      <graphic height="5052px" url="master/1252_0001.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0001_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0001_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="1r" xml:id="surface-oversize-ms-codex-1256-3">
+      <graphic height="5052px" url="master/1252_0002.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0002_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0002_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-oversize-ms-codex-1256-4">
+      <graphic height="5052px" url="master/1252_0003.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0003_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0003_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-oversize-ms-codex-1256-5">
+      <graphic height="5052px" url="master/1252_0004.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0004_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0004_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-oversize-ms-codex-1256-6">
+      <graphic height="5052px" url="master/1252_0005.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0005_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0005_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="3r" xml:id="surface-oversize-ms-codex-1256-7">
+      <graphic height="5052px" url="master/1252_0006.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0006_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0006_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-oversize-ms-codex-1256-8">
+      <graphic height="5052px" url="master/1252_0007.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0007_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0007_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="4r" xml:id="surface-oversize-ms-codex-1256-9">
+      <graphic height="5052px" url="master/1252_0008.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0008_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0008_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-oversize-ms-codex-1256-10">
+      <graphic height="5052px" url="master/1252_0009.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0009_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0009_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="5r" xml:id="surface-oversize-ms-codex-1256-11">
+      <graphic height="5052px" url="master/1252_0010.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0010_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0010_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="5v" xml:id="surface-oversize-ms-codex-1256-12">
+      <graphic height="5052px" url="master/1252_0011.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0011_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0011_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="6r" xml:id="surface-oversize-ms-codex-1256-13">
+      <graphic height="5052px" url="master/1252_0012.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0012_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0012_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="6v" xml:id="surface-oversize-ms-codex-1256-14">
+      <graphic height="5052px" url="master/1252_0013.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0013_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0013_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="7r" xml:id="surface-oversize-ms-codex-1256-15">
+      <graphic height="5052px" url="master/1252_0014.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0014_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0014_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="7v" xml:id="surface-oversize-ms-codex-1256-16">
+      <graphic height="5052px" url="master/1252_0015.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0015_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0015_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="8r" xml:id="surface-oversize-ms-codex-1256-17">
+      <graphic height="5052px" url="master/1252_0016.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0016_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0016_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="8v" xml:id="surface-oversize-ms-codex-1256-18">
+      <graphic height="5052px" url="master/1252_0017.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0017_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0017_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="9r" xml:id="surface-oversize-ms-codex-1256-19">
+      <graphic height="5052px" url="master/1252_0018.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0018_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0018_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="9v" xml:id="surface-oversize-ms-codex-1256-20">
+      <graphic height="5052px" url="master/1252_0019.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0019_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0019_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="10r" xml:id="surface-oversize-ms-codex-1256-21">
+      <graphic height="5052px" url="master/1252_0020.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0020_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0020_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="10v" xml:id="surface-oversize-ms-codex-1256-22">
+      <graphic height="5052px" url="master/1252_0021.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0021_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0021_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="11r" xml:id="surface-oversize-ms-codex-1256-23">
+      <graphic height="5052px" url="master/1252_0022.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0022_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0022_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="11v" xml:id="surface-oversize-ms-codex-1256-24">
+      <graphic height="5052px" url="master/1252_0023.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0023_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0023_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="12r" xml:id="surface-oversize-ms-codex-1256-25">
+      <graphic height="5052px" url="master/1252_0024.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0024_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0024_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="12v" xml:id="surface-oversize-ms-codex-1256-26">
+      <graphic height="5052px" url="master/1252_0025.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0025_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0025_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="12r =13r" xml:id="surface-oversize-ms-codex-1256-27">
+      <graphic height="5052px" url="master/1252_0026.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0026_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0026_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="12v =13v" xml:id="surface-oversize-ms-codex-1256-28">
+      <graphic height="5052px" url="master/1252_0027.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0027_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0027_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="13r =14r" xml:id="surface-oversize-ms-codex-1256-29">
+      <graphic height="5052px" url="master/1252_0028.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0028_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0028_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="13v =14v" xml:id="surface-oversize-ms-codex-1256-30">
+      <graphic height="5052px" url="master/1252_0029.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0029_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0029_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="14r =15r" xml:id="surface-oversize-ms-codex-1256-31">
+      <graphic height="5052px" url="master/1252_0030.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0030_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0030_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="14v =15v" xml:id="surface-oversize-ms-codex-1256-32">
+      <graphic height="5052px" url="master/1252_0031.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0031_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0031_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="15r =16r" xml:id="surface-oversize-ms-codex-1256-33">
+      <graphic height="5052px" url="master/1252_0032.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0032_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0032_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="15v =16v" xml:id="surface-oversize-ms-codex-1256-34">
+      <graphic height="5052px" url="master/1252_0033.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0033_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0033_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="16r =17r" xml:id="surface-oversize-ms-codex-1256-35">
+      <graphic height="5052px" url="master/1252_0034.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0034_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0034_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="16v =17v" xml:id="surface-oversize-ms-codex-1256-36">
+      <graphic height="5052px" url="master/1252_0035.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0035_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0035_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="17r =18r" xml:id="surface-oversize-ms-codex-1256-37">
+      <graphic height="5052px" url="master/1252_0036.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0036_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0036_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="17v =18v" xml:id="surface-oversize-ms-codex-1256-38">
+      <graphic height="5052px" url="master/1252_0037.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0037_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0037_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="18r =19r" xml:id="surface-oversize-ms-codex-1256-39">
+      <graphic height="5052px" url="master/1252_0038.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0038_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0038_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="18v =19v" xml:id="surface-oversize-ms-codex-1256-40">
+      <graphic height="5052px" url="master/1252_0039.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0039_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0039_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="19r =20r" xml:id="surface-oversize-ms-codex-1256-41">
+      <graphic height="5052px" url="master/1252_0040.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0040_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0040_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="19v =20v" xml:id="surface-oversize-ms-codex-1256-42">
+      <graphic height="5052px" url="master/1252_0041.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0041_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0041_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="20r =21r" xml:id="surface-oversize-ms-codex-1256-43">
+      <graphic height="5052px" url="master/1252_0042.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0042_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0042_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="20v =21v" xml:id="surface-oversize-ms-codex-1256-44">
+      <graphic height="5052px" url="master/1252_0043.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0043_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0043_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="21r =22r" xml:id="surface-oversize-ms-codex-1256-45">
+      <graphic height="5052px" url="master/1252_0044.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0044_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0044_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="21v =22v" xml:id="surface-oversize-ms-codex-1256-46">
+      <graphic height="5052px" url="master/1252_0045.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0045_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0045_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="22r =23r" xml:id="surface-oversize-ms-codex-1256-47">
+      <graphic height="5052px" url="master/1252_0046.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0046_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0046_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="22v =23v" xml:id="surface-oversize-ms-codex-1256-48">
+      <graphic height="5052px" url="master/1252_0047.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0047_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0047_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="23r =24r" xml:id="surface-oversize-ms-codex-1256-49">
+      <graphic height="5052px" url="master/1252_0048.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0048_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0048_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="23v =24v" xml:id="surface-oversize-ms-codex-1256-50">
+      <graphic height="5052px" url="master/1252_0049.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0049_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0049_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="24r =25r" xml:id="surface-oversize-ms-codex-1256-51">
+      <graphic height="5052px" url="master/1252_0050.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0050_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0050_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="24v =25v" xml:id="surface-oversize-ms-codex-1256-52">
+      <graphic height="5052px" url="master/1252_0051.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0051_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0051_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="25r =26r" xml:id="surface-oversize-ms-codex-1256-53">
+      <graphic height="5052px" url="master/1252_0052.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0052_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0052_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="25v =26v" xml:id="surface-oversize-ms-codex-1256-54">
+      <graphic height="5052px" url="master/1252_0053.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0053_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0053_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="26r =27r" xml:id="surface-oversize-ms-codex-1256-55">
+      <graphic height="5052px" url="master/1252_0054.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0054_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0054_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="26v =27v" xml:id="surface-oversize-ms-codex-1256-56">
+      <graphic height="5052px" url="master/1252_0055.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0055_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0055_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="27r =28r" xml:id="surface-oversize-ms-codex-1256-57">
+      <graphic height="5052px" url="master/1252_0056.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0056_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0056_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="27v =28v" xml:id="surface-oversize-ms-codex-1256-58">
+      <graphic height="5052px" url="master/1252_0057.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0057_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0057_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="28r =29r" xml:id="surface-oversize-ms-codex-1256-59">
+      <graphic height="5052px" url="master/1252_0058.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0058_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0058_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="28v =29v" xml:id="surface-oversize-ms-codex-1256-60">
+      <graphic height="5052px" url="master/1252_0059.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0059_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0059_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="29r =30r" xml:id="surface-oversize-ms-codex-1256-61">
+      <graphic height="5052px" url="master/1252_0060.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0060_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0060_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="29v =30v" xml:id="surface-oversize-ms-codex-1256-62">
+      <graphic height="5052px" url="master/1252_0061.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0061_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0061_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="30r =31r" xml:id="surface-oversize-ms-codex-1256-63">
+      <graphic height="5052px" url="master/1252_0062.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0062_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0062_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="30v =31v" xml:id="surface-oversize-ms-codex-1256-64">
+      <graphic height="5052px" url="master/1252_0063.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0063_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0063_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="31r =32r" xml:id="surface-oversize-ms-codex-1256-65">
+      <graphic height="5052px" url="master/1252_0064.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0064_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0064_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="31v =32v" xml:id="surface-oversize-ms-codex-1256-66">
+      <graphic height="5052px" url="master/1252_0065.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0065_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0065_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="32r =33r" xml:id="surface-oversize-ms-codex-1256-67">
+      <graphic height="5052px" url="master/1252_0066.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0066_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0066_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="32v =33v" xml:id="surface-oversize-ms-codex-1256-68">
+      <graphic height="5052px" url="master/1252_0067.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0067_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0067_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="33r =34r" xml:id="surface-oversize-ms-codex-1256-69">
+      <graphic height="5052px" url="master/1252_0068.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0068_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0068_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="33v =34v" xml:id="surface-oversize-ms-codex-1256-70">
+      <graphic height="5052px" url="master/1252_0069.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0069_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0069_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="34r =35r" xml:id="surface-oversize-ms-codex-1256-71">
+      <graphic height="5052px" url="master/1252_0070.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0070_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0070_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="34v =35v" xml:id="surface-oversize-ms-codex-1256-72">
+      <graphic height="5052px" url="master/1252_0071.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0071_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0071_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="35r =36r" xml:id="surface-oversize-ms-codex-1256-73">
+      <graphic height="5052px" url="master/1252_0072.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0072_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0072_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="35v =36v" xml:id="surface-oversize-ms-codex-1256-74">
+      <graphic height="5052px" url="master/1252_0073.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0073_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0073_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="36r =37r" xml:id="surface-oversize-ms-codex-1256-75">
+      <graphic height="5052px" url="master/1252_0074.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0074_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0074_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="36v =37v" xml:id="surface-oversize-ms-codex-1256-76">
+      <graphic height="5052px" url="master/1252_0075.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0075_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0075_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="37r =38r" xml:id="surface-oversize-ms-codex-1256-77">
+      <graphic height="5052px" url="master/1252_0076.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0076_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0076_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="37v =38v" xml:id="surface-oversize-ms-codex-1256-78">
+      <graphic height="5052px" url="master/1252_0077.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0077_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0077_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="38r =39r" xml:id="surface-oversize-ms-codex-1256-79">
+      <graphic height="5052px" url="master/1252_0078.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0078_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0078_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="38v =39v" xml:id="surface-oversize-ms-codex-1256-80">
+      <graphic height="5052px" url="master/1252_0079.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0079_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0079_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="39r =40r" xml:id="surface-oversize-ms-codex-1256-81">
+      <graphic height="5052px" url="master/1252_0080.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0080_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0080_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="39v =40v" xml:id="surface-oversize-ms-codex-1256-82">
+      <graphic height="5052px" url="master/1252_0081.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0081_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0081_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="40r =41r" xml:id="surface-oversize-ms-codex-1256-83">
+      <graphic height="5052px" url="master/1252_0082.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0082_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0082_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="40v =41v" xml:id="surface-oversize-ms-codex-1256-84">
+      <graphic height="5052px" url="master/1252_0083.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0083_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0083_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="41r =42r" xml:id="surface-oversize-ms-codex-1256-85">
+      <graphic height="5052px" url="master/1252_0084.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0084_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0084_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="41v =42v" xml:id="surface-oversize-ms-codex-1256-86">
+      <graphic height="5052px" url="master/1252_0085.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0085_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0085_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="42r =43r" xml:id="surface-oversize-ms-codex-1256-87">
+      <graphic height="5052px" url="master/1252_0086.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0086_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0086_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="42v =43v" xml:id="surface-oversize-ms-codex-1256-88">
+      <graphic height="5052px" url="master/1252_0087.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0087_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0087_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="43r =44r" xml:id="surface-oversize-ms-codex-1256-89">
+      <graphic height="5052px" url="master/1252_0088.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0088_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0088_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="43v =44v" xml:id="surface-oversize-ms-codex-1256-90">
+      <graphic height="5052px" url="master/1252_0089.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0089_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0089_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="44r =45r" xml:id="surface-oversize-ms-codex-1256-91">
+      <graphic height="5052px" url="master/1252_0090.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0090_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0090_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="44v =45v" xml:id="surface-oversize-ms-codex-1256-92">
+      <graphic height="5052px" url="master/1252_0091.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0091_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0091_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="45r =46r" xml:id="surface-oversize-ms-codex-1256-93">
+      <graphic height="5052px" url="master/1252_0092.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0092_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0092_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="45v =46v" xml:id="surface-oversize-ms-codex-1256-94">
+      <graphic height="5052px" url="master/1252_0093.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0093_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0093_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="46r =47r" xml:id="surface-oversize-ms-codex-1256-95">
+      <graphic height="5052px" url="master/1252_0094.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0094_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0094_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="46v =47v" xml:id="surface-oversize-ms-codex-1256-96">
+      <graphic height="5052px" url="master/1252_0095.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0095_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0095_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="47r =48r" xml:id="surface-oversize-ms-codex-1256-97">
+      <graphic height="5052px" url="master/1252_0096.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0096_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0096_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="47v =48v" xml:id="surface-oversize-ms-codex-1256-98">
+      <graphic height="5052px" url="master/1252_0097.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0097_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0097_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="48r =49r" xml:id="surface-oversize-ms-codex-1256-99">
+      <graphic height="5052px" url="master/1252_0098.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0098_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0098_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="48v =49v" xml:id="surface-oversize-ms-codex-1256-100">
+      <graphic height="5052px" url="master/1252_0099.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0099_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0099_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="49r =50r" xml:id="surface-oversize-ms-codex-1256-101">
+      <graphic height="5052px" url="master/1252_0100.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0100_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0100_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="49v =50v" xml:id="surface-oversize-ms-codex-1256-102">
+      <graphic height="5052px" url="master/1252_0101.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0101_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0101_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="50r =51r" xml:id="surface-oversize-ms-codex-1256-103">
+      <graphic height="5052px" url="master/1252_0102.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0102_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0102_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="50v =51v" xml:id="surface-oversize-ms-codex-1256-104">
+      <graphic height="5052px" url="master/1252_0103.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0103_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0103_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="51r =52r" xml:id="surface-oversize-ms-codex-1256-105">
+      <graphic height="5052px" url="master/1252_0104.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0104_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0104_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="51v =52v" xml:id="surface-oversize-ms-codex-1256-106">
+      <graphic height="5052px" url="master/1252_0105.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0105_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0105_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="52r =53r" xml:id="surface-oversize-ms-codex-1256-107">
+      <graphic height="5052px" url="master/1252_0106.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0106_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0106_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="52v =53v" xml:id="surface-oversize-ms-codex-1256-108">
+      <graphic height="5052px" url="master/1252_0107.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0107_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0107_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="53r =54r" xml:id="surface-oversize-ms-codex-1256-109">
+      <graphic height="5052px" url="master/1252_0108.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0108_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0108_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="53v =54v" xml:id="surface-oversize-ms-codex-1256-110">
+      <graphic height="5052px" url="master/1252_0109.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0109_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0109_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="54r =55r" xml:id="surface-oversize-ms-codex-1256-111">
+      <graphic height="5052px" url="master/1252_0110.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0110_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0110_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="54v =55v" xml:id="surface-oversize-ms-codex-1256-112">
+      <graphic height="5052px" url="master/1252_0111.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0111_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0111_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="55r =56r" xml:id="surface-oversize-ms-codex-1256-113">
+      <graphic height="5052px" url="master/1252_0112.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0112_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0112_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="55v =56v" xml:id="surface-oversize-ms-codex-1256-114">
+      <graphic height="5052px" url="master/1252_0113.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0113_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0113_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="56r =57r" xml:id="surface-oversize-ms-codex-1256-115">
+      <graphic height="5052px" url="master/1252_0114.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0114_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0114_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="56v =57v" xml:id="surface-oversize-ms-codex-1256-116">
+      <graphic height="5052px" url="master/1252_0115.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0115_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0115_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="57r =58r" xml:id="surface-oversize-ms-codex-1256-117">
+      <graphic height="5052px" url="master/1252_0116.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0116_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0116_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="57v =58v" xml:id="surface-oversize-ms-codex-1256-118">
+      <graphic height="5052px" url="master/1252_0117.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0117_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0117_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="58r =59r" xml:id="surface-oversize-ms-codex-1256-119">
+      <graphic height="5052px" url="master/1252_0118.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0118_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0118_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="58v =59v" xml:id="surface-oversize-ms-codex-1256-120">
+      <graphic height="5052px" url="master/1252_0119.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0119_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0119_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="59r =60r" xml:id="surface-oversize-ms-codex-1256-121">
+      <graphic height="5052px" url="master/1252_0120.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0120_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0120_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="59v =60v" xml:id="surface-oversize-ms-codex-1256-122">
+      <graphic height="5052px" url="master/1252_0121.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0121_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0121_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="60r =61r" xml:id="surface-oversize-ms-codex-1256-123">
+      <graphic height="5052px" url="master/1252_0122.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0122_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0122_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="60v =61v" xml:id="surface-oversize-ms-codex-1256-124">
+      <graphic height="5052px" url="master/1252_0123.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0123_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0123_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="61r =62r" xml:id="surface-oversize-ms-codex-1256-125">
+      <graphic height="5052px" url="master/1252_0124.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0124_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0124_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="61v =62v" xml:id="surface-oversize-ms-codex-1256-126">
+      <graphic height="5052px" url="master/1252_0125.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0125_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0125_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="62r =63r" xml:id="surface-oversize-ms-codex-1256-127">
+      <graphic height="5052px" url="master/1252_0126.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0126_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0126_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="62v =63v" xml:id="surface-oversize-ms-codex-1256-128">
+      <graphic height="5052px" url="master/1252_0127.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0127_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0127_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="63r =64r" xml:id="surface-oversize-ms-codex-1256-129">
+      <graphic height="5052px" url="master/1252_0128.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0128_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0128_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="63v =64v" xml:id="surface-oversize-ms-codex-1256-130">
+      <graphic height="5052px" url="master/1252_0129.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0129_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0129_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="64r =65r" xml:id="surface-oversize-ms-codex-1256-131">
+      <graphic height="5052px" url="master/1252_0130.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0130_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0130_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="64v =65v" xml:id="surface-oversize-ms-codex-1256-132">
+      <graphic height="5052px" url="master/1252_0131.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0131_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0131_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="65r =66r" xml:id="surface-oversize-ms-codex-1256-133">
+      <graphic height="5052px" url="master/1252_0132.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0132_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0132_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="65v =66v" xml:id="surface-oversize-ms-codex-1256-134">
+      <graphic height="5052px" url="master/1252_0133.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0133_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0133_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="66r =67r" xml:id="surface-oversize-ms-codex-1256-135">
+      <graphic height="5052px" url="master/1252_0134.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0134_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0134_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="66v =67v" xml:id="surface-oversize-ms-codex-1256-136">
+      <graphic height="5052px" url="master/1252_0135.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0135_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0135_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="67r =68r" xml:id="surface-oversize-ms-codex-1256-137">
+      <graphic height="5052px" url="master/1252_0136.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0136_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0136_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="67v =68v" xml:id="surface-oversize-ms-codex-1256-138">
+      <graphic height="5052px" url="master/1252_0137.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0137_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0137_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="68r =69r" xml:id="surface-oversize-ms-codex-1256-139">
+      <graphic height="5052px" url="master/1252_0138.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0138_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0138_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="68v =69v" xml:id="surface-oversize-ms-codex-1256-140">
+      <graphic height="5052px" url="master/1252_0139.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0139_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0139_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="69r =70r" xml:id="surface-oversize-ms-codex-1256-141">
+      <graphic height="5052px" url="master/1252_0140.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0140_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0140_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="69v =70v" xml:id="surface-oversize-ms-codex-1256-142">
+      <graphic height="5052px" url="master/1252_0141.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0141_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0141_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="70r =71r" xml:id="surface-oversize-ms-codex-1256-143">
+      <graphic height="5052px" url="master/1252_0142.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0142_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0142_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="70v =71v" xml:id="surface-oversize-ms-codex-1256-144">
+      <graphic height="5052px" url="master/1252_0143.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0143_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0143_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="71r =72r" xml:id="surface-oversize-ms-codex-1256-145">
+      <graphic height="5052px" url="master/1252_0144.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0144_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0144_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="71v =72v" xml:id="surface-oversize-ms-codex-1256-146">
+      <graphic height="5052px" url="master/1252_0145.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0145_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0145_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="72r =73r" xml:id="surface-oversize-ms-codex-1256-147">
+      <graphic height="5052px" url="master/1252_0146.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0146_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0146_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="72v =73v" xml:id="surface-oversize-ms-codex-1256-148">
+      <graphic height="5052px" url="master/1252_0147.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0147_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0147_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="73r =74r" xml:id="surface-oversize-ms-codex-1256-149">
+      <graphic height="5052px" url="master/1252_0148.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0148_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0148_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="73v =74v" xml:id="surface-oversize-ms-codex-1256-150">
+      <graphic height="5052px" url="master/1252_0149.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0149_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0149_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="74r =75r" xml:id="surface-oversize-ms-codex-1256-151">
+      <graphic height="5052px" url="master/1252_0150.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0150_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0150_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="74v =75v" xml:id="surface-oversize-ms-codex-1256-152">
+      <graphic height="5052px" url="master/1252_0151.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0151_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0151_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="75r =76r" xml:id="surface-oversize-ms-codex-1256-153">
+      <graphic height="5052px" url="master/1252_0152.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0152_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0152_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="75v =76v" xml:id="surface-oversize-ms-codex-1256-154">
+      <graphic height="5052px" url="master/1252_0153.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0153_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0153_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="76r =77r" xml:id="surface-oversize-ms-codex-1256-155">
+      <graphic height="5052px" url="master/1252_0154.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0154_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0154_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="76v =77v" xml:id="surface-oversize-ms-codex-1256-156">
+      <graphic height="5052px" url="master/1252_0155.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0155_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0155_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="77r =78r" xml:id="surface-oversize-ms-codex-1256-157">
+      <graphic height="5052px" url="master/1252_0156.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0156_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0156_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="77v =78v" xml:id="surface-oversize-ms-codex-1256-158">
+      <graphic height="5052px" url="master/1252_0157.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0157_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0157_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="78r =79r" xml:id="surface-oversize-ms-codex-1256-159">
+      <graphic height="5052px" url="master/1252_0158.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0158_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0158_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="78v =79v" xml:id="surface-oversize-ms-codex-1256-160">
+      <graphic height="5052px" url="master/1252_0159.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0159_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0159_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="79r =80r" xml:id="surface-oversize-ms-codex-1256-161">
+      <graphic height="5052px" url="master/1252_0160.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0160_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0160_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="79v =80v" xml:id="surface-oversize-ms-codex-1256-162">
+      <graphic height="5052px" url="master/1252_0161.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0161_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0161_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="80r =81r" xml:id="surface-oversize-ms-codex-1256-163">
+      <graphic height="5052px" url="master/1252_0162.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0162_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0162_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="80v =81v" xml:id="surface-oversize-ms-codex-1256-164">
+      <graphic height="5052px" url="master/1252_0163.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0163_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0163_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="81r =82r" xml:id="surface-oversize-ms-codex-1256-165">
+      <graphic height="5052px" url="master/1252_0164.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0164_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0164_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="81v =82v" xml:id="surface-oversize-ms-codex-1256-166">
+      <graphic height="5052px" url="master/1252_0165.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0165_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0165_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="82r =83r" xml:id="surface-oversize-ms-codex-1256-167">
+      <graphic height="5052px" url="master/1252_0166.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0166_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0166_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="82v =83v" xml:id="surface-oversize-ms-codex-1256-168">
+      <graphic height="5052px" url="master/1252_0167.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0167_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0167_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="83r =84r" xml:id="surface-oversize-ms-codex-1256-169">
+      <graphic height="5052px" url="master/1252_0168.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0168_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0168_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="83v =84v" xml:id="surface-oversize-ms-codex-1256-170">
+      <graphic height="5052px" url="master/1252_0169.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0169_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0169_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="84r =85r" xml:id="surface-oversize-ms-codex-1256-171">
+      <graphic height="5052px" url="master/1252_0170.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0170_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0170_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="84v =85v" xml:id="surface-oversize-ms-codex-1256-172">
+      <graphic height="5052px" url="master/1252_0171.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0171_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0171_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="i recto" xml:id="surface-oversize-ms-codex-1256-173">
+      <graphic height="5052px" url="master/1252_0172.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0172_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0172_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="i verso" xml:id="surface-oversize-ms-codex-1256-174">
+      <graphic height="5052px" url="master/1252_0173.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0173_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0173_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="ii recto" xml:id="surface-oversize-ms-codex-1256-175">
+      <graphic height="5052px" url="master/1252_0174.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0174_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0174_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="ii verso" xml:id="surface-oversize-ms-codex-1256-176">
+      <graphic height="5052px" url="master/1252_0175.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0175_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0175_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="iii recto" xml:id="surface-oversize-ms-codex-1256-177">
+      <graphic height="5052px" url="master/1252_0176.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0176_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0176_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="iii verso" xml:id="surface-oversize-ms-codex-1256-178">
+      <graphic height="5052px" url="master/1252_0177.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0177_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0177_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-oversize-ms-codex-1256-179">
+      <graphic height="5052px" url="master/1252_0178.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0178_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0178_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-oversize-ms-codex-1256-180">
+      <graphic height="5052px" url="master/1252_0179.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0179_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0179_web.jpg" width="1427px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-oversize-ms-codex-1256-181">
+      <graphic height="5052px" url="master/1252_0180.tif" width="4005px"/>
+      <graphic height="190px" url="thumb/1252_0180_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/1252_0180_web.jpg" width="1427px"/>
+    </surface>
+  </facsimile>
+</TEI>

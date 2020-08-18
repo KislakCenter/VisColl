@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis E M 25:25: Historiated initial A depicting the Virgin enthroned</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>David Kalish</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Dot Porter</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis E M 25:25: Historiated initial A depicting the Virgin enthroned are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis E M 25:25: Historiated initial A depicting the Virgin enthroned. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis Collection of European Manuscripts</collection>
+            <idno type="call-number">Lewis E M 25:25</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Historiated initial A depicting the Virgin enthroned</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1425" notAfter="1475"/>
+              <p>1425-1475</p>
+              <origPlace>Siena, Italy</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>15th century</term>
+          <term>Historiated initial</term>
+          <term>Italy</term>
+          <term>Italian</term>
+          <term>Fragment</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis E M 25.25 front" xml:id="surface-lewis-e-m-25-25-1">
+      <graphic height="3676px" url="master/7792_0000.tif" width="3840px"/>
+      <graphic height="181px" url="thumb/7792_0000_thumb.jpg" width="190px"/>
+      <graphic height="1723px" url="web/7792_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Lewis E M 25.25 reverse" xml:id="surface-lewis-e-m-25-25-2">
+      <graphic height="3676px" url="master/7792_0001.tif" width="3840px"/>
+      <graphic height="181px" url="thumb/7792_0001_thumb.jpg" width="190px"/>
+      <graphic height="1723px" url="web/7792_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

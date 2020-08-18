@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 434: Jadāvil-i ikhtiyārāt.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts LJS 434: Jadāvil-i ikhtiyārāt. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">LJS 434</idno>
+            <altIdentifier type="bibid">
+              <idno>9948287273503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/792957720</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4828727 http://openn.library.upenn.edu/Data/0001/html/ljs434.html</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Tables used in an astrological technique for determining auspicious times for carrying out various activities. Also includes geographical illustrations and diagrams and half of a horoscope diagram for a location in northern Afghanistan dated Friday, 27 Shawwāl 912 (12 March 1507).</summary>
+            <textLang mainLang="per">Persian</textLang>
+            <msItem>
+              <title>Jadāvil-i ikhtiyārāt.</title>
+              <title type="vernacular">[جداول اختيارات]</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>7 leaves : 216 x 137 (145 x 109) mm. bound to 220 x 144 mm</extent>
+                <foliation>Paper, 7; [1-7]; modern foliation in pencil, upper left recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Textblock border-ruled in gold with vertical margins extended to upper edge of the page.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nastaʻlīq in black ink; pointed, with headings in naskh script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>6 colored diagrams (eastern half of a double-page world map, f. 1r; structure and arrangement of seven climatic zones, f. 2v; geographical relationship of various cities to Mecca, f. 3r; rainbow predictions, f. 4v; setting and rising of the moon, f. 5r; half of a double-page horoscope diagram, f. 7v) and 8 decorated tables (ikhtiyārāt for the days of the solar month, f. 1v-2r; ikhtiyārāt for the lunar mansions, f. 3v-4r; ikhtiyārāt for the moon in one of the zodiacal signs, f. 5v-6r); marginal ruling in gold; significant words or numbers in red or green ink.</decoNote>
+              <decoNote n="1r">Diagram, Eastern half of world map, f. 1r</decoNote>
+              <decoNote n="2v">Diagram, Seven climatic zones, f. 2v</decoNote>
+              <decoNote n="3r">Diagram, Geographical relationship of various cities to Mecca, f. 3r</decoNote>
+              <decoNote n="4v">Diagram, Rainbow predictions, f. 4v</decoNote>
+              <decoNote n="5r">Diagram, Setting and rising of the moon, f. 5r</decoNote>
+              <decoNote n="7v">Diagram, Half of a horoscope diagram, f. 7v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>19th-century light brown leather with faded, gold-tooled frame.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in the Timurid Empire in eastern Persia, now Iran, ca. 1507 (based on date of horoscope diagram, f. 7v).</p>
+              <origDate>approximately A.H. 912 (1507)</origDate>
+              <origPlace>Iran?</origPlace>
+            </origin>
+            <provenance>Sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, Mar. 2002.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+            <provenance>Gift of Barbara Brizdle Schoenberg, 2016.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Islamic astrology--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Persian</term>
+          <term>Manuscripts, 16th century</term>
+          <term>Manuscripts, Renaissance</term>
+          <term>Codices (bound manuscripts)</term>
+          <term>Almanacs</term>
+          <term>Diagrams</term>
+          <term>Tables (documents)</term>
+          <term>World maps</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-ljs-434-1">
+      <graphic height="5671px" url="master/0213_0000.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0000_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0000_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-ljs-434-2">
+      <graphic height="5671px" url="master/0213_0001.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0001_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0001_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-434-3">
+      <graphic height="5671px" url="master/0213_0002.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0002_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0002_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-434-4">
+      <graphic height="5671px" url="master/0213_0003.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0003_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0003_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="1r" xml:id="surface-ljs-434-5">
+      <graphic height="5671px" url="master/0213_0004.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0004_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0004_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ljs-434-6">
+      <graphic height="5671px" url="master/0213_0005.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0005_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0005_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-ljs-434-7">
+      <graphic height="5671px" url="master/0213_0006.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0006_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0006_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ljs-434-8">
+      <graphic height="5671px" url="master/0213_0007.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0007_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0007_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="3r" xml:id="surface-ljs-434-9">
+      <graphic height="5671px" url="master/0213_0008.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0008_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0008_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-ljs-434-10">
+      <graphic height="5671px" url="master/0213_0009.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0009_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0009_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="4r" xml:id="surface-ljs-434-11">
+      <graphic height="5671px" url="master/0213_0010.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0010_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0010_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ljs-434-12">
+      <graphic height="5671px" url="master/0213_0011.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0011_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0011_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="5r" xml:id="surface-ljs-434-13">
+      <graphic height="5671px" url="master/0213_0012.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0012_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0012_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="5v" xml:id="surface-ljs-434-14">
+      <graphic height="5671px" url="master/0213_0013.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0013_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0013_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="6r" xml:id="surface-ljs-434-15">
+      <graphic height="5671px" url="master/0213_0014.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0014_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0014_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="6v" xml:id="surface-ljs-434-16">
+      <graphic height="5671px" url="master/0213_0015.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0015_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0015_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="7r" xml:id="surface-ljs-434-17">
+      <graphic height="5671px" url="master/0213_0016.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0016_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0016_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="7v" xml:id="surface-ljs-434-18">
+      <graphic height="5671px" url="master/0213_0017.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0017_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0017_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-434-19">
+      <graphic height="5671px" url="master/0213_0018.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0018_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0018_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-434-20">
+      <graphic height="5671px" url="master/0213_0019.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0019_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0019_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-ljs-434-21">
+      <graphic height="5671px" url="master/0213_0020.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0020_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0020_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-ljs-434-22">
+      <graphic height="5671px" url="master/0213_0021.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0021_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0021_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-ljs-434-23">
+      <graphic height="5671px" url="master/0213_0022.tif" width="3846px"/>
+      <graphic height="190px" url="thumb/0213_0022_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0213_0022_web.jpg" width="1220px"/>
+    </surface>
+  </facsimile>
+</TEI>

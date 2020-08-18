@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 388: Mulakhkhaṣ fī al-hayʼah.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts LJS 388: Mulakhkhaṣ fī al-hayʼah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">LJS 388</idno>
+            <altIdentifier type="bibid">
+              <idno>9950681223503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/122647490</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5068122</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Astronomical textbook arranged in two chapters with an introduction; five diagrams.</summary>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Mulakhkhaṣ fī al-hayʼah.</title>
+              <title type="vernacular">[ملخص في الهيئه]</title>
+              <author>
+                <persName type="authority">Jighmīnī, Maḥmūd ibn Muḥammad, d. 1221?</persName>
+                <persName type="vernacular">جغميني، محمود بن محمد،</persName>
+              </author>
+              <author>
+                <persName type="authority">Muḥammad Nāṣir al-Dawlah, ǂe former owner</persName>
+                <persName type="vernacular">محمد ناصر الدولة, ǂe former owner</persName>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>19 leaves : 168 x 98 (130 x 65) mm. bound to 168 x 105 mm</extent>
+                <collation>
+                  <p>Paper, i + 19 + ii.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 21 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in nastaʻlīq script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>4 diagrams in red ink (f. 3v-5r), 1 diagram in black ink (f. 18r); rubrications in red.</decoNote>
+              <decoNote n="1v">Diagram, f. 1v</decoNote>
+              <decoNote n="3v">Diagram, f. 3v</decoNote>
+              <decoNote n="4r">Diagram, f. 4r</decoNote>
+              <decoNote n="4v">Diagram, f. 4v</decoNote>
+              <decoNote n="5r">Diagram, f. 5r</decoNote>
+              <decoNote n="18r">Diagram, f. 18r</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Red leather over card, blind-tooled frame; light blue paper doublure.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Copy completed on 29 Rabīʻ al-Awwal 786 (29 May 1384, colophon, f. 19v).</p>
+              <origDate>A.H. 786 (1384)</origDate>
+              <origPlace>Iran?</origPlace>
+            </origin>
+            <provenance>Formerly owned by Muḥammad ibn [?] Nāṣir al-Dawlah, A.H. 1246 (1830-1831, Qajar seal imprint, f. 1r, 19v).</provenance>
+            <provenance>Sold by Sam Fogg Ltd., cat. 22 (July 2000), no. 60, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+            <provenance>Gift of Barbara Brizdle Schoenberg, 2016.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Astronomy--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Diagrams</term>
+          <term>Manuscripts, Arabic--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-ljs-388-1">
+      <graphic height="4850px" url="master/0207_0000.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0000_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0000_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-ljs-388-2">
+      <graphic height="4850px" url="master/0207_0001.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0001_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0001_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-388-3">
+      <graphic height="4850px" url="master/0207_0002.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0002_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0002_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-388-4">
+      <graphic height="4850px" url="master/0207_0003.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0003_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0003_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="1r" xml:id="surface-ljs-388-5">
+      <graphic height="4850px" url="master/0207_0004.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0004_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0004_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ljs-388-6">
+      <graphic height="4850px" url="master/0207_0005.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0005_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0005_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-ljs-388-7">
+      <graphic height="4850px" url="master/0207_0006.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0006_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0006_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ljs-388-8">
+      <graphic height="4850px" url="master/0207_0007.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0007_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0007_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="3r" xml:id="surface-ljs-388-9">
+      <graphic height="4850px" url="master/0207_0008.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0008_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0008_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-ljs-388-10">
+      <graphic height="4850px" url="master/0207_0009.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0009_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0009_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="4r" xml:id="surface-ljs-388-11">
+      <graphic height="4850px" url="master/0207_0010.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0010_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0010_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ljs-388-12">
+      <graphic height="4850px" url="master/0207_0011.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0011_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0011_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="5r" xml:id="surface-ljs-388-13">
+      <graphic height="4850px" url="master/0207_0012.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0012_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0012_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="5v" xml:id="surface-ljs-388-14">
+      <graphic height="4850px" url="master/0207_0013.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0013_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0013_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="6r" xml:id="surface-ljs-388-15">
+      <graphic height="4850px" url="master/0207_0014.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0014_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0014_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="6v" xml:id="surface-ljs-388-16">
+      <graphic height="4850px" url="master/0207_0015.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0015_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0015_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="7r" xml:id="surface-ljs-388-17">
+      <graphic height="4850px" url="master/0207_0016.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0016_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0016_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="7v" xml:id="surface-ljs-388-18">
+      <graphic height="4850px" url="master/0207_0017.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0017_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0017_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="8r" xml:id="surface-ljs-388-19">
+      <graphic height="4850px" url="master/0207_0018.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0018_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0018_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="8v" xml:id="surface-ljs-388-20">
+      <graphic height="4850px" url="master/0207_0019.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0019_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0019_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="9r" xml:id="surface-ljs-388-21">
+      <graphic height="4850px" url="master/0207_0020.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0020_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0020_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="9v" xml:id="surface-ljs-388-22">
+      <graphic height="4850px" url="master/0207_0021.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0021_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0021_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="10r" xml:id="surface-ljs-388-23">
+      <graphic height="4850px" url="master/0207_0022.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0022_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0022_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="10v" xml:id="surface-ljs-388-24">
+      <graphic height="4850px" url="master/0207_0023.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0023_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0023_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="11r" xml:id="surface-ljs-388-25">
+      <graphic height="4850px" url="master/0207_0024.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0024_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0024_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="11v" xml:id="surface-ljs-388-26">
+      <graphic height="4850px" url="master/0207_0025.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0025_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0025_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="12r" xml:id="surface-ljs-388-27">
+      <graphic height="4850px" url="master/0207_0026.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0026_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0026_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="12v" xml:id="surface-ljs-388-28">
+      <graphic height="4850px" url="master/0207_0027.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0027_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0027_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="13r" xml:id="surface-ljs-388-29">
+      <graphic height="4850px" url="master/0207_0028.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0028_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0028_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="13v" xml:id="surface-ljs-388-30">
+      <graphic height="4850px" url="master/0207_0029.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0029_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0029_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="14r" xml:id="surface-ljs-388-31">
+      <graphic height="4850px" url="master/0207_0030.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0030_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0030_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="14v" xml:id="surface-ljs-388-32">
+      <graphic height="4850px" url="master/0207_0031.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0031_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0031_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="15r" xml:id="surface-ljs-388-33">
+      <graphic height="4850px" url="master/0207_0032.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0032_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0032_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="15v" xml:id="surface-ljs-388-34">
+      <graphic height="4850px" url="master/0207_0033.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0033_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0033_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="16r" xml:id="surface-ljs-388-35">
+      <graphic height="4850px" url="master/0207_0034.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0034_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0034_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="16v" xml:id="surface-ljs-388-36">
+      <graphic height="4850px" url="master/0207_0035.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0035_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0035_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="17r" xml:id="surface-ljs-388-37">
+      <graphic height="4850px" url="master/0207_0036.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0036_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0036_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="17v" xml:id="surface-ljs-388-38">
+      <graphic height="4850px" url="master/0207_0037.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0037_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0037_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="18r" xml:id="surface-ljs-388-39">
+      <graphic height="4850px" url="master/0207_0038.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0038_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0038_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="18v" xml:id="surface-ljs-388-40">
+      <graphic height="4850px" url="master/0207_0039.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0039_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0039_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="19r" xml:id="surface-ljs-388-41">
+      <graphic height="4850px" url="master/0207_0040.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0040_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0040_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="19v" xml:id="surface-ljs-388-42">
+      <graphic height="4850px" url="master/0207_0041.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0041_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0041_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-388-43">
+      <graphic height="4850px" url="master/0207_0042.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0042_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0042_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-388-44">
+      <graphic height="4850px" url="master/0207_0043.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0043_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0043_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto" xml:id="surface-ljs-388-45">
+      <graphic height="4850px" url="master/0207_0044.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0044_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0044_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso" xml:id="surface-ljs-388-46">
+      <graphic height="4850px" url="master/0207_0045.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0045_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0045_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-ljs-388-47">
+      <graphic height="4850px" url="master/0207_0046.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0046_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0046_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-ljs-388-48">
+      <graphic height="4850px" url="master/0207_0047.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0047_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0047_web.jpg" width="1157px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-ljs-388-49">
+      <graphic height="4850px" url="master/0207_0048.tif" width="3118px"/>
+      <graphic height="190px" url="thumb/0207_0048_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/0207_0048_web.jpg" width="1157px"/>
+    </surface>
+  </facsimile>
+</TEI>

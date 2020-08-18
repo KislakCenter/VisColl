@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis E M 43:16: Initial B with St. Michael Archangel slaying the dragon</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>David Kalish</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Dot Porter</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis E M 43:16: Initial B with St. Michael Archangel slaying the dragon are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis E M 43:16: Initial B with St. Michael Archangel slaying the dragon. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>This initial begins the Introit for the feast of Michaelmas, or the Dedication of St. Michael the Archangel (Sept. 29), Benedicite Domino omnes angeli ejus ... (Bless the Lord, all you angels of his); Lewis E M 43:15-18 are from the same manuscript.</note>
+        <note>This image shows the reverse of a cutting with an initial from a gradual.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis Collection of European Manuscripts</collection>
+            <idno type="call-number">Lewis E M 43:16</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Initial B with St. Michael Archangel slaying the dragon</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>197 x 164 mm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1500" notAfter="1525"/>
+              <p>1500-1525</p>
+              <origPlace>France</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>15th century</term>
+          <term>France</term>
+          <term>French</term>
+          <term>Gradual</term>
+          <term>Liturgy</term>
+          <term>Fragment</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis E M 43.16 front" xml:id="surface-lewis-e-m-43-16-1">
+      <graphic height="5080px" url="master/8027_0000.tif" width="5034px"/>
+      <graphic height="190px" url="thumb/8027_0000_thumb.jpg" width="189px"/>
+      <graphic height="1800px" url="web/8027_0000_web.jpg" width="1784px"/>
+    </surface>
+    <surface n="Lewis E M 43.16 reverse" xml:id="surface-lewis-e-m-43-16-2">
+      <graphic height="5080px" url="master/8027_0001.tif" width="5034px"/>
+      <graphic height="190px" url="thumb/8027_0001_thumb.jpg" width="189px"/>
+      <graphic height="1800px" url="web/8027_0001_web.jpg" width="1784px"/>
+    </surface>
+  </facsimile>
+</TEI>

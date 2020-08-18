@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis T89: Missal: Monday, Tuesday, and Saturday after the Fourth Sunday in Lent</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>David Kalish</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Dot Porter</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis T89: Missal: Monday, Tuesday, and Saturday after the Fourth Sunday in Lent are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis T89: Missal: Monday, Tuesday, and Saturday after the Fourth Sunday in Lent. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis Collection of European Manuscripts</collection>
+            <idno type="call-number">Lewis T89</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Missal: Monday, Tuesday, and Saturday after the Fourth Sunday in Lent</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1500"/>
+              <p>Undated</p>
+              <origPlace>Unknown</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>Missal</term>
+          <term>Liturgy</term>
+          <term>Fragment</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis T89 front a" xml:id="surface-lewis-t89-1">
+      <graphic height="8048px" url="master/8566_0000.tif" width="4783px"/>
+      <graphic height="190px" url="thumb/8566_0000_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/8566_0000_web.jpg" width="1070px"/>
+    </surface>
+    <surface n="Lewis T89 reverse a" xml:id="surface-lewis-t89-2">
+      <graphic height="7946px" url="master/8566_0001.tif" width="4840px"/>
+      <graphic height="190px" url="thumb/8566_0001_thumb.jpg" width="116px"/>
+      <graphic height="1800px" url="web/8566_0001_web.jpg" width="1096px"/>
+    </surface>
+    <surface n="Lewis T89 front b" xml:id="surface-lewis-t89-3">
+      <graphic height="7946px" url="master/8566_0002.tif" width="4930px"/>
+      <graphic height="190px" url="thumb/8566_0002_thumb.jpg" width="117px"/>
+      <graphic height="1800px" url="web/8566_0002_web.jpg" width="1116px"/>
+    </surface>
+    <surface n="Lewis T89 reverse b" xml:id="surface-lewis-t89-4">
+      <graphic height="8058px" url="master/8566_0003.tif" width="4930px"/>
+      <graphic height="190px" url="thumb/8566_0003_thumb.jpg" width="116px"/>
+      <graphic height="1800px" url="web/8566_0003_web.jpg" width="1101px"/>
+    </surface>
+  </facsimile>
+</TEI>

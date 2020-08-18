@@ -72,7 +72,7 @@
             <xsl:value-of select="concat($base-uri, 'XML/', $filename-formulaTXT_01)"/>
         </xsl:variable>
         <xsl:result-document href="{$href}" format="collationFormulasTXT">
-            <xsl:for-each-group select="leaf"
+            <xsl:for-each-group select="leaves/leaf"
                 group-by="
                 if (contains(q[1]/@n, '.')) then
                 substring-before(q[1]/@n, '.')
@@ -133,7 +133,7 @@
             <xsl:value-of select="concat($base-uri, 'XML/', $filename-formulaTXT_02)"/>
         </xsl:variable>
         <xsl:result-document href="{$href}" format="collationFormulasTXT">
-            <xsl:for-each-group select="leaf"
+            <xsl:for-each-group select="leaves/leaf"
                 group-by="
                     if (contains(q[1]/@n, '.')) then
                         substring-before(q[1]/@n, '.')
@@ -234,4 +234,5 @@
         </xsl:result-document>
     </xsl:template>    
 
+    
 </xsl:stylesheet>

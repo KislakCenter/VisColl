@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis E M 23:14: Choir book</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>David Kalish</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Dot Porter</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis E M 23:14: Choir book are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis E M 23:14: Choir book. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Initial E</note>
+        <note>This initial is typical of minor initial decoration found in Italian choir books of the fourteenth century.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis Collection of European Manuscripts</collection>
+            <idno type="call-number">Lewis E M 23:14</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Choir book</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>145 x 157 mm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1300" notAfter="1399"/>
+              <p>1300-1399</p>
+              <origPlace>Italy (northern)</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>14th century</term>
+          <term>Italy</term>
+          <term>Italian</term>
+          <term>Song book</term>
+          <term>Musical notation</term>
+          <term>Illustration</term>
+          <term>Illumination</term>
+          <term>Fragment</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis E M 23.14 front" xml:id="surface-lewis-e-m-23-14-1">
+      <graphic height="4042px" url="master/7726_0000.tif" width="4474px"/>
+      <graphic height="171px" url="thumb/7726_0000_thumb.jpg" width="190px"/>
+      <graphic height="1626px" url="web/7726_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Lewis E M 23.14 reverse" xml:id="surface-lewis-e-m-23-14-2">
+      <graphic height="4042px" url="master/7726_0001.tif" width="4474px"/>
+      <graphic height="171px" url="thumb/7726_0001_thumb.jpg" width="190px"/>
+      <graphic height="1626px" url="web/7726_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis T39: Antiphonary for Christmas</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>David Kalish</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Dot Porter</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis T39: Antiphonary for Christmas are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis T39: Antiphonary for Christmas. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis Collection of European Manuscripts</collection>
+            <idno type="call-number">Lewis T39</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Antiphonary for Christmas</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1000" notAfter="1500"/>
+              <p>Undated</p>
+              <origPlace>Unknown</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>Antiphonary</term>
+          <term>Liturgy</term>
+          <term>Fragment</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis T39, fol. 1r" xml:id="surface-lewis-t39-1">
+      <graphic height="6510px" url="master/8516_0000.tif" width="4762px"/>
+      <graphic height="190px" url="thumb/8516_0000_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/8516_0000_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="Lewis T39, fol. 1v" xml:id="surface-lewis-t39-2">
+      <graphic height="6510px" url="master/8516_0001.tif" width="4830px"/>
+      <graphic height="190px" url="thumb/8516_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/8516_0001_web.jpg" width="1335px"/>
+    </surface>
+    <surface n="Lewis T39, fol. 2r" xml:id="surface-lewis-t39-3">
+      <graphic height="6578px" url="master/8516_0002.tif" width="4830px"/>
+      <graphic height="190px" url="thumb/8516_0002_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/8516_0002_web.jpg" width="1321px"/>
+    </surface>
+    <surface n="Lewis T39, fol. 2v" xml:id="surface-lewis-t39-4">
+      <graphic height="6510px" url="master/8516_0003.tif" width="4762px"/>
+      <graphic height="190px" url="thumb/8516_0003_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/8516_0003_web.jpg" width="1317px"/>
+    </surface>
+  </facsimile>
+</TEI>

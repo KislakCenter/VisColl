@@ -1,0 +1,1357 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis E 11: Antiphonary</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Diane Biunno</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Nicholas Herman</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia, Lewis E 11: Antiphonary are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 Free Library of Philadelphia, Special Collections and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Third upper flyleaf is a parchment singleton, with a prominent stub visible against its recto side</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <idno type="call-number">Lewis E 11</idno>
+            <altIdentifier type="deRicci">
+              <idno>47</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>This small format antiphonal of forty-nine folios includes only the antiphons for the Feast of the Purification of the Virgin, Palm Sunday, and the Burial Service. It was written for use by friars officiating for the nuns of an unidentified convent dedicated to Saint Paul, as stated by the contemporary instructions for use written in Italian on the final folio.</summary>
+            <textLang mainLang="lat" otherLangs="ita">Latin; Italian</textLang>
+            <msItem>
+              <title>Antiphonary</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Convent of San Paolo</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="http://viaf.org/viaf/63874811/">Lewis, John Frederick, 1860-1932</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Lewis, Anne Baker</persName>
+              </respStmt>
+              <colophon>[On fol. XXXXVIIIIv, after instructions:] finis. 1496 [and in larger lettering below:] cum natus est no... ...stris natus est nobis. venite. A. ang.</colophon>
+            </msItem>
+            <msItem n="[Ir]">
+              <locus target="#surface-lewis-e-11-9">[Ir]</locus>
+              <title>Introit for the Transfiguration</title>
+              <incipit>Viderunt ingressus tuos...</incipit>
+              <explicit>...lux perpetua luceat eis.</explicit>
+            </msItem>
+            <msItem n="XXXXVIv">
+              <locus target="#surface-lewis-e-11-100">XXXXVIv</locus>
+              <title>Antiphon, Mass for the Dead</title>
+              <incipit>In paradisium deducant te...</incipit>
+              <explicit>...eternam habeas requiem.</explicit>
+            </msItem>
+            <msItem n="XXXXVIIIIr">
+              <locus target="#surface-lewis-e-11-105">XXXXVIIIIr</locus>
+              <title>Instructions for use, in Italian</title>
+              <incipit>Questo ordine infrascripto e quello ch'debeno tegneire li frati...</incipit>
+              <explicit>...cum oratione etcetera. finis. 1496.</explicit>
+            </msItem>
+            <msItem n="Inside back cover">
+              <locus target="#surface-lewis-e-11-111">Inside back cover</locus>
+              <title>Modern typewritten description and notations</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>iii+49+ii; 195 x 135 mm bound to 206 x 140 mm</extent>
+                <foliation>Foliation in red ink using roman numerals, upper right recto</foliation>
+                <collation>
+                  <p>1-3 (10), 4 (8), 5 (10), 6 (1, +1)</p>
+                  <p>
+                    <catchwords>Horizontal catchwords at Xv, XXv, and XXXVIIIv</catchwords>
+                  </p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Musical notation on red, four-line staves; four staves, with accompanying text, to a page; frame ruled; written area: 149 x 91 mm</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Gothic--semi-textualis</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Some penwork capitals with grotesques; capitals in red and blue; rubrication and musical staves in red</decoNote>
+              <decoNote n="[Ir]"><locus target="#surface-lewis-e-11-9">[Ir]</locus>Inhabited initial V</decoNote>
+              <decoNote n="VIIIr"><locus target="#surface-lewis-e-11-23">VIIIr</locus>Decorated initial Q</decoNote>
+              <decoNote n="XXIIIr"><locus target="#surface-lewis-e-11-53">XXIIIr</locus>Decorated initial C</decoNote>
+              <decoNote n="XXIIIIr"><locus target="#surface-lewis-e-11-55">XXIIIIr</locus>Decorated initial C</decoNote>
+              <decoNote n="XXXIr"><locus target="#surface-lewis-e-11-69">XXXIr</locus>Decorated initial T</decoNote>
+              <decoNote n="XXXVv"><locus target="#surface-lewis-e-11-78">XXXVv</locus>Decorated initial T</decoNote>
+              <decoNote n="XXXVv"><locus target="#surface-lewis-e-11-78">XXXVv</locus>Decorated initial I</decoNote>
+              <decoNote n="XXXVIv"><locus target="#surface-lewis-e-11-80">XXXVIv</locus>Inhabited initial L</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Seventeenth-century black morocco, blind tooled border around the sides, with clasps</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1496"/>
+              <p>1496</p>
+              <origPlace>Florence?, Italy</origPlace>
+            </origin>
+            <provenance>Written for the burial service of the nuns of the Convent of San Paolo; John Frederick Lewis, Philadelphia; given by his widow, Anne Baker Lewis, to the Free Library of Philadelphia in 1936; manuscript dated 1496 on fol. 49v. 1496 was the year when reconstruction on the Ospedale di San Paolo in Florence was completed</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="keywords">
+          <category xml:id="keyword_1">
+            <catDesc>Book Type</catDesc>
+            <category xml:id="keyword_1.2">
+              <catDesc>Antiphonary</catDesc>
+            </category>
+            <category xml:id="keyword_1.3">
+              <catDesc>Armorial</catDesc>
+            </category>
+            <category xml:id="keyword_1.4">
+              <catDesc>Bible</catDesc>
+            </category>
+            <category xml:id="keyword_1.5">
+              <catDesc>Biography</catDesc>
+            </category>
+            <category xml:id="keyword_1.6">
+              <catDesc>Book of Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.7">
+              <catDesc>Breviary</catDesc>
+            </category>
+            <category xml:id="keyword_1.8">
+              <catDesc>Chronicle</catDesc>
+            </category>
+            <category xml:id="keyword_1.9">
+              <catDesc>Document</catDesc>
+            </category>
+            <category xml:id="keyword_1.10">
+              <catDesc>Friendship book</catDesc>
+            </category>
+            <category xml:id="keyword_1.11">
+              <catDesc>Genealogy</catDesc>
+            </category>
+            <category xml:id="keyword_1.12">
+              <catDesc>Gospel Book</catDesc>
+            </category>
+            <category xml:id="keyword_1.13">
+              <catDesc>Gospel Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.14">
+              <catDesc>Gospels</catDesc>
+            </category>
+            <category xml:id="keyword_1.15">
+              <catDesc>Gradual</catDesc>
+            </category>
+            <category xml:id="keyword_1.16">
+              <catDesc>Haggadah</catDesc>
+            </category>
+            <category xml:id="keyword_1.17">
+              <catDesc>Homilary</catDesc>
+            </category>
+            <category xml:id="keyword_1.18">
+              <catDesc>Horologion</catDesc>
+            </category>
+            <category xml:id="keyword_1.19">
+              <catDesc>Hymnal</catDesc>
+            </category>
+            <category xml:id="keyword_1.20">
+              <catDesc>Koran</catDesc>
+            </category>
+            <category xml:id="keyword_1.21">
+              <catDesc>Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.22">
+              <catDesc>Mass book</catDesc>
+            </category>
+            <category xml:id="keyword_1.23">
+              <catDesc>Miscellany</catDesc>
+            </category>
+            <category xml:id="keyword_1.24">
+              <catDesc>Missal</catDesc>
+            </category>
+            <category xml:id="keyword_1.25">
+              <catDesc>Pontifical</catDesc>
+            </category>
+            <category xml:id="keyword_1.26">
+              <catDesc>Prayer</catDesc>
+            </category>
+            <category xml:id="keyword_1.27">
+              <catDesc>Prayer book</catDesc>
+            </category>
+            <category xml:id="keyword_1.28">
+              <catDesc>Private devotional text</catDesc>
+            </category>
+            <category xml:id="keyword_1.29">
+              <catDesc>Processional</catDesc>
+            </category>
+            <category xml:id="keyword_1.30">
+              <catDesc>Protective scroll</catDesc>
+            </category>
+            <category xml:id="keyword_1.31">
+              <catDesc>Psalter</catDesc>
+            </category>
+            <category xml:id="keyword_1.32">
+              <catDesc>Psalter-Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.33">
+              <catDesc>Qur`an</catDesc>
+            </category>
+            <category xml:id="keyword_1.34">
+              <catDesc>Recipe book</catDesc>
+            </category>
+            <category xml:id="keyword_1.35">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.36">
+              <catDesc>Treatise</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_2">
+            <catDesc>Century</catDesc>
+            <category xml:id="keyword_2.2">
+              <catDesc>8th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.3">
+              <catDesc>9th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.4">
+              <catDesc>10th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.5">
+              <catDesc>11th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.6">
+              <catDesc>12th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.7">
+              <catDesc>13th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.8">
+              <catDesc>14th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.9">
+              <catDesc>15th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.10">
+              <catDesc>16th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.11">
+              <catDesc>17th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.12">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.13">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.14">
+              <catDesc>20th century</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_3">
+            <catDesc>Culture</catDesc>
+            <category xml:id="keyword_3.2">
+              <catDesc>Abbasid</catDesc>
+            </category>
+            <category xml:id="keyword_3.3">
+              <catDesc>Arabic</catDesc>
+            </category>
+            <category xml:id="keyword_3.4">
+              <catDesc>Armenian</catDesc>
+            </category>
+            <category xml:id="keyword_3.5">
+              <catDesc>Ashkenazi</catDesc>
+            </category>
+            <category xml:id="keyword_3.6">
+              <catDesc>Austrian</catDesc>
+            </category>
+            <category xml:id="keyword_3.7">
+              <catDesc>Byzantine</catDesc>
+            </category>
+            <category xml:id="keyword_3.8">
+              <catDesc>Carolingian</catDesc>
+            </category>
+            <category xml:id="keyword_3.9">
+              <catDesc>Chinese</catDesc>
+            </category>
+            <category xml:id="keyword_3.10">
+              <catDesc>Christian</catDesc>
+            </category>
+            <category xml:id="keyword_3.11">
+              <catDesc>Coptic</catDesc>
+            </category>
+            <category xml:id="keyword_3.12">
+              <catDesc>Dutch</catDesc>
+            </category>
+            <category xml:id="keyword_3.13">
+              <catDesc>Egyptian</catDesc>
+            </category>
+            <category xml:id="keyword_3.14">
+              <catDesc>English</catDesc>
+            </category>
+            <category xml:id="keyword_3.15">
+              <catDesc>Ethiopian</catDesc>
+            </category>
+            <category xml:id="keyword_3.16">
+              <catDesc>Fatimid</catDesc>
+            </category>
+            <category xml:id="keyword_3.17">
+              <catDesc>Flemish</catDesc>
+            </category>
+            <category xml:id="keyword_3.18">
+              <catDesc>French</catDesc>
+            </category>
+            <category xml:id="keyword_3.19">
+              <catDesc>German</catDesc>
+            </category>
+            <category xml:id="keyword_3.20">
+              <catDesc>Indian</catDesc>
+            </category>
+            <category xml:id="keyword_3.21">
+              <catDesc>Islamic</catDesc>
+            </category>
+            <category xml:id="keyword_3.22">
+              <catDesc>Italian</catDesc>
+            </category>
+            <category xml:id="keyword_3.23">
+              <catDesc>Jewish</catDesc>
+            </category>
+            <category xml:id="keyword_3.24">
+              <catDesc>Mamluk</catDesc>
+            </category>
+            <category xml:id="keyword_3.25">
+              <catDesc>Mughal</catDesc>
+            </category>
+            <category xml:id="keyword_3.26">
+              <catDesc>Ottoman</catDesc>
+            </category>
+            <category xml:id="keyword_3.27">
+              <catDesc>Ottonian</catDesc>
+            </category>
+            <category xml:id="keyword_3.28">
+              <catDesc>Persian</catDesc>
+            </category>
+            <category xml:id="keyword_3.29">
+              <catDesc>Qajar</catDesc>
+            </category>
+            <category xml:id="keyword_3.30">
+              <catDesc>Rajput</catDesc>
+            </category>
+            <category xml:id="keyword_3.31">
+              <catDesc>Russian</catDesc>
+            </category>
+            <category xml:id="keyword_3.32">
+              <catDesc>Safavid</catDesc>
+            </category>
+            <category xml:id="keyword_3.33">
+              <catDesc>Sephardi</catDesc>
+            </category>
+            <category xml:id="keyword_3.34">
+              <catDesc>Spanish</catDesc>
+            </category>
+            <category xml:id="keyword_3.35">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.36">
+              <catDesc>Turkish</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_4">
+            <catDesc>Desciptive term</catDesc>
+            <category xml:id="keyword_4.2">
+              <catDesc>Accordion book</catDesc>
+            </category>
+            <category xml:id="keyword_4.3">
+              <catDesc>Album</catDesc>
+            </category>
+            <category xml:id="keyword_4.4">
+              <catDesc>Annotated</catDesc>
+            </category>
+            <category xml:id="keyword_4.5">
+              <catDesc>Binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.6">
+              <catDesc>Calligraphy</catDesc>
+            </category>
+            <category xml:id="keyword_4.7">
+              <catDesc>Caroline minuscule</catDesc>
+            </category>
+            <category xml:id="keyword_4.8">
+              <catDesc>Chart</catDesc>
+            </category>
+            <category xml:id="keyword_4.9">
+              <catDesc>Charter</catDesc>
+            </category>
+            <category xml:id="keyword_4.10">
+              <catDesc>Charts</catDesc>
+            </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Colophon</catDesc>
+            </category>
+            <category xml:id="keyword_4.12">
+              <catDesc>Drawing</catDesc>
+            </category>
+            <category xml:id="keyword_4.13">
+              <catDesc>Early Abbasid script</catDesc>
+            </category>
+            <category xml:id="keyword_4.14">
+              <catDesc>Gloss</catDesc>
+            </category>
+            <category xml:id="keyword_4.15">
+              <catDesc>Gothic</catDesc>
+            </category>
+            <category xml:id="keyword_4.16">
+              <catDesc>Gothic book hand</catDesc>
+            </category>
+            <category xml:id="keyword_4.17">
+              <catDesc>Grisaille</catDesc>
+            </category>
+            <category xml:id="keyword_4.18">
+              <catDesc>Grotesques</catDesc>
+            </category>
+            <category xml:id="keyword_4.19">
+              <catDesc>Headpiece</catDesc>
+            </category>
+            <category xml:id="keyword_4.20">
+              <catDesc>Heraldry</catDesc>
+            </category>
+            <category xml:id="keyword_4.21">
+              <catDesc>Historiated initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.22">
+              <catDesc>Humanistic</catDesc>
+            </category>
+            <category xml:id="keyword_4.23">
+              <catDesc>Illustration</catDesc>
+            </category>
+            <category xml:id="keyword_4.24">
+              <catDesc>Inhabited initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.25">
+              <catDesc>Kufic</catDesc>
+            </category>
+            <category xml:id="keyword_4.26">
+              <catDesc>Manicules</catDesc>
+            </category>
+            <category xml:id="keyword_4.27">
+              <catDesc>Medallion</catDesc>
+            </category>
+            <category xml:id="keyword_4.28">
+              <catDesc>Micrography</catDesc>
+            </category>
+            <category xml:id="keyword_4.29">
+              <catDesc>Miniature</catDesc>
+            </category>
+            <category xml:id="keyword_4.30">
+              <catDesc>Musical notation</catDesc>
+            </category>
+            <category xml:id="keyword_4.31">
+              <catDesc>New Abbasid style</catDesc>
+            </category>
+            <category xml:id="keyword_4.32">
+              <catDesc>Original binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.33">
+              <catDesc>Ornament</catDesc>
+            </category>
+            <category xml:id="keyword_4.34">
+              <catDesc>Painting</catDesc>
+            </category>
+            <category xml:id="keyword_4.35">
+              <catDesc>Puzzle initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.36">
+              <catDesc>Ragini</catDesc>
+            </category>
+            <category xml:id="keyword_4.37">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.38">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.39">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.40">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.41">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.42">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.43">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.44">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.45">
+              <catDesc>Woodcuts</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_5">
+            <catDesc>Geography</catDesc>
+            <category xml:id="keyword_5.2">
+              <catDesc>Afghanistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.3">
+              <catDesc>Armenia</catDesc>
+            </category>
+            <category xml:id="keyword_5.4">
+              <catDesc>Austria</catDesc>
+            </category>
+            <category xml:id="keyword_5.5">
+              <catDesc>Belgium</catDesc>
+            </category>
+            <category xml:id="keyword_5.6">
+              <catDesc>Central Arab lands (Near East)</catDesc>
+            </category>
+            <category xml:id="keyword_5.7">
+              <catDesc>Central Asia</catDesc>
+            </category>
+            <category xml:id="keyword_5.8">
+              <catDesc>China</catDesc>
+            </category>
+            <category xml:id="keyword_5.9">
+              <catDesc>Egypt</catDesc>
+            </category>
+            <category xml:id="keyword_5.10">
+              <catDesc>England</catDesc>
+            </category>
+            <category xml:id="keyword_5.11">
+              <catDesc>Ethiopia</catDesc>
+            </category>
+            <category xml:id="keyword_5.12">
+              <catDesc>Flanders</catDesc>
+            </category>
+            <category xml:id="keyword_5.13">
+              <catDesc>France</catDesc>
+            </category>
+            <category xml:id="keyword_5.14">
+              <catDesc>Germany</catDesc>
+            </category>
+            <category xml:id="keyword_5.15">
+              <catDesc>Greece</catDesc>
+            </category>
+            <category xml:id="keyword_5.16">
+              <catDesc>India</catDesc>
+            </category>
+            <category xml:id="keyword_5.17">
+              <catDesc>Iran</catDesc>
+            </category>
+            <category xml:id="keyword_5.18">
+              <catDesc>Iraq</catDesc>
+            </category>
+            <category xml:id="keyword_5.19">
+              <catDesc>Italy</catDesc>
+            </category>
+            <category xml:id="keyword_5.20">
+              <catDesc>Maghreb</catDesc>
+            </category>
+            <category xml:id="keyword_5.21">
+              <catDesc>Morocco</catDesc>
+            </category>
+            <category xml:id="keyword_5.22">
+              <catDesc>Netherlands</catDesc>
+            </category>
+            <category xml:id="keyword_5.23">
+              <catDesc>Pakistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.24">
+              <catDesc>Romania</catDesc>
+            </category>
+            <category xml:id="keyword_5.25">
+              <catDesc>Russia</catDesc>
+            </category>
+            <category xml:id="keyword_5.26">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.27">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.28">
+              <catDesc>Turkey</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_6">
+            <catDesc>Subject</catDesc>
+            <category xml:id="keyword_6.2">
+              <catDesc>Astrology</catDesc>
+            </category>
+            <category xml:id="keyword_6.3">
+              <catDesc>Astronomy</catDesc>
+            </category>
+            <category xml:id="keyword_6.4">
+              <catDesc>Cartography</catDesc>
+            </category>
+            <category xml:id="keyword_6.5">
+              <catDesc>Cosmology</catDesc>
+            </category>
+            <category xml:id="keyword_6.6">
+              <catDesc>Devotion</catDesc>
+            </category>
+            <category xml:id="keyword_6.7">
+              <catDesc>Fortune-telling</catDesc>
+            </category>
+            <category xml:id="keyword_6.8">
+              <catDesc>Friendship</catDesc>
+            </category>
+            <category xml:id="keyword_6.9">
+              <catDesc>Games</catDesc>
+            </category>
+            <category xml:id="keyword_6.10">
+              <catDesc>Geography</catDesc>
+            </category>
+            <category xml:id="keyword_6.11">
+              <catDesc>Geomancy</catDesc>
+            </category>
+            <category xml:id="keyword_6.12">
+              <catDesc>Grammar</catDesc>
+            </category>
+            <category xml:id="keyword_6.13">
+              <catDesc>History</catDesc>
+            </category>
+            <category xml:id="keyword_6.14">
+              <catDesc>Kabbalah</catDesc>
+            </category>
+            <category xml:id="keyword_6.15">
+              <catDesc>Legal</catDesc>
+            </category>
+            <category xml:id="keyword_6.16">
+              <catDesc>Literature -- Poetry</catDesc>
+            </category>
+            <category xml:id="keyword_6.17">
+              <catDesc>Literature -- Prose</catDesc>
+            </category>
+            <category xml:id="keyword_6.18">
+              <catDesc>Liturgy</catDesc>
+            </category>
+            <category xml:id="keyword_6.19">
+              <catDesc>Logic</catDesc>
+            </category>
+            <category xml:id="keyword_6.20">
+              <catDesc>Magic</catDesc>
+            </category>
+            <category xml:id="keyword_6.21">
+              <catDesc>Mathematics</catDesc>
+            </category>
+            <category xml:id="keyword_6.22">
+              <catDesc>Mineralogy</catDesc>
+            </category>
+            <category xml:id="keyword_6.23">
+              <catDesc>Philosophy</catDesc>
+            </category>
+            <category xml:id="keyword_6.24">
+              <catDesc>Piyutim</catDesc>
+            </category>
+            <category xml:id="keyword_6.25">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.26">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.27">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.28">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.29">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.30">
+              <catDesc>Theology</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_7">
+            <catDesc>Other</catDesc>
+            <category xml:id="keyword_7.2">
+              <catDesc>Collection of Sermons</catDesc>
+            </category>
+            <category xml:id="keyword_7.3">
+              <catDesc>Notable binding</catDesc>
+            </category>
+            <category xml:id="keyword_7.4">
+              <catDesc>Paper</catDesc>
+            </category>
+            <category xml:id="keyword_7.5">
+              <catDesc>Damage</catDesc>
+            </category>
+            <category xml:id="keyword_7.6">
+              <catDesc>Diagrams</catDesc>
+            </category>
+            <category xml:id="keyword_7.7">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_7.8">
+              <catDesc>Illumination</catDesc>
+            </category>
+            <category xml:id="keyword_7.9">
+              <catDesc>Fragment</catDesc>
+            </category>
+            <category xml:id="keyword_7.10">
+              <catDesc>Allegory</catDesc>
+            </category>
+            <category xml:id="keyword_7.11">
+              <catDesc>Biblical</catDesc>
+            </category>
+            <category xml:id="keyword_7.12">
+              <catDesc>Missing leaves</catDesc>
+            </category>
+            <category xml:id="keyword_7.13">
+              <catDesc>Church Fathers</catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>15th century</term>
+          <term>Italian</term>
+          <term>Italy</term>
+          <term>Antiphonary</term>
+          <term>Christian</term>
+          <term>Musical notation</term>
+          <term>Inhabited initial</term>
+        </keywords>
+        <keywords n="subjects">
+          <term>De Ricci, Seymour, with the assistance of W. J. Wilson, Census of Medieval and Renaissance Manuscripts in the United States and Canada, vol. 2 (New York,: H. W. Wilson, 1935-40), p. 2033, no. 47</term>
+          <term>Free Library of Philadelphia, A Descriptive Catalogue of the John Frederick Lewis Collection of European Manuscripts in the Free Library of Philadelphia, compiled by Edwin Wolf, 2nd, with an introduction by Dr. A.S.W. Rosenbach (Philadelphia: The Free Library, 1937), p. 15, no. 11</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-lewis-e-11-1">
+      <graphic height="5736px" url="master/4882_0000.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0000_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0000_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-lewis-e-11-2">
+      <graphic height="5736px" url="master/4882_0001.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0001_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-lewis-e-11-3">
+      <graphic height="5736px" url="master/4882_0002.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0002_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0002_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-lewis-e-11-4">
+      <graphic height="5736px" url="master/4882_0003.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0003_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0003_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto" xml:id="surface-lewis-e-11-5">
+      <graphic height="5736px" url="master/4882_0004.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0004_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0004_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso" xml:id="surface-lewis-e-11-6">
+      <graphic height="5736px" url="master/4882_0005.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0005_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0005_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Flyleaf 3 recto" xml:id="surface-lewis-e-11-7">
+      <graphic height="5736px" url="master/4882_0006.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0006_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0006_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Flyleaf 3 verso" xml:id="surface-lewis-e-11-8">
+      <graphic height="5736px" url="master/4882_0007.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0007_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0007_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Ir" xml:id="surface-lewis-e-11-9">
+      <graphic height="5736px" url="master/4882_0008.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0008_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0008_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Iv" xml:id="surface-lewis-e-11-10">
+      <graphic height="5736px" url="master/4882_0009.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0009_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0009_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="IIr" xml:id="surface-lewis-e-11-11">
+      <graphic height="5736px" url="master/4882_0010.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0010_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0010_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="IIv" xml:id="surface-lewis-e-11-12">
+      <graphic height="5736px" url="master/4882_0011.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0011_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0011_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="IIIr" xml:id="surface-lewis-e-11-13">
+      <graphic height="5736px" url="master/4882_0012.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0012_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0012_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="IIIv" xml:id="surface-lewis-e-11-14">
+      <graphic height="5736px" url="master/4882_0013.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0013_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0013_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="IIIIr" xml:id="surface-lewis-e-11-15">
+      <graphic height="5736px" url="master/4882_0014.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0014_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0014_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="IIIIv" xml:id="surface-lewis-e-11-16">
+      <graphic height="5736px" url="master/4882_0015.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0015_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0015_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Vr" xml:id="surface-lewis-e-11-17">
+      <graphic height="5736px" url="master/4882_0016.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0016_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0016_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Vv" xml:id="surface-lewis-e-11-18">
+      <graphic height="5736px" url="master/4882_0017.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0017_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0017_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="VIr" xml:id="surface-lewis-e-11-19">
+      <graphic height="5736px" url="master/4882_0018.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0018_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0018_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="VIv" xml:id="surface-lewis-e-11-20">
+      <graphic height="5736px" url="master/4882_0019.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0019_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0019_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="VIIr" xml:id="surface-lewis-e-11-21">
+      <graphic height="5736px" url="master/4882_0020.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0020_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0020_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="VIIv" xml:id="surface-lewis-e-11-22">
+      <graphic height="5736px" url="master/4882_0021.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0021_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0021_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="VIIIr" xml:id="surface-lewis-e-11-23">
+      <graphic height="5736px" url="master/4882_0022.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0022_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0022_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="VIIIv" xml:id="surface-lewis-e-11-24">
+      <graphic height="5736px" url="master/4882_0023.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0023_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0023_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="VIIIIr" xml:id="surface-lewis-e-11-25">
+      <graphic height="5736px" url="master/4882_0024.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0024_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0024_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="VIIIIv" xml:id="surface-lewis-e-11-26">
+      <graphic height="5736px" url="master/4882_0025.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0025_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0025_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Xr" xml:id="surface-lewis-e-11-27">
+      <graphic height="5736px" url="master/4882_0026.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0026_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0026_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Xv" xml:id="surface-lewis-e-11-28">
+      <graphic height="5736px" url="master/4882_0027.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0027_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0027_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XIr" xml:id="surface-lewis-e-11-29">
+      <graphic height="5736px" url="master/4882_0028.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0028_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0028_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XIv" xml:id="surface-lewis-e-11-30">
+      <graphic height="5736px" url="master/4882_0029.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0029_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0029_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XIIr" xml:id="surface-lewis-e-11-31">
+      <graphic height="5736px" url="master/4882_0030.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0030_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0030_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XIIv" xml:id="surface-lewis-e-11-32">
+      <graphic height="5736px" url="master/4882_0031.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0031_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0031_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XIIIr" xml:id="surface-lewis-e-11-33">
+      <graphic height="5736px" url="master/4882_0032.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0032_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0032_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XIIIv" xml:id="surface-lewis-e-11-34">
+      <graphic height="5736px" url="master/4882_0033.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0033_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0033_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XIIIIr" xml:id="surface-lewis-e-11-35">
+      <graphic height="5736px" url="master/4882_0034.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0034_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0034_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XIIIIv" xml:id="surface-lewis-e-11-36">
+      <graphic height="5736px" url="master/4882_0035.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0035_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0035_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XVr" xml:id="surface-lewis-e-11-37">
+      <graphic height="5736px" url="master/4882_0036.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0036_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0036_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XVv" xml:id="surface-lewis-e-11-38">
+      <graphic height="5736px" url="master/4882_0037.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0037_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0037_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XVIr" xml:id="surface-lewis-e-11-39">
+      <graphic height="5736px" url="master/4882_0038.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0038_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0038_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XVIv" xml:id="surface-lewis-e-11-40">
+      <graphic height="5736px" url="master/4882_0039.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0039_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0039_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XVIIr" xml:id="surface-lewis-e-11-41">
+      <graphic height="5736px" url="master/4882_0040.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0040_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0040_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XVIIv" xml:id="surface-lewis-e-11-42">
+      <graphic height="5736px" url="master/4882_0041.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0041_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0041_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XVIIIr" xml:id="surface-lewis-e-11-43">
+      <graphic height="5736px" url="master/4882_0042.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0042_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0042_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XVIIIv" xml:id="surface-lewis-e-11-44">
+      <graphic height="5736px" url="master/4882_0043.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0043_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0043_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XVIIIIr" xml:id="surface-lewis-e-11-45">
+      <graphic height="5736px" url="master/4882_0044.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0044_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0044_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XVIIIIv" xml:id="surface-lewis-e-11-46">
+      <graphic height="5736px" url="master/4882_0045.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0045_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0045_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXr" xml:id="surface-lewis-e-11-47">
+      <graphic height="5736px" url="master/4882_0046.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0046_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0046_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXv" xml:id="surface-lewis-e-11-48">
+      <graphic height="5736px" url="master/4882_0047.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0047_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0047_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXIr" xml:id="surface-lewis-e-11-49">
+      <graphic height="5736px" url="master/4882_0048.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0048_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0048_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXIv" xml:id="surface-lewis-e-11-50">
+      <graphic height="5736px" url="master/4882_0049.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0049_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0049_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXIIr" xml:id="surface-lewis-e-11-51">
+      <graphic height="5736px" url="master/4882_0050.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0050_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0050_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXIIv" xml:id="surface-lewis-e-11-52">
+      <graphic height="5736px" url="master/4882_0051.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0051_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0051_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXIIIr" xml:id="surface-lewis-e-11-53">
+      <graphic height="5736px" url="master/4882_0052.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0052_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0052_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXIIIv" xml:id="surface-lewis-e-11-54">
+      <graphic height="5736px" url="master/4882_0053.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0053_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0053_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXIIIIr" xml:id="surface-lewis-e-11-55">
+      <graphic height="5736px" url="master/4882_0054.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0054_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0054_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXIIIIv" xml:id="surface-lewis-e-11-56">
+      <graphic height="5736px" url="master/4882_0055.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0055_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0055_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXVr" xml:id="surface-lewis-e-11-57">
+      <graphic height="5736px" url="master/4882_0056.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0056_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0056_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXVv" xml:id="surface-lewis-e-11-58">
+      <graphic height="5736px" url="master/4882_0057.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0057_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0057_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXVIr" xml:id="surface-lewis-e-11-59">
+      <graphic height="5736px" url="master/4882_0058.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0058_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0058_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXVIv" xml:id="surface-lewis-e-11-60">
+      <graphic height="5736px" url="master/4882_0059.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0059_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0059_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXVIIr" xml:id="surface-lewis-e-11-61">
+      <graphic height="5736px" url="master/4882_0060.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0060_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0060_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXVIIv" xml:id="surface-lewis-e-11-62">
+      <graphic height="5736px" url="master/4882_0061.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0061_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0061_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXVIIIr" xml:id="surface-lewis-e-11-63">
+      <graphic height="5736px" url="master/4882_0062.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0062_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0062_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXVIIIv" xml:id="surface-lewis-e-11-64">
+      <graphic height="5736px" url="master/4882_0063.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0063_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0063_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXVIIIIr" xml:id="surface-lewis-e-11-65">
+      <graphic height="5736px" url="master/4882_0064.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0064_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0064_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXVIIIIv" xml:id="surface-lewis-e-11-66">
+      <graphic height="5736px" url="master/4882_0065.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0065_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0065_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXr" xml:id="surface-lewis-e-11-67">
+      <graphic height="5736px" url="master/4882_0066.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0066_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0066_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXv" xml:id="surface-lewis-e-11-68">
+      <graphic height="5736px" url="master/4882_0067.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0067_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0067_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXIr" xml:id="surface-lewis-e-11-69">
+      <graphic height="5736px" url="master/4882_0068.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0068_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0068_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXIv" xml:id="surface-lewis-e-11-70">
+      <graphic height="5736px" url="master/4882_0069.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0069_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0069_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXIIr" xml:id="surface-lewis-e-11-71">
+      <graphic height="5736px" url="master/4882_0070.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0070_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0070_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXIIv" xml:id="surface-lewis-e-11-72">
+      <graphic height="5736px" url="master/4882_0071.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0071_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0071_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXIIIr" xml:id="surface-lewis-e-11-73">
+      <graphic height="5736px" url="master/4882_0072.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0072_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0072_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXIIIv" xml:id="surface-lewis-e-11-74">
+      <graphic height="5736px" url="master/4882_0073.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0073_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0073_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXIIIIr" xml:id="surface-lewis-e-11-75">
+      <graphic height="5736px" url="master/4882_0074.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0074_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0074_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXIIIIv" xml:id="surface-lewis-e-11-76">
+      <graphic height="5736px" url="master/4882_0075.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0075_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0075_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXVr" xml:id="surface-lewis-e-11-77">
+      <graphic height="5736px" url="master/4882_0076.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0076_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0076_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXVv" xml:id="surface-lewis-e-11-78">
+      <graphic height="5736px" url="master/4882_0077.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0077_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0077_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXVIr" xml:id="surface-lewis-e-11-79">
+      <graphic height="5736px" url="master/4882_0078.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0078_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0078_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXVIv" xml:id="surface-lewis-e-11-80">
+      <graphic height="5736px" url="master/4882_0079.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0079_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0079_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXVIIr" xml:id="surface-lewis-e-11-81">
+      <graphic height="5736px" url="master/4882_0080.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0080_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0080_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXVIIv" xml:id="surface-lewis-e-11-82">
+      <graphic height="5736px" url="master/4882_0081.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0081_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0081_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXVIIIr" xml:id="surface-lewis-e-11-83">
+      <graphic height="5736px" url="master/4882_0082.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0082_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0082_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXVIIIv" xml:id="surface-lewis-e-11-84">
+      <graphic height="5736px" url="master/4882_0083.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0083_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0083_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXVIIIIr" xml:id="surface-lewis-e-11-85">
+      <graphic height="5736px" url="master/4882_0084.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0084_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0084_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXVIIIIv" xml:id="surface-lewis-e-11-86">
+      <graphic height="5736px" url="master/4882_0085.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0085_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0085_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXr" xml:id="surface-lewis-e-11-87">
+      <graphic height="5736px" url="master/4882_0086.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0086_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0086_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXv" xml:id="surface-lewis-e-11-88">
+      <graphic height="5736px" url="master/4882_0087.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0087_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0087_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXIr" xml:id="surface-lewis-e-11-89">
+      <graphic height="5736px" url="master/4882_0088.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0088_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0088_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXIv" xml:id="surface-lewis-e-11-90">
+      <graphic height="5736px" url="master/4882_0089.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0089_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0089_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXIIr" xml:id="surface-lewis-e-11-91">
+      <graphic height="5736px" url="master/4882_0090.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0090_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0090_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXIIv" xml:id="surface-lewis-e-11-92">
+      <graphic height="5736px" url="master/4882_0091.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0091_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0091_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXIIIr" xml:id="surface-lewis-e-11-93">
+      <graphic height="5736px" url="master/4882_0092.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0092_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0092_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXIIIv" xml:id="surface-lewis-e-11-94">
+      <graphic height="5736px" url="master/4882_0093.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0093_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0093_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXIIIIr" xml:id="surface-lewis-e-11-95">
+      <graphic height="5736px" url="master/4882_0094.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0094_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0094_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXIIIIv" xml:id="surface-lewis-e-11-96">
+      <graphic height="5736px" url="master/4882_0095.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0095_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0095_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXVr" xml:id="surface-lewis-e-11-97">
+      <graphic height="5736px" url="master/4882_0096.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0096_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0096_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXVv" xml:id="surface-lewis-e-11-98">
+      <graphic height="5736px" url="master/4882_0097.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0097_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0097_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXVIr" xml:id="surface-lewis-e-11-99">
+      <graphic height="5736px" url="master/4882_0098.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0098_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0098_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXVIv" xml:id="surface-lewis-e-11-100">
+      <graphic height="5736px" url="master/4882_0099.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0099_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0099_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXVIIr" xml:id="surface-lewis-e-11-101">
+      <graphic height="5736px" url="master/4882_0100.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0100_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0100_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXVIIv" xml:id="surface-lewis-e-11-102">
+      <graphic height="5736px" url="master/4882_0101.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0101_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0101_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXVIIIr" xml:id="surface-lewis-e-11-103">
+      <graphic height="5736px" url="master/4882_0102.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0102_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0102_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXVIIIv" xml:id="surface-lewis-e-11-104">
+      <graphic height="5736px" url="master/4882_0103.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0103_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0103_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXVIIIIr" xml:id="surface-lewis-e-11-105">
+      <graphic height="5736px" url="master/4882_0104.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0104_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0104_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="XXXXVIIIIv" xml:id="surface-lewis-e-11-106">
+      <graphic height="5736px" url="master/4882_0105.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0105_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0105_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-lewis-e-11-107">
+      <graphic height="5736px" url="master/4882_0106.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0106_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0106_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-lewis-e-11-108">
+      <graphic height="5736px" url="master/4882_0107.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0107_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0107_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto" xml:id="surface-lewis-e-11-109">
+      <graphic height="5736px" url="master/4882_0108.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0108_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0108_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso" xml:id="surface-lewis-e-11-110">
+      <graphic height="5736px" url="master/4882_0109.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0109_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0109_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-lewis-e-11-111">
+      <graphic height="5736px" url="master/4882_0110.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0110_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0110_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-lewis-e-11-112">
+      <graphic height="5736px" url="master/4882_0111.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0111_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/4882_0111_web.jpg" width="1440px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-lewis-e-11-113">
+      <graphic height="6225px" url="master/4882_0112.tif" width="1589px"/>
+      <graphic height="190px" url="thumb/4882_0112_thumb.jpg" width="48px"/>
+      <graphic height="1800px" url="web/4882_0112_web.jpg" width="459px"/>
+    </surface>
+    <surface n="Fore edge" xml:id="surface-lewis-e-11-114">
+      <graphic height="6225px" url="master/4882_0113.tif" width="1589px"/>
+      <graphic height="190px" url="thumb/4882_0113_thumb.jpg" width="48px"/>
+      <graphic height="1800px" url="web/4882_0113_web.jpg" width="459px"/>
+    </surface>
+    <surface n="Top edge" xml:id="surface-lewis-e-11-115">
+      <graphic height="4230px" url="master/4882_0114.tif" width="1412px"/>
+      <graphic height="190px" url="thumb/4882_0114_thumb.jpg" width="63px"/>
+      <graphic height="1800px" url="web/4882_0114_web.jpg" width="600px"/>
+    </surface>
+    <surface n="Bottom edge" xml:id="surface-lewis-e-11-116">
+      <graphic height="4230px" url="master/4882_0115.tif" width="1412px"/>
+      <graphic height="190px" url="thumb/4882_0115_thumb.jpg" width="63px"/>
+      <graphic height="1800px" url="web/4882_0115_web.jpg" width="600px"/>
+    </surface>
+    <surface n="Clasps" xml:id="surface-lewis-e-11-117">
+      <graphic height="6225px" url="master/4882_0116.tif" width="1589px"/>
+      <graphic height="190px" url="thumb/4882_0116_thumb.jpg" width="48px"/>
+      <graphic height="1800px" url="web/4882_0116_web.jpg" width="459px"/>
+    </surface>
+    <surface n="Bookmark front" xml:id="surface-lewis-e-11-118">
+      <graphic height="6859px" url="master/4882_0117.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0117_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/4882_0117_web.jpg" width="1204px"/>
+    </surface>
+    <surface n="Bookmark back" xml:id="surface-lewis-e-11-119">
+      <graphic height="6859px" url="master/4882_0118.tif" width="4588px"/>
+      <graphic height="190px" url="thumb/4882_0118_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/4882_0118_web.jpg" width="1204px"/>
+    </surface>
+  </facsimile>
+</TEI>

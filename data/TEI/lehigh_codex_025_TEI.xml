@@ -1,0 +1,2330 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Special Collections, Lehigh Codex 25: Antiphonal</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Andrew Stahlhut</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Amey Hutchins</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Nicholas Herman</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Special Collections</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Special Collections Lehigh Codex 25: Antiphonal are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Lehigh University Libraries, Special Collections has waived all copyright and related or neighboring rights to this metadata about Special Collections Lehigh Codex 25: Antiphonal. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Page 140 has added, pasted-in segment of music in different hand from the rest of the book</note>
+        <note>Liquid damage to last few leaves</note>
+        <note>Paper flyleaves</note>
+        <note>Letter "C" offset visible on insider front cover</note>
+        <note type="relatedResource">De Ricci, Seymour, with the assistance of W. J. Wilson, Census of Medieval and Renaissance Manuscripts in the United States and Canada, vol. 2 (New York,: H. W. Wilson, 1935-40), p. 1991, no. 12.</note>
+        <note type="relatedResource">Meiss, Millard, "An Illuminated Inferno and Trecento Painting in Pisa" The Art Bulletin 47, no. 1 (1965), p. 30 n. 53, fig. 35 (article pp.  21-34).</note>
+        <note type="relatedResource">Hirsch, John C., Western Manuscripts of the Twelfth through the Sixteenth Centuries in Lehigh University Libraries: A Guide to the Exhibition (Bethlehem, PA: Rare Book Room, Linderman Library, Lehigh University, 1970), p. 31, no. 25.</note>
+        <note type="relatedResource">Meiss, Millard, Francesco Traini (Washington, D.C.: Decatur House Press, 1983), p. 71, 78 n. 53, fig. 92.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Bethlehem</settlement>
+            <institution>Lehigh University</institution>
+            <repository>Special Collections</repository>
+            <idno type="call-number">Lehigh Codex 25</idno>
+            <altIdentifier type="Accession">
+              <idno>23460</idno>
+            </altIdentifier>
+            <altIdentifier type="deRicci">
+              <idno>12</idno>
+            </altIdentifier>
+            <altIdentifier type="Hirsh">
+              <idno>MS Hirsh 25</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>This Antiphonal was produced in Tuscany (likely Pisa) in the second quarter of the fourteenth century. It contains material from the Temporale and Sanctorale for Septuagesima and the Pre-Lenten season. It contains three large historiated initials by an artist working in a style close to that of Francesco Traini. The miniatures depict King David playing the psaltery before God (f. 21), the Martyrdom of Saint Agnes (f. 146), and the Martyrdom of Saint Agatha (f. 257).</summary>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Antiphonal</title>
+              <respStmt>
+                <resp>artist</resp>
+                <persName ref="http://viaf.org/viaf/65352538">Traini, Francesco, active 14th century</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>i+145+i; 626 x 435 mm bound to 650 x 470 mm</extent>
+                <foliation>Later pagination in ink, arabic numerals, outer margins; 1-182, 185-222, 225-294 (fols. 92, 112 missing)</foliation>
+                <collation>
+                  <p>1-9 (10), 10 (10, -2), 11 (8), 12 (10, -4), 13-14 (10), 15 (4), 16 (2), 17 (3, +1 +2 +3)</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Five four-line staves ruled in red with square notation and text in black; frame-ruled in lead with double vertical bounding lines; written area: 450 x 295 mm</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Gothic--rotunda</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Three historiated initials, two lines (two staves plus their underlying text) in height (King David playing the psaltery before Jesus, p. 21; Martyrdom of Saint Agnes, p. 146; Martyrdom of Saint Agatha, p.257); numerous decorated initials one line (one staff plus its underlying text) in height, in orange, yellow, pink, and green with white dots on blue ground, some with acanthus marginal extensions, one at the beginning of each chant, up to three on a page; rubrication in red</decoNote>
+              <decoNote n="21"><locus target="#surface-lehigh-codex-25-25">21</locus>Inhabited initial D, King David before God</decoNote>
+              <decoNote n="[21 miniature]"><locus target="#surface-lehigh-codex-25-26">[21 miniature]</locus>Inhabited initial D, King David before God</decoNote>
+              <decoNote n="146"><locus target="#surface-lehigh-codex-25-151">146</locus>Historiated initial D, Martyrdom of Saint Agatha</decoNote>
+              <decoNote n="[146 miniature]"><locus target="#surface-lehigh-codex-25-152">[146 miniature]</locus>Historiated initial D, Martyrdom of Saint Agatha</decoNote>
+              <decoNote n="257"><locus target="#surface-lehigh-codex-25-259">257</locus>Historiated initial O, Martyrdom of Saint Agatha; Illuminated initial, Letter A</decoNote>
+              <decoNote n="[257 miniature]"><locus target="#surface-lehigh-codex-25-260">[257 miniature]</locus>Historiated initial O, Martyrdom of Saint Agatha; Illuminated initial, Letter A</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Original fifteenth-century leather over wooden boards with five metal bosses each on front and back cover</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1325" notAfter="1350"/>
+              <p>Second quarter 14th century</p>
+              <origPlace>Pisa?, Tuscany, Italy</origPlace>
+            </origin>
+            <provenance>Purchased by Lehigh University (9 September 1881) from Baillieu, Paris</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="keywords">
+          <category xml:id="keyword_1">
+            <catDesc>Book Type</catDesc>
+            <category xml:id="keyword_1.2">
+              <catDesc>Accounts</catDesc>
+            </category>
+            <category xml:id="keyword_1.3">
+              <catDesc>Antiphonary</catDesc>
+            </category>
+            <category xml:id="keyword_1.4">
+              <catDesc>Armorial</catDesc>
+            </category>
+            <category xml:id="keyword_1.5">
+              <catDesc>Bible</catDesc>
+            </category>
+            <category xml:id="keyword_1.6">
+              <catDesc>Biography</catDesc>
+            </category>
+            <category xml:id="keyword_1.7">
+              <catDesc>Book of Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.8">
+              <catDesc>Breviary</catDesc>
+            </category>
+            <category xml:id="keyword_1.9">
+              <catDesc>Chronicle</catDesc>
+            </category>
+            <category xml:id="keyword_1.10">
+              <catDesc>Collection of Sermons</catDesc>
+            </category>
+            <category xml:id="keyword_1.11">
+              <catDesc>Commentary</catDesc>
+            </category>
+            <category xml:id="keyword_1.12">
+              <catDesc>Dictionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.13">
+              <catDesc>Document</catDesc>
+            </category>
+            <category xml:id="keyword_1.14">
+              <catDesc>Dogale</catDesc>
+            </category>
+            <category xml:id="keyword_1.15">
+              <catDesc>Friendship book</catDesc>
+            </category>
+            <category xml:id="keyword_1.16">
+              <catDesc>Genealogy</catDesc>
+            </category>
+            <category xml:id="keyword_1.17">
+              <catDesc>Glossary</catDesc>
+            </category>
+            <category xml:id="keyword_1.18">
+              <catDesc>Gospel Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.19">
+              <catDesc>Gospels</catDesc>
+            </category>
+            <category xml:id="keyword_1.20">
+              <catDesc>Gradual</catDesc>
+            </category>
+            <category xml:id="keyword_1.22">
+              <catDesc>Haggadah</catDesc>
+            </category>
+            <category xml:id="keyword_1.23">
+              <catDesc>Homilary</catDesc>
+            </category>
+            <category xml:id="keyword_1.24">
+              <catDesc>Horologion</catDesc>
+            </category>
+            <category xml:id="keyword_1.25">
+              <catDesc>Hymnal</catDesc>
+            </category>
+            <category xml:id="keyword_1.26">
+              <catDesc>Koran</catDesc>
+            </category>
+            <category xml:id="keyword_1.27">
+              <catDesc>Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.28">
+              <catDesc>Mass book</catDesc>
+            </category>
+            <category xml:id="keyword_1.29">
+              <catDesc>Miscellany</catDesc>
+            </category>
+            <category xml:id="keyword_1.30">
+              <catDesc>Missal</catDesc>
+            </category>
+            <category xml:id="keyword_1.31">
+              <catDesc>Pontifical</catDesc>
+            </category>
+            <category xml:id="keyword_1.32">
+              <catDesc>Portolan chart</catDesc>
+            </category>
+            <category xml:id="keyword_1.33">
+              <catDesc>Prayer book</catDesc>
+            </category>
+            <category xml:id="keyword_1.34">
+              <catDesc>Private devotional text</catDesc>
+            </category>
+            <category xml:id="keyword_1.35">
+              <catDesc>Processional</catDesc>
+            </category>
+            <category xml:id="keyword_1.36">
+              <catDesc>Protective scroll</catDesc>
+            </category>
+            <category xml:id="keyword_1.37">
+              <catDesc>Psalter</catDesc>
+            </category>
+            <category xml:id="keyword_1.38">
+              <catDesc>Psalter-Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.39">
+              <catDesc>Qur`an</catDesc>
+            </category>
+            <category xml:id="keyword_1.40">
+              <catDesc>Recipe book</catDesc>
+            </category>
+            <category xml:id="keyword_1.41">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.42">
+              <catDesc>Scribal manual</catDesc>
+            </category>
+            <category xml:id="keyword_1.43">
+              <catDesc>Song book</catDesc>
+            </category>
+            <category xml:id="keyword_1.44">
+              <catDesc>Torah</catDesc>
+            </category>
+            <category xml:id="keyword_1.45">
+              <catDesc>Treatise</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_2">
+            <catDesc>Century</catDesc>
+            <category xml:id="keyword_2.2">
+              <catDesc>6th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.3">
+              <catDesc>7th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.4">
+              <catDesc>8th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.5">
+              <catDesc>9th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.6">
+              <catDesc>10th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.7">
+              <catDesc>11th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.8">
+              <catDesc>12th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.9">
+              <catDesc>13th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.10">
+              <catDesc>14th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.11">
+              <catDesc>15th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.12">
+              <catDesc>16th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.13">
+              <catDesc>17th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.14">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.15">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.16">
+              <catDesc>20th century</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_3">
+            <catDesc>Culture</catDesc>
+            <category xml:id="keyword_3.2">
+              <catDesc>Abbasid</catDesc>
+            </category>
+            <category xml:id="keyword_3.3">
+              <catDesc>Arabic</catDesc>
+            </category>
+            <category xml:id="keyword_3.4">
+              <catDesc>Armenian</catDesc>
+            </category>
+            <category xml:id="keyword_3.5">
+              <catDesc>Ashkenazi</catDesc>
+            </category>
+            <category xml:id="keyword_3.6">
+              <catDesc>Austrian</catDesc>
+            </category>
+            <category xml:id="keyword_3.7">
+              <catDesc>Byzantine</catDesc>
+            </category>
+            <category xml:id="keyword_3.8">
+              <catDesc>Carolingian</catDesc>
+            </category>
+            <category xml:id="keyword_3.9">
+              <catDesc>Chinese</catDesc>
+            </category>
+            <category xml:id="keyword_3.10">
+              <catDesc>Christian</catDesc>
+            </category>
+            <category xml:id="keyword_3.11">
+              <catDesc>Coptic</catDesc>
+            </category>
+            <category xml:id="keyword_3.12">
+              <catDesc>Dutch</catDesc>
+            </category>
+            <category xml:id="keyword_3.13">
+              <catDesc>Egyptian</catDesc>
+            </category>
+            <category xml:id="keyword_3.14">
+              <catDesc>English</catDesc>
+            </category>
+            <category xml:id="keyword_3.15">
+              <catDesc>Ethiopian</catDesc>
+            </category>
+            <category xml:id="keyword_3.16">
+              <catDesc>Fatimid</catDesc>
+            </category>
+            <category xml:id="keyword_3.17">
+              <catDesc>Flemish</catDesc>
+            </category>
+            <category xml:id="keyword_3.18">
+              <catDesc>French</catDesc>
+            </category>
+            <category xml:id="keyword_3.19">
+              <catDesc>German</catDesc>
+            </category>
+            <category xml:id="keyword_3.20">
+              <catDesc>Indian</catDesc>
+            </category>
+            <category xml:id="keyword_3.21">
+              <catDesc>Islamic</catDesc>
+            </category>
+            <category xml:id="keyword_3.22">
+              <catDesc>Italian</catDesc>
+            </category>
+            <category xml:id="keyword_3.23">
+              <catDesc>Jewish</catDesc>
+            </category>
+            <category xml:id="keyword_3.25">
+              <catDesc>Mamluk</catDesc>
+            </category>
+            <category xml:id="keyword_3.26">
+              <catDesc>Mughal</catDesc>
+            </category>
+            <category xml:id="keyword_3.27">
+              <catDesc>Ottoman</catDesc>
+            </category>
+            <category xml:id="keyword_3.28">
+              <catDesc>Ottonian</catDesc>
+            </category>
+            <category xml:id="keyword_3.29">
+              <catDesc>Persian</catDesc>
+            </category>
+            <category xml:id="keyword_3.30">
+              <catDesc>Portuguese</catDesc>
+            </category>
+            <category xml:id="keyword_3.31">
+              <catDesc>Qajar</catDesc>
+            </category>
+            <category xml:id="keyword_3.32">
+              <catDesc>Rajput</catDesc>
+            </category>
+            <category xml:id="keyword_3.33">
+              <catDesc>Russian</catDesc>
+            </category>
+            <category xml:id="keyword_3.34">
+              <catDesc>Safavid</catDesc>
+            </category>
+            <category xml:id="keyword_3.35">
+              <catDesc>Sephardi</catDesc>
+            </category>
+            <category xml:id="keyword_3.36">
+              <catDesc>Spanish</catDesc>
+            </category>
+            <category xml:id="keyword_3.37">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.38">
+              <catDesc>Turkish</catDesc>
+            </category>
+            <category xml:id="keyword_3.39">
+              <catDesc>Yemenite</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_4">
+            <catDesc>Descriptive term</catDesc>
+            <category xml:id="keyword_4.2">
+              <catDesc>Accordion book</catDesc>
+            </category>
+            <category xml:id="keyword_4.3">
+              <catDesc>Album</catDesc>
+            </category>
+            <category xml:id="keyword_4.4">
+              <catDesc>Annotated</catDesc>
+            </category>
+            <category xml:id="keyword_4.5">
+              <catDesc>Binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.6">
+              <catDesc>Calligraphy</catDesc>
+            </category>
+            <category xml:id="keyword_4.7">
+              <catDesc>Caroline minuscule</catDesc>
+            </category>
+            <category xml:id="keyword_4.8">
+              <catDesc>Chart</catDesc>
+            </category>
+            <category xml:id="keyword_4.9">
+              <catDesc>Charter</catDesc>
+            </category>
+            <category xml:id="keyword_4.10">
+              <catDesc>Colophon</catDesc>
+            </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Damage</catDesc>
+            </category>
+            <category xml:id="keyword_4.12">
+              <catDesc>Diagrams</catDesc>
+            </category>
+            <category xml:id="keyword_4.13">
+              <catDesc>Drawing</catDesc>
+            </category>
+            <category xml:id="keyword_4.14">
+              <catDesc>Early Abbasid script</catDesc>
+            </category>
+            <category xml:id="keyword_4.15">
+              <catDesc>Fragment</catDesc>
+            </category>
+            <category xml:id="keyword_4.16">
+              <catDesc>Gloss</catDesc>
+            </category>
+            <category xml:id="keyword_4.17">
+              <catDesc>Gothic</catDesc>
+            </category>
+            <category xml:id="keyword_4.18">
+              <catDesc>Gothic book hand</catDesc>
+            </category>
+            <category xml:id="keyword_4.19">
+              <catDesc>Grisaille</catDesc>
+            </category>
+            <category xml:id="keyword_4.20">
+              <catDesc>Grotesques</catDesc>
+            </category>
+            <category xml:id="keyword_4.21">
+              <catDesc>Headpiece</catDesc>
+            </category>
+            <category xml:id="keyword_4.22">
+              <catDesc>Heraldry</catDesc>
+            </category>
+            <category xml:id="keyword_4.23">
+              <catDesc>Historiated initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.24">
+              <catDesc>Humanistic</catDesc>
+            </category>
+            <category xml:id="keyword_4.25">
+              <catDesc>Illumination</catDesc>
+            </category>
+            <category xml:id="keyword_4.26">
+              <catDesc>Illustration</catDesc>
+            </category>
+            <category xml:id="keyword_4.27">
+              <catDesc>Inhabited initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.28">
+              <catDesc>Kufic</catDesc>
+            </category>
+            <category xml:id="keyword_4.29">
+              <catDesc>Manicules</catDesc>
+            </category>
+            <category xml:id="keyword_4.30">
+              <catDesc>Medallion</catDesc>
+            </category>
+            <category xml:id="keyword_4.31">
+              <catDesc>Micrography</catDesc>
+            </category>
+            <category xml:id="keyword_4.32">
+              <catDesc>Miniature</catDesc>
+            </category>
+            <category xml:id="keyword_4.33">
+              <catDesc>Missing leaves</catDesc>
+            </category>
+            <category xml:id="keyword_4.34">
+              <catDesc>Musical notation</catDesc>
+            </category>
+            <category xml:id="keyword_4.35">
+              <catDesc>New Abbasid style</catDesc>
+            </category>
+            <category xml:id="keyword_4.36">
+              <catDesc>Notable binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.37">
+              <catDesc>Original binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.38">
+              <catDesc>Ornament</catDesc>
+            </category>
+            <category xml:id="keyword_4.39">
+              <catDesc>Painting</catDesc>
+            </category>
+            <category xml:id="keyword_4.40">
+              <catDesc>Palimpsest</catDesc>
+            </category>
+            <category xml:id="keyword_4.41">
+              <catDesc>Paper</catDesc>
+            </category>
+            <category xml:id="keyword_4.42">
+              <catDesc>Penwork initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.43">
+              <catDesc>Puzzle initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.44">
+              <catDesc>Ragini</catDesc>
+            </category>
+            <category xml:id="keyword_4.45">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.46">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.47">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.48">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.49">
+              <catDesc>Seals</catDesc>
+            </category>
+            <category xml:id="keyword_4.50">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_4.51">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.52">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.53">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.54">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.55">
+              <catDesc>Woodcuts</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_5">
+            <catDesc>Geography</catDesc>
+            <category xml:id="keyword_5.2">
+              <catDesc>Afghanistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.3">
+              <catDesc>Armenia</catDesc>
+            </category>
+            <category xml:id="keyword_5.4">
+              <catDesc>Austria</catDesc>
+            </category>
+            <category xml:id="keyword_5.5">
+              <catDesc>Belgium</catDesc>
+            </category>
+            <category xml:id="keyword_5.6">
+              <catDesc>Central Arab lands (Near East)</catDesc>
+            </category>
+            <category xml:id="keyword_5.7">
+              <catDesc>Central Asia</catDesc>
+            </category>
+            <category xml:id="keyword_5.8">
+              <catDesc>China</catDesc>
+            </category>
+            <category xml:id="keyword_5.9">
+              <catDesc>Egypt</catDesc>
+            </category>
+            <category xml:id="keyword_5.10">
+              <catDesc>England</catDesc>
+            </category>
+            <category xml:id="keyword_5.11">
+              <catDesc>Ethiopia</catDesc>
+            </category>
+            <category xml:id="keyword_5.12">
+              <catDesc>Flanders</catDesc>
+            </category>
+            <category xml:id="keyword_5.13">
+              <catDesc>France</catDesc>
+            </category>
+            <category xml:id="keyword_5.14">
+              <catDesc>Germany</catDesc>
+            </category>
+            <category xml:id="keyword_5.15">
+              <catDesc>Greece</catDesc>
+            </category>
+            <category xml:id="keyword_5.16">
+              <catDesc>India</catDesc>
+            </category>
+            <category xml:id="keyword_5.17">
+              <catDesc>Iran</catDesc>
+            </category>
+            <category xml:id="keyword_5.18">
+              <catDesc>Iraq</catDesc>
+            </category>
+            <category xml:id="keyword_5.19">
+              <catDesc>Israel</catDesc>
+            </category>
+            <category xml:id="keyword_5.20">
+              <catDesc>Italy</catDesc>
+            </category>
+            <category xml:id="keyword_5.21">
+              <catDesc>Maghreb</catDesc>
+            </category>
+            <category xml:id="keyword_5.22">
+              <catDesc>Morocco</catDesc>
+            </category>
+            <category xml:id="keyword_5.23">
+              <catDesc>Netherlands</catDesc>
+            </category>
+            <category xml:id="keyword_5.24">
+              <catDesc>Pakistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.25">
+              <catDesc>Portugal</catDesc>
+            </category>
+            <category xml:id="keyword_5.26">
+              <catDesc>Romania</catDesc>
+            </category>
+            <category xml:id="keyword_5.27">
+              <catDesc>Russia</catDesc>
+            </category>
+            <category xml:id="keyword_5.28">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.29">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.30">
+              <catDesc>Turkey</catDesc>
+            </category>
+            <category xml:id="keyword_5.31">
+              <catDesc>Wales</catDesc>
+            </category>
+            <category xml:id="keyword_5.32">
+              <catDesc>Yemen</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_6">
+            <catDesc>Other</catDesc>
+            <category xml:id="keyword_6.2">
+              <catDesc>Alchemy</catDesc>
+            </category>
+            <category xml:id="keyword_6.3">
+              <catDesc>Allegory</catDesc>
+            </category>
+            <category xml:id="keyword_6.4">
+              <catDesc>Astrology</catDesc>
+            </category>
+            <category xml:id="keyword_6.5">
+              <catDesc>Astronomy</catDesc>
+            </category>
+            <category xml:id="keyword_6.6">
+              <catDesc>Biblical</catDesc>
+            </category>
+            <category xml:id="keyword_6.7">
+              <catDesc>Binding waste</catDesc>
+            </category>
+            <category xml:id="keyword_6.8">
+              <catDesc>Cartography</catDesc>
+            </category>
+            <category xml:id="keyword_6.9">
+              <catDesc>Church Fathers</catDesc>
+            </category>
+            <category xml:id="keyword_6.10">
+              <catDesc>Cosmology</catDesc>
+            </category>
+            <category xml:id="keyword_6.11">
+              <catDesc>Devotion</catDesc>
+            </category>
+            <category xml:id="keyword_6.12">
+              <catDesc>Financial records</catDesc>
+            </category>
+            <category xml:id="keyword_6.13">
+              <catDesc>Fortune-telling</catDesc>
+            </category>
+            <category xml:id="keyword_6.14">
+              <catDesc>Friendship</catDesc>
+            </category>
+            <category xml:id="keyword_6.15">
+              <catDesc>Games</catDesc>
+            </category>
+            <category xml:id="keyword_6.16">
+              <catDesc>Geography</catDesc>
+            </category>
+            <category xml:id="keyword_6.17">
+              <catDesc>Geomancy</catDesc>
+            </category>
+            <category xml:id="keyword_6.18">
+              <catDesc>Grammar</catDesc>
+            </category>
+            <category xml:id="keyword_6.19">
+              <catDesc>History</catDesc>
+            </category>
+            <category xml:id="keyword_6.20">
+              <catDesc>Kabbalah</catDesc>
+            </category>
+            <category xml:id="keyword_6.21">
+              <catDesc>Legal</catDesc>
+            </category>
+            <category xml:id="keyword_6.22">
+              <catDesc>Literature -- Poetry</catDesc>
+            </category>
+            <category xml:id="keyword_6.23">
+              <catDesc>Literature -- Prose</catDesc>
+            </category>
+            <category xml:id="keyword_6.24">
+              <catDesc>Liturgy</catDesc>
+            </category>
+            <category xml:id="keyword_6.25">
+              <catDesc>Logic</catDesc>
+            </category>
+            <category xml:id="keyword_6.26">
+              <catDesc>Magic</catDesc>
+            </category>
+            <category xml:id="keyword_6.27">
+              <catDesc>Maritime</catDesc>
+            </category>
+            <category xml:id="keyword_6.28">
+              <catDesc>Mathematics</catDesc>
+            </category>
+            <category xml:id="keyword_6.29">
+              <catDesc>Mineralogy</catDesc>
+            </category>
+            <category xml:id="keyword_6.30">
+              <catDesc>Philosophy</catDesc>
+            </category>
+            <category xml:id="keyword_6.31">
+              <catDesc>Piyutim</catDesc>
+            </category>
+            <category xml:id="keyword_6.32">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.33">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.34">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.35">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.36">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.37">
+              <catDesc>Theology</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_7">
+            <catDesc/>
+            <category xml:id="keyword_7.1">
+              <catDesc> </catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>Antiphonary</term>
+          <term>14th century</term>
+          <term>Italian</term>
+          <term>Musical notation</term>
+          <term>Italy</term>
+          <term>Liturgy</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-lehigh-codex-25-1">
+      <graphic height="11608px" url="master/9145_0000.tif" width="8708px"/>
+      <graphic height="190px" url="thumb/9145_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/9145_0000_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-lehigh-codex-25-2">
+      <graphic height="10849px" url="master/9145_0001.tif" width="8160px"/>
+      <graphic height="190px" url="thumb/9145_0001_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0001_web.jpg" width="1353px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-lehigh-codex-25-3">
+      <graphic height="10878px" url="master/9145_0002.tif" width="7920px"/>
+      <graphic height="190px" url="thumb/9145_0002_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/9145_0002_web.jpg" width="1310px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-lehigh-codex-25-4">
+      <graphic height="10849px" url="master/9145_0003.tif" width="8160px"/>
+      <graphic height="190px" url="thumb/9145_0003_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0003_web.jpg" width="1353px"/>
+    </surface>
+    <surface n="1" xml:id="surface-lehigh-codex-25-5">
+      <graphic height="10705px" url="master/9145_0004.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0004_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0004_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="2" xml:id="surface-lehigh-codex-25-6">
+      <graphic height="10849px" url="master/9145_0005.tif" width="7997px"/>
+      <graphic height="190px" url="thumb/9145_0005_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/9145_0005_web.jpg" width="1327px"/>
+    </surface>
+    <surface n="3" xml:id="surface-lehigh-codex-25-7">
+      <graphic height="10705px" url="master/9145_0006.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0006_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0006_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="4" xml:id="surface-lehigh-codex-25-8">
+      <graphic height="10849px" url="master/9145_0007.tif" width="7997px"/>
+      <graphic height="190px" url="thumb/9145_0007_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/9145_0007_web.jpg" width="1327px"/>
+    </surface>
+    <surface n="5" xml:id="surface-lehigh-codex-25-9">
+      <graphic height="10705px" url="master/9145_0008.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0008_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0008_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="6" xml:id="surface-lehigh-codex-25-10">
+      <graphic height="10849px" url="master/9145_0009.tif" width="7997px"/>
+      <graphic height="190px" url="thumb/9145_0009_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/9145_0009_web.jpg" width="1327px"/>
+    </surface>
+    <surface n="7" xml:id="surface-lehigh-codex-25-11">
+      <graphic height="10705px" url="master/9145_0010.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0010_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0010_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="8" xml:id="surface-lehigh-codex-25-12">
+      <graphic height="10705px" url="master/9145_0011.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0011_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0011_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="9" xml:id="surface-lehigh-codex-25-13">
+      <graphic height="10705px" url="master/9145_0012.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0012_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0012_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="10" xml:id="surface-lehigh-codex-25-14">
+      <graphic height="10705px" url="master/9145_0013.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0013_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0013_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="11" xml:id="surface-lehigh-codex-25-15">
+      <graphic height="10705px" url="master/9145_0014.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0014_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0014_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="12" xml:id="surface-lehigh-codex-25-16">
+      <graphic height="10705px" url="master/9145_0015.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0015_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0015_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="13" xml:id="surface-lehigh-codex-25-17">
+      <graphic height="10705px" url="master/9145_0016.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0016_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0016_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="14" xml:id="surface-lehigh-codex-25-18">
+      <graphic height="10705px" url="master/9145_0017.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0017_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0017_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="15" xml:id="surface-lehigh-codex-25-19">
+      <graphic height="10705px" url="master/9145_0018.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0018_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0018_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="16" xml:id="surface-lehigh-codex-25-20">
+      <graphic height="10705px" url="master/9145_0019.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0019_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0019_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="17" xml:id="surface-lehigh-codex-25-21">
+      <graphic height="10705px" url="master/9145_0020.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0020_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0020_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="18" xml:id="surface-lehigh-codex-25-22">
+      <graphic height="10705px" url="master/9145_0021.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0021_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0021_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="19" xml:id="surface-lehigh-codex-25-23">
+      <graphic height="10705px" url="master/9145_0022.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0022_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0022_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="20" xml:id="surface-lehigh-codex-25-24">
+      <graphic height="10705px" url="master/9145_0023.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0023_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0023_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="21" xml:id="surface-lehigh-codex-25-25">
+      <graphic height="10705px" url="master/9145_0024.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0024_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0024_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="21 miniature" xml:id="surface-lehigh-codex-25-26">
+      <graphic height="11608px" url="master/9145_0025.tif" width="8708px"/>
+      <graphic height="190px" url="thumb/9145_0025_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/9145_0025_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="22" xml:id="surface-lehigh-codex-25-27">
+      <graphic height="10705px" url="master/9145_0026.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0026_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0026_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="23" xml:id="surface-lehigh-codex-25-28">
+      <graphic height="10705px" url="master/9145_0027.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0027_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0027_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="24" xml:id="surface-lehigh-codex-25-29">
+      <graphic height="10705px" url="master/9145_0028.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0028_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0028_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="25" xml:id="surface-lehigh-codex-25-30">
+      <graphic height="10705px" url="master/9145_0029.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0029_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0029_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="26" xml:id="surface-lehigh-codex-25-31">
+      <graphic height="10705px" url="master/9145_0030.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0030_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0030_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="27" xml:id="surface-lehigh-codex-25-32">
+      <graphic height="10705px" url="master/9145_0031.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0031_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0031_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="28" xml:id="surface-lehigh-codex-25-33">
+      <graphic height="10705px" url="master/9145_0032.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0032_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0032_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="29" xml:id="surface-lehigh-codex-25-34">
+      <graphic height="10705px" url="master/9145_0033.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0033_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0033_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="30" xml:id="surface-lehigh-codex-25-35">
+      <graphic height="10705px" url="master/9145_0034.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0034_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0034_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="31" xml:id="surface-lehigh-codex-25-36">
+      <graphic height="10705px" url="master/9145_0035.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0035_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0035_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="32" xml:id="surface-lehigh-codex-25-37">
+      <graphic height="10705px" url="master/9145_0036.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0036_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0036_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="33" xml:id="surface-lehigh-codex-25-38">
+      <graphic height="10705px" url="master/9145_0037.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0037_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0037_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="34" xml:id="surface-lehigh-codex-25-39">
+      <graphic height="10705px" url="master/9145_0038.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0038_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0038_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="35" xml:id="surface-lehigh-codex-25-40">
+      <graphic height="10705px" url="master/9145_0039.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0039_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0039_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="36" xml:id="surface-lehigh-codex-25-41">
+      <graphic height="10705px" url="master/9145_0040.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0040_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0040_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="37" xml:id="surface-lehigh-codex-25-42">
+      <graphic height="10705px" url="master/9145_0041.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0041_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0041_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="38" xml:id="surface-lehigh-codex-25-43">
+      <graphic height="10705px" url="master/9145_0042.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0042_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0042_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="39" xml:id="surface-lehigh-codex-25-44">
+      <graphic height="10705px" url="master/9145_0043.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0043_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0043_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="40" xml:id="surface-lehigh-codex-25-45">
+      <graphic height="10705px" url="master/9145_0044.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0044_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0044_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="41" xml:id="surface-lehigh-codex-25-46">
+      <graphic height="10705px" url="master/9145_0045.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0045_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0045_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="42" xml:id="surface-lehigh-codex-25-47">
+      <graphic height="10705px" url="master/9145_0046.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0046_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0046_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="43" xml:id="surface-lehigh-codex-25-48">
+      <graphic height="10705px" url="master/9145_0047.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0047_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0047_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="44" xml:id="surface-lehigh-codex-25-49">
+      <graphic height="10705px" url="master/9145_0048.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0048_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0048_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="45" xml:id="surface-lehigh-codex-25-50">
+      <graphic height="10705px" url="master/9145_0049.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0049_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0049_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="46" xml:id="surface-lehigh-codex-25-51">
+      <graphic height="10705px" url="master/9145_0050.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0050_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0050_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="47" xml:id="surface-lehigh-codex-25-52">
+      <graphic height="10705px" url="master/9145_0051.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0051_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0051_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="48" xml:id="surface-lehigh-codex-25-53">
+      <graphic height="10705px" url="master/9145_0052.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0052_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0052_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="49" xml:id="surface-lehigh-codex-25-54">
+      <graphic height="10705px" url="master/9145_0053.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0053_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0053_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="50" xml:id="surface-lehigh-codex-25-55">
+      <graphic height="10705px" url="master/9145_0054.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0054_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0054_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="51" xml:id="surface-lehigh-codex-25-56">
+      <graphic height="10705px" url="master/9145_0055.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0055_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0055_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="52" xml:id="surface-lehigh-codex-25-57">
+      <graphic height="10705px" url="master/9145_0056.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0056_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0056_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="53" xml:id="surface-lehigh-codex-25-58">
+      <graphic height="10705px" url="master/9145_0057.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0057_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0057_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="54" xml:id="surface-lehigh-codex-25-59">
+      <graphic height="10705px" url="master/9145_0058.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0058_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0058_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="55" xml:id="surface-lehigh-codex-25-60">
+      <graphic height="10705px" url="master/9145_0059.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0059_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0059_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="56" xml:id="surface-lehigh-codex-25-61">
+      <graphic height="10705px" url="master/9145_0060.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0060_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0060_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="57" xml:id="surface-lehigh-codex-25-62">
+      <graphic height="10705px" url="master/9145_0061.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0061_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0061_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="58" xml:id="surface-lehigh-codex-25-63">
+      <graphic height="10705px" url="master/9145_0062.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0062_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0062_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="59" xml:id="surface-lehigh-codex-25-64">
+      <graphic height="10705px" url="master/9145_0063.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0063_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0063_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="60" xml:id="surface-lehigh-codex-25-65">
+      <graphic height="10705px" url="master/9145_0064.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0064_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0064_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="61" xml:id="surface-lehigh-codex-25-66">
+      <graphic height="10705px" url="master/9145_0065.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0065_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0065_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="62" xml:id="surface-lehigh-codex-25-67">
+      <graphic height="10705px" url="master/9145_0066.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0066_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0066_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="63" xml:id="surface-lehigh-codex-25-68">
+      <graphic height="10705px" url="master/9145_0067.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0067_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0067_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="64" xml:id="surface-lehigh-codex-25-69">
+      <graphic height="10705px" url="master/9145_0068.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0068_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0068_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="65" xml:id="surface-lehigh-codex-25-70">
+      <graphic height="10705px" url="master/9145_0069.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0069_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0069_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="66" xml:id="surface-lehigh-codex-25-71">
+      <graphic height="10705px" url="master/9145_0070.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0070_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0070_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="67" xml:id="surface-lehigh-codex-25-72">
+      <graphic height="10705px" url="master/9145_0071.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0071_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0071_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="68" xml:id="surface-lehigh-codex-25-73">
+      <graphic height="10705px" url="master/9145_0072.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0072_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0072_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="69" xml:id="surface-lehigh-codex-25-74">
+      <graphic height="10705px" url="master/9145_0073.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0073_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0073_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="70" xml:id="surface-lehigh-codex-25-75">
+      <graphic height="10705px" url="master/9145_0074.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0074_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0074_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="71" xml:id="surface-lehigh-codex-25-76">
+      <graphic height="10705px" url="master/9145_0075.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0075_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0075_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="72" xml:id="surface-lehigh-codex-25-77">
+      <graphic height="10705px" url="master/9145_0076.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0076_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0076_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="73" xml:id="surface-lehigh-codex-25-78">
+      <graphic height="10705px" url="master/9145_0077.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0077_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0077_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="74" xml:id="surface-lehigh-codex-25-79">
+      <graphic height="10705px" url="master/9145_0078.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0078_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0078_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="75" xml:id="surface-lehigh-codex-25-80">
+      <graphic height="10705px" url="master/9145_0079.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0079_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0079_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="76" xml:id="surface-lehigh-codex-25-81">
+      <graphic height="10705px" url="master/9145_0080.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0080_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0080_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="77" xml:id="surface-lehigh-codex-25-82">
+      <graphic height="10705px" url="master/9145_0081.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0081_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0081_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="78" xml:id="surface-lehigh-codex-25-83">
+      <graphic height="10705px" url="master/9145_0082.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0082_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0082_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="79" xml:id="surface-lehigh-codex-25-84">
+      <graphic height="10705px" url="master/9145_0083.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0083_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0083_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="80" xml:id="surface-lehigh-codex-25-85">
+      <graphic height="10705px" url="master/9145_0084.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0084_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0084_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="81" xml:id="surface-lehigh-codex-25-86">
+      <graphic height="10705px" url="master/9145_0085.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0085_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0085_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="82" xml:id="surface-lehigh-codex-25-87">
+      <graphic height="10705px" url="master/9145_0086.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0086_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0086_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="83" xml:id="surface-lehigh-codex-25-88">
+      <graphic height="10705px" url="master/9145_0087.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0087_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0087_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="84" xml:id="surface-lehigh-codex-25-89">
+      <graphic height="10705px" url="master/9145_0088.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0088_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0088_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="85" xml:id="surface-lehigh-codex-25-90">
+      <graphic height="10705px" url="master/9145_0089.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0089_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0089_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="86" xml:id="surface-lehigh-codex-25-91">
+      <graphic height="10705px" url="master/9145_0090.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0090_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0090_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="87" xml:id="surface-lehigh-codex-25-92">
+      <graphic height="10705px" url="master/9145_0091.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0091_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0091_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="88" xml:id="surface-lehigh-codex-25-93">
+      <graphic height="10705px" url="master/9145_0092.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0092_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0092_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="89" xml:id="surface-lehigh-codex-25-94">
+      <graphic height="10705px" url="master/9145_0093.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0093_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0093_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="90" xml:id="surface-lehigh-codex-25-95">
+      <graphic height="10705px" url="master/9145_0094.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0094_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0094_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="91" xml:id="surface-lehigh-codex-25-96">
+      <graphic height="10705px" url="master/9145_0095.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0095_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0095_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="92" xml:id="surface-lehigh-codex-25-97">
+      <graphic height="10705px" url="master/9145_0096.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0096_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0096_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="93" xml:id="surface-lehigh-codex-25-98">
+      <graphic height="10705px" url="master/9145_0097.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0097_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0097_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="94" xml:id="surface-lehigh-codex-25-99">
+      <graphic height="10705px" url="master/9145_0098.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0098_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0098_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="95" xml:id="surface-lehigh-codex-25-100">
+      <graphic height="10705px" url="master/9145_0099.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0099_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0099_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="96" xml:id="surface-lehigh-codex-25-101">
+      <graphic height="10705px" url="master/9145_0100.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0100_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0100_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="97" xml:id="surface-lehigh-codex-25-102">
+      <graphic height="10705px" url="master/9145_0101.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0101_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0101_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="98" xml:id="surface-lehigh-codex-25-103">
+      <graphic height="10705px" url="master/9145_0102.tif" width="7959px"/>
+      <graphic height="190px" url="thumb/9145_0102_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0102_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="99" xml:id="surface-lehigh-codex-25-104">
+      <graphic height="10705px" url="master/9145_0103.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0103_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0103_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="100" xml:id="surface-lehigh-codex-25-105">
+      <graphic height="10705px" url="master/9145_0104.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0104_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0104_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="101" xml:id="surface-lehigh-codex-25-106">
+      <graphic height="10705px" url="master/9145_0105.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0105_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0105_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="102" xml:id="surface-lehigh-codex-25-107">
+      <graphic height="10705px" url="master/9145_0106.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0106_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0106_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="103" xml:id="surface-lehigh-codex-25-108">
+      <graphic height="10705px" url="master/9145_0107.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0107_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0107_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="104" xml:id="surface-lehigh-codex-25-109">
+      <graphic height="10705px" url="master/9145_0108.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0108_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0108_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="105" xml:id="surface-lehigh-codex-25-110">
+      <graphic height="10705px" url="master/9145_0109.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0109_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0109_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="106" xml:id="surface-lehigh-codex-25-111">
+      <graphic height="10705px" url="master/9145_0110.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0110_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0110_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="107" xml:id="surface-lehigh-codex-25-112">
+      <graphic height="10705px" url="master/9145_0111.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0111_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0111_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="108" xml:id="surface-lehigh-codex-25-113">
+      <graphic height="10705px" url="master/9145_0112.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0112_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0112_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="109" xml:id="surface-lehigh-codex-25-114">
+      <graphic height="10705px" url="master/9145_0113.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0113_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0113_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="110" xml:id="surface-lehigh-codex-25-115">
+      <graphic height="10705px" url="master/9145_0114.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0114_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0114_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="111" xml:id="surface-lehigh-codex-25-116">
+      <graphic height="10705px" url="master/9145_0115.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0115_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0115_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="112" xml:id="surface-lehigh-codex-25-117">
+      <graphic height="10705px" url="master/9145_0116.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0116_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0116_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="113" xml:id="surface-lehigh-codex-25-118">
+      <graphic height="10705px" url="master/9145_0117.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0117_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0117_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="114" xml:id="surface-lehigh-codex-25-119">
+      <graphic height="10705px" url="master/9145_0118.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0118_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0118_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="115" xml:id="surface-lehigh-codex-25-120">
+      <graphic height="10705px" url="master/9145_0119.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0119_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0119_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="116" xml:id="surface-lehigh-codex-25-121">
+      <graphic height="10705px" url="master/9145_0120.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0120_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0120_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="117" xml:id="surface-lehigh-codex-25-122">
+      <graphic height="10705px" url="master/9145_0121.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0121_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0121_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="118" xml:id="surface-lehigh-codex-25-123">
+      <graphic height="10705px" url="master/9145_0122.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0122_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0122_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="119" xml:id="surface-lehigh-codex-25-124">
+      <graphic height="10705px" url="master/9145_0123.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0123_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0123_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="120" xml:id="surface-lehigh-codex-25-125">
+      <graphic height="10705px" url="master/9145_0124.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0124_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0124_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="121" xml:id="surface-lehigh-codex-25-126">
+      <graphic height="10705px" url="master/9145_0125.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0125_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0125_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="122" xml:id="surface-lehigh-codex-25-127">
+      <graphic height="10705px" url="master/9145_0126.tif" width="7757px"/>
+      <graphic height="190px" url="thumb/9145_0126_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/9145_0126_web.jpg" width="1304px"/>
+    </surface>
+    <surface n="123" xml:id="surface-lehigh-codex-25-128">
+      <graphic height="10705px" url="master/9145_0127.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0127_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0127_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="124" xml:id="surface-lehigh-codex-25-129">
+      <graphic height="10705px" url="master/9145_0128.tif" width="7968px"/>
+      <graphic height="190px" url="thumb/9145_0128_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0128_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="125" xml:id="surface-lehigh-codex-25-130">
+      <graphic height="10705px" url="master/9145_0129.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0129_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0129_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="126" xml:id="surface-lehigh-codex-25-131">
+      <graphic height="10705px" url="master/9145_0130.tif" width="7968px"/>
+      <graphic height="190px" url="thumb/9145_0130_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/9145_0130_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="127" xml:id="surface-lehigh-codex-25-132">
+      <graphic height="10705px" url="master/9145_0131.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0131_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0131_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="128" xml:id="surface-lehigh-codex-25-133">
+      <graphic height="10705px" url="master/9145_0132.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0132_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0132_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="129" xml:id="surface-lehigh-codex-25-134">
+      <graphic height="10705px" url="master/9145_0133.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0133_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0133_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="130" xml:id="surface-lehigh-codex-25-135">
+      <graphic height="10705px" url="master/9145_0134.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0134_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0134_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="131" xml:id="surface-lehigh-codex-25-136">
+      <graphic height="10705px" url="master/9145_0135.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0135_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0135_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="132" xml:id="surface-lehigh-codex-25-137">
+      <graphic height="10705px" url="master/9145_0136.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0136_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0136_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="133" xml:id="surface-lehigh-codex-25-138">
+      <graphic height="10705px" url="master/9145_0137.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0137_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0137_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="134" xml:id="surface-lehigh-codex-25-139">
+      <graphic height="10705px" url="master/9145_0138.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0138_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0138_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="135" xml:id="surface-lehigh-codex-25-140">
+      <graphic height="10705px" url="master/9145_0139.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0139_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0139_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="136" xml:id="surface-lehigh-codex-25-141">
+      <graphic height="10705px" url="master/9145_0140.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0140_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0140_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="137" xml:id="surface-lehigh-codex-25-142">
+      <graphic height="10705px" url="master/9145_0141.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0141_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0141_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="138" xml:id="surface-lehigh-codex-25-143">
+      <graphic height="10705px" url="master/9145_0142.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0142_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0142_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="139" xml:id="surface-lehigh-codex-25-144">
+      <graphic height="10705px" url="master/9145_0143.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0143_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0143_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="140" xml:id="surface-lehigh-codex-25-145">
+      <graphic height="10705px" url="master/9145_0144.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0144_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0144_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="141" xml:id="surface-lehigh-codex-25-146">
+      <graphic height="10705px" url="master/9145_0145.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0145_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0145_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="142" xml:id="surface-lehigh-codex-25-147">
+      <graphic height="10705px" url="master/9145_0146.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0146_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0146_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="143" xml:id="surface-lehigh-codex-25-148">
+      <graphic height="10705px" url="master/9145_0147.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0147_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0147_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="144" xml:id="surface-lehigh-codex-25-149">
+      <graphic height="10705px" url="master/9145_0148.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0148_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0148_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="145" xml:id="surface-lehigh-codex-25-150">
+      <graphic height="10705px" url="master/9145_0149.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0149_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0149_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="146" xml:id="surface-lehigh-codex-25-151">
+      <graphic height="10705px" url="master/9145_0150.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0150_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0150_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="146 miniature" xml:id="surface-lehigh-codex-25-152">
+      <graphic height="11608px" url="master/9145_0151.tif" width="8708px"/>
+      <graphic height="190px" url="thumb/9145_0151_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/9145_0151_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="147" xml:id="surface-lehigh-codex-25-153">
+      <graphic height="10705px" url="master/9145_0152.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0152_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0152_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="148" xml:id="surface-lehigh-codex-25-154">
+      <graphic height="10705px" url="master/9145_0153.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0153_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0153_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="149" xml:id="surface-lehigh-codex-25-155">
+      <graphic height="10705px" url="master/9145_0154.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0154_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0154_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="150" xml:id="surface-lehigh-codex-25-156">
+      <graphic height="10705px" url="master/9145_0155.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0155_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0155_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="151" xml:id="surface-lehigh-codex-25-157">
+      <graphic height="10705px" url="master/9145_0156.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0156_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0156_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="152" xml:id="surface-lehigh-codex-25-158">
+      <graphic height="10705px" url="master/9145_0157.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0157_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0157_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="153" xml:id="surface-lehigh-codex-25-159">
+      <graphic height="10705px" url="master/9145_0158.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0158_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0158_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="154" xml:id="surface-lehigh-codex-25-160">
+      <graphic height="10705px" url="master/9145_0159.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0159_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0159_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="155" xml:id="surface-lehigh-codex-25-161">
+      <graphic height="10705px" url="master/9145_0160.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0160_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0160_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="156" xml:id="surface-lehigh-codex-25-162">
+      <graphic height="10705px" url="master/9145_0161.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0161_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0161_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="157" xml:id="surface-lehigh-codex-25-163">
+      <graphic height="10705px" url="master/9145_0162.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0162_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0162_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="158" xml:id="surface-lehigh-codex-25-164">
+      <graphic height="10705px" url="master/9145_0163.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0163_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0163_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="159" xml:id="surface-lehigh-codex-25-165">
+      <graphic height="10705px" url="master/9145_0164.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0164_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0164_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="160" xml:id="surface-lehigh-codex-25-166">
+      <graphic height="10705px" url="master/9145_0165.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0165_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0165_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="161" xml:id="surface-lehigh-codex-25-167">
+      <graphic height="10705px" url="master/9145_0166.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0166_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0166_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="162" xml:id="surface-lehigh-codex-25-168">
+      <graphic height="10705px" url="master/9145_0167.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0167_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0167_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="163" xml:id="surface-lehigh-codex-25-169">
+      <graphic height="10705px" url="master/9145_0168.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0168_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0168_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="164" xml:id="surface-lehigh-codex-25-170">
+      <graphic height="10705px" url="master/9145_0169.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0169_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0169_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="165" xml:id="surface-lehigh-codex-25-171">
+      <graphic height="10705px" url="master/9145_0170.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0170_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0170_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="166" xml:id="surface-lehigh-codex-25-172">
+      <graphic height="10705px" url="master/9145_0171.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0171_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0171_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="167" xml:id="surface-lehigh-codex-25-173">
+      <graphic height="10705px" url="master/9145_0172.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0172_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0172_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="168" xml:id="surface-lehigh-codex-25-174">
+      <graphic height="10705px" url="master/9145_0173.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0173_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0173_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="169" xml:id="surface-lehigh-codex-25-175">
+      <graphic height="10705px" url="master/9145_0174.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0174_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0174_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="170" xml:id="surface-lehigh-codex-25-176">
+      <graphic height="10705px" url="master/9145_0175.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0175_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0175_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="171" xml:id="surface-lehigh-codex-25-177">
+      <graphic height="10705px" url="master/9145_0176.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0176_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0176_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="172" xml:id="surface-lehigh-codex-25-178">
+      <graphic height="10705px" url="master/9145_0177.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0177_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0177_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="173" xml:id="surface-lehigh-codex-25-179">
+      <graphic height="10705px" url="master/9145_0178.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0178_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0178_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="174" xml:id="surface-lehigh-codex-25-180">
+      <graphic height="10705px" url="master/9145_0179.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0179_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0179_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="175" xml:id="surface-lehigh-codex-25-181">
+      <graphic height="10705px" url="master/9145_0180.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0180_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0180_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="176" xml:id="surface-lehigh-codex-25-182">
+      <graphic height="10705px" url="master/9145_0181.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0181_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0181_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="177" xml:id="surface-lehigh-codex-25-183">
+      <graphic height="10705px" url="master/9145_0182.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0182_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0182_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="178" xml:id="surface-lehigh-codex-25-184">
+      <graphic height="10705px" url="master/9145_0183.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0183_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0183_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="179" xml:id="surface-lehigh-codex-25-185">
+      <graphic height="10705px" url="master/9145_0184.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0184_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0184_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="180" xml:id="surface-lehigh-codex-25-186">
+      <graphic height="10705px" url="master/9145_0185.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0185_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0185_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="181" xml:id="surface-lehigh-codex-25-187">
+      <graphic height="10705px" url="master/9145_0186.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0186_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0186_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="182" xml:id="surface-lehigh-codex-25-188">
+      <graphic height="10705px" url="master/9145_0187.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0187_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0187_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="185" xml:id="surface-lehigh-codex-25-189">
+      <graphic height="10705px" url="master/9145_0188.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0188_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0188_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="186" xml:id="surface-lehigh-codex-25-190">
+      <graphic height="10705px" url="master/9145_0189.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0189_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0189_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="187" xml:id="surface-lehigh-codex-25-191">
+      <graphic height="10705px" url="master/9145_0190.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0190_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0190_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="188" xml:id="surface-lehigh-codex-25-192">
+      <graphic height="10705px" url="master/9145_0191.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0191_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0191_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="189" xml:id="surface-lehigh-codex-25-193">
+      <graphic height="10705px" url="master/9145_0192.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0192_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0192_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="190" xml:id="surface-lehigh-codex-25-194">
+      <graphic height="10705px" url="master/9145_0193.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0193_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0193_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="191" xml:id="surface-lehigh-codex-25-195">
+      <graphic height="10705px" url="master/9145_0194.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0194_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0194_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="192" xml:id="surface-lehigh-codex-25-196">
+      <graphic height="10705px" url="master/9145_0195.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0195_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0195_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="193" xml:id="surface-lehigh-codex-25-197">
+      <graphic height="10705px" url="master/9145_0196.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0196_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0196_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="194" xml:id="surface-lehigh-codex-25-198">
+      <graphic height="10705px" url="master/9145_0197.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0197_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0197_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="195" xml:id="surface-lehigh-codex-25-199">
+      <graphic height="10705px" url="master/9145_0198.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0198_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0198_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="196" xml:id="surface-lehigh-codex-25-200">
+      <graphic height="10705px" url="master/9145_0199.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0199_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0199_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="197" xml:id="surface-lehigh-codex-25-201">
+      <graphic height="10705px" url="master/9145_0200.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0200_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0200_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="198" xml:id="surface-lehigh-codex-25-202">
+      <graphic height="10705px" url="master/9145_0201.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0201_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0201_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="199" xml:id="surface-lehigh-codex-25-203">
+      <graphic height="10705px" url="master/9145_0202.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0202_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0202_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="200" xml:id="surface-lehigh-codex-25-204">
+      <graphic height="10705px" url="master/9145_0203.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0203_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0203_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="201" xml:id="surface-lehigh-codex-25-205">
+      <graphic height="10705px" url="master/9145_0204.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0204_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0204_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="202" xml:id="surface-lehigh-codex-25-206">
+      <graphic height="10705px" url="master/9145_0205.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0205_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0205_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="203" xml:id="surface-lehigh-codex-25-207">
+      <graphic height="10705px" url="master/9145_0206.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0206_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0206_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="204" xml:id="surface-lehigh-codex-25-208">
+      <graphic height="10705px" url="master/9145_0207.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0207_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0207_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="205" xml:id="surface-lehigh-codex-25-209">
+      <graphic height="10705px" url="master/9145_0208.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0208_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0208_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="206" xml:id="surface-lehigh-codex-25-210">
+      <graphic height="10705px" url="master/9145_0209.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0209_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0209_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="207" xml:id="surface-lehigh-codex-25-211">
+      <graphic height="10705px" url="master/9145_0210.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0210_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0210_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="208" xml:id="surface-lehigh-codex-25-212">
+      <graphic height="10705px" url="master/9145_0211.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0211_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0211_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="209" xml:id="surface-lehigh-codex-25-213">
+      <graphic height="10705px" url="master/9145_0212.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0212_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0212_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="210" xml:id="surface-lehigh-codex-25-214">
+      <graphic height="10705px" url="master/9145_0213.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0213_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0213_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="211" xml:id="surface-lehigh-codex-25-215">
+      <graphic height="10705px" url="master/9145_0214.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0214_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0214_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="212" xml:id="surface-lehigh-codex-25-216">
+      <graphic height="10705px" url="master/9145_0215.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0215_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0215_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="213" xml:id="surface-lehigh-codex-25-217">
+      <graphic height="10705px" url="master/9145_0216.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0216_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0216_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="214" xml:id="surface-lehigh-codex-25-218">
+      <graphic height="10705px" url="master/9145_0217.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0217_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0217_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="215" xml:id="surface-lehigh-codex-25-219">
+      <graphic height="10705px" url="master/9145_0218.tif" width="7824px"/>
+      <graphic height="190px" url="thumb/9145_0218_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0218_web.jpg" width="1316px"/>
+    </surface>
+    <surface n="216" xml:id="surface-lehigh-codex-25-220">
+      <graphic height="10705px" url="master/9145_0219.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0219_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0219_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="217" xml:id="surface-lehigh-codex-25-221">
+      <graphic height="10705px" url="master/9145_0220.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0220_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0220_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="218" xml:id="surface-lehigh-codex-25-222">
+      <graphic height="10705px" url="master/9145_0221.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0221_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0221_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="219" xml:id="surface-lehigh-codex-25-223">
+      <graphic height="10705px" url="master/9145_0222.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0222_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0222_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="220" xml:id="surface-lehigh-codex-25-224">
+      <graphic height="10705px" url="master/9145_0223.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0223_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0223_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="221" xml:id="surface-lehigh-codex-25-225">
+      <graphic height="10705px" url="master/9145_0224.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0224_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0224_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="222" xml:id="surface-lehigh-codex-25-226">
+      <graphic height="10705px" url="master/9145_0225.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0225_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0225_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="225" xml:id="surface-lehigh-codex-25-227">
+      <graphic height="10705px" url="master/9145_0226.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0226_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0226_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="226" xml:id="surface-lehigh-codex-25-228">
+      <graphic height="10705px" url="master/9145_0227.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0227_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0227_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="227" xml:id="surface-lehigh-codex-25-229">
+      <graphic height="10705px" url="master/9145_0228.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0228_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0228_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="228" xml:id="surface-lehigh-codex-25-230">
+      <graphic height="10705px" url="master/9145_0229.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0229_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0229_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="229" xml:id="surface-lehigh-codex-25-231">
+      <graphic height="10705px" url="master/9145_0230.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0230_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0230_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="230" xml:id="surface-lehigh-codex-25-232">
+      <graphic height="10705px" url="master/9145_0231.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0231_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0231_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="231" xml:id="surface-lehigh-codex-25-233">
+      <graphic height="10705px" url="master/9145_0232.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0232_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0232_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="232" xml:id="surface-lehigh-codex-25-234">
+      <graphic height="10705px" url="master/9145_0233.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0233_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0233_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="233" xml:id="surface-lehigh-codex-25-235">
+      <graphic height="10705px" url="master/9145_0234.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0234_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0234_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="234" xml:id="surface-lehigh-codex-25-236">
+      <graphic height="10705px" url="master/9145_0235.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0235_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0235_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="235" xml:id="surface-lehigh-codex-25-237">
+      <graphic height="10705px" url="master/9145_0236.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0236_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0236_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="236" xml:id="surface-lehigh-codex-25-238">
+      <graphic height="10705px" url="master/9145_0237.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0237_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0237_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="237" xml:id="surface-lehigh-codex-25-239">
+      <graphic height="10705px" url="master/9145_0238.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0238_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0238_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="238" xml:id="surface-lehigh-codex-25-240">
+      <graphic height="10705px" url="master/9145_0239.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0239_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0239_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="239" xml:id="surface-lehigh-codex-25-241">
+      <graphic height="10705px" url="master/9145_0240.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0240_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0240_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="240" xml:id="surface-lehigh-codex-25-242">
+      <graphic height="10705px" url="master/9145_0241.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0241_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0241_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="241" xml:id="surface-lehigh-codex-25-243">
+      <graphic height="10705px" url="master/9145_0242.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0242_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0242_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="242" xml:id="surface-lehigh-codex-25-244">
+      <graphic height="10705px" url="master/9145_0243.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0243_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0243_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="243" xml:id="surface-lehigh-codex-25-245">
+      <graphic height="10705px" url="master/9145_0244.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0244_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0244_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="244" xml:id="surface-lehigh-codex-25-246">
+      <graphic height="10705px" url="master/9145_0245.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0245_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0245_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="245" xml:id="surface-lehigh-codex-25-247">
+      <graphic height="10705px" url="master/9145_0246.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0246_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0246_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="246" xml:id="surface-lehigh-codex-25-248">
+      <graphic height="10705px" url="master/9145_0247.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0247_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0247_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="247" xml:id="surface-lehigh-codex-25-249">
+      <graphic height="10705px" url="master/9145_0248.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0248_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0248_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="248" xml:id="surface-lehigh-codex-25-250">
+      <graphic height="10705px" url="master/9145_0249.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0249_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0249_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="249" xml:id="surface-lehigh-codex-25-251">
+      <graphic height="10705px" url="master/9145_0250.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0250_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0250_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="250" xml:id="surface-lehigh-codex-25-252">
+      <graphic height="10705px" url="master/9145_0251.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0251_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0251_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="251" xml:id="surface-lehigh-codex-25-253">
+      <graphic height="10705px" url="master/9145_0252.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0252_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0252_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="252" xml:id="surface-lehigh-codex-25-254">
+      <graphic height="10705px" url="master/9145_0253.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0253_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0253_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="253" xml:id="surface-lehigh-codex-25-255">
+      <graphic height="10705px" url="master/9145_0254.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0254_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0254_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="254" xml:id="surface-lehigh-codex-25-256">
+      <graphic height="10705px" url="master/9145_0255.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0255_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0255_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="255" xml:id="surface-lehigh-codex-25-257">
+      <graphic height="10705px" url="master/9145_0256.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0256_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0256_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="256" xml:id="surface-lehigh-codex-25-258">
+      <graphic height="10705px" url="master/9145_0257.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0257_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0257_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="257" xml:id="surface-lehigh-codex-25-259">
+      <graphic height="10705px" url="master/9145_0258.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0258_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0258_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="257 miniature" xml:id="surface-lehigh-codex-25-260">
+      <graphic height="11608px" url="master/9145_0259.tif" width="8708px"/>
+      <graphic height="190px" url="thumb/9145_0259_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/9145_0259_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="258" xml:id="surface-lehigh-codex-25-261">
+      <graphic height="10705px" url="master/9145_0260.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0260_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0260_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="259" xml:id="surface-lehigh-codex-25-262">
+      <graphic height="10705px" url="master/9145_0261.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0261_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0261_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="260" xml:id="surface-lehigh-codex-25-263">
+      <graphic height="10705px" url="master/9145_0262.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0262_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0262_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="261" xml:id="surface-lehigh-codex-25-264">
+      <graphic height="10705px" url="master/9145_0263.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0263_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0263_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="262" xml:id="surface-lehigh-codex-25-265">
+      <graphic height="10705px" url="master/9145_0264.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0264_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0264_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="263" xml:id="surface-lehigh-codex-25-266">
+      <graphic height="10705px" url="master/9145_0265.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0265_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0265_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="264" xml:id="surface-lehigh-codex-25-267">
+      <graphic height="10705px" url="master/9145_0266.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0266_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0266_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="265" xml:id="surface-lehigh-codex-25-268">
+      <graphic height="10705px" url="master/9145_0267.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0267_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0267_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="266" xml:id="surface-lehigh-codex-25-269">
+      <graphic height="10705px" url="master/9145_0268.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0268_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0268_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="267" xml:id="surface-lehigh-codex-25-270">
+      <graphic height="10705px" url="master/9145_0269.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0269_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0269_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="268" xml:id="surface-lehigh-codex-25-271">
+      <graphic height="10705px" url="master/9145_0270.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0270_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0270_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="269" xml:id="surface-lehigh-codex-25-272">
+      <graphic height="10705px" url="master/9145_0271.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0271_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0271_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="270" xml:id="surface-lehigh-codex-25-273">
+      <graphic height="10705px" url="master/9145_0272.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0272_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0272_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="271" xml:id="surface-lehigh-codex-25-274">
+      <graphic height="10705px" url="master/9145_0273.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0273_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0273_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="272" xml:id="surface-lehigh-codex-25-275">
+      <graphic height="10705px" url="master/9145_0274.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0274_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0274_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="273" xml:id="surface-lehigh-codex-25-276">
+      <graphic height="10705px" url="master/9145_0275.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0275_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0275_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="274" xml:id="surface-lehigh-codex-25-277">
+      <graphic height="10705px" url="master/9145_0276.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0276_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0276_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="275" xml:id="surface-lehigh-codex-25-278">
+      <graphic height="10705px" url="master/9145_0277.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0277_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0277_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="276" xml:id="surface-lehigh-codex-25-279">
+      <graphic height="10705px" url="master/9145_0278.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0278_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0278_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="277" xml:id="surface-lehigh-codex-25-280">
+      <graphic height="10705px" url="master/9145_0279.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0279_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0279_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="278" xml:id="surface-lehigh-codex-25-281">
+      <graphic height="10705px" url="master/9145_0280.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0280_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0280_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="279" xml:id="surface-lehigh-codex-25-282">
+      <graphic height="10705px" url="master/9145_0281.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0281_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0281_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="280" xml:id="surface-lehigh-codex-25-283">
+      <graphic height="10705px" url="master/9145_0282.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0282_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0282_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="281" xml:id="surface-lehigh-codex-25-284">
+      <graphic height="10705px" url="master/9145_0283.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0283_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0283_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="282" xml:id="surface-lehigh-codex-25-285">
+      <graphic height="10705px" url="master/9145_0284.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0284_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0284_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="283" xml:id="surface-lehigh-codex-25-286">
+      <graphic height="10705px" url="master/9145_0285.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0285_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0285_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="284" xml:id="surface-lehigh-codex-25-287">
+      <graphic height="10705px" url="master/9145_0286.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0286_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0286_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="285" xml:id="surface-lehigh-codex-25-288">
+      <graphic height="10705px" url="master/9145_0287.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0287_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0287_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="286" xml:id="surface-lehigh-codex-25-289">
+      <graphic height="10705px" url="master/9145_0288.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0288_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0288_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="287" xml:id="surface-lehigh-codex-25-290">
+      <graphic height="10705px" url="master/9145_0289.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0289_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0289_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="288" xml:id="surface-lehigh-codex-25-291">
+      <graphic height="10705px" url="master/9145_0290.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0290_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0290_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="289" xml:id="surface-lehigh-codex-25-292">
+      <graphic height="10705px" url="master/9145_0291.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0291_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0291_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="290" xml:id="surface-lehigh-codex-25-293">
+      <graphic height="10705px" url="master/9145_0292.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0292_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0292_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="291" xml:id="surface-lehigh-codex-25-294">
+      <graphic height="10705px" url="master/9145_0293.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0293_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0293_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="292" xml:id="surface-lehigh-codex-25-295">
+      <graphic height="10705px" url="master/9145_0294.tif" width="8103px"/>
+      <graphic height="190px" url="thumb/9145_0294_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0294_web.jpg" width="1362px"/>
+    </surface>
+    <surface n="293" xml:id="surface-lehigh-codex-25-296">
+      <graphic height="10705px" url="master/9145_0295.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0295_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0295_web.jpg" width="1356px"/>
+    </surface>
+    <surface n="294" xml:id="surface-lehigh-codex-25-297">
+      <graphic height="10858px" url="master/9145_0296.tif" width="7948px"/>
+      <graphic height="190px" url="thumb/9145_0296_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0296_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-lehigh-codex-25-298">
+      <graphic height="11118px" url="master/9145_0297.tif" width="8352px"/>
+      <graphic height="190px" url="thumb/9145_0297_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/9145_0297_web.jpg" width="1352px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-lehigh-codex-25-299">
+      <graphic height="10897px" url="master/9145_0298.tif" width="7978px"/>
+      <graphic height="190px" url="thumb/9145_0298_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0298_web.jpg" width="1318px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-lehigh-codex-25-300">
+      <graphic height="10974px" url="master/9145_0299.tif" width="8064px"/>
+      <graphic height="190px" url="thumb/9145_0299_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/9145_0299_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-lehigh-codex-25-301">
+      <graphic height="11608px" url="master/9145_0300.tif" width="8708px"/>
+      <graphic height="190px" url="thumb/9145_0300_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/9145_0300_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-lehigh-codex-25-302">
+      <graphic height="10780px" url="master/9145_0301.tif" width="2395px"/>
+      <graphic height="190px" url="thumb/9145_0301_thumb.jpg" width="42px"/>
+      <graphic height="1800px" url="web/9145_0301_web.jpg" width="399px"/>
+    </surface>
+    <surface n="Fore edge" xml:id="surface-lehigh-codex-25-303">
+      <graphic height="10900px" url="master/9145_0302.tif" width="3347px"/>
+      <graphic height="190px" url="thumb/9145_0302_thumb.jpg" width="58px"/>
+      <graphic height="1800px" url="web/9145_0302_web.jpg" width="552px"/>
+    </surface>
+    <surface n="Top edge" xml:id="surface-lehigh-codex-25-304">
+      <graphic height="2492px" url="master/9145_0303.tif" width="7912px"/>
+      <graphic height="190px" url="thumb/9145_0303_thumb.jpg" width="59px"/>
+      <graphic height="1800px" url="web/9145_0303_web.jpg" width="567px"/>
+    </surface>
+    <surface n="Bottom edge" xml:id="surface-lehigh-codex-25-305">
+      <graphic height="2211px" url="master/9145_0304.tif" width="7910px"/>
+      <graphic height="190px" url="thumb/9145_0304_thumb.jpg" width="53px"/>
+      <graphic height="1800px" url="web/9145_0304_web.jpg" width="503px"/>
+    </surface>
+  </facsimile>
+</TEI>

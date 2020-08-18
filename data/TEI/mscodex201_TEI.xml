@@ -1,0 +1,3415 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 201: New Testament in the translation of John Wycliffe</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 201: New Testament in the translation of John Wycliffe are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Description taken from Josephine A. Koster's master's thesis on this manuscript (copy on file in the Library).</note>
+        <note>Marginal glosses in Old English and Latin on ff. 42v, 46v. and 212r.</note>
+        <note>The Middle English poem on f. 4r observes poetic lineation; T. Edward Ross erroneously concluded that it was "written in prose," possibly because of cropping that destroyed some line endings (A Catalogue of the T. Edward Ross Collection, pp. 27-28).</note>
+        <note>The traditional prologue to the Epistle of James has been transferred to the Epistles of Peter. Ross mistakenly concludes that this prologue "is not found in any of the manuscripts examined by Forshall and Madden" (A Catalogue of the T. Edward Ross Collection, p. 28).</note>
+        <note>The autograph of Gilbert, Bishop of Bath and Wells, appears on f. 1r. This office was held by two men named Gilbert: Gilbert Bourne, in office 1554-1560; and Gilbert Berkeley, in office 1560-1581.</note>
+        <note>Thirteenth folio before the end has been partly cut out; final four folios are badly torn with loss of text.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">Ms. Codex 201</idno>
+            <altIdentifier type="bibid">
+              <idno>9915517833503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/122691526</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1551783</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Also includes poems and other scriptural, liturgical and devotional works.</summary>
+            <textLang mainLang="enm" otherLangs="lat">Middle English; some works in Latin</textLang>
+            <msItem>
+              <title>New Testament in the translation of John Wycliffe</title>
+              <respStmt>
+                <resp>translator</resp>
+                <persName type="authority">Wycliffe, John, d. 1384</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Ross, T. Edward</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="i">
+              <locus>[i]</locus>
+              <title>Selections from a Wycliffite Floretum or Rosarium, p. [ii]</title>
+            </msItem>
+            <msItem n="i">
+              <locus>[i]</locus>
+              <title>Collection of authorities on priestly behavior, p. [ii]</title>
+            </msItem>
+            <msItem n="vii">
+              <locus>[vii]</locus>
+              <title>Moral poem, p. [vii]</title>
+            </msItem>
+            <msItem n="1">
+              <locus>1</locus>
+              <title>Gospel of Matthew, p. 1</title>
+            </msItem>
+            <msItem n="1 =55">
+              <locus>1 [=55]</locus>
+              <title>Prologue of Mark, p. 1 [=55]</title>
+            </msItem>
+            <msItem n="2 =56">
+              <locus>2 [=56]</locus>
+              <title>Second prologue and gospel of Mark, p. 2 [=56]</title>
+            </msItem>
+            <msItem n="36 =90">
+              <locus>36 [=90]</locus>
+              <title>Prologue to Luke, p. 36 [=90]</title>
+            </msItem>
+            <msItem n="1 =91">
+              <locus>1 [=91]</locus>
+              <title>Second prologue, p. 1 [=91]</title>
+            </msItem>
+            <msItem n="2 =92">
+              <locus>2 [=92]</locus>
+              <title>Gospel of Luke, p. 2 [=92]</title>
+            </msItem>
+            <msItem n="62 =152">
+              <locus>62 [=152]</locus>
+              <title>Prologue of John, p. 62 [=152]</title>
+            </msItem>
+            <msItem n="1 =153">
+              <locus>1 [=153]</locus>
+              <title>Gospel of John, p. 1 [=153]</title>
+            </msItem>
+            <msItem n="47 =199">
+              <locus>47 [=199]</locus>
+              <title>Prologue of epistle to the Romans, p. 47 [=199]</title>
+            </msItem>
+            <msItem n="5 =203">
+              <locus>5 [=203]</locus>
+              <title>Epistle to the Romans, p. 5 [=203]</title>
+            </msItem>
+            <msItem n="29 =227">
+              <locus>29 [=227]</locus>
+              <title>Prologue and epistle to the Corinthians, p. 29 [=227]</title>
+            </msItem>
+            <msItem n="25 =251">
+              <locus>25 [=251]</locus>
+              <title>Prologue and second epistle to the Corinthians, p. 25 [=251]</title>
+            </msItem>
+            <msItem n="1 =267">
+              <locus>1 [=267]</locus>
+              <title>Prologue and epistle to the Galatians, p. 1 [=267]</title>
+            </msItem>
+            <msItem n="1 =275">
+              <locus>1 [=275]</locus>
+              <title>Prologue and epistle to the Ephesians, p. 1 [=275]</title>
+            </msItem>
+            <msItem n="8 =282">
+              <locus>8 [=282]</locus>
+              <title>Prologue of the epistle to the Philippians, p. 8 [=282]</title>
+            </msItem>
+            <msItem n="1 =283">
+              <locus>1 [=283]</locus>
+              <title>Epistle to the Philippians, p. 1 [=283]</title>
+            </msItem>
+            <msItem n="1 =288">
+              <locus>1 [=288]</locus>
+              <title>Prologue and epistle to the Colossians, p. 1 [=288]</title>
+            </msItem>
+            <msItem n="1 =293">
+              <locus>1 [=293]</locus>
+              <title>Prologue and epistle to the Thessalonians, p. 1 [=293]</title>
+            </msItem>
+            <msItem n="6 =298">
+              <locus>6 [=298]</locus>
+              <title>Prologue and second epistle to the Thessalonians, p. 6 [=298]</title>
+            </msItem>
+            <msItem n="1 =301">
+              <locus>1 [=301]</locus>
+              <title>Prologue and epistle to Timothy, p. 1 [=301]</title>
+            </msItem>
+            <msItem n="7 =307">
+              <locus>7 [=307]</locus>
+              <title>Prologue and second epistle to Timothy, p. 7 [=307]</title>
+            </msItem>
+            <msItem n="1 =312">
+              <locus>1 [=312]</locus>
+              <title>Prologue and epistle to Titus, p. 1 [=312]</title>
+            </msItem>
+            <msItem n="1 =314">
+              <locus>1 [=314]</locus>
+              <title>Prologue and epistle to Philemon, p. 1 [=314]</title>
+            </msItem>
+            <msItem n="2 =315">
+              <locus>2 [=315]</locus>
+              <title>Prologue to the epistle to Hebrews, p. 2 [=315]</title>
+            </msItem>
+            <msItem n="1 =316">
+              <locus>1 [=316]</locus>
+              <title>Epistle to the Hebrews, p. 1 [=316]</title>
+            </msItem>
+            <msItem n="1 =333">
+              <locus>1 [=333]</locus>
+              <title>Prologue and deeds of the Apostles, p. 1 [=333]</title>
+            </msItem>
+            <msItem n="58 =390">
+              <locus>58 [=390]</locus>
+              <title>Epistle of James, p. 58 [=390]</title>
+            </msItem>
+            <msItem n="1 =396">
+              <locus>1 [=396]</locus>
+              <title>Prologue of epistle to Peter, p. 1 [=396]</title>
+            </msItem>
+            <msItem n="2 =397">
+              <locus>2 [=397]</locus>
+              <title>First epistle to Peter, p. 2 [=397]</title>
+            </msItem>
+            <msItem n="8 =403">
+              <locus>8 [=403]</locus>
+              <title>Second epistle to Peter, p. 8 [=403]</title>
+            </msItem>
+            <msItem n="1 =407">
+              <locus>1 [=407]</locus>
+              <title>First epistle to John, p. 1 [=407]</title>
+            </msItem>
+            <msItem n="7 =413">
+              <locus>7 [=413]</locus>
+              <title>Second and third epistles to John, p. 7 [=413]</title>
+            </msItem>
+            <msItem n="1 =414">
+              <locus>1 [=414]</locus>
+              <title>Epistle to Jude, p. 1 [=414]</title>
+            </msItem>
+            <msItem n="1 =416">
+              <locus>1 [=416]</locus>
+              <title>Prologue and book of revelations, p. 1 [=416]</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>239 leaves : 185 x 113 (146 x 85) mm. bound to 193 x 120 mm</extent>
+                <foliation>Parchment, i (near contemporary parchment) + 239 + i (near contemporary parchment) leaves; [i-viii], 1-54, [55-470]. Individual books of the New Testament paginated independently in a later hand.</foliation>
+                <collation>
+                  <p>I², II-XXVIII⁴, XXIX⁴ (-1), XXX⁵, XXXI¹.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in two columns of 37 lines; frame-ruled in ink.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>The text of the New Testament is written in a single hand. Many of the other portions are written in different hands, all varieties of Anglicana script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Extensive use of red for headings and filigree; blue for initials.</decoNote>
+              <decoNote n="i">Owner note, p. [i]</decoNote>
+              <decoNote n="18 =72">Manicule, p. 18 [=72]</decoNote>
+              <decoNote n="29 =119">Manicule, p. 29 [=119]</decoNote>
+              <decoNote n="59 =149">Manicule, p. 59 [=149]</decoNote>
+              <decoNote n="5 =231">Manicule, p. 5 [=231]</decoNote>
+              <decoNote n="11 =237">Manicule, p. 11 [=237]</decoNote>
+              <decoNote n="14 =240">Manicules, p. 14 [=240]</decoNote>
+              <decoNote n="15 =241">Manicules, p. 15 [=241]</decoNote>
+              <decoNote n="10 =310">Manicule, p. 10 [=310]</decoNote>
+              <decoNote n="4 =394">Manicule, p. 4 [=394]</decoNote>
+              <decoNote n="5 =395">Manicule, p. 5 [=395]</decoNote>
+              <decoNote n="4 =399">Manicule, p. 4 [=399]</decoNote>
+              <decoNote n="7 =402">Manicule, p. 7 [=402]</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>16th-century calf, with a gilded design.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in England; late 14th to early 15th century.</p>
+              <origDate>late 14th to early 15th century</origDate>
+              <origPlace>England</origPlace>
+            </origin>
+            <provenance>Gilbert, Bishop of Bath and Wells (autograph, f. 1r).</provenance>
+            <provenance>Gift of T. Edward Ross, 1947 (bookplate, inside upper  cover).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="keywords">
+          <category xml:id="keyword_1">
+            <catDesc>Book Type</catDesc>
+            <category xml:id="keyword_1.2">
+              <catDesc>Accounts</catDesc>
+            </category>
+            <category xml:id="keyword_1.3">
+              <catDesc>Antiphonary</catDesc>
+            </category>
+            <category xml:id="keyword_1.4">
+              <catDesc>Armorial</catDesc>
+            </category>
+            <category xml:id="keyword_1.5">
+              <catDesc>Bible</catDesc>
+            </category>
+            <category xml:id="keyword_1.6">
+              <catDesc>Biography</catDesc>
+            </category>
+            <category xml:id="keyword_1.7">
+              <catDesc>Book of Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.8">
+              <catDesc>Breviary</catDesc>
+            </category>
+            <category xml:id="keyword_1.9">
+              <catDesc>Chronicle</catDesc>
+            </category>
+            <category xml:id="keyword_1.10">
+              <catDesc>Collection of Sermons</catDesc>
+            </category>
+            <category xml:id="keyword_1.11">
+              <catDesc>Commentary</catDesc>
+            </category>
+            <category xml:id="keyword_1.12">
+              <catDesc>Dictionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.13">
+              <catDesc>Document</catDesc>
+            </category>
+            <category xml:id="keyword_1.14">
+              <catDesc>Dogale</catDesc>
+            </category>
+            <category xml:id="keyword_1.15">
+              <catDesc>Friendship book</catDesc>
+            </category>
+            <category xml:id="keyword_1.16">
+              <catDesc>Genealogy</catDesc>
+            </category>
+            <category xml:id="keyword_1.17">
+              <catDesc>Glossary</catDesc>
+            </category>
+            <category xml:id="keyword_1.18">
+              <catDesc>Gospel Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.19">
+              <catDesc>Gospels</catDesc>
+            </category>
+            <category xml:id="keyword_1.20">
+              <catDesc>Gradual</catDesc>
+            </category>
+            <category xml:id="keyword_1.22">
+              <catDesc>Haggadah</catDesc>
+            </category>
+            <category xml:id="keyword_1.23">
+              <catDesc>Homilary</catDesc>
+            </category>
+            <category xml:id="keyword_1.24">
+              <catDesc>Horologion</catDesc>
+            </category>
+            <category xml:id="keyword_1.25">
+              <catDesc>Hymnal</catDesc>
+            </category>
+            <category xml:id="keyword_1.26">
+              <catDesc>Koran</catDesc>
+            </category>
+            <category xml:id="keyword_1.27">
+              <catDesc>Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.28">
+              <catDesc>Mass book</catDesc>
+            </category>
+            <category xml:id="keyword_1.29">
+              <catDesc>Miscellany</catDesc>
+            </category>
+            <category xml:id="keyword_1.30">
+              <catDesc>Missal</catDesc>
+            </category>
+            <category xml:id="keyword_1.31">
+              <catDesc>Pontifical</catDesc>
+            </category>
+            <category xml:id="keyword_1.32">
+              <catDesc>Portolan chart</catDesc>
+            </category>
+            <category xml:id="keyword_1.33">
+              <catDesc>Prayer book</catDesc>
+            </category>
+            <category xml:id="keyword_1.34">
+              <catDesc>Private devotional text</catDesc>
+            </category>
+            <category xml:id="keyword_1.35">
+              <catDesc>Processional</catDesc>
+            </category>
+            <category xml:id="keyword_1.36">
+              <catDesc>Protective scroll</catDesc>
+            </category>
+            <category xml:id="keyword_1.37">
+              <catDesc>Psalter</catDesc>
+            </category>
+            <category xml:id="keyword_1.38">
+              <catDesc>Psalter-Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.39">
+              <catDesc>Qur`an</catDesc>
+            </category>
+            <category xml:id="keyword_1.40">
+              <catDesc>Recipe book</catDesc>
+            </category>
+            <category xml:id="keyword_1.41">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.42">
+              <catDesc>Scribal manual</catDesc>
+            </category>
+            <category xml:id="keyword_1.43">
+              <catDesc>Song book</catDesc>
+            </category>
+            <category xml:id="keyword_1.44">
+              <catDesc>Torah</catDesc>
+            </category>
+            <category xml:id="keyword_1.45">
+              <catDesc>Treatise</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_2">
+            <catDesc>Century</catDesc>
+            <category xml:id="keyword_2.2">
+              <catDesc>6th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.3">
+              <catDesc>7th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.4">
+              <catDesc>8th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.5">
+              <catDesc>9th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.6">
+              <catDesc>10th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.7">
+              <catDesc>11th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.8">
+              <catDesc>12th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.9">
+              <catDesc>13th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.10">
+              <catDesc>14th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.11">
+              <catDesc>15th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.12">
+              <catDesc>16th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.13">
+              <catDesc>17th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.14">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.15">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.16">
+              <catDesc>20th century</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_3">
+            <catDesc>Culture</catDesc>
+            <category xml:id="keyword_3.2">
+              <catDesc>Abbasid</catDesc>
+            </category>
+            <category xml:id="keyword_3.3">
+              <catDesc>Arabic</catDesc>
+            </category>
+            <category xml:id="keyword_3.4">
+              <catDesc>Armenian</catDesc>
+            </category>
+            <category xml:id="keyword_3.5">
+              <catDesc>Ashkenazi</catDesc>
+            </category>
+            <category xml:id="keyword_3.6">
+              <catDesc>Austrian</catDesc>
+            </category>
+            <category xml:id="keyword_3.7">
+              <catDesc>Byzantine</catDesc>
+            </category>
+            <category xml:id="keyword_3.8">
+              <catDesc>Carolingian</catDesc>
+            </category>
+            <category xml:id="keyword_3.9">
+              <catDesc>Chinese</catDesc>
+            </category>
+            <category xml:id="keyword_3.10">
+              <catDesc>Christian</catDesc>
+            </category>
+            <category xml:id="keyword_3.11">
+              <catDesc>Coptic</catDesc>
+            </category>
+            <category xml:id="keyword_3.12">
+              <catDesc>Dutch</catDesc>
+            </category>
+            <category xml:id="keyword_3.13">
+              <catDesc>Egyptian</catDesc>
+            </category>
+            <category xml:id="keyword_3.14">
+              <catDesc>English</catDesc>
+            </category>
+            <category xml:id="keyword_3.15">
+              <catDesc>Ethiopian</catDesc>
+            </category>
+            <category xml:id="keyword_3.16">
+              <catDesc>Fatimid</catDesc>
+            </category>
+            <category xml:id="keyword_3.17">
+              <catDesc>Flemish</catDesc>
+            </category>
+            <category xml:id="keyword_3.18">
+              <catDesc>French</catDesc>
+            </category>
+            <category xml:id="keyword_3.19">
+              <catDesc>German</catDesc>
+            </category>
+            <category xml:id="keyword_3.20">
+              <catDesc>Indian</catDesc>
+            </category>
+            <category xml:id="keyword_3.21">
+              <catDesc>Islamic</catDesc>
+            </category>
+            <category xml:id="keyword_3.22">
+              <catDesc>Italian</catDesc>
+            </category>
+            <category xml:id="keyword_3.23">
+              <catDesc>Jewish</catDesc>
+            </category>
+            <category xml:id="keyword_3.25">
+              <catDesc>Mamluk</catDesc>
+            </category>
+            <category xml:id="keyword_3.26">
+              <catDesc>Mughal</catDesc>
+            </category>
+            <category xml:id="keyword_3.27">
+              <catDesc>Ottoman</catDesc>
+            </category>
+            <category xml:id="keyword_3.28">
+              <catDesc>Ottonian</catDesc>
+            </category>
+            <category xml:id="keyword_3.29">
+              <catDesc>Persian</catDesc>
+            </category>
+            <category xml:id="keyword_3.30">
+              <catDesc>Portuguese</catDesc>
+            </category>
+            <category xml:id="keyword_3.31">
+              <catDesc>Qajar</catDesc>
+            </category>
+            <category xml:id="keyword_3.32">
+              <catDesc>Rajput</catDesc>
+            </category>
+            <category xml:id="keyword_3.33">
+              <catDesc>Russian</catDesc>
+            </category>
+            <category xml:id="keyword_3.34">
+              <catDesc>Safavid</catDesc>
+            </category>
+            <category xml:id="keyword_3.35">
+              <catDesc>Sephardi</catDesc>
+            </category>
+            <category xml:id="keyword_3.36">
+              <catDesc>Spanish</catDesc>
+            </category>
+            <category xml:id="keyword_3.37">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.38">
+              <catDesc>Turkish</catDesc>
+            </category>
+            <category xml:id="keyword_3.39">
+              <catDesc>Yemenite</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_4">
+            <catDesc>Descriptive term</catDesc>
+            <category xml:id="keyword_4.2">
+              <catDesc>Accordion book</catDesc>
+            </category>
+            <category xml:id="keyword_4.3">
+              <catDesc>Album</catDesc>
+            </category>
+            <category xml:id="keyword_4.4">
+              <catDesc>Annotated</catDesc>
+            </category>
+            <category xml:id="keyword_4.5">
+              <catDesc>Binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.6">
+              <catDesc>Calligraphy</catDesc>
+            </category>
+            <category xml:id="keyword_4.7">
+              <catDesc>Caroline minuscule</catDesc>
+            </category>
+            <category xml:id="keyword_4.8">
+              <catDesc>Chart</catDesc>
+            </category>
+            <category xml:id="keyword_4.9">
+              <catDesc>Charter</catDesc>
+            </category>
+            <category xml:id="keyword_4.10">
+              <catDesc>Colophon</catDesc>
+            </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Damage</catDesc>
+            </category>
+            <category xml:id="keyword_4.12">
+              <catDesc>Diagrams</catDesc>
+            </category>
+            <category xml:id="keyword_4.13">
+              <catDesc>Drawing</catDesc>
+            </category>
+            <category xml:id="keyword_4.14">
+              <catDesc>Early Abbasid script</catDesc>
+            </category>
+            <category xml:id="keyword_4.15">
+              <catDesc>Fragment</catDesc>
+            </category>
+            <category xml:id="keyword_4.16">
+              <catDesc>Gloss</catDesc>
+            </category>
+            <category xml:id="keyword_4.17">
+              <catDesc>Gothic</catDesc>
+            </category>
+            <category xml:id="keyword_4.18">
+              <catDesc>Gothic book hand</catDesc>
+            </category>
+            <category xml:id="keyword_4.19">
+              <catDesc>Grisaille</catDesc>
+            </category>
+            <category xml:id="keyword_4.20">
+              <catDesc>Grotesques</catDesc>
+            </category>
+            <category xml:id="keyword_4.21">
+              <catDesc>Headpiece</catDesc>
+            </category>
+            <category xml:id="keyword_4.22">
+              <catDesc>Heraldry</catDesc>
+            </category>
+            <category xml:id="keyword_4.23">
+              <catDesc>Historiated initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.24">
+              <catDesc>Humanistic</catDesc>
+            </category>
+            <category xml:id="keyword_4.25">
+              <catDesc>Illumination</catDesc>
+            </category>
+            <category xml:id="keyword_4.26">
+              <catDesc>Illustration</catDesc>
+            </category>
+            <category xml:id="keyword_4.27">
+              <catDesc>Inhabited initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.28">
+              <catDesc>Kufic</catDesc>
+            </category>
+            <category xml:id="keyword_4.29">
+              <catDesc>Manicules</catDesc>
+            </category>
+            <category xml:id="keyword_4.30">
+              <catDesc>Medallion</catDesc>
+            </category>
+            <category xml:id="keyword_4.31">
+              <catDesc>Micrography</catDesc>
+            </category>
+            <category xml:id="keyword_4.32">
+              <catDesc>Miniature</catDesc>
+            </category>
+            <category xml:id="keyword_4.33">
+              <catDesc>Missing leaves</catDesc>
+            </category>
+            <category xml:id="keyword_4.34">
+              <catDesc>Musical notation</catDesc>
+            </category>
+            <category xml:id="keyword_4.35">
+              <catDesc>New Abbasid style</catDesc>
+            </category>
+            <category xml:id="keyword_4.36">
+              <catDesc>Notable binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.37">
+              <catDesc>Original binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.38">
+              <catDesc>Ornament</catDesc>
+            </category>
+            <category xml:id="keyword_4.39">
+              <catDesc>Painting</catDesc>
+            </category>
+            <category xml:id="keyword_4.40">
+              <catDesc>Palimpsest</catDesc>
+            </category>
+            <category xml:id="keyword_4.41">
+              <catDesc>Paper</catDesc>
+            </category>
+            <category xml:id="keyword_4.42">
+              <catDesc>Penwork initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.43">
+              <catDesc>Puzzle initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.44">
+              <catDesc>Ragini</catDesc>
+            </category>
+            <category xml:id="keyword_4.45">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.46">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.47">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.48">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.49">
+              <catDesc>Seals</catDesc>
+            </category>
+            <category xml:id="keyword_4.50">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_4.51">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.52">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.53">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.54">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.55">
+              <catDesc>Woodcuts</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_5">
+            <catDesc>Geography</catDesc>
+            <category xml:id="keyword_5.2">
+              <catDesc>Afghanistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.3">
+              <catDesc>Armenia</catDesc>
+            </category>
+            <category xml:id="keyword_5.4">
+              <catDesc>Austria</catDesc>
+            </category>
+            <category xml:id="keyword_5.5">
+              <catDesc>Belgium</catDesc>
+            </category>
+            <category xml:id="keyword_5.6">
+              <catDesc>Central Arab lands (Near East)</catDesc>
+            </category>
+            <category xml:id="keyword_5.7">
+              <catDesc>Central Asia</catDesc>
+            </category>
+            <category xml:id="keyword_5.8">
+              <catDesc>China</catDesc>
+            </category>
+            <category xml:id="keyword_5.9">
+              <catDesc>Egypt</catDesc>
+            </category>
+            <category xml:id="keyword_5.10">
+              <catDesc>England</catDesc>
+            </category>
+            <category xml:id="keyword_5.11">
+              <catDesc>Ethiopia</catDesc>
+            </category>
+            <category xml:id="keyword_5.12">
+              <catDesc>Flanders</catDesc>
+            </category>
+            <category xml:id="keyword_5.13">
+              <catDesc>France</catDesc>
+            </category>
+            <category xml:id="keyword_5.14">
+              <catDesc>Germany</catDesc>
+            </category>
+            <category xml:id="keyword_5.15">
+              <catDesc>Greece</catDesc>
+            </category>
+            <category xml:id="keyword_5.16">
+              <catDesc>India</catDesc>
+            </category>
+            <category xml:id="keyword_5.17">
+              <catDesc>Iran</catDesc>
+            </category>
+            <category xml:id="keyword_5.18">
+              <catDesc>Iraq</catDesc>
+            </category>
+            <category xml:id="keyword_5.19">
+              <catDesc>Israel</catDesc>
+            </category>
+            <category xml:id="keyword_5.20">
+              <catDesc>Italy</catDesc>
+            </category>
+            <category xml:id="keyword_5.21">
+              <catDesc>Maghreb</catDesc>
+            </category>
+            <category xml:id="keyword_5.22">
+              <catDesc>Morocco</catDesc>
+            </category>
+            <category xml:id="keyword_5.23">
+              <catDesc>Netherlands</catDesc>
+            </category>
+            <category xml:id="keyword_5.24">
+              <catDesc>Pakistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.25">
+              <catDesc>Portugal</catDesc>
+            </category>
+            <category xml:id="keyword_5.26">
+              <catDesc>Romania</catDesc>
+            </category>
+            <category xml:id="keyword_5.27">
+              <catDesc>Russia</catDesc>
+            </category>
+            <category xml:id="keyword_5.28">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.29">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.30">
+              <catDesc>Turkey</catDesc>
+            </category>
+            <category xml:id="keyword_5.31">
+              <catDesc>Wales</catDesc>
+            </category>
+            <category xml:id="keyword_5.32">
+              <catDesc>Yemen</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_6">
+            <catDesc>Other</catDesc>
+            <category xml:id="keyword_6.2">
+              <catDesc>Alchemy</catDesc>
+            </category>
+            <category xml:id="keyword_6.3">
+              <catDesc>Allegory</catDesc>
+            </category>
+            <category xml:id="keyword_6.4">
+              <catDesc>Astrology</catDesc>
+            </category>
+            <category xml:id="keyword_6.5">
+              <catDesc>Astronomy</catDesc>
+            </category>
+            <category xml:id="keyword_6.6">
+              <catDesc>Biblical</catDesc>
+            </category>
+            <category xml:id="keyword_6.7">
+              <catDesc>Binding waste</catDesc>
+            </category>
+            <category xml:id="keyword_6.8">
+              <catDesc>Cartography</catDesc>
+            </category>
+            <category xml:id="keyword_6.9">
+              <catDesc>Church Fathers</catDesc>
+            </category>
+            <category xml:id="keyword_6.10">
+              <catDesc>Cosmology</catDesc>
+            </category>
+            <category xml:id="keyword_6.11">
+              <catDesc>Devotion</catDesc>
+            </category>
+            <category xml:id="keyword_6.12">
+              <catDesc>Financial records</catDesc>
+            </category>
+            <category xml:id="keyword_6.13">
+              <catDesc>Fortune-telling</catDesc>
+            </category>
+            <category xml:id="keyword_6.14">
+              <catDesc>Friendship</catDesc>
+            </category>
+            <category xml:id="keyword_6.15">
+              <catDesc>Games</catDesc>
+            </category>
+            <category xml:id="keyword_6.16">
+              <catDesc>Geography</catDesc>
+            </category>
+            <category xml:id="keyword_6.17">
+              <catDesc>Geomancy</catDesc>
+            </category>
+            <category xml:id="keyword_6.18">
+              <catDesc>Grammar</catDesc>
+            </category>
+            <category xml:id="keyword_6.19">
+              <catDesc>History</catDesc>
+            </category>
+            <category xml:id="keyword_6.20">
+              <catDesc>Kabbalah</catDesc>
+            </category>
+            <category xml:id="keyword_6.21">
+              <catDesc>Legal</catDesc>
+            </category>
+            <category xml:id="keyword_6.22">
+              <catDesc>Literature -- Poetry</catDesc>
+            </category>
+            <category xml:id="keyword_6.23">
+              <catDesc>Literature -- Prose</catDesc>
+            </category>
+            <category xml:id="keyword_6.24">
+              <catDesc>Liturgy</catDesc>
+            </category>
+            <category xml:id="keyword_6.25">
+              <catDesc>Logic</catDesc>
+            </category>
+            <category xml:id="keyword_6.26">
+              <catDesc>Magic</catDesc>
+            </category>
+            <category xml:id="keyword_6.27">
+              <catDesc>Maritime</catDesc>
+            </category>
+            <category xml:id="keyword_6.28">
+              <catDesc>Mathematics</catDesc>
+            </category>
+            <category xml:id="keyword_6.29">
+              <catDesc>Mineralogy</catDesc>
+            </category>
+            <category xml:id="keyword_6.30">
+              <catDesc>Philosophy</catDesc>
+            </category>
+            <category xml:id="keyword_6.31">
+              <catDesc>Piyutim</catDesc>
+            </category>
+            <category xml:id="keyword_6.32">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.33">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.34">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.35">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.36">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.37">
+              <catDesc>Theology</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_7">
+            <catDesc/>
+            <category xml:id="keyword_7.1">
+              <catDesc> </catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Discipline</term>
+          <term>Catholic Church--Liturgy</term>
+          <term>Christian poetry, English (Middle)</term>
+          <term>Devotional literature, English (Middle)</term>
+          <term>English literature--Middle English, 1100-1500</term>
+          <term>English poetry--Middle English, 1100-1500</term>
+          <term>Lollards</term>
+          <term>Religious poetry, English</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Manuscripts, English (Middle)--14th century</term>
+          <term>Manuscripts, English (Middle)--15th century</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+        <keywords n="keywords">
+          <term>14th century</term>
+          <term>15th century</term>
+          <term>Literature -- Poetry</term>
+          <term>Private devotional text</term>
+          <term>Christian</term>
+          <term>English</term>
+          <term>England</term>
+          <term>Bible</term>
+          <term>Biblical</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-ms-codex-201-1">
+      <graphic height="4857px" url="master/3760_0000.tif" width="3508px"/>
+      <graphic height="190px" url="thumb/3760_0000_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/3760_0000_web.jpg" width="1300px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-ms-codex-201-2">
+      <graphic height="4742px" url="master/3760_0001.tif" width="3477px"/>
+      <graphic height="190px" url="thumb/3760_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/3760_0001_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ms-codex-201-3">
+      <graphic height="4776px" url="master/3760_0002.tif" width="3162px"/>
+      <graphic height="190px" url="thumb/3760_0002_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/3760_0002_web.jpg" width="1192px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ms-codex-201-4">
+      <graphic height="4864px" url="master/3760_0003.tif" width="3236px"/>
+      <graphic height="190px" url="thumb/3760_0003_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/3760_0003_web.jpg" width="1197px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto" xml:id="surface-ms-codex-201-5">
+      <graphic height="4742px" url="master/3760_0004.tif" width="3488px"/>
+      <graphic height="190px" url="thumb/3760_0004_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/3760_0004_web.jpg" width="1324px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso" xml:id="surface-ms-codex-201-6">
+      <graphic height="4742px" url="master/3760_0005.tif" width="3477px"/>
+      <graphic height="190px" url="thumb/3760_0005_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/3760_0005_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="i" xml:id="surface-ms-codex-201-7">
+      <graphic height="4742px" url="master/3760_0006.tif" width="3488px"/>
+      <graphic height="190px" url="thumb/3760_0006_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/3760_0006_web.jpg" width="1324px"/>
+    </surface>
+    <surface n="ii" xml:id="surface-ms-codex-201-8">
+      <graphic height="4742px" url="master/3760_0007.tif" width="3477px"/>
+      <graphic height="190px" url="thumb/3760_0007_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/3760_0007_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="iii" xml:id="surface-ms-codex-201-9">
+      <graphic height="4742px" url="master/3760_0008.tif" width="3488px"/>
+      <graphic height="190px" url="thumb/3760_0008_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/3760_0008_web.jpg" width="1324px"/>
+    </surface>
+    <surface n="iv" xml:id="surface-ms-codex-201-10">
+      <graphic height="4742px" url="master/3760_0009.tif" width="3477px"/>
+      <graphic height="190px" url="thumb/3760_0009_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/3760_0009_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="v" xml:id="surface-ms-codex-201-11">
+      <graphic height="4776px" url="master/3760_0010.tif" width="3162px"/>
+      <graphic height="190px" url="thumb/3760_0010_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/3760_0010_web.jpg" width="1192px"/>
+    </surface>
+    <surface n="vi" xml:id="surface-ms-codex-201-12">
+      <graphic height="4742px" url="master/3760_0011.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0011_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0011_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="vii" xml:id="surface-ms-codex-201-13">
+      <graphic height="4742px" url="master/3760_0012.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0012_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0012_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="viii" xml:id="surface-ms-codex-201-14">
+      <graphic height="4742px" url="master/3760_0013.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0013_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0013_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1" xml:id="surface-ms-codex-201-15">
+      <graphic height="4742px" url="master/3760_0014.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0014_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0014_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2" xml:id="surface-ms-codex-201-16">
+      <graphic height="4742px" url="master/3760_0015.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0015_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0015_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3" xml:id="surface-ms-codex-201-17">
+      <graphic height="4742px" url="master/3760_0016.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0016_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0016_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4" xml:id="surface-ms-codex-201-18">
+      <graphic height="4742px" url="master/3760_0017.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0017_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0017_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5" xml:id="surface-ms-codex-201-19">
+      <graphic height="4742px" url="master/3760_0018.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0018_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0018_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6" xml:id="surface-ms-codex-201-20">
+      <graphic height="4742px" url="master/3760_0019.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0019_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0019_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7" xml:id="surface-ms-codex-201-21">
+      <graphic height="4742px" url="master/3760_0020.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0020_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0020_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8" xml:id="surface-ms-codex-201-22">
+      <graphic height="4742px" url="master/3760_0021.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0021_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0021_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9" xml:id="surface-ms-codex-201-23">
+      <graphic height="4742px" url="master/3760_0022.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0022_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0022_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10" xml:id="surface-ms-codex-201-24">
+      <graphic height="4742px" url="master/3760_0023.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0023_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0023_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11" xml:id="surface-ms-codex-201-25">
+      <graphic height="4742px" url="master/3760_0024.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0024_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0024_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12" xml:id="surface-ms-codex-201-26">
+      <graphic height="4742px" url="master/3760_0025.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0025_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0025_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13" xml:id="surface-ms-codex-201-27">
+      <graphic height="4742px" url="master/3760_0026.tif" width="3499px"/>
+      <graphic height="190px" url="thumb/3760_0026_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0026_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14" xml:id="surface-ms-codex-201-28">
+      <graphic height="4742px" url="master/3760_0027.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0027_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0027_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15" xml:id="surface-ms-codex-201-29">
+      <graphic height="4742px" url="master/3760_0028.tif" width="3499px"/>
+      <graphic height="190px" url="thumb/3760_0028_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0028_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16" xml:id="surface-ms-codex-201-30">
+      <graphic height="4742px" url="master/3760_0029.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0029_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0029_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17" xml:id="surface-ms-codex-201-31">
+      <graphic height="4742px" url="master/3760_0030.tif" width="3499px"/>
+      <graphic height="190px" url="thumb/3760_0030_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0030_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="18" xml:id="surface-ms-codex-201-32">
+      <graphic height="4742px" url="master/3760_0031.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0031_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0031_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="19" xml:id="surface-ms-codex-201-33">
+      <graphic height="4742px" url="master/3760_0032.tif" width="3499px"/>
+      <graphic height="190px" url="thumb/3760_0032_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0032_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="20" xml:id="surface-ms-codex-201-34">
+      <graphic height="4742px" url="master/3760_0033.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0033_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0033_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="21" xml:id="surface-ms-codex-201-35">
+      <graphic height="4742px" url="master/3760_0034.tif" width="3499px"/>
+      <graphic height="190px" url="thumb/3760_0034_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0034_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="22" xml:id="surface-ms-codex-201-36">
+      <graphic height="4742px" url="master/3760_0035.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0035_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0035_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="23" xml:id="surface-ms-codex-201-37">
+      <graphic height="4742px" url="master/3760_0036.tif" width="3499px"/>
+      <graphic height="190px" url="thumb/3760_0036_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0036_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="24" xml:id="surface-ms-codex-201-38">
+      <graphic height="4742px" url="master/3760_0037.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0037_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0037_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="25" xml:id="surface-ms-codex-201-39">
+      <graphic height="4742px" url="master/3760_0038.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0038_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0038_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="26" xml:id="surface-ms-codex-201-40">
+      <graphic height="4742px" url="master/3760_0039.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0039_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0039_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="27" xml:id="surface-ms-codex-201-41">
+      <graphic height="4742px" url="master/3760_0040.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0040_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0040_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="28" xml:id="surface-ms-codex-201-42">
+      <graphic height="4742px" url="master/3760_0041.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0041_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0041_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="29" xml:id="surface-ms-codex-201-43">
+      <graphic height="4742px" url="master/3760_0042.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0042_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0042_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="30" xml:id="surface-ms-codex-201-44">
+      <graphic height="4742px" url="master/3760_0043.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0043_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0043_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="31" xml:id="surface-ms-codex-201-45">
+      <graphic height="4742px" url="master/3760_0044.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0044_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0044_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="32" xml:id="surface-ms-codex-201-46">
+      <graphic height="4742px" url="master/3760_0045.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0045_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0045_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="33" xml:id="surface-ms-codex-201-47">
+      <graphic height="4742px" url="master/3760_0046.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0046_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0046_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="34" xml:id="surface-ms-codex-201-48">
+      <graphic height="4742px" url="master/3760_0047.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0047_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0047_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="35" xml:id="surface-ms-codex-201-49">
+      <graphic height="4742px" url="master/3760_0048.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0048_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0048_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="36" xml:id="surface-ms-codex-201-50">
+      <graphic height="4742px" url="master/3760_0049.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0049_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0049_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="37" xml:id="surface-ms-codex-201-51">
+      <graphic height="4742px" url="master/3760_0050.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0050_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0050_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="38" xml:id="surface-ms-codex-201-52">
+      <graphic height="4742px" url="master/3760_0051.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0051_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0051_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="39" xml:id="surface-ms-codex-201-53">
+      <graphic height="4742px" url="master/3760_0052.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0052_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0052_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="40" xml:id="surface-ms-codex-201-54">
+      <graphic height="4742px" url="master/3760_0053.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0053_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0053_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="41" xml:id="surface-ms-codex-201-55">
+      <graphic height="4742px" url="master/3760_0054.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0054_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0054_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="42" xml:id="surface-ms-codex-201-56">
+      <graphic height="4742px" url="master/3760_0055.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0055_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0055_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="43" xml:id="surface-ms-codex-201-57">
+      <graphic height="4742px" url="master/3760_0056.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0056_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0056_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="44" xml:id="surface-ms-codex-201-58">
+      <graphic height="4742px" url="master/3760_0057.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0057_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0057_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="45" xml:id="surface-ms-codex-201-59">
+      <graphic height="4742px" url="master/3760_0058.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0058_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0058_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="46" xml:id="surface-ms-codex-201-60">
+      <graphic height="4742px" url="master/3760_0059.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0059_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0059_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="47" xml:id="surface-ms-codex-201-61">
+      <graphic height="4742px" url="master/3760_0060.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0060_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0060_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="48" xml:id="surface-ms-codex-201-62">
+      <graphic height="4742px" url="master/3760_0061.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0061_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0061_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="49" xml:id="surface-ms-codex-201-63">
+      <graphic height="4742px" url="master/3760_0062.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0062_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0062_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="50" xml:id="surface-ms-codex-201-64">
+      <graphic height="4742px" url="master/3760_0063.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0063_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0063_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="51" xml:id="surface-ms-codex-201-65">
+      <graphic height="4742px" url="master/3760_0064.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0064_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0064_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="52" xml:id="surface-ms-codex-201-66">
+      <graphic height="4742px" url="master/3760_0065.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0065_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0065_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="53" xml:id="surface-ms-codex-201-67">
+      <graphic height="4742px" url="master/3760_0066.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0066_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0066_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="54" xml:id="surface-ms-codex-201-68">
+      <graphic height="4742px" url="master/3760_0067.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0067_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0067_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =55" xml:id="surface-ms-codex-201-69">
+      <graphic height="4742px" url="master/3760_0068.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0068_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0068_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =56" xml:id="surface-ms-codex-201-70">
+      <graphic height="4742px" url="master/3760_0069.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0069_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0069_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =57" xml:id="surface-ms-codex-201-71">
+      <graphic height="4742px" url="master/3760_0070.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0070_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0070_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =58" xml:id="surface-ms-codex-201-72">
+      <graphic height="4742px" url="master/3760_0071.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0071_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0071_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =59" xml:id="surface-ms-codex-201-73">
+      <graphic height="4742px" url="master/3760_0072.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0072_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0072_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =60" xml:id="surface-ms-codex-201-74">
+      <graphic height="4742px" url="master/3760_0073.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0073_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0073_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =61" xml:id="surface-ms-codex-201-75">
+      <graphic height="4742px" url="master/3760_0074.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0074_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0074_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =62" xml:id="surface-ms-codex-201-76">
+      <graphic height="4742px" url="master/3760_0075.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0075_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0075_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9 =63" xml:id="surface-ms-codex-201-77">
+      <graphic height="4742px" url="master/3760_0076.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0076_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0076_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10 =64" xml:id="surface-ms-codex-201-78">
+      <graphic height="4742px" url="master/3760_0077.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0077_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0077_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11 =65" xml:id="surface-ms-codex-201-79">
+      <graphic height="4742px" url="master/3760_0078.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0078_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0078_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12 =66" xml:id="surface-ms-codex-201-80">
+      <graphic height="4742px" url="master/3760_0079.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0079_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0079_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13 =67" xml:id="surface-ms-codex-201-81">
+      <graphic height="4742px" url="master/3760_0080.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0080_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0080_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14 =68" xml:id="surface-ms-codex-201-82">
+      <graphic height="4742px" url="master/3760_0081.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0081_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0081_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15 =69" xml:id="surface-ms-codex-201-83">
+      <graphic height="4742px" url="master/3760_0082.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0082_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0082_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16 =70" xml:id="surface-ms-codex-201-84">
+      <graphic height="4742px" url="master/3760_0083.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0083_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0083_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17 =71" xml:id="surface-ms-codex-201-85">
+      <graphic height="4742px" url="master/3760_0084.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0084_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0084_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="18 =72" xml:id="surface-ms-codex-201-86">
+      <graphic height="4742px" url="master/3760_0085.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0085_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0085_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="19 =73" xml:id="surface-ms-codex-201-87">
+      <graphic height="4742px" url="master/3760_0086.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0086_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0086_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="20 =74" xml:id="surface-ms-codex-201-88">
+      <graphic height="4742px" url="master/3760_0087.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0087_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0087_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="21 =75" xml:id="surface-ms-codex-201-89">
+      <graphic height="4742px" url="master/3760_0088.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0088_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0088_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="22 =76" xml:id="surface-ms-codex-201-90">
+      <graphic height="4742px" url="master/3760_0089.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0089_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0089_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="23 =77" xml:id="surface-ms-codex-201-91">
+      <graphic height="4742px" url="master/3760_0090.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0090_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0090_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="24 =78" xml:id="surface-ms-codex-201-92">
+      <graphic height="4742px" url="master/3760_0091.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0091_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0091_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="25 =79" xml:id="surface-ms-codex-201-93">
+      <graphic height="4742px" url="master/3760_0092.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0092_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0092_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="26 =80" xml:id="surface-ms-codex-201-94">
+      <graphic height="4742px" url="master/3760_0093.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0093_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0093_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="27 =81" xml:id="surface-ms-codex-201-95">
+      <graphic height="4742px" url="master/3760_0094.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0094_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0094_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="28 =82" xml:id="surface-ms-codex-201-96">
+      <graphic height="4742px" url="master/3760_0095.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0095_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0095_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="29 =83" xml:id="surface-ms-codex-201-97">
+      <graphic height="4742px" url="master/3760_0096.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0096_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0096_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="30 =84" xml:id="surface-ms-codex-201-98">
+      <graphic height="4742px" url="master/3760_0097.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0097_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0097_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="31 =85" xml:id="surface-ms-codex-201-99">
+      <graphic height="4742px" url="master/3760_0098.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0098_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0098_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="32 =86" xml:id="surface-ms-codex-201-100">
+      <graphic height="4742px" url="master/3760_0099.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0099_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0099_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="33 =87" xml:id="surface-ms-codex-201-101">
+      <graphic height="4742px" url="master/3760_0100.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0100_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0100_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="34 =88" xml:id="surface-ms-codex-201-102">
+      <graphic height="4742px" url="master/3760_0101.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0101_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0101_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="35 =89" xml:id="surface-ms-codex-201-103">
+      <graphic height="4742px" url="master/3760_0102.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0102_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0102_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="36 =90" xml:id="surface-ms-codex-201-104">
+      <graphic height="4742px" url="master/3760_0103.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0103_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0103_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =91" xml:id="surface-ms-codex-201-105">
+      <graphic height="4742px" url="master/3760_0104.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0104_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0104_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =92" xml:id="surface-ms-codex-201-106">
+      <graphic height="4742px" url="master/3760_0105.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0105_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0105_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =93" xml:id="surface-ms-codex-201-107">
+      <graphic height="4742px" url="master/3760_0106.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0106_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0106_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =94" xml:id="surface-ms-codex-201-108">
+      <graphic height="4742px" url="master/3760_0107.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0107_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0107_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =95" xml:id="surface-ms-codex-201-109">
+      <graphic height="4742px" url="master/3760_0108.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0108_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0108_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =96" xml:id="surface-ms-codex-201-110">
+      <graphic height="4742px" url="master/3760_0109.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0109_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0109_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =97" xml:id="surface-ms-codex-201-111">
+      <graphic height="4742px" url="master/3760_0110.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0110_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0110_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =98" xml:id="surface-ms-codex-201-112">
+      <graphic height="4742px" url="master/3760_0111.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0111_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0111_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9 =99" xml:id="surface-ms-codex-201-113">
+      <graphic height="4742px" url="master/3760_0112.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0112_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0112_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10 =100" xml:id="surface-ms-codex-201-114">
+      <graphic height="4742px" url="master/3760_0113.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0113_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0113_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11 =101" xml:id="surface-ms-codex-201-115">
+      <graphic height="4742px" url="master/3760_0114.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0114_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0114_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12 =102" xml:id="surface-ms-codex-201-116">
+      <graphic height="4742px" url="master/3760_0115.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0115_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0115_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13 =103" xml:id="surface-ms-codex-201-117">
+      <graphic height="4742px" url="master/3760_0116.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0116_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0116_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14 =104" xml:id="surface-ms-codex-201-118">
+      <graphic height="4742px" url="master/3760_0117.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0117_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0117_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15 =105" xml:id="surface-ms-codex-201-119">
+      <graphic height="4742px" url="master/3760_0118.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0118_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0118_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16 =106" xml:id="surface-ms-codex-201-120">
+      <graphic height="4742px" url="master/3760_0119.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0119_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0119_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17 =107" xml:id="surface-ms-codex-201-121">
+      <graphic height="4742px" url="master/3760_0120.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0120_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0120_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="18 =108" xml:id="surface-ms-codex-201-122">
+      <graphic height="4742px" url="master/3760_0121.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0121_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0121_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="19 =109" xml:id="surface-ms-codex-201-123">
+      <graphic height="4742px" url="master/3760_0122.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0122_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0122_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="20 =110" xml:id="surface-ms-codex-201-124">
+      <graphic height="4742px" url="master/3760_0123.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0123_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0123_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="21 =111" xml:id="surface-ms-codex-201-125">
+      <graphic height="4742px" url="master/3760_0124.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0124_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0124_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="22 =112" xml:id="surface-ms-codex-201-126">
+      <graphic height="4742px" url="master/3760_0125.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0125_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0125_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="23 =113" xml:id="surface-ms-codex-201-127">
+      <graphic height="4742px" url="master/3760_0126.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0126_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0126_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="24 =114" xml:id="surface-ms-codex-201-128">
+      <graphic height="4742px" url="master/3760_0127.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0127_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0127_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="25 =115" xml:id="surface-ms-codex-201-129">
+      <graphic height="4742px" url="master/3760_0128.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0128_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0128_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="26 =116" xml:id="surface-ms-codex-201-130">
+      <graphic height="4742px" url="master/3760_0129.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0129_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0129_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="27 =117" xml:id="surface-ms-codex-201-131">
+      <graphic height="4742px" url="master/3760_0130.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0130_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0130_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="28 =118" xml:id="surface-ms-codex-201-132">
+      <graphic height="4742px" url="master/3760_0131.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0131_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0131_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="29 =119" xml:id="surface-ms-codex-201-133">
+      <graphic height="4742px" url="master/3760_0132.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0132_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0132_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="30 =120" xml:id="surface-ms-codex-201-134">
+      <graphic height="4742px" url="master/3760_0133.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0133_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0133_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="31 =121" xml:id="surface-ms-codex-201-135">
+      <graphic height="4742px" url="master/3760_0134.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0134_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0134_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="32 =122" xml:id="surface-ms-codex-201-136">
+      <graphic height="4742px" url="master/3760_0135.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0135_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0135_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="33 =123" xml:id="surface-ms-codex-201-137">
+      <graphic height="4742px" url="master/3760_0136.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0136_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0136_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="34 =124" xml:id="surface-ms-codex-201-138">
+      <graphic height="4742px" url="master/3760_0137.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0137_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0137_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="35 =125" xml:id="surface-ms-codex-201-139">
+      <graphic height="4742px" url="master/3760_0138.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0138_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0138_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="36 =126" xml:id="surface-ms-codex-201-140">
+      <graphic height="4742px" url="master/3760_0139.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0139_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0139_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="37 =127" xml:id="surface-ms-codex-201-141">
+      <graphic height="4742px" url="master/3760_0140.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0140_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0140_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="38 =128" xml:id="surface-ms-codex-201-142">
+      <graphic height="4742px" url="master/3760_0141.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0141_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0141_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="39 =129" xml:id="surface-ms-codex-201-143">
+      <graphic height="4742px" url="master/3760_0142.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0142_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0142_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="40 =130" xml:id="surface-ms-codex-201-144">
+      <graphic height="4742px" url="master/3760_0143.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0143_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0143_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="41 =131" xml:id="surface-ms-codex-201-145">
+      <graphic height="4742px" url="master/3760_0144.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0144_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0144_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="42 =132" xml:id="surface-ms-codex-201-146">
+      <graphic height="4742px" url="master/3760_0145.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0145_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0145_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="43 =133" xml:id="surface-ms-codex-201-147">
+      <graphic height="4742px" url="master/3760_0146.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0146_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0146_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="44 =134" xml:id="surface-ms-codex-201-148">
+      <graphic height="4742px" url="master/3760_0147.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0147_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0147_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="45 =135" xml:id="surface-ms-codex-201-149">
+      <graphic height="4742px" url="master/3760_0148.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0148_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0148_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="46 =136" xml:id="surface-ms-codex-201-150">
+      <graphic height="4742px" url="master/3760_0149.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0149_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0149_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="47 =137" xml:id="surface-ms-codex-201-151">
+      <graphic height="4742px" url="master/3760_0150.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0150_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0150_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="48 =138" xml:id="surface-ms-codex-201-152">
+      <graphic height="4742px" url="master/3760_0151.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0151_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0151_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="49 =139" xml:id="surface-ms-codex-201-153">
+      <graphic height="4742px" url="master/3760_0152.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0152_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0152_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="50 =140" xml:id="surface-ms-codex-201-154">
+      <graphic height="4742px" url="master/3760_0153.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0153_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0153_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="51 =141" xml:id="surface-ms-codex-201-155">
+      <graphic height="4742px" url="master/3760_0154.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0154_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0154_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="52 =142" xml:id="surface-ms-codex-201-156">
+      <graphic height="4742px" url="master/3760_0155.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0155_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0155_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="53 =143" xml:id="surface-ms-codex-201-157">
+      <graphic height="4742px" url="master/3760_0156.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0156_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0156_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="54 =144" xml:id="surface-ms-codex-201-158">
+      <graphic height="4742px" url="master/3760_0157.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0157_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0157_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="55 =145" xml:id="surface-ms-codex-201-159">
+      <graphic height="4742px" url="master/3760_0158.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0158_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0158_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="56 =146" xml:id="surface-ms-codex-201-160">
+      <graphic height="4742px" url="master/3760_0159.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0159_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0159_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="57 =147" xml:id="surface-ms-codex-201-161">
+      <graphic height="4742px" url="master/3760_0160.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0160_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0160_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="58 =148" xml:id="surface-ms-codex-201-162">
+      <graphic height="4742px" url="master/3760_0161.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0161_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0161_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="59 =149" xml:id="surface-ms-codex-201-163">
+      <graphic height="4742px" url="master/3760_0162.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0162_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0162_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="60 =150" xml:id="surface-ms-codex-201-164">
+      <graphic height="4742px" url="master/3760_0163.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0163_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0163_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="61 =151" xml:id="surface-ms-codex-201-165">
+      <graphic height="4742px" url="master/3760_0164.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0164_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0164_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="62 =152" xml:id="surface-ms-codex-201-166">
+      <graphic height="4742px" url="master/3760_0165.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0165_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0165_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =153" xml:id="surface-ms-codex-201-167">
+      <graphic height="4742px" url="master/3760_0166.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0166_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0166_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =154" xml:id="surface-ms-codex-201-168">
+      <graphic height="4742px" url="master/3760_0167.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0167_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0167_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =155" xml:id="surface-ms-codex-201-169">
+      <graphic height="4742px" url="master/3760_0168.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0168_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0168_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =156" xml:id="surface-ms-codex-201-170">
+      <graphic height="4742px" url="master/3760_0169.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0169_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0169_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =157" xml:id="surface-ms-codex-201-171">
+      <graphic height="4742px" url="master/3760_0170.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0170_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0170_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =158" xml:id="surface-ms-codex-201-172">
+      <graphic height="4742px" url="master/3760_0171.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0171_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0171_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =159" xml:id="surface-ms-codex-201-173">
+      <graphic height="4742px" url="master/3760_0172.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0172_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0172_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =160" xml:id="surface-ms-codex-201-174">
+      <graphic height="4742px" url="master/3760_0173.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0173_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0173_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9 =161" xml:id="surface-ms-codex-201-175">
+      <graphic height="4742px" url="master/3760_0174.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0174_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0174_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10 =162" xml:id="surface-ms-codex-201-176">
+      <graphic height="4742px" url="master/3760_0175.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0175_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0175_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11 =163" xml:id="surface-ms-codex-201-177">
+      <graphic height="4742px" url="master/3760_0176.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0176_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0176_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12 =164" xml:id="surface-ms-codex-201-178">
+      <graphic height="4742px" url="master/3760_0177.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0177_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0177_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13 =165" xml:id="surface-ms-codex-201-179">
+      <graphic height="4742px" url="master/3760_0178.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0178_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0178_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14 =166" xml:id="surface-ms-codex-201-180">
+      <graphic height="4742px" url="master/3760_0179.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0179_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0179_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15 =167" xml:id="surface-ms-codex-201-181">
+      <graphic height="4742px" url="master/3760_0180.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0180_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0180_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16 =168" xml:id="surface-ms-codex-201-182">
+      <graphic height="4742px" url="master/3760_0181.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0181_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0181_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17 =169" xml:id="surface-ms-codex-201-183">
+      <graphic height="4742px" url="master/3760_0182.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0182_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0182_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="18 =170" xml:id="surface-ms-codex-201-184">
+      <graphic height="4742px" url="master/3760_0183.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0183_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0183_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="19 =171" xml:id="surface-ms-codex-201-185">
+      <graphic height="4742px" url="master/3760_0184.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0184_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0184_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="20 =172" xml:id="surface-ms-codex-201-186">
+      <graphic height="4742px" url="master/3760_0185.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0185_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0185_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="21 =173" xml:id="surface-ms-codex-201-187">
+      <graphic height="4742px" url="master/3760_0186.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0186_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0186_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="22 =174" xml:id="surface-ms-codex-201-188">
+      <graphic height="4742px" url="master/3760_0187.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0187_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0187_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="23 =175" xml:id="surface-ms-codex-201-189">
+      <graphic height="4742px" url="master/3760_0188.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0188_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0188_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="24 =176" xml:id="surface-ms-codex-201-190">
+      <graphic height="4742px" url="master/3760_0189.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0189_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0189_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="25 =177" xml:id="surface-ms-codex-201-191">
+      <graphic height="4742px" url="master/3760_0190.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0190_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0190_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="26 =178" xml:id="surface-ms-codex-201-192">
+      <graphic height="4742px" url="master/3760_0191.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0191_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0191_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="27 =179" xml:id="surface-ms-codex-201-193">
+      <graphic height="4742px" url="master/3760_0192.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0192_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0192_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="28 =180" xml:id="surface-ms-codex-201-194">
+      <graphic height="4742px" url="master/3760_0193.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0193_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0193_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="29 =181" xml:id="surface-ms-codex-201-195">
+      <graphic height="4742px" url="master/3760_0194.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0194_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0194_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="30 =182" xml:id="surface-ms-codex-201-196">
+      <graphic height="4742px" url="master/3760_0195.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0195_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0195_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="31 =183" xml:id="surface-ms-codex-201-197">
+      <graphic height="4742px" url="master/3760_0196.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0196_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0196_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="32 =184" xml:id="surface-ms-codex-201-198">
+      <graphic height="4742px" url="master/3760_0197.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0197_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0197_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="33 =185" xml:id="surface-ms-codex-201-199">
+      <graphic height="4742px" url="master/3760_0198.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0198_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0198_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="34 =186" xml:id="surface-ms-codex-201-200">
+      <graphic height="4742px" url="master/3760_0199.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0199_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0199_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="35 =187" xml:id="surface-ms-codex-201-201">
+      <graphic height="4742px" url="master/3760_0200.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0200_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0200_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="36 =188" xml:id="surface-ms-codex-201-202">
+      <graphic height="4742px" url="master/3760_0201.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0201_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0201_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="37 =189" xml:id="surface-ms-codex-201-203">
+      <graphic height="4742px" url="master/3760_0202.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0202_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0202_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="38 =190" xml:id="surface-ms-codex-201-204">
+      <graphic height="4742px" url="master/3760_0203.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0203_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0203_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="39 =191" xml:id="surface-ms-codex-201-205">
+      <graphic height="4742px" url="master/3760_0204.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0204_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0204_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="40 =192" xml:id="surface-ms-codex-201-206">
+      <graphic height="4742px" url="master/3760_0205.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0205_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0205_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="41 =193" xml:id="surface-ms-codex-201-207">
+      <graphic height="4742px" url="master/3760_0206.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0206_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0206_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="42 =194" xml:id="surface-ms-codex-201-208">
+      <graphic height="4742px" url="master/3760_0207.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0207_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0207_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="43 =195" xml:id="surface-ms-codex-201-209">
+      <graphic height="4742px" url="master/3760_0208.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0208_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0208_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="44 =196" xml:id="surface-ms-codex-201-210">
+      <graphic height="4742px" url="master/3760_0209.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0209_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0209_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="45 =197" xml:id="surface-ms-codex-201-211">
+      <graphic height="4742px" url="master/3760_0210.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0210_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0210_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="46 =198" xml:id="surface-ms-codex-201-212">
+      <graphic height="4742px" url="master/3760_0211.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0211_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0211_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="47 =199" xml:id="surface-ms-codex-201-213">
+      <graphic height="4742px" url="master/3760_0212.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0212_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0212_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =200" xml:id="surface-ms-codex-201-214">
+      <graphic height="4742px" url="master/3760_0213.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0213_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0213_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =201" xml:id="surface-ms-codex-201-215">
+      <graphic height="4742px" url="master/3760_0214.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0214_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0214_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =202" xml:id="surface-ms-codex-201-216">
+      <graphic height="4742px" url="master/3760_0215.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0215_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0215_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =203" xml:id="surface-ms-codex-201-217">
+      <graphic height="4742px" url="master/3760_0216.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0216_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0216_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =204" xml:id="surface-ms-codex-201-218">
+      <graphic height="4742px" url="master/3760_0217.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0217_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0217_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =205" xml:id="surface-ms-codex-201-219">
+      <graphic height="4742px" url="master/3760_0218.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0218_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0218_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =206" xml:id="surface-ms-codex-201-220">
+      <graphic height="4742px" url="master/3760_0219.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0219_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0219_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9 =207" xml:id="surface-ms-codex-201-221">
+      <graphic height="4742px" url="master/3760_0220.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0220_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0220_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10 =208" xml:id="surface-ms-codex-201-222">
+      <graphic height="4742px" url="master/3760_0221.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0221_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0221_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11 =209" xml:id="surface-ms-codex-201-223">
+      <graphic height="4742px" url="master/3760_0222.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0222_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0222_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12 =210" xml:id="surface-ms-codex-201-224">
+      <graphic height="4742px" url="master/3760_0223.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0223_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0223_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13 =211" xml:id="surface-ms-codex-201-225">
+      <graphic height="4742px" url="master/3760_0224.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0224_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0224_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14 =212" xml:id="surface-ms-codex-201-226">
+      <graphic height="4742px" url="master/3760_0225.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0225_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0225_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15 =213" xml:id="surface-ms-codex-201-227">
+      <graphic height="4742px" url="master/3760_0226.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0226_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0226_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16 =214" xml:id="surface-ms-codex-201-228">
+      <graphic height="4742px" url="master/3760_0227.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0227_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0227_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17 =215" xml:id="surface-ms-codex-201-229">
+      <graphic height="4742px" url="master/3760_0228.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0228_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0228_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="18 =216" xml:id="surface-ms-codex-201-230">
+      <graphic height="4742px" url="master/3760_0229.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0229_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0229_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="19 =217" xml:id="surface-ms-codex-201-231">
+      <graphic height="4742px" url="master/3760_0230.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0230_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0230_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="20 =218" xml:id="surface-ms-codex-201-232">
+      <graphic height="4742px" url="master/3760_0231.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0231_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0231_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="21 =219" xml:id="surface-ms-codex-201-233">
+      <graphic height="4742px" url="master/3760_0232.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0232_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0232_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="22 =220" xml:id="surface-ms-codex-201-234">
+      <graphic height="4742px" url="master/3760_0233.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0233_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0233_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="23 =221" xml:id="surface-ms-codex-201-235">
+      <graphic height="4742px" url="master/3760_0234.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0234_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0234_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="24 =222" xml:id="surface-ms-codex-201-236">
+      <graphic height="4742px" url="master/3760_0235.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0235_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0235_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="25 =223" xml:id="surface-ms-codex-201-237">
+      <graphic height="4742px" url="master/3760_0236.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0236_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0236_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="26 =224" xml:id="surface-ms-codex-201-238">
+      <graphic height="4742px" url="master/3760_0237.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0237_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0237_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="27 =225" xml:id="surface-ms-codex-201-239">
+      <graphic height="4742px" url="master/3760_0238.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0238_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0238_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="28 =226" xml:id="surface-ms-codex-201-240">
+      <graphic height="4742px" url="master/3760_0239.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0239_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0239_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="29 =227" xml:id="surface-ms-codex-201-241">
+      <graphic height="4742px" url="master/3760_0240.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0240_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0240_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =228" xml:id="surface-ms-codex-201-242">
+      <graphic height="4742px" url="master/3760_0241.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0241_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0241_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =229" xml:id="surface-ms-codex-201-243">
+      <graphic height="4742px" url="master/3760_0242.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0242_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0242_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =230" xml:id="surface-ms-codex-201-244">
+      <graphic height="4742px" url="master/3760_0243.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0243_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0243_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =231" xml:id="surface-ms-codex-201-245">
+      <graphic height="4742px" url="master/3760_0244.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0244_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0244_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =232" xml:id="surface-ms-codex-201-246">
+      <graphic height="4742px" url="master/3760_0245.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0245_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0245_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =233" xml:id="surface-ms-codex-201-247">
+      <graphic height="4742px" url="master/3760_0246.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0246_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0246_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =234" xml:id="surface-ms-codex-201-248">
+      <graphic height="4742px" url="master/3760_0247.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0247_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0247_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9 =235" xml:id="surface-ms-codex-201-249">
+      <graphic height="4742px" url="master/3760_0248.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0248_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0248_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10 =236" xml:id="surface-ms-codex-201-250">
+      <graphic height="4742px" url="master/3760_0249.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0249_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0249_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11 =237" xml:id="surface-ms-codex-201-251">
+      <graphic height="4742px" url="master/3760_0250.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0250_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0250_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12 =238" xml:id="surface-ms-codex-201-252">
+      <graphic height="4742px" url="master/3760_0251.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0251_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0251_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13 =239" xml:id="surface-ms-codex-201-253">
+      <graphic height="4742px" url="master/3760_0252.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0252_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0252_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14 =240" xml:id="surface-ms-codex-201-254">
+      <graphic height="4742px" url="master/3760_0253.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0253_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0253_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15 =241" xml:id="surface-ms-codex-201-255">
+      <graphic height="4742px" url="master/3760_0254.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0254_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0254_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16 =242" xml:id="surface-ms-codex-201-256">
+      <graphic height="4742px" url="master/3760_0255.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0255_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0255_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17 =243" xml:id="surface-ms-codex-201-257">
+      <graphic height="4742px" url="master/3760_0256.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0256_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0256_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="18 =244" xml:id="surface-ms-codex-201-258">
+      <graphic height="4742px" url="master/3760_0257.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0257_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0257_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="19 =245" xml:id="surface-ms-codex-201-259">
+      <graphic height="4742px" url="master/3760_0258.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0258_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0258_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="20 =246" xml:id="surface-ms-codex-201-260">
+      <graphic height="4742px" url="master/3760_0259.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0259_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0259_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="21 =247" xml:id="surface-ms-codex-201-261">
+      <graphic height="4742px" url="master/3760_0260.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0260_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0260_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="22 =248" xml:id="surface-ms-codex-201-262">
+      <graphic height="4742px" url="master/3760_0261.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0261_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0261_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="23 =249" xml:id="surface-ms-codex-201-263">
+      <graphic height="4742px" url="master/3760_0262.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0262_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0262_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="24 =250" xml:id="surface-ms-codex-201-264">
+      <graphic height="4742px" url="master/3760_0263.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0263_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0263_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="25 =251" xml:id="surface-ms-codex-201-265">
+      <graphic height="4742px" url="master/3760_0264.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0264_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0264_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="26 =252" xml:id="surface-ms-codex-201-266">
+      <graphic height="4742px" url="master/3760_0265.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0265_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0265_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="27 =253" xml:id="surface-ms-codex-201-267">
+      <graphic height="4742px" url="master/3760_0266.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0266_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0266_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="28 =254" xml:id="surface-ms-codex-201-268">
+      <graphic height="4742px" url="master/3760_0267.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0267_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0267_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="29 =255" xml:id="surface-ms-codex-201-269">
+      <graphic height="4742px" url="master/3760_0268.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0268_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0268_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="30 =256" xml:id="surface-ms-codex-201-270">
+      <graphic height="4742px" url="master/3760_0269.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0269_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0269_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="31 =257" xml:id="surface-ms-codex-201-271">
+      <graphic height="4742px" url="master/3760_0270.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0270_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0270_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="32 =258" xml:id="surface-ms-codex-201-272">
+      <graphic height="4742px" url="master/3760_0271.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0271_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0271_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="33 =259" xml:id="surface-ms-codex-201-273">
+      <graphic height="4742px" url="master/3760_0272.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0272_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0272_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="34 =260" xml:id="surface-ms-codex-201-274">
+      <graphic height="4742px" url="master/3760_0273.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0273_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0273_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="35 =261" xml:id="surface-ms-codex-201-275">
+      <graphic height="4742px" url="master/3760_0274.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0274_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0274_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="36 =262" xml:id="surface-ms-codex-201-276">
+      <graphic height="4742px" url="master/3760_0275.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0275_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0275_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="37 =263" xml:id="surface-ms-codex-201-277">
+      <graphic height="4742px" url="master/3760_0276.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0276_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0276_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="38 =264" xml:id="surface-ms-codex-201-278">
+      <graphic height="4742px" url="master/3760_0277.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0277_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0277_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="39 =265" xml:id="surface-ms-codex-201-279">
+      <graphic height="4742px" url="master/3760_0278.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0278_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0278_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="40 =266" xml:id="surface-ms-codex-201-280">
+      <graphic height="4742px" url="master/3760_0279.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0279_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0279_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =267" xml:id="surface-ms-codex-201-281">
+      <graphic height="4742px" url="master/3760_0280.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0280_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0280_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =268" xml:id="surface-ms-codex-201-282">
+      <graphic height="4742px" url="master/3760_0281.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0281_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0281_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =269" xml:id="surface-ms-codex-201-283">
+      <graphic height="4742px" url="master/3760_0282.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0282_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0282_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =270" xml:id="surface-ms-codex-201-284">
+      <graphic height="4742px" url="master/3760_0283.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0283_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0283_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =271" xml:id="surface-ms-codex-201-285">
+      <graphic height="4742px" url="master/3760_0284.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0284_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0284_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =272" xml:id="surface-ms-codex-201-286">
+      <graphic height="4742px" url="master/3760_0285.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0285_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0285_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =273" xml:id="surface-ms-codex-201-287">
+      <graphic height="4742px" url="master/3760_0286.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0286_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0286_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =274" xml:id="surface-ms-codex-201-288">
+      <graphic height="4742px" url="master/3760_0287.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0287_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0287_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =275" xml:id="surface-ms-codex-201-289">
+      <graphic height="4742px" url="master/3760_0288.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0288_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0288_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =276" xml:id="surface-ms-codex-201-290">
+      <graphic height="4742px" url="master/3760_0289.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0289_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0289_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =277" xml:id="surface-ms-codex-201-291">
+      <graphic height="4742px" url="master/3760_0290.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0290_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0290_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =278" xml:id="surface-ms-codex-201-292">
+      <graphic height="4742px" url="master/3760_0291.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0291_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0291_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =279" xml:id="surface-ms-codex-201-293">
+      <graphic height="4742px" url="master/3760_0292.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0292_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0292_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =280" xml:id="surface-ms-codex-201-294">
+      <graphic height="4742px" url="master/3760_0293.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0293_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0293_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =281" xml:id="surface-ms-codex-201-295">
+      <graphic height="4742px" url="master/3760_0294.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0294_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0294_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =282" xml:id="surface-ms-codex-201-296">
+      <graphic height="4742px" url="master/3760_0295.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0295_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0295_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =283" xml:id="surface-ms-codex-201-297">
+      <graphic height="4742px" url="master/3760_0296.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0296_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0296_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =284" xml:id="surface-ms-codex-201-298">
+      <graphic height="4742px" url="master/3760_0297.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0297_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0297_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =285" xml:id="surface-ms-codex-201-299">
+      <graphic height="4742px" url="master/3760_0298.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0298_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0298_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =286" xml:id="surface-ms-codex-201-300">
+      <graphic height="4742px" url="master/3760_0299.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0299_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0299_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =287" xml:id="surface-ms-codex-201-301">
+      <graphic height="4742px" url="master/3760_0300.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0300_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0300_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =288" xml:id="surface-ms-codex-201-302">
+      <graphic height="4742px" url="master/3760_0301.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0301_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0301_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =289" xml:id="surface-ms-codex-201-303">
+      <graphic height="4742px" url="master/3760_0302.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0302_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0302_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =290" xml:id="surface-ms-codex-201-304">
+      <graphic height="4742px" url="master/3760_0303.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0303_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0303_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =291" xml:id="surface-ms-codex-201-305">
+      <graphic height="4742px" url="master/3760_0304.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0304_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0304_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =292" xml:id="surface-ms-codex-201-306">
+      <graphic height="4742px" url="master/3760_0305.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0305_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0305_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =293" xml:id="surface-ms-codex-201-307">
+      <graphic height="4742px" url="master/3760_0306.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0306_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0306_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =294" xml:id="surface-ms-codex-201-308">
+      <graphic height="4742px" url="master/3760_0307.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0307_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0307_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =295" xml:id="surface-ms-codex-201-309">
+      <graphic height="4742px" url="master/3760_0308.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0308_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0308_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =296" xml:id="surface-ms-codex-201-310">
+      <graphic height="4742px" url="master/3760_0309.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0309_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0309_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =297" xml:id="surface-ms-codex-201-311">
+      <graphic height="4742px" url="master/3760_0310.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0310_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0310_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =298" xml:id="surface-ms-codex-201-312">
+      <graphic height="4742px" url="master/3760_0311.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0311_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0311_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =299" xml:id="surface-ms-codex-201-313">
+      <graphic height="4742px" url="master/3760_0312.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0312_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0312_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =300" xml:id="surface-ms-codex-201-314">
+      <graphic height="4742px" url="master/3760_0313.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0313_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0313_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =301" xml:id="surface-ms-codex-201-315">
+      <graphic height="4742px" url="master/3760_0314.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0314_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0314_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =302" xml:id="surface-ms-codex-201-316">
+      <graphic height="4742px" url="master/3760_0315.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0315_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0315_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =303" xml:id="surface-ms-codex-201-317">
+      <graphic height="4742px" url="master/3760_0316.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0316_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0316_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =304" xml:id="surface-ms-codex-201-318">
+      <graphic height="4742px" url="master/3760_0317.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0317_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0317_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =305" xml:id="surface-ms-codex-201-319">
+      <graphic height="4742px" url="master/3760_0318.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0318_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0318_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =306" xml:id="surface-ms-codex-201-320">
+      <graphic height="4742px" url="master/3760_0319.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0319_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0319_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =307" xml:id="surface-ms-codex-201-321">
+      <graphic height="4742px" url="master/3760_0320.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0320_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0320_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =308" xml:id="surface-ms-codex-201-322">
+      <graphic height="4742px" url="master/3760_0321.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0321_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0321_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9 =309" xml:id="surface-ms-codex-201-323">
+      <graphic height="4742px" url="master/3760_0322.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0322_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0322_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10 =310" xml:id="surface-ms-codex-201-324">
+      <graphic height="4742px" url="master/3760_0323.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0323_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0323_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11 =311" xml:id="surface-ms-codex-201-325">
+      <graphic height="4742px" url="master/3760_0324.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0324_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0324_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =312" xml:id="surface-ms-codex-201-326">
+      <graphic height="4742px" url="master/3760_0325.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0325_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0325_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =313" xml:id="surface-ms-codex-201-327">
+      <graphic height="4742px" url="master/3760_0326.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0326_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0326_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =314" xml:id="surface-ms-codex-201-328">
+      <graphic height="4742px" url="master/3760_0327.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0327_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0327_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =315" xml:id="surface-ms-codex-201-329">
+      <graphic height="4742px" url="master/3760_0328.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0328_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0328_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =316" xml:id="surface-ms-codex-201-330">
+      <graphic height="4742px" url="master/3760_0329.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0329_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0329_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =317" xml:id="surface-ms-codex-201-331">
+      <graphic height="4742px" url="master/3760_0330.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0330_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0330_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =318" xml:id="surface-ms-codex-201-332">
+      <graphic height="4742px" url="master/3760_0331.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0331_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0331_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =319" xml:id="surface-ms-codex-201-333">
+      <graphic height="4742px" url="master/3760_0332.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0332_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0332_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =320" xml:id="surface-ms-codex-201-334">
+      <graphic height="4742px" url="master/3760_0333.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0333_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0333_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =321" xml:id="surface-ms-codex-201-335">
+      <graphic height="4742px" url="master/3760_0334.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0334_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0334_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =322" xml:id="surface-ms-codex-201-336">
+      <graphic height="4742px" url="master/3760_0335.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0335_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0335_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =323" xml:id="surface-ms-codex-201-337">
+      <graphic height="4742px" url="master/3760_0336.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0336_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0336_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9 =324" xml:id="surface-ms-codex-201-338">
+      <graphic height="4742px" url="master/3760_0337.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0337_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0337_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10 =325" xml:id="surface-ms-codex-201-339">
+      <graphic height="4742px" url="master/3760_0338.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0338_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0338_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11 =326" xml:id="surface-ms-codex-201-340">
+      <graphic height="4742px" url="master/3760_0339.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0339_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0339_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12 =327" xml:id="surface-ms-codex-201-341">
+      <graphic height="4742px" url="master/3760_0340.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0340_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0340_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13 =328" xml:id="surface-ms-codex-201-342">
+      <graphic height="4742px" url="master/3760_0341.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0341_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0341_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14 =329" xml:id="surface-ms-codex-201-343">
+      <graphic height="4742px" url="master/3760_0342.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0342_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0342_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15 =330" xml:id="surface-ms-codex-201-344">
+      <graphic height="4742px" url="master/3760_0343.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0343_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0343_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16 =331" xml:id="surface-ms-codex-201-345">
+      <graphic height="4742px" url="master/3760_0344.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0344_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0344_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17 =332" xml:id="surface-ms-codex-201-346">
+      <graphic height="4742px" url="master/3760_0345.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0345_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0345_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =333" xml:id="surface-ms-codex-201-347">
+      <graphic height="4742px" url="master/3760_0346.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0346_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0346_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =334" xml:id="surface-ms-codex-201-348">
+      <graphic height="4742px" url="master/3760_0347.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0347_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0347_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =335" xml:id="surface-ms-codex-201-349">
+      <graphic height="4742px" url="master/3760_0348.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0348_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0348_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =336" xml:id="surface-ms-codex-201-350">
+      <graphic height="4742px" url="master/3760_0349.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0349_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0349_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =337" xml:id="surface-ms-codex-201-351">
+      <graphic height="4742px" url="master/3760_0350.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0350_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0350_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =338" xml:id="surface-ms-codex-201-352">
+      <graphic height="4742px" url="master/3760_0351.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0351_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0351_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =339" xml:id="surface-ms-codex-201-353">
+      <graphic height="4742px" url="master/3760_0352.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0352_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0352_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =340" xml:id="surface-ms-codex-201-354">
+      <graphic height="4742px" url="master/3760_0353.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0353_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0353_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9 =341" xml:id="surface-ms-codex-201-355">
+      <graphic height="4742px" url="master/3760_0354.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0354_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0354_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10 =342" xml:id="surface-ms-codex-201-356">
+      <graphic height="4742px" url="master/3760_0355.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0355_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0355_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11 =343" xml:id="surface-ms-codex-201-357">
+      <graphic height="4742px" url="master/3760_0356.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0356_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0356_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12 =344" xml:id="surface-ms-codex-201-358">
+      <graphic height="4742px" url="master/3760_0357.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0357_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0357_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13 =345" xml:id="surface-ms-codex-201-359">
+      <graphic height="4742px" url="master/3760_0358.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0358_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0358_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14 =346" xml:id="surface-ms-codex-201-360">
+      <graphic height="4742px" url="master/3760_0359.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0359_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0359_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15 =347" xml:id="surface-ms-codex-201-361">
+      <graphic height="4742px" url="master/3760_0360.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0360_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0360_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16 =348" xml:id="surface-ms-codex-201-362">
+      <graphic height="4742px" url="master/3760_0361.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0361_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0361_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17 =349" xml:id="surface-ms-codex-201-363">
+      <graphic height="4742px" url="master/3760_0362.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0362_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0362_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="18 =350" xml:id="surface-ms-codex-201-364">
+      <graphic height="4742px" url="master/3760_0363.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0363_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0363_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="19 =351" xml:id="surface-ms-codex-201-365">
+      <graphic height="4742px" url="master/3760_0364.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0364_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0364_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="20 =352" xml:id="surface-ms-codex-201-366">
+      <graphic height="4742px" url="master/3760_0365.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0365_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0365_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="21 =353" xml:id="surface-ms-codex-201-367">
+      <graphic height="4742px" url="master/3760_0366.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0366_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0366_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="22 =354" xml:id="surface-ms-codex-201-368">
+      <graphic height="4742px" url="master/3760_0367.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0367_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0367_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="23 =355" xml:id="surface-ms-codex-201-369">
+      <graphic height="4742px" url="master/3760_0368.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0368_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0368_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="24 =356" xml:id="surface-ms-codex-201-370">
+      <graphic height="4742px" url="master/3760_0369.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0369_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0369_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="25 =357" xml:id="surface-ms-codex-201-371">
+      <graphic height="4742px" url="master/3760_0370.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0370_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0370_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="26 =358" xml:id="surface-ms-codex-201-372">
+      <graphic height="4742px" url="master/3760_0371.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0371_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0371_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="27 =359" xml:id="surface-ms-codex-201-373">
+      <graphic height="4742px" url="master/3760_0372.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0372_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0372_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="28 =360" xml:id="surface-ms-codex-201-374">
+      <graphic height="4742px" url="master/3760_0373.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0373_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0373_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="29 =361" xml:id="surface-ms-codex-201-375">
+      <graphic height="4742px" url="master/3760_0374.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0374_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0374_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="30 =362" xml:id="surface-ms-codex-201-376">
+      <graphic height="4742px" url="master/3760_0375.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0375_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0375_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="31 =363" xml:id="surface-ms-codex-201-377">
+      <graphic height="4742px" url="master/3760_0376.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0376_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0376_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="32 =364" xml:id="surface-ms-codex-201-378">
+      <graphic height="4742px" url="master/3760_0377.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0377_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0377_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="33 =365" xml:id="surface-ms-codex-201-379">
+      <graphic height="4742px" url="master/3760_0378.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0378_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0378_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="34 =366" xml:id="surface-ms-codex-201-380">
+      <graphic height="4742px" url="master/3760_0379.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0379_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0379_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="35 =367" xml:id="surface-ms-codex-201-381">
+      <graphic height="4742px" url="master/3760_0380.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0380_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0380_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="36 =368" xml:id="surface-ms-codex-201-382">
+      <graphic height="4742px" url="master/3760_0381.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0381_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0381_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="37 =369" xml:id="surface-ms-codex-201-383">
+      <graphic height="4742px" url="master/3760_0382.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0382_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0382_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="38 =370" xml:id="surface-ms-codex-201-384">
+      <graphic height="4742px" url="master/3760_0383.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0383_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0383_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="39 =371" xml:id="surface-ms-codex-201-385">
+      <graphic height="4742px" url="master/3760_0384.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0384_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0384_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="40 =372" xml:id="surface-ms-codex-201-386">
+      <graphic height="4742px" url="master/3760_0385.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0385_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0385_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="41 =373" xml:id="surface-ms-codex-201-387">
+      <graphic height="4742px" url="master/3760_0386.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0386_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0386_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="42 =374" xml:id="surface-ms-codex-201-388">
+      <graphic height="4742px" url="master/3760_0387.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0387_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0387_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="43 =375" xml:id="surface-ms-codex-201-389">
+      <graphic height="4742px" url="master/3760_0388.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0388_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0388_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="44 =376" xml:id="surface-ms-codex-201-390">
+      <graphic height="4742px" url="master/3760_0389.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0389_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0389_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="45 =377" xml:id="surface-ms-codex-201-391">
+      <graphic height="4742px" url="master/3760_0390.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0390_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0390_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="46 =378" xml:id="surface-ms-codex-201-392">
+      <graphic height="4742px" url="master/3760_0391.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0391_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0391_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="47 =379" xml:id="surface-ms-codex-201-393">
+      <graphic height="4742px" url="master/3760_0392.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0392_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0392_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="48 =380" xml:id="surface-ms-codex-201-394">
+      <graphic height="4742px" url="master/3760_0393.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0393_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0393_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="49 =381" xml:id="surface-ms-codex-201-395">
+      <graphic height="4742px" url="master/3760_0394.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0394_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0394_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="50 =382" xml:id="surface-ms-codex-201-396">
+      <graphic height="4742px" url="master/3760_0395.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0395_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0395_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="51 =383" xml:id="surface-ms-codex-201-397">
+      <graphic height="4742px" url="master/3760_0396.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0396_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0396_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="52 =384" xml:id="surface-ms-codex-201-398">
+      <graphic height="4742px" url="master/3760_0397.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0397_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0397_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="53 =385" xml:id="surface-ms-codex-201-399">
+      <graphic height="4742px" url="master/3760_0398.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0398_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0398_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="54 =386" xml:id="surface-ms-codex-201-400">
+      <graphic height="4742px" url="master/3760_0399.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0399_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0399_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="55 =387" xml:id="surface-ms-codex-201-401">
+      <graphic height="4742px" url="master/3760_0400.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0400_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0400_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="56 =388" xml:id="surface-ms-codex-201-402">
+      <graphic height="4742px" url="master/3760_0401.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0401_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0401_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="57 =389" xml:id="surface-ms-codex-201-403">
+      <graphic height="4742px" url="master/3760_0402.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0402_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0402_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="58 =390" xml:id="surface-ms-codex-201-404">
+      <graphic height="4742px" url="master/3760_0403.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0403_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0403_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =391" xml:id="surface-ms-codex-201-405">
+      <graphic height="4742px" url="master/3760_0404.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0404_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0404_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =392" xml:id="surface-ms-codex-201-406">
+      <graphic height="4742px" url="master/3760_0405.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0405_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0405_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =393" xml:id="surface-ms-codex-201-407">
+      <graphic height="4742px" url="master/3760_0406.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0406_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0406_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =394" xml:id="surface-ms-codex-201-408">
+      <graphic height="4742px" url="master/3760_0407.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0407_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0407_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =395" xml:id="surface-ms-codex-201-409">
+      <graphic height="4742px" url="master/3760_0408.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0408_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0408_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =396" xml:id="surface-ms-codex-201-410">
+      <graphic height="4742px" url="master/3760_0409.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0409_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0409_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =397" xml:id="surface-ms-codex-201-411">
+      <graphic height="4742px" url="master/3760_0410.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0410_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0410_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =398" xml:id="surface-ms-codex-201-412">
+      <graphic height="4742px" url="master/3760_0411.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0411_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0411_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =399" xml:id="surface-ms-codex-201-413">
+      <graphic height="4742px" url="master/3760_0412.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0412_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0412_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =400" xml:id="surface-ms-codex-201-414">
+      <graphic height="4742px" url="master/3760_0413.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0413_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0413_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =401" xml:id="surface-ms-codex-201-415">
+      <graphic height="4742px" url="master/3760_0414.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0414_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0414_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =402" xml:id="surface-ms-codex-201-416">
+      <graphic height="4742px" url="master/3760_0415.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0415_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0415_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =403" xml:id="surface-ms-codex-201-417">
+      <graphic height="4742px" url="master/3760_0416.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0416_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0416_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9 =404" xml:id="surface-ms-codex-201-418">
+      <graphic height="4742px" url="master/3760_0417.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0417_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0417_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10 =405" xml:id="surface-ms-codex-201-419">
+      <graphic height="4742px" url="master/3760_0418.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0418_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0418_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11 =406" xml:id="surface-ms-codex-201-420">
+      <graphic height="4742px" url="master/3760_0419.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0419_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0419_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =407" xml:id="surface-ms-codex-201-421">
+      <graphic height="4742px" url="master/3760_0420.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0420_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0420_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =408" xml:id="surface-ms-codex-201-422">
+      <graphic height="4742px" url="master/3760_0421.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0421_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0421_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =409" xml:id="surface-ms-codex-201-423">
+      <graphic height="4742px" url="master/3760_0422.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0422_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0422_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =410" xml:id="surface-ms-codex-201-424">
+      <graphic height="4742px" url="master/3760_0423.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0423_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0423_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =411" xml:id="surface-ms-codex-201-425">
+      <graphic height="4742px" url="master/3760_0424.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0424_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0424_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =412" xml:id="surface-ms-codex-201-426">
+      <graphic height="4742px" url="master/3760_0425.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0425_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0425_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =413" xml:id="surface-ms-codex-201-427">
+      <graphic height="4742px" url="master/3760_0426.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0426_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0426_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =414" xml:id="surface-ms-codex-201-428">
+      <graphic height="4742px" url="master/3760_0427.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0427_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0427_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =415" xml:id="surface-ms-codex-201-429">
+      <graphic height="4742px" url="master/3760_0428.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0428_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0428_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1 =416" xml:id="surface-ms-codex-201-430">
+      <graphic height="4742px" url="master/3760_0429.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0429_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0429_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2 =417" xml:id="surface-ms-codex-201-431">
+      <graphic height="4742px" url="master/3760_0430.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0430_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0430_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3 =418" xml:id="surface-ms-codex-201-432">
+      <graphic height="4742px" url="master/3760_0431.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0431_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0431_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4 =419" xml:id="surface-ms-codex-201-433">
+      <graphic height="4742px" url="master/3760_0432.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0432_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0432_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5 =420" xml:id="surface-ms-codex-201-434">
+      <graphic height="4742px" url="master/3760_0433.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0433_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0433_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6 =421" xml:id="surface-ms-codex-201-435">
+      <graphic height="4742px" url="master/3760_0434.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0434_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0434_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7 =422" xml:id="surface-ms-codex-201-436">
+      <graphic height="4742px" url="master/3760_0435.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0435_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0435_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8 =423" xml:id="surface-ms-codex-201-437">
+      <graphic height="4742px" url="master/3760_0436.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0436_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0436_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9 =424" xml:id="surface-ms-codex-201-438">
+      <graphic height="4742px" url="master/3760_0437.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0437_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0437_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10 =425" xml:id="surface-ms-codex-201-439">
+      <graphic height="4742px" url="master/3760_0438.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0438_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0438_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11 =426" xml:id="surface-ms-codex-201-440">
+      <graphic height="4742px" url="master/3760_0439.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0439_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0439_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12 =427" xml:id="surface-ms-codex-201-441">
+      <graphic height="4742px" url="master/3760_0440.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0440_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0440_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13 =428" xml:id="surface-ms-codex-201-442">
+      <graphic height="4742px" url="master/3760_0441.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0441_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0441_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14 =429" xml:id="surface-ms-codex-201-443">
+      <graphic height="4742px" url="master/3760_0442.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0442_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0442_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15 =430" xml:id="surface-ms-codex-201-444">
+      <graphic height="4742px" url="master/3760_0443.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0443_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0443_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16 =431" xml:id="surface-ms-codex-201-445">
+      <graphic height="4742px" url="master/3760_0444.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0444_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0444_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17 =432" xml:id="surface-ms-codex-201-446">
+      <graphic height="4742px" url="master/3760_0445.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0445_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0445_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="18 =433" xml:id="surface-ms-codex-201-447">
+      <graphic height="4742px" url="master/3760_0446.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0446_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0446_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="19 =434" xml:id="surface-ms-codex-201-448">
+      <graphic height="4742px" url="master/3760_0447.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0447_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0447_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="20 =435" xml:id="surface-ms-codex-201-449">
+      <graphic height="4742px" url="master/3760_0448.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0448_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0448_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="21 =436" xml:id="surface-ms-codex-201-450">
+      <graphic height="4742px" url="master/3760_0449.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0449_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0449_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="22 =437" xml:id="surface-ms-codex-201-451">
+      <graphic height="4742px" url="master/3760_0450.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0450_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0450_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="23 =438" xml:id="surface-ms-codex-201-452">
+      <graphic height="4742px" url="master/3760_0451.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0451_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0451_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="24 =439" xml:id="surface-ms-codex-201-453">
+      <graphic height="4742px" url="master/3760_0452.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0452_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0452_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="25 =440" xml:id="surface-ms-codex-201-454">
+      <graphic height="4742px" url="master/3760_0453.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0453_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0453_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="26 =441" xml:id="surface-ms-codex-201-455">
+      <graphic height="4742px" url="master/3760_0454.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0454_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0454_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="27 =442" xml:id="surface-ms-codex-201-456">
+      <graphic height="4742px" url="master/3760_0455.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0455_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0455_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="28 =443" xml:id="surface-ms-codex-201-457">
+      <graphic height="4742px" url="master/3760_0456.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0456_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0456_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="29 =444" xml:id="surface-ms-codex-201-458">
+      <graphic height="4742px" url="master/3760_0457.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0457_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0457_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="445" xml:id="surface-ms-codex-201-459">
+      <graphic height="4742px" url="master/3760_0458.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0458_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0458_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="446" xml:id="surface-ms-codex-201-460">
+      <graphic height="4742px" url="master/3760_0459.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0459_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0459_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="447" xml:id="surface-ms-codex-201-461">
+      <graphic height="4742px" url="master/3760_0460.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0460_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0460_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="448" xml:id="surface-ms-codex-201-462">
+      <graphic height="4742px" url="master/3760_0461.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0461_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0461_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="449" xml:id="surface-ms-codex-201-463">
+      <graphic height="4742px" url="master/3760_0462.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0462_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0462_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="450" xml:id="surface-ms-codex-201-464">
+      <graphic height="4742px" url="master/3760_0463.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0463_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0463_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="451" xml:id="surface-ms-codex-201-465">
+      <graphic height="4742px" url="master/3760_0464.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0464_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0464_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="452" xml:id="surface-ms-codex-201-466">
+      <graphic height="4742px" url="master/3760_0465.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0465_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0465_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="453" xml:id="surface-ms-codex-201-467">
+      <graphic height="4742px" url="master/3760_0466.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0466_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0466_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="454" xml:id="surface-ms-codex-201-468">
+      <graphic height="4742px" url="master/3760_0467.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0467_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0467_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="455" xml:id="surface-ms-codex-201-469">
+      <graphic height="4742px" url="master/3760_0468.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0468_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0468_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="456" xml:id="surface-ms-codex-201-470">
+      <graphic height="4742px" url="master/3760_0469.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0469_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0469_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="457" xml:id="surface-ms-codex-201-471">
+      <graphic height="4742px" url="master/3760_0470.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0470_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0470_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="458" xml:id="surface-ms-codex-201-472">
+      <graphic height="4742px" url="master/3760_0471.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0471_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0471_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="459" xml:id="surface-ms-codex-201-473">
+      <graphic height="4742px" url="master/3760_0472.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0472_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0472_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="460" xml:id="surface-ms-codex-201-474">
+      <graphic height="4742px" url="master/3760_0473.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0473_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0473_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="461" xml:id="surface-ms-codex-201-475">
+      <graphic height="4742px" url="master/3760_0474.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0474_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0474_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="462" xml:id="surface-ms-codex-201-476">
+      <graphic height="4742px" url="master/3760_0475.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0475_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0475_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="463" xml:id="surface-ms-codex-201-477">
+      <graphic height="4742px" url="master/3760_0476.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0476_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0476_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="464" xml:id="surface-ms-codex-201-478">
+      <graphic height="4742px" url="master/3760_0477.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0477_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0477_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="465" xml:id="surface-ms-codex-201-479">
+      <graphic height="4742px" url="master/3760_0478.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0478_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0478_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="466" xml:id="surface-ms-codex-201-480">
+      <graphic height="4742px" url="master/3760_0479.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0479_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0479_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="467" xml:id="surface-ms-codex-201-481">
+      <graphic height="4742px" url="master/3760_0480.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0480_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0480_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="468" xml:id="surface-ms-codex-201-482">
+      <graphic height="4742px" url="master/3760_0481.tif" width="3500px"/>
+      <graphic height="190px" url="thumb/3760_0481_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0481_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="469" xml:id="surface-ms-codex-201-483">
+      <graphic height="4742px" url="master/3760_0482.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0482_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0482_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="470" xml:id="surface-ms-codex-201-484">
+      <graphic height="4742px" url="master/3760_0483.tif" width="3501px"/>
+      <graphic height="190px" url="thumb/3760_0483_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0483_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ms-codex-201-485">
+      <graphic height="4742px" url="master/3760_0484.tif" width="3508px"/>
+      <graphic height="190px" url="thumb/3760_0484_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/3760_0484_web.jpg" width="1331px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ms-codex-201-486">
+      <graphic height="4742px" url="master/3760_0485.tif" width="3508px"/>
+      <graphic height="190px" url="thumb/3760_0485_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/3760_0485_web.jpg" width="1331px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-ms-codex-201-487">
+      <graphic height="4742px" url="master/3760_0486.tif" width="3504px"/>
+      <graphic height="190px" url="thumb/3760_0486_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/3760_0486_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-ms-codex-201-488">
+      <graphic height="4857px" url="master/3760_0487.tif" width="3508px"/>
+      <graphic height="190px" url="thumb/3760_0487_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/3760_0487_web.jpg" width="1300px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-ms-codex-201-489">
+      <graphic height="4857px" url="master/3760_0488.tif" width="3508px"/>
+      <graphic height="190px" url="thumb/3760_0488_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/3760_0488_web.jpg" width="1300px"/>
+    </surface>
+  </facsimile>
+</TEI>

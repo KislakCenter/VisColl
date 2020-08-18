@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis E M 19:9: Service book</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>David Kalish</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Dot Porter</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis E M 19:9: Service book are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis E M 19:9: Service book. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Initial S</note>
+        <note>This initial is typical of minor initial decoration found in Italian service books of the fifteenth century.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis Collection of European Manuscripts</collection>
+            <idno type="call-number">Lewis E M 19:9</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Service book</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>92 x 93 mm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1400" notAfter="1499"/>
+              <p>1400-1499</p>
+              <origPlace>Italy (northern)</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>15th century</term>
+          <term>Liturgy</term>
+          <term>Italy</term>
+          <term>Italian</term>
+          <term>Illustration</term>
+          <term>Illumination</term>
+          <term>Fragment</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis E M 19.9 front" xml:id="surface-lewis-e-m-19-9-1">
+      <graphic height="2468px" url="master/7669_0000.tif" width="3098px"/>
+      <graphic height="151px" url="thumb/7669_0000_thumb.jpg" width="190px"/>
+      <graphic height="1433px" url="web/7669_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Lewis E M 19.9 reverse" xml:id="surface-lewis-e-m-19-9-2">
+      <graphic height="2414px" url="master/7669_0001.tif" width="3098px"/>
+      <graphic height="148px" url="thumb/7669_0001_thumb.jpg" width="190px"/>
+      <graphic height="1402px" url="web/7669_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>
