@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis E M 27:6: Missal</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>David Kalish</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Dot Porter</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis E M 27:6: Missal are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis E M 27:6: Missal. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Initial B with St. Mary Magdalene praying</note>
+        <note>This initial begins the prayer, 'Beata Mariae Magdalenae, quaesumus Domine suffragiis adjuvemur ...' (Lord, we pray that we may find help in the intercession of blessed Mary Magdalene), recited during the Mass held in celebration of her feast (July 22).</note>
+        <note>This cutting has been dated to ca. 1420-1430.</note>
+        <note>This image shows the reverse of a cutting with an illuminated initial from a missal.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis Collection of European Manuscripts</collection>
+            <idno type="call-number">Lewis E M 27:6</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Missal</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>43 x 41 mm </extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Rotunda</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1400" notAfter="1450"/>
+              <p>1400-1450</p>
+              <origPlace>Venice, Italy</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>15th century</term>
+          <term>Italy</term>
+          <term>Italian</term>
+          <term>Missal</term>
+          <term>Liturgy</term>
+          <term>Illumination</term>
+          <term>Illustration</term>
+          <term>Fragment</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis E M 27.6 front" xml:id="surface-lewis-e-m-27-6-1">
+      <graphic height="1956px" url="master/7827_0000.tif" width="2424px"/>
+      <graphic height="190px" url="thumb/7827_0000_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/7827_0000_web.jpg" width="1452px"/>
+    </surface>
+    <surface n="Lewis E M 27.6 reverse" xml:id="surface-lewis-e-m-27-6-2">
+      <graphic height="1956px" url="master/7827_0001.tif" width="2424px"/>
+      <graphic height="190px" url="thumb/7827_0001_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/7827_0001_web.jpg" width="1452px"/>
+    </surface>
+  </facsimile>
+</TEI>

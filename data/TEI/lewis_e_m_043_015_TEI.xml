@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis E M 43:15: Initial G with St. Gregory I appearing to a group of Benedictine Monks</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>David Kalish</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Dot Porter</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia Lewis E M 43:15: Initial G with St. Gregory I appearing to a group of Benedictine Monks are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis E M 43:15: Initial G with St. Gregory I appearing to a group of Benedictine Monks. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The liturgy that this initial begins remains to be determined. The subject of this initial is unusual. It may represent St. Gregory I, appearing as a Benedictine monk, having divested himself of his cope and the papal tiara, which appears on the floor in front of two Benedictine monks. One of these monks holds a scroll inscribed, Ora Pater pro filiis tuis Ambertinensibus et pro scriptore horum voluminum (Pray, Father, for your Ambertine sons and for the scribe of this volume). An inscription on this monks robe identifies him as F. L. de la Baniere. A second monk, behind the first is also identified by an inscription as F. G. C Harmolue. These monks may have resided in a monastery in the town of Ambert in the Auvergne region of France. Lewis E M 43:15-18 are from the same manuscript.</note>
+        <note>This image shows the reverse of a cutting with an initial from a gradual.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <collection>John Frederick Lewis Collection of European Manuscripts</collection>
+            <idno type="call-number">Lewis E M 43:15</idno>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Initial G with St. Gregory I appearing to a group of Benedictine Monks</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>197 x 162 mm </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1500" notAfter="1525"/>
+              <p>1500-1525</p>
+              <origPlace>France</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>15th century</term>
+          <term>France</term>
+          <term>French</term>
+          <term>Gradual</term>
+          <term>Liturgy</term>
+          <term>Fragment</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Lewis E M 43.15 front" xml:id="surface-lewis-e-m-43-15-1">
+      <graphic height="5128px" url="master/8026_0000.tif" width="5022px"/>
+      <graphic height="190px" url="thumb/8026_0000_thumb.jpg" width="186px"/>
+      <graphic height="1800px" url="web/8026_0000_web.jpg" width="1763px"/>
+    </surface>
+    <surface n="Lewis E M 43.15 reverse" xml:id="surface-lewis-e-m-43-15-2">
+      <graphic height="5128px" url="master/8026_0001.tif" width="5022px"/>
+      <graphic height="190px" url="thumb/8026_0001_thumb.jpg" width="186px"/>
+      <graphic height="1800px" url="web/8026_0001_web.jpg" width="1763px"/>
+    </surface>
+  </facsimile>
+</TEI>

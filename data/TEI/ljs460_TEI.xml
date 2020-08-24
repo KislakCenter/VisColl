@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 460: Gathering from Ikhtiṣār lil-maqālāt min kitāb Uqlīdis.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts LJS 460: Gathering from Ikhtiṣār lil-maqālāt min kitāb Uqlīdis. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. gathering.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">LJS 460</idno>
+            <altIdentifier type="bibid">
+              <idno>9948056223503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/779348960</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4805622</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>One gathering, perhaps partial, from an abridgment in Arabic of Euclid's Elements, written on paper.</summary>
+            <textLang mainLang="ara">Arabic</textLang>
+            <msItem>
+              <title>Gathering from Ikhtiṣār lil-maqālāt min kitāb Uqlīdis.</title>
+              <author>
+                <persName type="authority">Euclid</persName>
+              </author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName type="authority">Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>8 leaves : 188 x 100 (145 x 60) mm</extent>
+                <collation>
+                  <p>Paper, 8 ; 1⁸.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 15 long lines; ruled with a misṭarah with approximately 8 mm. between lines, a standard measurement for manuscripts written in Egypt.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in naskh in dark brown ink; partially pointed.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>From a parent manuscript (LJS 37) written in Fatimid Egypt, Iraq, or Syria, between A.H. Jumādá al-Ūlá and Ramaḍān 502 (Dec. 1108-April 1109).</p>
+              <origDate>A.H. 502 (1108-1109)</origDate>
+              <origPlace>Egypt, Iraq, or Syria</origPlace>
+            </origin>
+            <provenance>From a parent manuscript (LJS 37) that was in Persia in the 18th century.</provenance>
+            <provenance>LJS 460 sold at auction at Christie's, 17 Oct. 2003, lot 407, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+            <provenance>Gift of Barbara Brizdle Schoenberg, 2016.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Geometry--Early works to 1800</term>
+          <term>Mathematics, Greek</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Abridgements</term>
+          <term>Treatises</term>
+          <term>Diagrams</term>
+          <term>Manuscripts, Arabic--12th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ljs-460-1">
+      <graphic height="4928px" url="master/0197_0000.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0000_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0000_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ljs-460-2">
+      <graphic height="4928px" url="master/0197_0001.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0001_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0001_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-ljs-460-3">
+      <graphic height="4928px" url="master/0197_0002.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0002_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0002_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ljs-460-4">
+      <graphic height="4928px" url="master/0197_0003.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0003_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0003_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="3r" xml:id="surface-ljs-460-5">
+      <graphic height="4928px" url="master/0197_0004.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0004_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0004_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-ljs-460-6">
+      <graphic height="4928px" url="master/0197_0005.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0005_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0005_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="4r" xml:id="surface-ljs-460-7">
+      <graphic height="4928px" url="master/0197_0006.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0006_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0006_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ljs-460-8">
+      <graphic height="4928px" url="master/0197_0007.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0007_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0007_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="5r" xml:id="surface-ljs-460-9">
+      <graphic height="4928px" url="master/0197_0008.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0008_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0008_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="5v" xml:id="surface-ljs-460-10">
+      <graphic height="4928px" url="master/0197_0009.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0009_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0009_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="6r" xml:id="surface-ljs-460-11">
+      <graphic height="4928px" url="master/0197_0010.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0010_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0010_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="6v" xml:id="surface-ljs-460-12">
+      <graphic height="4928px" url="master/0197_0011.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0011_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0011_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="7r" xml:id="surface-ljs-460-13">
+      <graphic height="4928px" url="master/0197_0012.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0012_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0012_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="7v" xml:id="surface-ljs-460-14">
+      <graphic height="4928px" url="master/0197_0013.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0013_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0013_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="8r" xml:id="surface-ljs-460-15">
+      <graphic height="4928px" url="master/0197_0014.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0014_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0014_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="8v" xml:id="surface-ljs-460-16">
+      <graphic height="4928px" url="master/0197_0015.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0015_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0015_web.jpg" width="1062px"/>
+    </surface>
+  </facsimile>
+</TEI>

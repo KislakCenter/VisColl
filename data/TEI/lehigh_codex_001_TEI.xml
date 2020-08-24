@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Special Collections, Lehigh Codex 1: Historia of St. Nicholas with the lections</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Andrew Stahlhut</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Amey Hutchins</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Special Collections</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Special Collections Lehigh Codex 1: Historia of St. Nicholas with the lections are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Lehigh University Libraries, Special Collections has waived all copyright and related or neighboring rights to this metadata about Special Collections Lehigh Codex 1: Historia of St. Nicholas with the lections. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Bethlehem</settlement>
+            <institution>Lehigh University</institution>
+            <repository>Special Collections</repository>
+            <idno type="call-number">Lehigh Codex 1</idno>
+            <altIdentifier type="Hirsh">
+              <idno>MS Hirsh 1</idno>
+            </altIdentifier>
+            <altIdentifier type="Accession">
+              <idno>183605</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>This manuscript is a partial leaf from a twelfth-century liturgical manuscript, probably written in Italy. The text on this leaf is from Reginold von Eichstätt's Historia of Saint Nicholas, a series of antiphons and responsories designed to be sung in the canonical Office on the feast of Saint Nicholas. Shortly after the composition of the Historia in the second half of the tenth century, lections were added, which were included in the source manuscript of this fragment. The responses, versicles, and antiphons are marked with neumes for chanting. This fragment was used in a binding.</summary>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Historia of St. Nicholas with the lections</title>
+              <author ref="https://viaf.org/viaf/57041897">Reginold von Eichstätt ca. um 966/91</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="https://viaf.org/viaf/78623406">Honeyman, Robert B.</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>1; 180 x 280 mm </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Two columns of eighteen lines on fragment; frame-ruled in lead; upper half of leaf missing; number of lines and height of written area of original layout impossible to determine; written area on fragment: 155 x 210 mm</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Gothic--rotunda</scriptNote>
+              <scriptNote>Chant text accompanied by neumes written in smaller script</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Two-line initials and rubrication in red</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1100" notAfter="1199"/>
+              <p>12th century</p>
+              <origPlace>Italy?</origPlace>
+            </origin>
+            <provenance>Gift of Robert B. Honeyman, Jr., 1931</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>12th century</term>
+          <term>Italian</term>
+          <term>Fragment</term>
+          <term>Musical notation</term>
+          <term>Italy</term>
+          <term>Liturgy</term>
+          <term>Devotion</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Loose leaf Side 1" xml:id="surface-lehigh-codex-1-1">
+      <graphic height="4569px" url="master/6696_0000.tif" width="7469px"/>
+      <graphic height="116px" url="thumb/6696_0000_thumb.jpg" width="190px"/>
+      <graphic height="1101px" url="web/6696_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Loose leaf Side 2" xml:id="surface-lehigh-codex-1-2">
+      <graphic height="4562px" url="master/6696_0001.tif" width="7469px"/>
+      <graphic height="116px" url="thumb/6696_0001_thumb.jpg" width="190px"/>
+      <graphic height="1099px" url="web/6696_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

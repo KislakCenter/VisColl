@@ -1,0 +1,2888 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Free Library of Philadelphia, Lewis E 110: Book of Hours, use of Rome</title>
+        <respStmt>
+          <resp>contributor</resp>
+          <persName>Karen Kirsheman</persName>
+        </respStmt>
+        <respStmt>
+          <resp>cataloger</resp>
+          <persName>Erin Connelly</persName>
+        </respStmt>
+        <funder>Council on Library and Information Resources</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Free Library of Philadelphia</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia, Lewis E 110: Book of Hours, use of Rome are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 Free Library of Philadelphia, Special Collections and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>On recto of front flyleaf: signed "John F. Lewis 1919" in pen, stamp of Thomas F. Richardson of Boston and pencil notes in Lewis's hand: "XIV century/Paris use/190 ff/12 miniatures/1360-1380/covers 100 years later." Written in pencil on fol. 120r: "T. F. Richardson manuscript written between 1360 and 1380 A.D. The covers are 100 years later. Lfs 190 and 12 miniatures. Style Parisian."</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <repository>Free Library of Philadelphia</repository>
+            <idno type="call-number">Lewis E 110</idno>
+            <altIdentifier type="resource">
+              <idno>https://know.freelibrary.org/Record/1597387</idno>
+            </altIdentifier>
+            <altIdentifier type="deRicci">
+              <idno>54</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>This manuscript is a Book of Hours from the early 15th century.</summary>
+            <textLang mainLang="lat" otherLangs="frm">Latin; French, Middle (ca.1400-1600)</textLang>
+            <msItem>
+              <title>Book of Hours, use of Rome</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Richardson, Thomas F.</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName ref="http://viaf.org/viaf/63874811">Lewis, John Frederick</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Lewis, Anne Baker</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus target="#surface-lewis-e-110-5">1r</locus>
+              <title>Calendar</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>i+188+i; 133 x 90 mm bound to 139 x 90 mm</extent>
+                <foliation>Modern foliation in pencil upper corner recto; inconsistent, mostly erased modern foliation in pencil lower center margin recto</foliation>
+                <collation>
+                  <p>1 (12), 2-12 (8), 13 (2), 14-23 (8), 24 (6)</p>
+                  <p>
+                    <catchwords>Horizontal lower margin center verso: fols. 28, 36, 44, 52, 60, 68, 76, 84, 92, 100, 110, 118, 126, 142, 150, 158, 166, 174, 182</catchwords>
+                  </p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Frame-ruled in red ink, every line ruled in one column of twelve lines; written area: 75 x 47 mm</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Gothic--textualis</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Ten full-page miniatures, two small miniatures; floral and inhabited borders throughout; one-, two-, and three-line initials decorated in red, blue, and gold and decorated line fillers throughout</decoNote>
+              <decoNote n="1r"><locus target="#surface-lewis-e-110-5">1r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="1r"><locus target="#surface-lewis-e-110-5">1r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="2r"><locus target="#surface-lewis-e-110-7">2r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="2r"><locus target="#surface-lewis-e-110-7">2r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="3r"><locus target="#surface-lewis-e-110-9">3r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="3r"><locus target="#surface-lewis-e-110-9">3r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="4r"><locus target="#surface-lewis-e-110-11">4r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="5r"><locus target="#surface-lewis-e-110-13">5r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="6r"><locus target="#surface-lewis-e-110-15">6r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="6r"><locus target="#surface-lewis-e-110-15">6r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="7r"><locus target="#surface-lewis-e-110-17">7r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="7r"><locus target="#surface-lewis-e-110-17">7r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="8r"><locus target="#surface-lewis-e-110-19">8r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="9r"><locus target="#surface-lewis-e-110-21">9r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="10r"><locus target="#surface-lewis-e-110-23">10r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="10r"><locus target="#surface-lewis-e-110-23">10r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="11r"><locus target="#surface-lewis-e-110-25">11r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="12r"><locus target="#surface-lewis-e-110-27">12r</locus>Illuminated initials KL</decoNote>
+              <decoNote n="13r"><locus target="#surface-lewis-e-110-29">13r</locus>Large Illuminated initial I</decoNote>
+              <decoNote n="14v"><locus target="#surface-lewis-e-110-32">14v</locus>Large Illuminated initial I</decoNote>
+              <decoNote n="16v"><locus target="#surface-lewis-e-110-36">16v</locus>Two line Illuminated initial C</decoNote>
+              <decoNote n="16v"><locus target="#surface-lewis-e-110-36">16v</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="18v"><locus target="#surface-lewis-e-110-40">18v</locus>Large Illuminated initial I</decoNote>
+              <decoNote n="21r"><locus target="#surface-lewis-e-110-45">21r</locus>Large miniature, Annunciation</decoNote>
+              <decoNote n="21r"><locus target="#surface-lewis-e-110-45">21r</locus>Three line Illuminated initial D</decoNote>
+              <decoNote n="21r"><locus target="#surface-lewis-e-110-45">21r</locus>Two Grotesques present in upper margin</decoNote>
+              <decoNote n="21v"><locus target="#surface-lewis-e-110-46">21v</locus>Two line Illuminated initial D</decoNote>
+              <decoNote n="21v"><locus target="#surface-lewis-e-110-46">21v</locus>Two line Illuminated initial U</decoNote>
+              <decoNote n="23v"><locus target="#surface-lewis-e-110-50">23v</locus>Large illuminated initial Q</decoNote>
+              <decoNote n="23v"><locus target="#surface-lewis-e-110-50">23v</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="24v"><locus target="#surface-lewis-e-110-52">24v</locus>Two line illuminated D</decoNote>
+              <decoNote n="26r"><locus target="#surface-lewis-e-110-55">26r</locus>Two line illuminated initial C</decoNote>
+              <decoNote n="26r"><locus target="#surface-lewis-e-110-55">26r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="28v"><locus target="#surface-lewis-e-110-60">28v</locus>Two line illuminated D</decoNote>
+              <decoNote n="30v"><locus target="#surface-lewis-e-110-64">30v</locus>Large illuminated I</decoNote>
+              <decoNote n="31r"><locus target="#surface-lewis-e-110-65">31r</locus>Two line illuminated E</decoNote>
+              <decoNote n="31v"><locus target="#surface-lewis-e-110-66">31v</locus>Large illuminated Q</decoNote>
+              <decoNote n="31v"><locus target="#surface-lewis-e-110-66">31v</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="32v"><locus target="#surface-lewis-e-110-68">32v</locus>Two line illuminated T</decoNote>
+              <decoNote n="35v"><locus target="#surface-lewis-e-110-74">35v</locus>Small miniature, Visitation</decoNote>
+              <decoNote n="36r"><locus target="#surface-lewis-e-110-75">36r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="37r"><locus target="#surface-lewis-e-110-77">37r</locus>Large illuminated initial I</decoNote>
+              <decoNote n="37r"><locus target="#surface-lewis-e-110-77">37r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="37v"><locus target="#surface-lewis-e-110-78">37v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="39r"><locus target="#surface-lewis-e-110-81">39r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="40v"><locus target="#surface-lewis-e-110-84">40v</locus>Two line illuminated initial B</decoNote>
+              <decoNote n="43r"><locus target="#surface-lewis-e-110-89">43r</locus>Large illuminated initial L</decoNote>
+              <decoNote n="46r"><locus target="#surface-lewis-e-110-95">46r</locus>Large illuminated initial L</decoNote>
+              <decoNote n="47r"><locus target="#surface-lewis-e-110-97">47r</locus>Two line illuminated initial U</decoNote>
+              <decoNote n="47r"><locus target="#surface-lewis-e-110-97">47r</locus>Two line illuminated initial O</decoNote>
+              <decoNote n="47r"><locus target="#surface-lewis-e-110-97">47r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="48r"><locus target="#surface-lewis-e-110-99">48r</locus>Two line illuminated initial B</decoNote>
+              <decoNote n="50r"><locus target="#surface-lewis-e-110-103">50r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="50r"><locus target="#surface-lewis-e-110-103">50r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="50v"><locus target="#surface-lewis-e-110-104">50v</locus>Large illuminated initial P</decoNote>
+              <decoNote n="50v"><locus target="#surface-lewis-e-110-104">50v</locus>Two line illuminated initial O</decoNote>
+              <decoNote n="51v"><locus target="#surface-lewis-e-110-106">51v</locus>Small miniature, Nativity</decoNote>
+              <decoNote n="51v"><locus target="#surface-lewis-e-110-106">51v</locus>Two line illuminated initial M</decoNote>
+              <decoNote n="52r"><locus target="#surface-lewis-e-110-107">52r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="52r"><locus target="#surface-lewis-e-110-107">52r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="53r"><locus target="#surface-lewis-e-110-109">53r</locus>Two line illuminated initial B</decoNote>
+              <decoNote n="55r"><locus target="#surface-lewis-e-110-113">55r</locus>Three line initial L</decoNote>
+              <decoNote n="55v"><locus target="#surface-lewis-e-110-114">55v</locus>Two line illuminated initial Q</decoNote>
+              <decoNote n="56r"><locus target="#surface-lewis-e-110-115">56r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="56r"><locus target="#surface-lewis-e-110-115">56r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="56v"><locus target="#surface-lewis-e-110-116">56v</locus>Two line illuminated initial E</decoNote>
+              <decoNote n="56v"><locus target="#surface-lewis-e-110-116">56v</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="57r"><locus target="#surface-lewis-e-110-117">57r</locus>Large miniature, Annunciation to the Shepherds</decoNote>
+              <decoNote n="57r"><locus target="#surface-lewis-e-110-117">57r</locus>Three line illuminated D</decoNote>
+              <decoNote n="57v"><locus target="#surface-lewis-e-110-118">57v</locus>Two line illuminated initial A</decoNote>
+              <decoNote n="58r"><locus target="#surface-lewis-e-110-119">58r</locus>Three line initial L</decoNote>
+              <decoNote n="58r"><locus target="#surface-lewis-e-110-119">58r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="59r"><locus target="#surface-lewis-e-110-121">59r</locus>Three line initial L</decoNote>
+              <decoNote n="60v"><locus target="#surface-lewis-e-110-124">60v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="60v"><locus target="#surface-lewis-e-110-124">60v</locus>Two line illuminated initial E</decoNote>
+              <decoNote n="61v"><locus target="#surface-lewis-e-110-126">61v</locus>Large miniature, Adoration of the Magi</decoNote>
+              <decoNote n="61v"><locus target="#surface-lewis-e-110-126">61v</locus>Three line illuminated D</decoNote>
+              <decoNote n="62r"><locus target="#surface-lewis-e-110-127">62r</locus>Two line illuminated initial H</decoNote>
+              <decoNote n="62r"><locus target="#surface-lewis-e-110-127">62r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="62v"><locus target="#surface-lewis-e-110-128">62v</locus>Two line illuminated initial N</decoNote>
+              <decoNote n="63v"><locus target="#surface-lewis-e-110-130">63v</locus>Two line illuminated initial Q</decoNote>
+              <decoNote n="64v"><locus target="#surface-lewis-e-110-132">64v</locus>Two line illuminated initial E</decoNote>
+              <decoNote n="65r"><locus target="#surface-lewis-e-110-133">65r</locus>Two line illuminated initial C</decoNote>
+              <decoNote n="66r"><locus target="#surface-lewis-e-110-135">66r</locus>Large miniature, Presentation in the Temple</decoNote>
+              <decoNote n="66r"><locus target="#surface-lewis-e-110-135">66r</locus>Three line illuminated D</decoNote>
+              <decoNote n="66v"><locus target="#surface-lewis-e-110-136">66v</locus>Large illuminated initial I</decoNote>
+              <decoNote n="67v"><locus target="#surface-lewis-e-110-138">67v</locus>Two line illuminated initial N</decoNote>
+              <decoNote n="68r"><locus target="#surface-lewis-e-110-139">68r</locus>Two line illuminated initial B</decoNote>
+              <decoNote n="69r"><locus target="#surface-lewis-e-110-141">69r</locus>Large illuminated initial I</decoNote>
+              <decoNote n="69r"><locus target="#surface-lewis-e-110-141">69r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="69v"><locus target="#surface-lewis-e-110-142">69v</locus>Four line illuminated initial F</decoNote>
+              <decoNote n="70r"><locus target="#surface-lewis-e-110-143">70r</locus>Three line illuminated initial P</decoNote>
+              <decoNote n="70v"><locus target="#surface-lewis-e-110-144">70v</locus>Large miniature, Coronation of the Virgin</decoNote>
+              <decoNote n="70v"><locus target="#surface-lewis-e-110-144">70v</locus>Three line illuminated D</decoNote>
+              <decoNote n="71r"><locus target="#surface-lewis-e-110-145">71r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="71r"><locus target="#surface-lewis-e-110-145">71r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="72r"><locus target="#surface-lewis-e-110-147">72r</locus>Large illuminated initial L</decoNote>
+              <decoNote n="72r"><locus target="#surface-lewis-e-110-147">72r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="73v"><locus target="#surface-lewis-e-110-150">73v</locus>Large illuminated initial L</decoNote>
+              <decoNote n="74v"><locus target="#surface-lewis-e-110-152">74v</locus>Two line Illuminated initial A</decoNote>
+              <decoNote n="75r"><locus target="#surface-lewis-e-110-153">75r</locus>Two line Illuminated initial A</decoNote>
+              <decoNote n="75r"><locus target="#surface-lewis-e-110-153">75r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="76r"><locus target="#surface-lewis-e-110-155">76r</locus>Two line illuminated initial M</decoNote>
+              <decoNote n="77r"><locus target="#surface-lewis-e-110-157">77r</locus>Two line illuminated initial C</decoNote>
+              <decoNote n="78r"><locus target="#surface-lewis-e-110-159">78r</locus>Large miniature, Flight into Egypt</decoNote>
+              <decoNote n="78r"><locus target="#surface-lewis-e-110-159">78r</locus>Two line illuminated C</decoNote>
+              <decoNote n="78v"><locus target="#surface-lewis-e-110-160">78v</locus>Two line illuminated S</decoNote>
+              <decoNote n="79v"><locus target="#surface-lewis-e-110-162">79v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="80v"><locus target="#surface-lewis-e-110-164">80v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="81r"><locus target="#surface-lewis-e-110-165">81r</locus>Two line illuminated initial E</decoNote>
+              <decoNote n="81v"><locus target="#surface-lewis-e-110-166">81v</locus>Two line illuminated initial N</decoNote>
+              <decoNote n="82r"><locus target="#surface-lewis-e-110-167">82r</locus>Two line illuminated initial B</decoNote>
+              <decoNote n="82v"><locus target="#surface-lewis-e-110-168">82v</locus>Two line illuminated initial E</decoNote>
+              <decoNote n="85v"><locus target="#surface-lewis-e-110-174">85v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="87r"><locus target="#surface-lewis-e-110-177">87r</locus>Large illuminated initial F</decoNote>
+              <decoNote n="88r"><locus target="#surface-lewis-e-110-179">88r</locus>Two line illuminated initial C</decoNote>
+              <decoNote n="90r"><locus target="#surface-lewis-e-110-183">90r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="90r"><locus target="#surface-lewis-e-110-183">90r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="92r"><locus target="#surface-lewis-e-110-187">92r</locus>Two line illuminated initial C</decoNote>
+              <decoNote n="92r"><locus target="#surface-lewis-e-110-187">92r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="94v"><locus target="#surface-lewis-e-110-192">94v</locus>Two line illuminated initial E</decoNote>
+              <decoNote n="94v"><locus target="#surface-lewis-e-110-192">94v</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="95r"><locus target="#surface-lewis-e-110-193">95r</locus>Two line illuminated initial C</decoNote>
+              <decoNote n="95v"><locus target="#surface-lewis-e-110-194">95v</locus>Two line illuminated initial M</decoNote>
+              <decoNote n="96v"><locus target="#surface-lewis-e-110-196">96v</locus>Two line illuminated initial Q</decoNote>
+              <decoNote n="96v"><locus target="#surface-lewis-e-110-196">96v</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="97v"><locus target="#surface-lewis-e-110-198">97v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="99v"><locus target="#surface-lewis-e-110-202">99v</locus>Two line illuminated initial E</decoNote>
+              <decoNote n="99v"><locus target="#surface-lewis-e-110-202">99v</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="103r"><locus target="#surface-lewis-e-110-209">103r</locus>Large miniature, God Enthroned in Majesty</decoNote>
+              <decoNote n="103r"><locus target="#surface-lewis-e-110-209">103r</locus>Three line illuminated initial D</decoNote>
+              <decoNote n="103r"><locus target="#surface-lewis-e-110-209">103r</locus>Grotesque in upper margin</decoNote>
+              <decoNote n="104v"><locus target="#surface-lewis-e-110-212">104v</locus>Two line illuminated initial B</decoNote>
+              <decoNote n="106v"><locus target="#surface-lewis-e-110-216">106v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="110r"><locus target="#surface-lewis-e-110-223">110r</locus>Two line illuminated initial M</decoNote>
+              <decoNote n="110r"><locus target="#surface-lewis-e-110-223">110r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="112v"><locus target="#surface-lewis-e-110-228">112v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="116v"><locus target="#surface-lewis-e-110-236">116v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="117v"><locus target="#surface-lewis-e-110-238">117v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="120r"><locus target="#surface-lewis-e-110-243">120r</locus>Large illuminated initial L</decoNote>
+              <decoNote n="120r"><locus target="#surface-lewis-e-110-243">120r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="125v"><locus target="#surface-lewis-e-110-254">125v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="126r"><locus target="#surface-lewis-e-110-255">126r</locus>Large illuminated initial F</decoNote>
+              <decoNote n="126v"><locus target="#surface-lewis-e-110-256">126v</locus>Large miniature, Crucifixion</decoNote>
+              <decoNote n="126v"><locus target="#surface-lewis-e-110-256">126v</locus>Three line illuminated initial D</decoNote>
+              <decoNote n="127r"><locus target="#surface-lewis-e-110-257">127r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="127r"><locus target="#surface-lewis-e-110-257">127r</locus>Two line illuminated initial P</decoNote>
+              <decoNote n="127r"><locus target="#surface-lewis-e-110-257">127r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="127v"><locus target="#surface-lewis-e-110-258">127v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="128r"><locus target="#surface-lewis-e-110-259">128r</locus>Three line illuminated initial H</decoNote>
+              <decoNote n="128v"><locus target="#surface-lewis-e-110-260">128v</locus>Large illuminated initial H</decoNote>
+              <decoNote n="128v"><locus target="#surface-lewis-e-110-260">128v</locus>Two line illuminated initial C</decoNote>
+              <decoNote n="129r"><locus target="#surface-lewis-e-110-261">129r</locus>Large illuminated initial L</decoNote>
+              <decoNote n="129r"><locus target="#surface-lewis-e-110-261">129r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="129v"><locus target="#surface-lewis-e-110-262">129v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="130r"><locus target="#surface-lewis-e-110-263">130r</locus>Large illuminated initial H</decoNote>
+              <decoNote n="130r"><locus target="#surface-lewis-e-110-263">130r</locus>Two line illuminated initial C</decoNote>
+              <decoNote n="130r"><locus target="#surface-lewis-e-110-263">130r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="131r"><locus target="#surface-lewis-e-110-265">131r</locus>Large miniature, Pentecost</decoNote>
+              <decoNote n="131r"><locus target="#surface-lewis-e-110-265">131r</locus>Three line illuminated initial D</decoNote>
+              <decoNote n="131v"><locus target="#surface-lewis-e-110-266">131v</locus>Two line illuminated initial N</decoNote>
+              <decoNote n="132r"><locus target="#surface-lewis-e-110-267">132r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="132r"><locus target="#surface-lewis-e-110-267">132r</locus>Two line illuminated initial O</decoNote>
+              <decoNote n="132v"><locus target="#surface-lewis-e-110-268">132v</locus>Two line illuminated initial S</decoNote>
+              <decoNote n="133r"><locus target="#surface-lewis-e-110-269">133r</locus>Two line illuminated initial S</decoNote>
+              <decoNote n="133r"><locus target="#surface-lewis-e-110-269">133r</locus>Two line illuminated initial S</decoNote>
+              <decoNote n="133r"><locus target="#surface-lewis-e-110-269">133r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="133v"><locus target="#surface-lewis-e-110-270">133v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="134r"><locus target="#surface-lewis-e-110-271">134r</locus>Two line illuminated initial S</decoNote>
+              <decoNote n="134r"><locus target="#surface-lewis-e-110-271">134r</locus>Two line illuminated initial S</decoNote>
+              <decoNote n="134r"><locus target="#surface-lewis-e-110-271">134r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="134v"><locus target="#surface-lewis-e-110-272">134v</locus>Four line illuminated initial H</decoNote>
+              <decoNote n="135r"><locus target="#surface-lewis-e-110-273">135r</locus>Large miniature, Priest Reciting the Office of the Dead over a shrouded corpse</decoNote>
+              <decoNote n="135r"><locus target="#surface-lewis-e-110-273">135r</locus>Three line illuminated initial D</decoNote>
+              <decoNote n="137r"><locus target="#surface-lewis-e-110-277">137r</locus>Two line illuminated initial C</decoNote>
+              <decoNote n="137r"><locus target="#surface-lewis-e-110-277">137r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="139r"><locus target="#surface-lewis-e-110-281">139r</locus>Large illuminated initial L</decoNote>
+              <decoNote n="139r"><locus target="#surface-lewis-e-110-281">139r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="140v"><locus target="#surface-lewis-e-110-284">140v</locus>Two line illuminated initial I</decoNote>
+              <decoNote n="141r"><locus target="#surface-lewis-e-110-285">141r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="141r"><locus target="#surface-lewis-e-110-285">141r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="141v"><locus target="#surface-lewis-e-110-286">141v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="142r"><locus target="#surface-lewis-e-110-287">142r</locus>Two line illuminated initial U</decoNote>
+              <decoNote n="142r"><locus target="#surface-lewis-e-110-287">142r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="144v"><locus target="#surface-lewis-e-110-292">144v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="147r"><locus target="#surface-lewis-e-110-297">147r</locus>Large illuminated initial P</decoNote>
+              <decoNote n="148r"><locus target="#surface-lewis-e-110-299">148r</locus>Two line illuminated initial T</decoNote>
+              <decoNote n="148r"><locus target="#surface-lewis-e-110-299">148r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="149v"><locus target="#surface-lewis-e-110-302">149v</locus>Two line illuminated initial M</decoNote>
+              <decoNote n="150r"><locus target="#surface-lewis-e-110-303">150r</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="151v"><locus target="#surface-lewis-e-110-306">151v</locus>Two line illuminated initial A</decoNote>
+              <decoNote n="154v"><locus target="#surface-lewis-e-110-312">154v</locus>Two line illuminated initial D</decoNote>
+              <decoNote n="157v"><locus target="#surface-lewis-e-110-318">157v</locus>Two line illuminated initial R</decoNote>
+              <decoNote n="158r"><locus target="#surface-lewis-e-110-319">158r</locus>Four line illuminated initial H</decoNote>
+              <decoNote n="159r"><locus target="#surface-lewis-e-110-321">159r</locus>Two line illuminated initial Q</decoNote>
+              <decoNote n="160v"><locus target="#surface-lewis-e-110-324">160v</locus>Two line illuminated initial E</decoNote>
+              <decoNote n="164r"><locus target="#surface-lewis-e-110-331">164r</locus>Two line illuminated initial B</decoNote>
+              <decoNote n="166r"><locus target="#surface-lewis-e-110-335">166r</locus>Two line illuminated initial Q</decoNote>
+              <decoNote n="168v"><locus target="#surface-lewis-e-110-340">168v</locus>Two line illuminated initial S</decoNote>
+              <decoNote n="170r"><locus target="#surface-lewis-e-110-343">170r</locus>Four line illuminated initial P</decoNote>
+              <decoNote n="170r"><locus target="#surface-lewis-e-110-343">170r</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="171v"><locus target="#surface-lewis-e-110-346">171v</locus>Two line illuminated initial Q</decoNote>
+              <decoNote n="173r"><locus target="#surface-lewis-e-110-349">173r</locus>Two line illuminated initial T</decoNote>
+              <decoNote n="175v"><locus target="#surface-lewis-e-110-354">175v</locus>Two line illuminated initial E</decoNote>
+              <decoNote n="175v"><locus target="#surface-lewis-e-110-354">175v</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="178v"><locus target="#surface-lewis-e-110-360">178v</locus>Three line illuminated initial O</decoNote>
+              <decoNote n="178v"><locus target="#surface-lewis-e-110-360">178v</locus>Border inhabited by an illuminated dragon</decoNote>
+              <decoNote n="183r"><locus target="#surface-lewis-e-110-369">183r</locus>Three line illuminated initial O</decoNote>
+              <decoNote n="183r"><locus target="#surface-lewis-e-110-369">183r</locus>Border inhabited by an illuminated dragon</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Flemish, early sixteenth-century stamped calf; panel with Saint Roch (1295-1327) dressed as a pilgrim accompanied by an angel and a dog repeated twice on the front cover and twice on the back, other stamps of a dog, a wyvern, a dragon, and a deer; edges gilded and gauffered; leather has been repaired and the spine rebacked</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate notBefore="1400" notAfter="1415"/>
+              <p>Early 15th century</p>
+              <origPlace>Northern France</origPlace>
+            </origin>
+            <provenance>Thomas F. Richardson, Boston; John Frederick Lewis, Philadelphia; given by his widow, Anne Baker Lewis, to the Free Library of Philadelphia in 1936</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="keywords">
+          <category xml:id="keyword_1">
+            <catDesc>Book Type</catDesc>
+            <category xml:id="keyword_1.2">
+              <catDesc>Antiphonary</catDesc>
+            </category>
+            <category xml:id="keyword_1.3">
+              <catDesc>Armorial</catDesc>
+            </category>
+            <category xml:id="keyword_1.4">
+              <catDesc>Bible</catDesc>
+            </category>
+            <category xml:id="keyword_1.5">
+              <catDesc>Biography</catDesc>
+            </category>
+            <category xml:id="keyword_1.6">
+              <catDesc>Book of Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.7">
+              <catDesc>Breviary</catDesc>
+            </category>
+            <category xml:id="keyword_1.8">
+              <catDesc>Chronicle</catDesc>
+            </category>
+            <category xml:id="keyword_1.9">
+              <catDesc>Document</catDesc>
+            </category>
+            <category xml:id="keyword_1.10">
+              <catDesc>Friendship book</catDesc>
+            </category>
+            <category xml:id="keyword_1.11">
+              <catDesc>Genealogy</catDesc>
+            </category>
+            <category xml:id="keyword_1.12">
+              <catDesc>Gospel Book</catDesc>
+            </category>
+            <category xml:id="keyword_1.13">
+              <catDesc>Gospel Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.14">
+              <catDesc>Gospels</catDesc>
+            </category>
+            <category xml:id="keyword_1.15">
+              <catDesc>Gradual</catDesc>
+            </category>
+            <category xml:id="keyword_1.16">
+              <catDesc>Haggadah</catDesc>
+            </category>
+            <category xml:id="keyword_1.17">
+              <catDesc>Homilary</catDesc>
+            </category>
+            <category xml:id="keyword_1.18">
+              <catDesc>Horologion</catDesc>
+            </category>
+            <category xml:id="keyword_1.19">
+              <catDesc>Hymnal</catDesc>
+            </category>
+            <category xml:id="keyword_1.20">
+              <catDesc>Koran</catDesc>
+            </category>
+            <category xml:id="keyword_1.21">
+              <catDesc>Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.22">
+              <catDesc>Mass book</catDesc>
+            </category>
+            <category xml:id="keyword_1.23">
+              <catDesc>Miscellany</catDesc>
+            </category>
+            <category xml:id="keyword_1.24">
+              <catDesc>Missal</catDesc>
+            </category>
+            <category xml:id="keyword_1.25">
+              <catDesc>Pontifical</catDesc>
+            </category>
+            <category xml:id="keyword_1.26">
+              <catDesc>Prayer</catDesc>
+            </category>
+            <category xml:id="keyword_1.27">
+              <catDesc>Prayer book</catDesc>
+            </category>
+            <category xml:id="keyword_1.28">
+              <catDesc>Private devotional text</catDesc>
+            </category>
+            <category xml:id="keyword_1.29">
+              <catDesc>Processional</catDesc>
+            </category>
+            <category xml:id="keyword_1.30">
+              <catDesc>Protective scroll</catDesc>
+            </category>
+            <category xml:id="keyword_1.31">
+              <catDesc>Psalter</catDesc>
+            </category>
+            <category xml:id="keyword_1.32">
+              <catDesc>Psalter-Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.33">
+              <catDesc>Qur`an</catDesc>
+            </category>
+            <category xml:id="keyword_1.34">
+              <catDesc>Recipe book</catDesc>
+            </category>
+            <category xml:id="keyword_1.35">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.36">
+              <catDesc>Treatise</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_2">
+            <catDesc>Century</catDesc>
+            <category xml:id="keyword_2.2">
+              <catDesc>8th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.3">
+              <catDesc>9th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.4">
+              <catDesc>10th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.5">
+              <catDesc>11th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.6">
+              <catDesc>12th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.7">
+              <catDesc>13th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.8">
+              <catDesc>14th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.9">
+              <catDesc>15th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.10">
+              <catDesc>16th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.11">
+              <catDesc>17th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.12">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.13">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.14">
+              <catDesc>20th century</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_3">
+            <catDesc>Culture</catDesc>
+            <category xml:id="keyword_3.2">
+              <catDesc>Abbasid</catDesc>
+            </category>
+            <category xml:id="keyword_3.3">
+              <catDesc>Arabic</catDesc>
+            </category>
+            <category xml:id="keyword_3.4">
+              <catDesc>Armenian</catDesc>
+            </category>
+            <category xml:id="keyword_3.5">
+              <catDesc>Ashkenazi</catDesc>
+            </category>
+            <category xml:id="keyword_3.6">
+              <catDesc>Austrian</catDesc>
+            </category>
+            <category xml:id="keyword_3.7">
+              <catDesc>Byzantine</catDesc>
+            </category>
+            <category xml:id="keyword_3.8">
+              <catDesc>Carolingian</catDesc>
+            </category>
+            <category xml:id="keyword_3.9">
+              <catDesc>Chinese</catDesc>
+            </category>
+            <category xml:id="keyword_3.10">
+              <catDesc>Christian</catDesc>
+            </category>
+            <category xml:id="keyword_3.11">
+              <catDesc>Coptic</catDesc>
+            </category>
+            <category xml:id="keyword_3.12">
+              <catDesc>Dutch</catDesc>
+            </category>
+            <category xml:id="keyword_3.13">
+              <catDesc>Egyptian</catDesc>
+            </category>
+            <category xml:id="keyword_3.14">
+              <catDesc>English</catDesc>
+            </category>
+            <category xml:id="keyword_3.15">
+              <catDesc>Ethiopian</catDesc>
+            </category>
+            <category xml:id="keyword_3.16">
+              <catDesc>Fatimid</catDesc>
+            </category>
+            <category xml:id="keyword_3.17">
+              <catDesc>Flemish</catDesc>
+            </category>
+            <category xml:id="keyword_3.18">
+              <catDesc>French</catDesc>
+            </category>
+            <category xml:id="keyword_3.19">
+              <catDesc>German</catDesc>
+            </category>
+            <category xml:id="keyword_3.20">
+              <catDesc>Indian</catDesc>
+            </category>
+            <category xml:id="keyword_3.21">
+              <catDesc>Islamic</catDesc>
+            </category>
+            <category xml:id="keyword_3.22">
+              <catDesc>Italian</catDesc>
+            </category>
+            <category xml:id="keyword_3.23">
+              <catDesc>Jewish</catDesc>
+            </category>
+            <category xml:id="keyword_3.24">
+              <catDesc>Mamluk</catDesc>
+            </category>
+            <category xml:id="keyword_3.25">
+              <catDesc>Mughal</catDesc>
+            </category>
+            <category xml:id="keyword_3.26">
+              <catDesc>Ottoman</catDesc>
+            </category>
+            <category xml:id="keyword_3.27">
+              <catDesc>Ottonian</catDesc>
+            </category>
+            <category xml:id="keyword_3.28">
+              <catDesc>Persian</catDesc>
+            </category>
+            <category xml:id="keyword_3.29">
+              <catDesc>Qajar</catDesc>
+            </category>
+            <category xml:id="keyword_3.30">
+              <catDesc>Rajput</catDesc>
+            </category>
+            <category xml:id="keyword_3.31">
+              <catDesc>Russian</catDesc>
+            </category>
+            <category xml:id="keyword_3.32">
+              <catDesc>Safavid</catDesc>
+            </category>
+            <category xml:id="keyword_3.33">
+              <catDesc>Sephardi</catDesc>
+            </category>
+            <category xml:id="keyword_3.34">
+              <catDesc>Spanish</catDesc>
+            </category>
+            <category xml:id="keyword_3.35">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.36">
+              <catDesc>Turkish</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_4">
+            <catDesc>Desciptive term</catDesc>
+            <category xml:id="keyword_4.2">
+              <catDesc>Accordion book</catDesc>
+            </category>
+            <category xml:id="keyword_4.3">
+              <catDesc>Album</catDesc>
+            </category>
+            <category xml:id="keyword_4.4">
+              <catDesc>Annotated</catDesc>
+            </category>
+            <category xml:id="keyword_4.5">
+              <catDesc>Binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.6">
+              <catDesc>Calligraphy</catDesc>
+            </category>
+            <category xml:id="keyword_4.7">
+              <catDesc>Caroline minuscule</catDesc>
+            </category>
+            <category xml:id="keyword_4.8">
+              <catDesc>Chart</catDesc>
+            </category>
+            <category xml:id="keyword_4.9">
+              <catDesc>Charter</catDesc>
+            </category>
+            <category xml:id="keyword_4.10">
+              <catDesc>Charts</catDesc>
+            </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Colophon</catDesc>
+            </category>
+            <category xml:id="keyword_4.12">
+              <catDesc>Drawing</catDesc>
+            </category>
+            <category xml:id="keyword_4.13">
+              <catDesc>Early Abbasid script</catDesc>
+            </category>
+            <category xml:id="keyword_4.14">
+              <catDesc>Gloss</catDesc>
+            </category>
+            <category xml:id="keyword_4.15">
+              <catDesc>Gothic</catDesc>
+            </category>
+            <category xml:id="keyword_4.16">
+              <catDesc>Gothic book hand</catDesc>
+            </category>
+            <category xml:id="keyword_4.17">
+              <catDesc>Grisaille</catDesc>
+            </category>
+            <category xml:id="keyword_4.18">
+              <catDesc>Grotesques</catDesc>
+            </category>
+            <category xml:id="keyword_4.19">
+              <catDesc>Headpiece</catDesc>
+            </category>
+            <category xml:id="keyword_4.20">
+              <catDesc>Heraldry</catDesc>
+            </category>
+            <category xml:id="keyword_4.21">
+              <catDesc>Historiated initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.22">
+              <catDesc>Humanistic</catDesc>
+            </category>
+            <category xml:id="keyword_4.23">
+              <catDesc>Illustration</catDesc>
+            </category>
+            <category xml:id="keyword_4.24">
+              <catDesc>Inhabited initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.25">
+              <catDesc>Kufic</catDesc>
+            </category>
+            <category xml:id="keyword_4.26">
+              <catDesc>Manicules</catDesc>
+            </category>
+            <category xml:id="keyword_4.27">
+              <catDesc>Medallion</catDesc>
+            </category>
+            <category xml:id="keyword_4.28">
+              <catDesc>Micrography</catDesc>
+            </category>
+            <category xml:id="keyword_4.29">
+              <catDesc>Miniature</catDesc>
+            </category>
+            <category xml:id="keyword_4.30">
+              <catDesc>Musical notation</catDesc>
+            </category>
+            <category xml:id="keyword_4.31">
+              <catDesc>New Abbasid style</catDesc>
+            </category>
+            <category xml:id="keyword_4.32">
+              <catDesc>Original binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.33">
+              <catDesc>Ornament</catDesc>
+            </category>
+            <category xml:id="keyword_4.34">
+              <catDesc>Painting</catDesc>
+            </category>
+            <category xml:id="keyword_4.35">
+              <catDesc>Puzzle initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.36">
+              <catDesc>Ragini</catDesc>
+            </category>
+            <category xml:id="keyword_4.37">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.38">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.39">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.40">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.41">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.42">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.43">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.44">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.45">
+              <catDesc>Woodcuts</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_5">
+            <catDesc>Geography</catDesc>
+            <category xml:id="keyword_5.2">
+              <catDesc>Afghanistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.3">
+              <catDesc>Armenia</catDesc>
+            </category>
+            <category xml:id="keyword_5.4">
+              <catDesc>Austria</catDesc>
+            </category>
+            <category xml:id="keyword_5.5">
+              <catDesc>Belgium</catDesc>
+            </category>
+            <category xml:id="keyword_5.6">
+              <catDesc>Central Arab lands (Near East)</catDesc>
+            </category>
+            <category xml:id="keyword_5.7">
+              <catDesc>Central Asia</catDesc>
+            </category>
+            <category xml:id="keyword_5.8">
+              <catDesc>China</catDesc>
+            </category>
+            <category xml:id="keyword_5.9">
+              <catDesc>Egypt</catDesc>
+            </category>
+            <category xml:id="keyword_5.10">
+              <catDesc>England</catDesc>
+            </category>
+            <category xml:id="keyword_5.11">
+              <catDesc>Ethiopia</catDesc>
+            </category>
+            <category xml:id="keyword_5.12">
+              <catDesc>Flanders</catDesc>
+            </category>
+            <category xml:id="keyword_5.13">
+              <catDesc>France</catDesc>
+            </category>
+            <category xml:id="keyword_5.14">
+              <catDesc>Germany</catDesc>
+            </category>
+            <category xml:id="keyword_5.15">
+              <catDesc>Greece</catDesc>
+            </category>
+            <category xml:id="keyword_5.16">
+              <catDesc>India</catDesc>
+            </category>
+            <category xml:id="keyword_5.17">
+              <catDesc>Iran</catDesc>
+            </category>
+            <category xml:id="keyword_5.18">
+              <catDesc>Iraq</catDesc>
+            </category>
+            <category xml:id="keyword_5.19">
+              <catDesc>Italy</catDesc>
+            </category>
+            <category xml:id="keyword_5.20">
+              <catDesc>Maghreb</catDesc>
+            </category>
+            <category xml:id="keyword_5.21">
+              <catDesc>Morocco</catDesc>
+            </category>
+            <category xml:id="keyword_5.22">
+              <catDesc>Netherlands</catDesc>
+            </category>
+            <category xml:id="keyword_5.23">
+              <catDesc>Pakistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.24">
+              <catDesc>Romania</catDesc>
+            </category>
+            <category xml:id="keyword_5.25">
+              <catDesc>Russia</catDesc>
+            </category>
+            <category xml:id="keyword_5.26">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.27">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.28">
+              <catDesc>Turkey</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_6">
+            <catDesc>Subject</catDesc>
+            <category xml:id="keyword_6.2">
+              <catDesc>Astrology</catDesc>
+            </category>
+            <category xml:id="keyword_6.3">
+              <catDesc>Astronomy</catDesc>
+            </category>
+            <category xml:id="keyword_6.4">
+              <catDesc>Cartography</catDesc>
+            </category>
+            <category xml:id="keyword_6.5">
+              <catDesc>Cosmology</catDesc>
+            </category>
+            <category xml:id="keyword_6.6">
+              <catDesc>Devotion</catDesc>
+            </category>
+            <category xml:id="keyword_6.7">
+              <catDesc>Fortune-telling</catDesc>
+            </category>
+            <category xml:id="keyword_6.8">
+              <catDesc>Friendship</catDesc>
+            </category>
+            <category xml:id="keyword_6.9">
+              <catDesc>Games</catDesc>
+            </category>
+            <category xml:id="keyword_6.10">
+              <catDesc>Geography</catDesc>
+            </category>
+            <category xml:id="keyword_6.11">
+              <catDesc>Geomancy</catDesc>
+            </category>
+            <category xml:id="keyword_6.12">
+              <catDesc>Grammar</catDesc>
+            </category>
+            <category xml:id="keyword_6.13">
+              <catDesc>History</catDesc>
+            </category>
+            <category xml:id="keyword_6.14">
+              <catDesc>Kabbalah</catDesc>
+            </category>
+            <category xml:id="keyword_6.15">
+              <catDesc>Legal</catDesc>
+            </category>
+            <category xml:id="keyword_6.16">
+              <catDesc>Literature -- Poetry</catDesc>
+            </category>
+            <category xml:id="keyword_6.17">
+              <catDesc>Literature -- Prose</catDesc>
+            </category>
+            <category xml:id="keyword_6.18">
+              <catDesc>Liturgy</catDesc>
+            </category>
+            <category xml:id="keyword_6.19">
+              <catDesc>Logic</catDesc>
+            </category>
+            <category xml:id="keyword_6.20">
+              <catDesc>Magic</catDesc>
+            </category>
+            <category xml:id="keyword_6.21">
+              <catDesc>Mathematics</catDesc>
+            </category>
+            <category xml:id="keyword_6.22">
+              <catDesc>Mineralogy</catDesc>
+            </category>
+            <category xml:id="keyword_6.23">
+              <catDesc>Philosophy</catDesc>
+            </category>
+            <category xml:id="keyword_6.24">
+              <catDesc>Piyutim</catDesc>
+            </category>
+            <category xml:id="keyword_6.25">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.26">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.27">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.28">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.29">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.30">
+              <catDesc>Theology</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_7">
+            <catDesc>Other</catDesc>
+            <category xml:id="keyword_7.2">
+              <catDesc>Collection of Sermons</catDesc>
+            </category>
+            <category xml:id="keyword_7.3">
+              <catDesc>Notable binding</catDesc>
+            </category>
+            <category xml:id="keyword_7.4">
+              <catDesc>Paper</catDesc>
+            </category>
+            <category xml:id="keyword_7.5">
+              <catDesc>Damage</catDesc>
+            </category>
+            <category xml:id="keyword_7.6">
+              <catDesc>Diagrams</catDesc>
+            </category>
+            <category xml:id="keyword_7.7">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_7.8">
+              <catDesc>Illumination</catDesc>
+            </category>
+            <category xml:id="keyword_7.9">
+              <catDesc>Fragment</catDesc>
+            </category>
+            <category xml:id="keyword_7.10">
+              <catDesc>Allegory</catDesc>
+            </category>
+            <category xml:id="keyword_7.11">
+              <catDesc>Biblical</catDesc>
+            </category>
+            <category xml:id="keyword_7.12">
+              <catDesc>Missing leaves</catDesc>
+            </category>
+            <category xml:id="keyword_7.13">
+              <catDesc>Church Fathers</catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="keywords">
+          <term>Book of Hours</term>
+          <term>15th century</term>
+          <term>France</term>
+          <term>French</term>
+          <term>Christian</term>
+          <term>Miniature</term>
+          <term>Flemish</term>
+          <term>Inhabited initial</term>
+          <term>Devotion</term>
+          <term>Private devotional text</term>
+          <term>Liturgy</term>
+          <term>Illustration</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-lewis-e-110-1">
+      <graphic height="3903px" url="master/4877_0000.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0000_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0000_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-lewis-e-110-2">
+      <graphic height="3903px" url="master/4877_0001.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0001_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0001_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-lewis-e-110-3">
+      <graphic height="3903px" url="master/4877_0002.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0002_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0002_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-lewis-e-110-4">
+      <graphic height="3903px" url="master/4877_0003.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0003_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0003_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="1r" xml:id="surface-lewis-e-110-5">
+      <graphic height="3903px" url="master/4877_0004.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0004_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0004_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-lewis-e-110-6">
+      <graphic height="3903px" url="master/4877_0005.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0005_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0005_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-lewis-e-110-7">
+      <graphic height="3903px" url="master/4877_0006.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0006_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0006_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-lewis-e-110-8">
+      <graphic height="3903px" url="master/4877_0007.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0007_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0007_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="3r" xml:id="surface-lewis-e-110-9">
+      <graphic height="3903px" url="master/4877_0008.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0008_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0008_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-lewis-e-110-10">
+      <graphic height="3903px" url="master/4877_0009.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0009_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0009_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="4r" xml:id="surface-lewis-e-110-11">
+      <graphic height="3903px" url="master/4877_0010.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0010_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0010_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-lewis-e-110-12">
+      <graphic height="3903px" url="master/4877_0011.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0011_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0011_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="5r" xml:id="surface-lewis-e-110-13">
+      <graphic height="3903px" url="master/4877_0012.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0012_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0012_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="5v" xml:id="surface-lewis-e-110-14">
+      <graphic height="3903px" url="master/4877_0013.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0013_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0013_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="6r" xml:id="surface-lewis-e-110-15">
+      <graphic height="3903px" url="master/4877_0014.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0014_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0014_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="6v" xml:id="surface-lewis-e-110-16">
+      <graphic height="3903px" url="master/4877_0015.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0015_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0015_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="7r" xml:id="surface-lewis-e-110-17">
+      <graphic height="3903px" url="master/4877_0016.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0016_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0016_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="7v" xml:id="surface-lewis-e-110-18">
+      <graphic height="3903px" url="master/4877_0017.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0017_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0017_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="8r" xml:id="surface-lewis-e-110-19">
+      <graphic height="3903px" url="master/4877_0018.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0018_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0018_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="8v" xml:id="surface-lewis-e-110-20">
+      <graphic height="3903px" url="master/4877_0019.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0019_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0019_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="9r" xml:id="surface-lewis-e-110-21">
+      <graphic height="3903px" url="master/4877_0020.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0020_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0020_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="9v" xml:id="surface-lewis-e-110-22">
+      <graphic height="3903px" url="master/4877_0021.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0021_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0021_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="10r" xml:id="surface-lewis-e-110-23">
+      <graphic height="3903px" url="master/4877_0022.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0022_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0022_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="10v" xml:id="surface-lewis-e-110-24">
+      <graphic height="3903px" url="master/4877_0023.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0023_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0023_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="11r" xml:id="surface-lewis-e-110-25">
+      <graphic height="3903px" url="master/4877_0024.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0024_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0024_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="11v" xml:id="surface-lewis-e-110-26">
+      <graphic height="3903px" url="master/4877_0025.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0025_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0025_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="12r" xml:id="surface-lewis-e-110-27">
+      <graphic height="3903px" url="master/4877_0026.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0026_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0026_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="12v" xml:id="surface-lewis-e-110-28">
+      <graphic height="3903px" url="master/4877_0027.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0027_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0027_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="13r" xml:id="surface-lewis-e-110-29">
+      <graphic height="3903px" url="master/4877_0028.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0028_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0028_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="13v" xml:id="surface-lewis-e-110-30">
+      <graphic height="3903px" url="master/4877_0029.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0029_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0029_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="14r" xml:id="surface-lewis-e-110-31">
+      <graphic height="3903px" url="master/4877_0030.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0030_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0030_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="14v" xml:id="surface-lewis-e-110-32">
+      <graphic height="3903px" url="master/4877_0031.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0031_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0031_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="15r" xml:id="surface-lewis-e-110-33">
+      <graphic height="3903px" url="master/4877_0032.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0032_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0032_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="15v" xml:id="surface-lewis-e-110-34">
+      <graphic height="3903px" url="master/4877_0033.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0033_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0033_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="16r" xml:id="surface-lewis-e-110-35">
+      <graphic height="3903px" url="master/4877_0034.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0034_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0034_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="16v" xml:id="surface-lewis-e-110-36">
+      <graphic height="3903px" url="master/4877_0035.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0035_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0035_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="17r" xml:id="surface-lewis-e-110-37">
+      <graphic height="3903px" url="master/4877_0036.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0036_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0036_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="17v" xml:id="surface-lewis-e-110-38">
+      <graphic height="3903px" url="master/4877_0037.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0037_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0037_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="18r" xml:id="surface-lewis-e-110-39">
+      <graphic height="3903px" url="master/4877_0038.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0038_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0038_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="18v" xml:id="surface-lewis-e-110-40">
+      <graphic height="3903px" url="master/4877_0039.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0039_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0039_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="19r" xml:id="surface-lewis-e-110-41">
+      <graphic height="3903px" url="master/4877_0040.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0040_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0040_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="19v" xml:id="surface-lewis-e-110-42">
+      <graphic height="3903px" url="master/4877_0041.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0041_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0041_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="20r" xml:id="surface-lewis-e-110-43">
+      <graphic height="3903px" url="master/4877_0042.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0042_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0042_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="20v" xml:id="surface-lewis-e-110-44">
+      <graphic height="3903px" url="master/4877_0043.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0043_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0043_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="21r" xml:id="surface-lewis-e-110-45">
+      <graphic height="3903px" url="master/4877_0044.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0044_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0044_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="21v" xml:id="surface-lewis-e-110-46">
+      <graphic height="3903px" url="master/4877_0045.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0045_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0045_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="22r" xml:id="surface-lewis-e-110-47">
+      <graphic height="3903px" url="master/4877_0046.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0046_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0046_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="22v" xml:id="surface-lewis-e-110-48">
+      <graphic height="3903px" url="master/4877_0047.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0047_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0047_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="23r" xml:id="surface-lewis-e-110-49">
+      <graphic height="3903px" url="master/4877_0048.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0048_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0048_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="23v" xml:id="surface-lewis-e-110-50">
+      <graphic height="3903px" url="master/4877_0049.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0049_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0049_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="24r" xml:id="surface-lewis-e-110-51">
+      <graphic height="3903px" url="master/4877_0050.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0050_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0050_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="24v" xml:id="surface-lewis-e-110-52">
+      <graphic height="3903px" url="master/4877_0051.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0051_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0051_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="25r" xml:id="surface-lewis-e-110-53">
+      <graphic height="3903px" url="master/4877_0052.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0052_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0052_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="25v" xml:id="surface-lewis-e-110-54">
+      <graphic height="3903px" url="master/4877_0053.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0053_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0053_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="26r" xml:id="surface-lewis-e-110-55">
+      <graphic height="3903px" url="master/4877_0054.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0054_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0054_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="26v" xml:id="surface-lewis-e-110-56">
+      <graphic height="3903px" url="master/4877_0055.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0055_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0055_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="27r" xml:id="surface-lewis-e-110-57">
+      <graphic height="3903px" url="master/4877_0056.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0056_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0056_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="27v" xml:id="surface-lewis-e-110-58">
+      <graphic height="3903px" url="master/4877_0057.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0057_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0057_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="28r" xml:id="surface-lewis-e-110-59">
+      <graphic height="3903px" url="master/4877_0058.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0058_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0058_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="28v" xml:id="surface-lewis-e-110-60">
+      <graphic height="3903px" url="master/4877_0059.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0059_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0059_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="29r" xml:id="surface-lewis-e-110-61">
+      <graphic height="3903px" url="master/4877_0060.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0060_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0060_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="29v" xml:id="surface-lewis-e-110-62">
+      <graphic height="3903px" url="master/4877_0061.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0061_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0061_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="30r" xml:id="surface-lewis-e-110-63">
+      <graphic height="3903px" url="master/4877_0062.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0062_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0062_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="30v" xml:id="surface-lewis-e-110-64">
+      <graphic height="3903px" url="master/4877_0063.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0063_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0063_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="31r" xml:id="surface-lewis-e-110-65">
+      <graphic height="3903px" url="master/4877_0064.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0064_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0064_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="31v" xml:id="surface-lewis-e-110-66">
+      <graphic height="3903px" url="master/4877_0065.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0065_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0065_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="32r" xml:id="surface-lewis-e-110-67">
+      <graphic height="3903px" url="master/4877_0066.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0066_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0066_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="32v" xml:id="surface-lewis-e-110-68">
+      <graphic height="3903px" url="master/4877_0067.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0067_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0067_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="33r" xml:id="surface-lewis-e-110-69">
+      <graphic height="3903px" url="master/4877_0068.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0068_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0068_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="33v" xml:id="surface-lewis-e-110-70">
+      <graphic height="3903px" url="master/4877_0069.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0069_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0069_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="34r" xml:id="surface-lewis-e-110-71">
+      <graphic height="3903px" url="master/4877_0070.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0070_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0070_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="34v" xml:id="surface-lewis-e-110-72">
+      <graphic height="3903px" url="master/4877_0071.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0071_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0071_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="35r" xml:id="surface-lewis-e-110-73">
+      <graphic height="3903px" url="master/4877_0072.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0072_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0072_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="35v" xml:id="surface-lewis-e-110-74">
+      <graphic height="3903px" url="master/4877_0073.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0073_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0073_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="36r" xml:id="surface-lewis-e-110-75">
+      <graphic height="3903px" url="master/4877_0074.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0074_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0074_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="36v" xml:id="surface-lewis-e-110-76">
+      <graphic height="3903px" url="master/4877_0075.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0075_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0075_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="37r" xml:id="surface-lewis-e-110-77">
+      <graphic height="3903px" url="master/4877_0076.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0076_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0076_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="37v" xml:id="surface-lewis-e-110-78">
+      <graphic height="3903px" url="master/4877_0077.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0077_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0077_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="38r" xml:id="surface-lewis-e-110-79">
+      <graphic height="3903px" url="master/4877_0078.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0078_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0078_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="38v" xml:id="surface-lewis-e-110-80">
+      <graphic height="3903px" url="master/4877_0079.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0079_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0079_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="39r" xml:id="surface-lewis-e-110-81">
+      <graphic height="3903px" url="master/4877_0080.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0080_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0080_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="39v" xml:id="surface-lewis-e-110-82">
+      <graphic height="3903px" url="master/4877_0081.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0081_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0081_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="40r" xml:id="surface-lewis-e-110-83">
+      <graphic height="3903px" url="master/4877_0082.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0082_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0082_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="40v" xml:id="surface-lewis-e-110-84">
+      <graphic height="3903px" url="master/4877_0083.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0083_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0083_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="41r" xml:id="surface-lewis-e-110-85">
+      <graphic height="3903px" url="master/4877_0084.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0084_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0084_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="41v" xml:id="surface-lewis-e-110-86">
+      <graphic height="3903px" url="master/4877_0085.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0085_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0085_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="42r" xml:id="surface-lewis-e-110-87">
+      <graphic height="3903px" url="master/4877_0086.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0086_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0086_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="42v" xml:id="surface-lewis-e-110-88">
+      <graphic height="3903px" url="master/4877_0087.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0087_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0087_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="43r" xml:id="surface-lewis-e-110-89">
+      <graphic height="3903px" url="master/4877_0088.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0088_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0088_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="43v" xml:id="surface-lewis-e-110-90">
+      <graphic height="3903px" url="master/4877_0089.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0089_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0089_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="44r" xml:id="surface-lewis-e-110-91">
+      <graphic height="3903px" url="master/4877_0090.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0090_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0090_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="44v" xml:id="surface-lewis-e-110-92">
+      <graphic height="3903px" url="master/4877_0091.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0091_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0091_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="45r" xml:id="surface-lewis-e-110-93">
+      <graphic height="3903px" url="master/4877_0092.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0092_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0092_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="45v" xml:id="surface-lewis-e-110-94">
+      <graphic height="3903px" url="master/4877_0093.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0093_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0093_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="46r" xml:id="surface-lewis-e-110-95">
+      <graphic height="3903px" url="master/4877_0094.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0094_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0094_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="46v" xml:id="surface-lewis-e-110-96">
+      <graphic height="3903px" url="master/4877_0095.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0095_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0095_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="47r" xml:id="surface-lewis-e-110-97">
+      <graphic height="3903px" url="master/4877_0096.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0096_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0096_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="47v" xml:id="surface-lewis-e-110-98">
+      <graphic height="3903px" url="master/4877_0097.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0097_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0097_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="48r" xml:id="surface-lewis-e-110-99">
+      <graphic height="3903px" url="master/4877_0098.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0098_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0098_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="48v" xml:id="surface-lewis-e-110-100">
+      <graphic height="3903px" url="master/4877_0099.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0099_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0099_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="49r" xml:id="surface-lewis-e-110-101">
+      <graphic height="3903px" url="master/4877_0100.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0100_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0100_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="49v" xml:id="surface-lewis-e-110-102">
+      <graphic height="3903px" url="master/4877_0101.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0101_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0101_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="50r" xml:id="surface-lewis-e-110-103">
+      <graphic height="3903px" url="master/4877_0102.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0102_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0102_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="50v" xml:id="surface-lewis-e-110-104">
+      <graphic height="3903px" url="master/4877_0103.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0103_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0103_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="51r" xml:id="surface-lewis-e-110-105">
+      <graphic height="3903px" url="master/4877_0104.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0104_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0104_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="51v" xml:id="surface-lewis-e-110-106">
+      <graphic height="3903px" url="master/4877_0105.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0105_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0105_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="52r" xml:id="surface-lewis-e-110-107">
+      <graphic height="3903px" url="master/4877_0106.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0106_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0106_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="52v" xml:id="surface-lewis-e-110-108">
+      <graphic height="3903px" url="master/4877_0107.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0107_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0107_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="53r" xml:id="surface-lewis-e-110-109">
+      <graphic height="3903px" url="master/4877_0108.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0108_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0108_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="53v" xml:id="surface-lewis-e-110-110">
+      <graphic height="3903px" url="master/4877_0109.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0109_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0109_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="54r" xml:id="surface-lewis-e-110-111">
+      <graphic height="3903px" url="master/4877_0110.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0110_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0110_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="54v" xml:id="surface-lewis-e-110-112">
+      <graphic height="3903px" url="master/4877_0111.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0111_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0111_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="55r" xml:id="surface-lewis-e-110-113">
+      <graphic height="3903px" url="master/4877_0112.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0112_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0112_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="55v" xml:id="surface-lewis-e-110-114">
+      <graphic height="3903px" url="master/4877_0113.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0113_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0113_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="56r" xml:id="surface-lewis-e-110-115">
+      <graphic height="3903px" url="master/4877_0114.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0114_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0114_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="56v" xml:id="surface-lewis-e-110-116">
+      <graphic height="3903px" url="master/4877_0115.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0115_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0115_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="57r" xml:id="surface-lewis-e-110-117">
+      <graphic height="3903px" url="master/4877_0116.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0116_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0116_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="57v" xml:id="surface-lewis-e-110-118">
+      <graphic height="3903px" url="master/4877_0117.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0117_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0117_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="58r" xml:id="surface-lewis-e-110-119">
+      <graphic height="3903px" url="master/4877_0118.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0118_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0118_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="58v" xml:id="surface-lewis-e-110-120">
+      <graphic height="3903px" url="master/4877_0119.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0119_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0119_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="59r" xml:id="surface-lewis-e-110-121">
+      <graphic height="3903px" url="master/4877_0120.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0120_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0120_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="59v" xml:id="surface-lewis-e-110-122">
+      <graphic height="3903px" url="master/4877_0121.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0121_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0121_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="60r" xml:id="surface-lewis-e-110-123">
+      <graphic height="3903px" url="master/4877_0122.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0122_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0122_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="60v" xml:id="surface-lewis-e-110-124">
+      <graphic height="3903px" url="master/4877_0123.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0123_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0123_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="61r" xml:id="surface-lewis-e-110-125">
+      <graphic height="3903px" url="master/4877_0124.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0124_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0124_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="61v" xml:id="surface-lewis-e-110-126">
+      <graphic height="3903px" url="master/4877_0125.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0125_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0125_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="62r" xml:id="surface-lewis-e-110-127">
+      <graphic height="3903px" url="master/4877_0126.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0126_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0126_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="62v" xml:id="surface-lewis-e-110-128">
+      <graphic height="3903px" url="master/4877_0127.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0127_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0127_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="63r" xml:id="surface-lewis-e-110-129">
+      <graphic height="3903px" url="master/4877_0128.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0128_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0128_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="63v" xml:id="surface-lewis-e-110-130">
+      <graphic height="3903px" url="master/4877_0129.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0129_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0129_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="64r" xml:id="surface-lewis-e-110-131">
+      <graphic height="3903px" url="master/4877_0130.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0130_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0130_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="64v" xml:id="surface-lewis-e-110-132">
+      <graphic height="3903px" url="master/4877_0131.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0131_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0131_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="65r" xml:id="surface-lewis-e-110-133">
+      <graphic height="3903px" url="master/4877_0132.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0132_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0132_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="65v" xml:id="surface-lewis-e-110-134">
+      <graphic height="3903px" url="master/4877_0133.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0133_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0133_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="66r" xml:id="surface-lewis-e-110-135">
+      <graphic height="3903px" url="master/4877_0134.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0134_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0134_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="66v" xml:id="surface-lewis-e-110-136">
+      <graphic height="3903px" url="master/4877_0135.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0135_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0135_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="67r" xml:id="surface-lewis-e-110-137">
+      <graphic height="3903px" url="master/4877_0136.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0136_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0136_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="67v" xml:id="surface-lewis-e-110-138">
+      <graphic height="3903px" url="master/4877_0137.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0137_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0137_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="68r" xml:id="surface-lewis-e-110-139">
+      <graphic height="3903px" url="master/4877_0138.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0138_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0138_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="68v" xml:id="surface-lewis-e-110-140">
+      <graphic height="3903px" url="master/4877_0139.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0139_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0139_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="69r" xml:id="surface-lewis-e-110-141">
+      <graphic height="3903px" url="master/4877_0140.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0140_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0140_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="69v" xml:id="surface-lewis-e-110-142">
+      <graphic height="3903px" url="master/4877_0141.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0141_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0141_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="70r" xml:id="surface-lewis-e-110-143">
+      <graphic height="3903px" url="master/4877_0142.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0142_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0142_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="70v" xml:id="surface-lewis-e-110-144">
+      <graphic height="3903px" url="master/4877_0143.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0143_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0143_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="71r" xml:id="surface-lewis-e-110-145">
+      <graphic height="3903px" url="master/4877_0144.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0144_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0144_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="71v" xml:id="surface-lewis-e-110-146">
+      <graphic height="3903px" url="master/4877_0145.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0145_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0145_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="72r" xml:id="surface-lewis-e-110-147">
+      <graphic height="3903px" url="master/4877_0146.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0146_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0146_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="72v" xml:id="surface-lewis-e-110-148">
+      <graphic height="3903px" url="master/4877_0147.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0147_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0147_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="73r" xml:id="surface-lewis-e-110-149">
+      <graphic height="3903px" url="master/4877_0148.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0148_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0148_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="73v" xml:id="surface-lewis-e-110-150">
+      <graphic height="3903px" url="master/4877_0149.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0149_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0149_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="74r" xml:id="surface-lewis-e-110-151">
+      <graphic height="3903px" url="master/4877_0150.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0150_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0150_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="74v" xml:id="surface-lewis-e-110-152">
+      <graphic height="3903px" url="master/4877_0151.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0151_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0151_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="75r" xml:id="surface-lewis-e-110-153">
+      <graphic height="3903px" url="master/4877_0152.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0152_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0152_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="75v" xml:id="surface-lewis-e-110-154">
+      <graphic height="3903px" url="master/4877_0153.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0153_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0153_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="76r" xml:id="surface-lewis-e-110-155">
+      <graphic height="3903px" url="master/4877_0154.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0154_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0154_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="76v" xml:id="surface-lewis-e-110-156">
+      <graphic height="3903px" url="master/4877_0155.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0155_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0155_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="77r" xml:id="surface-lewis-e-110-157">
+      <graphic height="3903px" url="master/4877_0156.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0156_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0156_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="77v" xml:id="surface-lewis-e-110-158">
+      <graphic height="3903px" url="master/4877_0157.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0157_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0157_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="78r" xml:id="surface-lewis-e-110-159">
+      <graphic height="3903px" url="master/4877_0158.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0158_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0158_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="78v" xml:id="surface-lewis-e-110-160">
+      <graphic height="3903px" url="master/4877_0159.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0159_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0159_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="79r" xml:id="surface-lewis-e-110-161">
+      <graphic height="3903px" url="master/4877_0160.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0160_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0160_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="79v" xml:id="surface-lewis-e-110-162">
+      <graphic height="3903px" url="master/4877_0161.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0161_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0161_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="80r" xml:id="surface-lewis-e-110-163">
+      <graphic height="3903px" url="master/4877_0162.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0162_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0162_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="80v" xml:id="surface-lewis-e-110-164">
+      <graphic height="3903px" url="master/4877_0163.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0163_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0163_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="81r" xml:id="surface-lewis-e-110-165">
+      <graphic height="3903px" url="master/4877_0164.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0164_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0164_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="81v" xml:id="surface-lewis-e-110-166">
+      <graphic height="3903px" url="master/4877_0165.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0165_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0165_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="82r" xml:id="surface-lewis-e-110-167">
+      <graphic height="3903px" url="master/4877_0166.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0166_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0166_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="82v" xml:id="surface-lewis-e-110-168">
+      <graphic height="3903px" url="master/4877_0167.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0167_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0167_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="83r" xml:id="surface-lewis-e-110-169">
+      <graphic height="3903px" url="master/4877_0168.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0168_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0168_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="83v" xml:id="surface-lewis-e-110-170">
+      <graphic height="3903px" url="master/4877_0169.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0169_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0169_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="84r" xml:id="surface-lewis-e-110-171">
+      <graphic height="3903px" url="master/4877_0170.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0170_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0170_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="84v" xml:id="surface-lewis-e-110-172">
+      <graphic height="3903px" url="master/4877_0171.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0171_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0171_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="85r" xml:id="surface-lewis-e-110-173">
+      <graphic height="3903px" url="master/4877_0172.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0172_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0172_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="85v" xml:id="surface-lewis-e-110-174">
+      <graphic height="3903px" url="master/4877_0173.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0173_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0173_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="86r" xml:id="surface-lewis-e-110-175">
+      <graphic height="3903px" url="master/4877_0174.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0174_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0174_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="86v" xml:id="surface-lewis-e-110-176">
+      <graphic height="3903px" url="master/4877_0175.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0175_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0175_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="87r" xml:id="surface-lewis-e-110-177">
+      <graphic height="3903px" url="master/4877_0176.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0176_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0176_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="87v" xml:id="surface-lewis-e-110-178">
+      <graphic height="3903px" url="master/4877_0177.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0177_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0177_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="88r" xml:id="surface-lewis-e-110-179">
+      <graphic height="3903px" url="master/4877_0178.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0178_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0178_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="88v" xml:id="surface-lewis-e-110-180">
+      <graphic height="3903px" url="master/4877_0179.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0179_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0179_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="89r" xml:id="surface-lewis-e-110-181">
+      <graphic height="3903px" url="master/4877_0180.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0180_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0180_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="89v" xml:id="surface-lewis-e-110-182">
+      <graphic height="3903px" url="master/4877_0181.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0181_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0181_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="90r" xml:id="surface-lewis-e-110-183">
+      <graphic height="3903px" url="master/4877_0182.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0182_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0182_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="90v" xml:id="surface-lewis-e-110-184">
+      <graphic height="3903px" url="master/4877_0183.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0183_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0183_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="91r" xml:id="surface-lewis-e-110-185">
+      <graphic height="3903px" url="master/4877_0184.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0184_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0184_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="91v" xml:id="surface-lewis-e-110-186">
+      <graphic height="3903px" url="master/4877_0185.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0185_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0185_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="92r" xml:id="surface-lewis-e-110-187">
+      <graphic height="3903px" url="master/4877_0186.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0186_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0186_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="92v" xml:id="surface-lewis-e-110-188">
+      <graphic height="3903px" url="master/4877_0187.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0187_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0187_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="93r" xml:id="surface-lewis-e-110-189">
+      <graphic height="3903px" url="master/4877_0188.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0188_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0188_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="93v" xml:id="surface-lewis-e-110-190">
+      <graphic height="3903px" url="master/4877_0189.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0189_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0189_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="94r" xml:id="surface-lewis-e-110-191">
+      <graphic height="3903px" url="master/4877_0190.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0190_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0190_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="94v" xml:id="surface-lewis-e-110-192">
+      <graphic height="3903px" url="master/4877_0191.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0191_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0191_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="95r" xml:id="surface-lewis-e-110-193">
+      <graphic height="3903px" url="master/4877_0192.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0192_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0192_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="95v" xml:id="surface-lewis-e-110-194">
+      <graphic height="3903px" url="master/4877_0193.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0193_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0193_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="96r" xml:id="surface-lewis-e-110-195">
+      <graphic height="3903px" url="master/4877_0194.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0194_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0194_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="96v" xml:id="surface-lewis-e-110-196">
+      <graphic height="3903px" url="master/4877_0195.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0195_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0195_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="97r" xml:id="surface-lewis-e-110-197">
+      <graphic height="3903px" url="master/4877_0196.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0196_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0196_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="97v" xml:id="surface-lewis-e-110-198">
+      <graphic height="3903px" url="master/4877_0197.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0197_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0197_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="98r" xml:id="surface-lewis-e-110-199">
+      <graphic height="3903px" url="master/4877_0198.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0198_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0198_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="98v" xml:id="surface-lewis-e-110-200">
+      <graphic height="3903px" url="master/4877_0199.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0199_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0199_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="99r" xml:id="surface-lewis-e-110-201">
+      <graphic height="3903px" url="master/4877_0200.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0200_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0200_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="99v" xml:id="surface-lewis-e-110-202">
+      <graphic height="3903px" url="master/4877_0201.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0201_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0201_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="100r" xml:id="surface-lewis-e-110-203">
+      <graphic height="3903px" url="master/4877_0202.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0202_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0202_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="100v" xml:id="surface-lewis-e-110-204">
+      <graphic height="3903px" url="master/4877_0203.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0203_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0203_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="101r" xml:id="surface-lewis-e-110-205">
+      <graphic height="3903px" url="master/4877_0204.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0204_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0204_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="101v" xml:id="surface-lewis-e-110-206">
+      <graphic height="3903px" url="master/4877_0205.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0205_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0205_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="102r" xml:id="surface-lewis-e-110-207">
+      <graphic height="3903px" url="master/4877_0206.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0206_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0206_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="102v" xml:id="surface-lewis-e-110-208">
+      <graphic height="3903px" url="master/4877_0207.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0207_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0207_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="103r" xml:id="surface-lewis-e-110-209">
+      <graphic height="3903px" url="master/4877_0208.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0208_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0208_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="103v" xml:id="surface-lewis-e-110-210">
+      <graphic height="3903px" url="master/4877_0209.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0209_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0209_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="104r" xml:id="surface-lewis-e-110-211">
+      <graphic height="3903px" url="master/4877_0210.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0210_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0210_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="104v" xml:id="surface-lewis-e-110-212">
+      <graphic height="3903px" url="master/4877_0211.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0211_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0211_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="105r" xml:id="surface-lewis-e-110-213">
+      <graphic height="3903px" url="master/4877_0212.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0212_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0212_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="105v" xml:id="surface-lewis-e-110-214">
+      <graphic height="3903px" url="master/4877_0213.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0213_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0213_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="106r" xml:id="surface-lewis-e-110-215">
+      <graphic height="3903px" url="master/4877_0214.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0214_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0214_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="106v" xml:id="surface-lewis-e-110-216">
+      <graphic height="3903px" url="master/4877_0215.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0215_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0215_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="107r" xml:id="surface-lewis-e-110-217">
+      <graphic height="3903px" url="master/4877_0216.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0216_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0216_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="107v" xml:id="surface-lewis-e-110-218">
+      <graphic height="3903px" url="master/4877_0217.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0217_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0217_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="108r" xml:id="surface-lewis-e-110-219">
+      <graphic height="3903px" url="master/4877_0218.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0218_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0218_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="108v" xml:id="surface-lewis-e-110-220">
+      <graphic height="3903px" url="master/4877_0219.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0219_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0219_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="109r" xml:id="surface-lewis-e-110-221">
+      <graphic height="3903px" url="master/4877_0220.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0220_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0220_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="109v" xml:id="surface-lewis-e-110-222">
+      <graphic height="3903px" url="master/4877_0221.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0221_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0221_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="110r" xml:id="surface-lewis-e-110-223">
+      <graphic height="3903px" url="master/4877_0222.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0222_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0222_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="110v" xml:id="surface-lewis-e-110-224">
+      <graphic height="3903px" url="master/4877_0223.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0223_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0223_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="111r" xml:id="surface-lewis-e-110-225">
+      <graphic height="3903px" url="master/4877_0224.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0224_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0224_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="111v" xml:id="surface-lewis-e-110-226">
+      <graphic height="3903px" url="master/4877_0225.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0225_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0225_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="112r" xml:id="surface-lewis-e-110-227">
+      <graphic height="3903px" url="master/4877_0226.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0226_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0226_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="112v" xml:id="surface-lewis-e-110-228">
+      <graphic height="3903px" url="master/4877_0227.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0227_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0227_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="113r" xml:id="surface-lewis-e-110-229">
+      <graphic height="3903px" url="master/4877_0228.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0228_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0228_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="113v" xml:id="surface-lewis-e-110-230">
+      <graphic height="3903px" url="master/4877_0229.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0229_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0229_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="114r" xml:id="surface-lewis-e-110-231">
+      <graphic height="3903px" url="master/4877_0230.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0230_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0230_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="114v" xml:id="surface-lewis-e-110-232">
+      <graphic height="3903px" url="master/4877_0231.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0231_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0231_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="115r" xml:id="surface-lewis-e-110-233">
+      <graphic height="3903px" url="master/4877_0232.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0232_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0232_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="115v" xml:id="surface-lewis-e-110-234">
+      <graphic height="3903px" url="master/4877_0233.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0233_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0233_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="116r" xml:id="surface-lewis-e-110-235">
+      <graphic height="3903px" url="master/4877_0234.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0234_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0234_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="116v" xml:id="surface-lewis-e-110-236">
+      <graphic height="3903px" url="master/4877_0235.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0235_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0235_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="117r" xml:id="surface-lewis-e-110-237">
+      <graphic height="3903px" url="master/4877_0236.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0236_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0236_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="117v" xml:id="surface-lewis-e-110-238">
+      <graphic height="3903px" url="master/4877_0237.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0237_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0237_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="118r" xml:id="surface-lewis-e-110-239">
+      <graphic height="3903px" url="master/4877_0238.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0238_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0238_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="118v" xml:id="surface-lewis-e-110-240">
+      <graphic height="3903px" url="master/4877_0239.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0239_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0239_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="119r" xml:id="surface-lewis-e-110-241">
+      <graphic height="3903px" url="master/4877_0240.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0240_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0240_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="119v" xml:id="surface-lewis-e-110-242">
+      <graphic height="3903px" url="master/4877_0241.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0241_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0241_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="120r" xml:id="surface-lewis-e-110-243">
+      <graphic height="3903px" url="master/4877_0242.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0242_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0242_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="120v" xml:id="surface-lewis-e-110-244">
+      <graphic height="3903px" url="master/4877_0243.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0243_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0243_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="121r" xml:id="surface-lewis-e-110-245">
+      <graphic height="3903px" url="master/4877_0244.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0244_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0244_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="121v" xml:id="surface-lewis-e-110-246">
+      <graphic height="3903px" url="master/4877_0245.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0245_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0245_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="122r" xml:id="surface-lewis-e-110-247">
+      <graphic height="3903px" url="master/4877_0246.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0246_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0246_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="122v" xml:id="surface-lewis-e-110-248">
+      <graphic height="3903px" url="master/4877_0247.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0247_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0247_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="123r" xml:id="surface-lewis-e-110-249">
+      <graphic height="3903px" url="master/4877_0248.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0248_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0248_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="123v" xml:id="surface-lewis-e-110-250">
+      <graphic height="3903px" url="master/4877_0249.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0249_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0249_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="124r" xml:id="surface-lewis-e-110-251">
+      <graphic height="3903px" url="master/4877_0250.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0250_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0250_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="124v" xml:id="surface-lewis-e-110-252">
+      <graphic height="3903px" url="master/4877_0251.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0251_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0251_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="125r" xml:id="surface-lewis-e-110-253">
+      <graphic height="3903px" url="master/4877_0252.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0252_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0252_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="125v" xml:id="surface-lewis-e-110-254">
+      <graphic height="3903px" url="master/4877_0253.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0253_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0253_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="126r" xml:id="surface-lewis-e-110-255">
+      <graphic height="3903px" url="master/4877_0254.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0254_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0254_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="126v" xml:id="surface-lewis-e-110-256">
+      <graphic height="3903px" url="master/4877_0255.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0255_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0255_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="127r" xml:id="surface-lewis-e-110-257">
+      <graphic height="3903px" url="master/4877_0256.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0256_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0256_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="127v" xml:id="surface-lewis-e-110-258">
+      <graphic height="3903px" url="master/4877_0257.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0257_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0257_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="128r" xml:id="surface-lewis-e-110-259">
+      <graphic height="3903px" url="master/4877_0258.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0258_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0258_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="128v" xml:id="surface-lewis-e-110-260">
+      <graphic height="3903px" url="master/4877_0259.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0259_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0259_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="129r" xml:id="surface-lewis-e-110-261">
+      <graphic height="3903px" url="master/4877_0260.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0260_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0260_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="129v" xml:id="surface-lewis-e-110-262">
+      <graphic height="3903px" url="master/4877_0261.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0261_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0261_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="130r" xml:id="surface-lewis-e-110-263">
+      <graphic height="3903px" url="master/4877_0262.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0262_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0262_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="130v" xml:id="surface-lewis-e-110-264">
+      <graphic height="3903px" url="master/4877_0263.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0263_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0263_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="131r" xml:id="surface-lewis-e-110-265">
+      <graphic height="3903px" url="master/4877_0264.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0264_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0264_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="131v" xml:id="surface-lewis-e-110-266">
+      <graphic height="3903px" url="master/4877_0265.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0265_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0265_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="132r" xml:id="surface-lewis-e-110-267">
+      <graphic height="3903px" url="master/4877_0266.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0266_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0266_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="132v" xml:id="surface-lewis-e-110-268">
+      <graphic height="3903px" url="master/4877_0267.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0267_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0267_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="133r" xml:id="surface-lewis-e-110-269">
+      <graphic height="3903px" url="master/4877_0268.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0268_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0268_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="133v" xml:id="surface-lewis-e-110-270">
+      <graphic height="3903px" url="master/4877_0269.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0269_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0269_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="134r" xml:id="surface-lewis-e-110-271">
+      <graphic height="3903px" url="master/4877_0270.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0270_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0270_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="134v" xml:id="surface-lewis-e-110-272">
+      <graphic height="3903px" url="master/4877_0271.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0271_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0271_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="135r" xml:id="surface-lewis-e-110-273">
+      <graphic height="3903px" url="master/4877_0272.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0272_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0272_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="135v" xml:id="surface-lewis-e-110-274">
+      <graphic height="3903px" url="master/4877_0273.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0273_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0273_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="136r" xml:id="surface-lewis-e-110-275">
+      <graphic height="3903px" url="master/4877_0274.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0274_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0274_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="136v" xml:id="surface-lewis-e-110-276">
+      <graphic height="3903px" url="master/4877_0275.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0275_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0275_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="137r" xml:id="surface-lewis-e-110-277">
+      <graphic height="3903px" url="master/4877_0276.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0276_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0276_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="137v" xml:id="surface-lewis-e-110-278">
+      <graphic height="3903px" url="master/4877_0277.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0277_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0277_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="138r" xml:id="surface-lewis-e-110-279">
+      <graphic height="3903px" url="master/4877_0278.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0278_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0278_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="138v" xml:id="surface-lewis-e-110-280">
+      <graphic height="3903px" url="master/4877_0279.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0279_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0279_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="139r" xml:id="surface-lewis-e-110-281">
+      <graphic height="3903px" url="master/4877_0280.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0280_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0280_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="139v" xml:id="surface-lewis-e-110-282">
+      <graphic height="3903px" url="master/4877_0281.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0281_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0281_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="140r" xml:id="surface-lewis-e-110-283">
+      <graphic height="3903px" url="master/4877_0282.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0282_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0282_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="140v" xml:id="surface-lewis-e-110-284">
+      <graphic height="3903px" url="master/4877_0283.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0283_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0283_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="141r" xml:id="surface-lewis-e-110-285">
+      <graphic height="3903px" url="master/4877_0284.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0284_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0284_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="141v" xml:id="surface-lewis-e-110-286">
+      <graphic height="3903px" url="master/4877_0285.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0285_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0285_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="142r" xml:id="surface-lewis-e-110-287">
+      <graphic height="3903px" url="master/4877_0286.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0286_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0286_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="142v" xml:id="surface-lewis-e-110-288">
+      <graphic height="3903px" url="master/4877_0287.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0287_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0287_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="143r" xml:id="surface-lewis-e-110-289">
+      <graphic height="3903px" url="master/4877_0288.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0288_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0288_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="143v" xml:id="surface-lewis-e-110-290">
+      <graphic height="3903px" url="master/4877_0289.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0289_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0289_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="144r" xml:id="surface-lewis-e-110-291">
+      <graphic height="3903px" url="master/4877_0290.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0290_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0290_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="144v" xml:id="surface-lewis-e-110-292">
+      <graphic height="3903px" url="master/4877_0291.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0291_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0291_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="145r" xml:id="surface-lewis-e-110-293">
+      <graphic height="3903px" url="master/4877_0292.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0292_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0292_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="145v" xml:id="surface-lewis-e-110-294">
+      <graphic height="3903px" url="master/4877_0293.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0293_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0293_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="146r" xml:id="surface-lewis-e-110-295">
+      <graphic height="3903px" url="master/4877_0294.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0294_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0294_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="146v" xml:id="surface-lewis-e-110-296">
+      <graphic height="3903px" url="master/4877_0295.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0295_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0295_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="147r" xml:id="surface-lewis-e-110-297">
+      <graphic height="3903px" url="master/4877_0296.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0296_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0296_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="147v" xml:id="surface-lewis-e-110-298">
+      <graphic height="3903px" url="master/4877_0297.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0297_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0297_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="148r" xml:id="surface-lewis-e-110-299">
+      <graphic height="3903px" url="master/4877_0298.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0298_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0298_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="148v" xml:id="surface-lewis-e-110-300">
+      <graphic height="3903px" url="master/4877_0299.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0299_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0299_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="149r" xml:id="surface-lewis-e-110-301">
+      <graphic height="3903px" url="master/4877_0300.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0300_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0300_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="149v" xml:id="surface-lewis-e-110-302">
+      <graphic height="3903px" url="master/4877_0301.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0301_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0301_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="150r" xml:id="surface-lewis-e-110-303">
+      <graphic height="3903px" url="master/4877_0302.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0302_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0302_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="150v" xml:id="surface-lewis-e-110-304">
+      <graphic height="3903px" url="master/4877_0303.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0303_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0303_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="151r" xml:id="surface-lewis-e-110-305">
+      <graphic height="3903px" url="master/4877_0304.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0304_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0304_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="151v" xml:id="surface-lewis-e-110-306">
+      <graphic height="3903px" url="master/4877_0305.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0305_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0305_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="152r" xml:id="surface-lewis-e-110-307">
+      <graphic height="3903px" url="master/4877_0306.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0306_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0306_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="152v" xml:id="surface-lewis-e-110-308">
+      <graphic height="3903px" url="master/4877_0307.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0307_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0307_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="153r" xml:id="surface-lewis-e-110-309">
+      <graphic height="3903px" url="master/4877_0308.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0308_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0308_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="153v" xml:id="surface-lewis-e-110-310">
+      <graphic height="3903px" url="master/4877_0309.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0309_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0309_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="154r" xml:id="surface-lewis-e-110-311">
+      <graphic height="3903px" url="master/4877_0310.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0310_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0310_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="154v" xml:id="surface-lewis-e-110-312">
+      <graphic height="3903px" url="master/4877_0311.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0311_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0311_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="155r" xml:id="surface-lewis-e-110-313">
+      <graphic height="3903px" url="master/4877_0312.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0312_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0312_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="155v" xml:id="surface-lewis-e-110-314">
+      <graphic height="3903px" url="master/4877_0313.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0313_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0313_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="156r" xml:id="surface-lewis-e-110-315">
+      <graphic height="3903px" url="master/4877_0314.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0314_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0314_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="156v" xml:id="surface-lewis-e-110-316">
+      <graphic height="3903px" url="master/4877_0315.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0315_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0315_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="157r" xml:id="surface-lewis-e-110-317">
+      <graphic height="3903px" url="master/4877_0316.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0316_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0316_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="157v" xml:id="surface-lewis-e-110-318">
+      <graphic height="3903px" url="master/4877_0317.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0317_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0317_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="158r" xml:id="surface-lewis-e-110-319">
+      <graphic height="3903px" url="master/4877_0318.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0318_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0318_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="158v" xml:id="surface-lewis-e-110-320">
+      <graphic height="3903px" url="master/4877_0319.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0319_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0319_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="159r" xml:id="surface-lewis-e-110-321">
+      <graphic height="3903px" url="master/4877_0320.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0320_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0320_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="159v" xml:id="surface-lewis-e-110-322">
+      <graphic height="3903px" url="master/4877_0321.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0321_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0321_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="160r" xml:id="surface-lewis-e-110-323">
+      <graphic height="3903px" url="master/4877_0322.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0322_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0322_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="160v" xml:id="surface-lewis-e-110-324">
+      <graphic height="3903px" url="master/4877_0323.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0323_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0323_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="161r" xml:id="surface-lewis-e-110-325">
+      <graphic height="3903px" url="master/4877_0324.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0324_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0324_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="161v" xml:id="surface-lewis-e-110-326">
+      <graphic height="3903px" url="master/4877_0325.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0325_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0325_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="162r" xml:id="surface-lewis-e-110-327">
+      <graphic height="3903px" url="master/4877_0326.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0326_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0326_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="162v" xml:id="surface-lewis-e-110-328">
+      <graphic height="3903px" url="master/4877_0327.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0327_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0327_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="163r" xml:id="surface-lewis-e-110-329">
+      <graphic height="3903px" url="master/4877_0328.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0328_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0328_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="163v" xml:id="surface-lewis-e-110-330">
+      <graphic height="3903px" url="master/4877_0329.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0329_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0329_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="164r" xml:id="surface-lewis-e-110-331">
+      <graphic height="3903px" url="master/4877_0330.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0330_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0330_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="164v" xml:id="surface-lewis-e-110-332">
+      <graphic height="3903px" url="master/4877_0331.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0331_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0331_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="165r" xml:id="surface-lewis-e-110-333">
+      <graphic height="3903px" url="master/4877_0332.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0332_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0332_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="165v" xml:id="surface-lewis-e-110-334">
+      <graphic height="3903px" url="master/4877_0333.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0333_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0333_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="166r" xml:id="surface-lewis-e-110-335">
+      <graphic height="3903px" url="master/4877_0334.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0334_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0334_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="166v" xml:id="surface-lewis-e-110-336">
+      <graphic height="3903px" url="master/4877_0335.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0335_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0335_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="167r" xml:id="surface-lewis-e-110-337">
+      <graphic height="3903px" url="master/4877_0336.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0336_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0336_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="167v" xml:id="surface-lewis-e-110-338">
+      <graphic height="3903px" url="master/4877_0337.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0337_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0337_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="168r" xml:id="surface-lewis-e-110-339">
+      <graphic height="3903px" url="master/4877_0338.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0338_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0338_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="168v" xml:id="surface-lewis-e-110-340">
+      <graphic height="3903px" url="master/4877_0339.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0339_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0339_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="169r" xml:id="surface-lewis-e-110-341">
+      <graphic height="3903px" url="master/4877_0340.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0340_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0340_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="169v" xml:id="surface-lewis-e-110-342">
+      <graphic height="3903px" url="master/4877_0341.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0341_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0341_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="170r" xml:id="surface-lewis-e-110-343">
+      <graphic height="3903px" url="master/4877_0342.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0342_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0342_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="170v" xml:id="surface-lewis-e-110-344">
+      <graphic height="3903px" url="master/4877_0343.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0343_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0343_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="171r" xml:id="surface-lewis-e-110-345">
+      <graphic height="3903px" url="master/4877_0344.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0344_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0344_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="171v" xml:id="surface-lewis-e-110-346">
+      <graphic height="3903px" url="master/4877_0345.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0345_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0345_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="172r" xml:id="surface-lewis-e-110-347">
+      <graphic height="3903px" url="master/4877_0346.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0346_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0346_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="172v" xml:id="surface-lewis-e-110-348">
+      <graphic height="3903px" url="master/4877_0347.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0347_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0347_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="173r" xml:id="surface-lewis-e-110-349">
+      <graphic height="3903px" url="master/4877_0348.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0348_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0348_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="173v" xml:id="surface-lewis-e-110-350">
+      <graphic height="3903px" url="master/4877_0349.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0349_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0349_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="174r" xml:id="surface-lewis-e-110-351">
+      <graphic height="3903px" url="master/4877_0350.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0350_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0350_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="174v" xml:id="surface-lewis-e-110-352">
+      <graphic height="3903px" url="master/4877_0351.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0351_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0351_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="175r" xml:id="surface-lewis-e-110-353">
+      <graphic height="3903px" url="master/4877_0352.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0352_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0352_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="175v" xml:id="surface-lewis-e-110-354">
+      <graphic height="3903px" url="master/4877_0353.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0353_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0353_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="176r" xml:id="surface-lewis-e-110-355">
+      <graphic height="3903px" url="master/4877_0354.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0354_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0354_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="176v" xml:id="surface-lewis-e-110-356">
+      <graphic height="3903px" url="master/4877_0355.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0355_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0355_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="177r" xml:id="surface-lewis-e-110-357">
+      <graphic height="3903px" url="master/4877_0356.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0356_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0356_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="177v" xml:id="surface-lewis-e-110-358">
+      <graphic height="3903px" url="master/4877_0357.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0357_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0357_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="178r" xml:id="surface-lewis-e-110-359">
+      <graphic height="3903px" url="master/4877_0358.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0358_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0358_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="178v" xml:id="surface-lewis-e-110-360">
+      <graphic height="3903px" url="master/4877_0359.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0359_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0359_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="179r" xml:id="surface-lewis-e-110-361">
+      <graphic height="3903px" url="master/4877_0360.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0360_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0360_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="179v" xml:id="surface-lewis-e-110-362">
+      <graphic height="3903px" url="master/4877_0361.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0361_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0361_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="180r" xml:id="surface-lewis-e-110-363">
+      <graphic height="3903px" url="master/4877_0362.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0362_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0362_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="180v" xml:id="surface-lewis-e-110-364">
+      <graphic height="3903px" url="master/4877_0363.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0363_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0363_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="181r" xml:id="surface-lewis-e-110-365">
+      <graphic height="3903px" url="master/4877_0364.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0364_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0364_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="181v" xml:id="surface-lewis-e-110-366">
+      <graphic height="3903px" url="master/4877_0365.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0365_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0365_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="182r" xml:id="surface-lewis-e-110-367">
+      <graphic height="3903px" url="master/4877_0366.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0366_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0366_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="182v" xml:id="surface-lewis-e-110-368">
+      <graphic height="3903px" url="master/4877_0367.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0367_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0367_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="183r" xml:id="surface-lewis-e-110-369">
+      <graphic height="3903px" url="master/4877_0368.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0368_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0368_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="183v" xml:id="surface-lewis-e-110-370">
+      <graphic height="3903px" url="master/4877_0369.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0369_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0369_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="184r" xml:id="surface-lewis-e-110-371">
+      <graphic height="3903px" url="master/4877_0370.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0370_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0370_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="184v" xml:id="surface-lewis-e-110-372">
+      <graphic height="3903px" url="master/4877_0371.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0371_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0371_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="185r" xml:id="surface-lewis-e-110-373">
+      <graphic height="3903px" url="master/4877_0372.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0372_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0372_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="185v" xml:id="surface-lewis-e-110-374">
+      <graphic height="3903px" url="master/4877_0373.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0373_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0373_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="186r" xml:id="surface-lewis-e-110-375">
+      <graphic height="3903px" url="master/4877_0374.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0374_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0374_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="186v" xml:id="surface-lewis-e-110-376">
+      <graphic height="3903px" url="master/4877_0375.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0375_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0375_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="187r" xml:id="surface-lewis-e-110-377">
+      <graphic height="3903px" url="master/4877_0376.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0376_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0376_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="187v" xml:id="surface-lewis-e-110-378">
+      <graphic height="3903px" url="master/4877_0377.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0377_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0377_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="188r" xml:id="surface-lewis-e-110-379">
+      <graphic height="3903px" url="master/4877_0378.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0378_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0378_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="188v" xml:id="surface-lewis-e-110-380">
+      <graphic height="3903px" url="master/4877_0379.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0379_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0379_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-lewis-e-110-381">
+      <graphic height="3903px" url="master/4877_0380.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0380_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0380_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-lewis-e-110-382">
+      <graphic height="3903px" url="master/4877_0381.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0381_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0381_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-lewis-e-110-383">
+      <graphic height="3903px" url="master/4877_0382.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0382_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0382_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-lewis-e-110-384">
+      <graphic height="3903px" url="master/4877_0383.tif" width="3045px"/>
+      <graphic height="190px" url="thumb/4877_0383_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/4877_0383_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-lewis-e-110-385">
+      <graphic height="3927px" url="master/4877_0384.tif" width="1707px"/>
+      <graphic height="190px" url="thumb/4877_0384_thumb.jpg" width="82px"/>
+      <graphic height="1800px" url="web/4877_0384_web.jpg" width="782px"/>
+    </surface>
+    <surface n="Fore edge" xml:id="surface-lewis-e-110-386">
+      <graphic height="3927px" url="master/4877_0385.tif" width="1707px"/>
+      <graphic height="190px" url="thumb/4877_0385_thumb.jpg" width="82px"/>
+      <graphic height="1800px" url="web/4877_0385_web.jpg" width="782px"/>
+    </surface>
+    <surface n="Top edge" xml:id="surface-lewis-e-110-387">
+      <graphic height="2848px" url="master/4877_0386.tif" width="1707px"/>
+      <graphic height="190px" url="thumb/4877_0386_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/4877_0386_web.jpg" width="1078px"/>
+    </surface>
+    <surface n="Bottom edge" xml:id="surface-lewis-e-110-388">
+      <graphic height="2848px" url="master/4877_0387.tif" width="1707px"/>
+      <graphic height="190px" url="thumb/4877_0387_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/4877_0387_web.jpg" width="1078px"/>
+    </surface>
+  </facsimile>
+</TEI>

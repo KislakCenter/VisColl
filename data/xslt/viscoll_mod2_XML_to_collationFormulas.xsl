@@ -72,7 +72,7 @@
             <xsl:value-of select="concat($base-uri, 'XML/', $filename-formulaTXT_01)"/>
         </xsl:variable>
         <xsl:result-document href="{$href}" format="collationFormulasTXT">
-            <xsl:for-each-group select="leaf"
+            <xsl:for-each-group select="leaves/leaf"
                 group-by="
                 if (contains(q[1]/@n, '.')) then
                 substring-before(q[1]/@n, '.')
@@ -133,7 +133,7 @@
             <xsl:value-of select="concat($base-uri, 'XML/', $filename-formulaTXT_02)"/>
         </xsl:variable>
         <xsl:result-document href="{$href}" format="collationFormulasTXT">
-            <xsl:for-each-group select="leaf"
+            <xsl:for-each-group select="leaves/leaf"
                 group-by="
                     if (contains(q[1]/@n, '.')) then
                         substring-before(q[1]/@n, '.')
@@ -233,5 +233,115 @@
             </xsl:for-each-group>
         </xsl:result-document>
     </xsl:template>    
+    
+    <!--     <xsl:template name="collationFormula2">
+        <xsl:param name="tbID"/>
+        <xsl:variable name="filename-formulaTXT_02" select="concat($tbID, '-formula_02.txt')"/>
+        <xsl:variable name="href">
+            <xsl:value-of select="concat($base-uri, 'XML/', $filename-formulaTXT_02)"/>
+        </xsl:variable>
+        <xsl:result-document href="{$href}" format="collationFormulasTXT">
+            <xsl:for-each-group select="leaves/leaf"
+                group-by="
+                    if (contains(q[1]/@n, '.')) then
+                        substring-before(q[1]/@n, '.')
+                    else
+                        q[1]/@n">
+                <xsl:variable name="gatheringNumber">
+                    <xsl:value-of select="current-grouping-key()"/>
+                </xsl:variable>
+                <xsl:variable name="gatheringID">
+                    <xsl:value-of select="replace(q/@target, '#', '')"/>
+                </xsl:variable>
+                <xsl:variable name="positions">
+                    <xsl:value-of select="xs:integer(count(current-group()))"/>
+                </xsl:variable>
+                <xsl:variable name="units">
+                    <xsl:copy-of select="current-group()"/>
+                </xsl:variable>
+                <!- to be in the format 1(8, leaf missing between fol. X and fol. Y, leaf added after fol. X) ->
+    <xsl:value-of select="$gatheringNumber"/>
+    <xsl:text>(</xsl:text>
+    <xsl:value-of select="$positions"/>
+    <xsl:for-each select="$units/leaf[mode/@val eq 'missing']">
+        <xsl:choose>
+            <xsl:when test="preceding-sibling::leaf">
+                <xsl:choose>
+                    <xsl:when
+                        test="preceding-sibling::leaf[mode/@val eq 'missing'][1] | following-sibling::leaf[mode/@val eq 'missing'][1]">
+                        <xsl:choose>
+                            <xsl:when
+                                test="following-sibling::leaf[mode/@val eq 'missing']">
+                                <xsl:variable name="lastPresent">
+                                    <xsl:value-of
+                                        select="preceding-sibling::leaf[mode/@val != 'missing'][1]/q/@position"
+                                    />
+                                </xsl:variable>
+                                <xsl:variable name="lastMissing">
+                                    <xsl:value-of
+                                        select="following-sibling::leaf[mode/@val eq 'missing'][last()]/q/@position"
+                                    />
+                                </xsl:variable>
+                                <xsl:variable name="countMissing">
+                                    <xsl:value-of
+                                        select="abs($lastMissing - $lastPresent)"/>
+                                </xsl:variable>
+                                <xsl:text>, </xsl:text>
+                                <xsl:value-of select="$countMissing"/>
+                                <xsl:text> leaves missing after fol. </xsl:text>
+                                <xsl:value-of
+                                    select="preceding-sibling::leaf[mode/@val != 'missing'][1]/folioNumber"
+                                />
+                            </xsl:when>
+                            <xsl:otherwise/>
+                        </xsl:choose>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:text>, leaf missing after fol. </xsl:text>
+                        <xsl:value-of
+                            select="preceding-sibling::leaf[mode/@val != 'missing'][1]/folioNumber"
+                        />
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text>, first leaf is missing</xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:for-each>
+    <xsl:for-each select="$units/leaf[mode/@val eq 'added']">
+        <xsl:choose>
+            <xsl:when test="preceding-sibling::leaf">
+                <xsl:text>, leaf added after fol. </xsl:text>
+                <xsl:value-of select="preceding-sibling::leaf[1]/folioNumber"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text>, first leaf is added</xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:for-each>
+    <xsl:for-each select="$units/leaf[mode/@val eq 'replaced']">
+        <xsl:choose>
+            <xsl:when test="preceding-sibling::leaf">
+                <xsl:text>, leaf replaced after fol. </xsl:text>
+                <xsl:value-of select="preceding-sibling::leaf[1]/folioNumber"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text>, first leaf is replaced</xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:for-each>
+    <xsl:text>)</xsl:text>
+    <xsl:choose>
+        <xsl:when test="position() != last()">
+            <xsl:text>,</xsl:text>
+        </xsl:when>
+    </xsl:choose>
+    <xsl:text> </xsl:text>
+    </xsl:for-each-group>
+    </xsl:result-document>
+    </xsl:template>    
+    -->
 
+    
 </xsl:stylesheet>
