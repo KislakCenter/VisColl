@@ -21,11 +21,17 @@
             <xd:p><xd:b>Modified by:</xd:b> Alberto Campagnolo</xd:p>
             <xd:p><xd:b>Modified on:</xd:b>2020-08-14</xd:p>
             <xd:p><xd:b>Modified by:</xd:b> Alberto Campagnolo</xd:p>
+            <xd:p><xd:b>Modified on:</xd:b>2020-12-04</xd:p>
+            <xd:p><xd:b>Modified by:</xd:b> Alberto Campagnolo</xd:p>
             <xd:p>This document takes as its input the output from the Collation Modeler. It
                 generates one SVG diagram per gathering. A general parameter permits to insert the
                 CSS information directly into the SVG file. </xd:p>
         </xd:desc>
     </xd:doc>
+
+
+    <!-- Write all page numbers in SVG file? 0 = no 1 = yes -->
+    <xsl:param name="allNumbers" select="0"/>
 
     <!-- Embed CSS in SVG file? 0 = no 1 = yes -->
     <xsl:param name="embedCSS" select="0"/>
@@ -71,8 +77,7 @@
             </xsl:variable>
             <!-- Variable to generate a textblock ID from the shelfmark.
                 Only adds textblock number for more than one textblock in bookblock -->
-            <xsl:variable name="tbID"
-                select="
+            <xsl:variable name="tbID" select="
                     concat(translate($shelfmark, ' ', ''), if (xs:integer($textblockN) gt 1) then
                         concat('-', $textblockN)
                     else
@@ -106,8 +111,7 @@
         <!-- quires are formed by grouping leaves according to the quire to which the are listed as belonging to;
         if there are subquires, these are listed a quire-number.subquire-number.etc: this code will group all leaves 
         in the same quire regardless of subquires -->
-        <xsl:for-each-group select="leaves/leaf"
-            group-by="
+        <xsl:for-each-group select="leaves/leaf" group-by="
                 if (contains(q[1]/@n, '.')) then
                     substring-before(q[1]/@n, '.')
                 else
@@ -196,27 +200,23 @@
             </xsl:variable>
             <!-- Variable to count if number of leaves in group is odd (1) or even (2) -->
             <xsl:variable name="odd1_Even2">
-                <xsl:value-of
-                    select="
+                <xsl:value-of select="
                         xs:integer(
                         if ($positions mod 2 = 0) then
                             2
                         else
-                            1)"
-                />
+                            1)"/>
             </xsl:variable>
             <!-- Variable to count how many bifolia should be drawn -->
             <!-- if the total number of positions is an even number the components are the total number of positions/2, 
             if odd = (the total number of positions - total number of singletons)/2 -->
-            <xsl:variable name="countRegularBifolia"
-                select="
+            <xsl:variable name="countRegularBifolia" select="
                     if (xs:integer($odd1_Even2) eq 2) then
                         (xs:integer($positions) div 2)
                     else
                         ((xs:integer($positions) - xs:integer($countSingletons)) div 2)"/>
             <!-- Refined variable that only counts regular bifolia in the main quire -->
-            <xsl:variable name="countRegularBifolia2"
-                select="
+            <xsl:variable name="countRegularBifolia2" select="
                     (xs:integer($positions) - xs:integer($countSingletons) - $countSubquireLeaves) div 2"/>
             <!-- Variable to find the left regular inner leaf position:
         it avoids singletons (inside complex gatherings) and leaves belonging to subquires-->
@@ -224,10 +224,14 @@
                 <xsl:choose>
                     <!-- If a quire is composed by all singletons, then there cannot be a middle leaf
                 and there are no conjoines, so the variable simply returns the number of singletons in that quire -->
-                    <xsl:when
-                        test="
+                    <xsl:when test="
                             every $leaf in current-group()
                                 satisfies $leaf/q[1]/single[@val = 'yes']">
+                        <xsl:value-of select="count(current-group())"/>
+                    </xsl:when>
+                    <!-- Orphan subquires, i.e. subquires without (a) parent leaf/leaves from a main quire -->
+                    <xsl:when test="every $leaf in current-group()
+                        satisfies $leaf/q/contains(@n, '.')">
                         <xsl:value-of select="count(current-group())"/>
                     </xsl:when>
                     <!-- For normal and complex quires, the variable returns the position of the last leaf 
@@ -351,13 +355,11 @@
                 <xsl:variable name="description"> Collation diagram of quire <xsl:value-of
                         select="$quireNumber"/> for <xsl:value-of select="$shelfmark"/> composed of
                         <xsl:value-of select="$positions"/>
-                    <xsl:value-of
-                        select="
+                    <xsl:value-of select="
                             (if ((xs:integer($positions) gt 1)) then
                                 ' leaves'
                             else
-                                ' leaf')"
-                    />
+                                ' leaf')"/>
                 </xsl:variable>
                 <title>
                     <xsl:value-of select="normalize-space($description)"/>
@@ -377,7 +379,7 @@
                     </xsl:attribute>
                     <g>
                         <!-- Writing Direction -->
-                        <xsl:variable name="direction" select="parent::textblock/direction/@val"/>
+                        <xsl:variable name="direction" select="ancestor::textblock/direction/@val"/>
                         <xsl:call-template name="writingDirRotation">
                             <xsl:with-param name="direction" select="$direction"/>
                             <xsl:with-param name="countRegularBifolia" select="$countRegularBifolia"/>
@@ -459,7 +461,8 @@
                 <xsl:call-template name="conjoinPosition">
                     <xsl:with-param name="test" select="q[1]/conjoin"/>
                     <xsl:with-param name="conjoinPos"
-                        select="ancestor::textblock/leaves/leaf[@xml:id = $conjoinID]/q[1]/@position"/>
+                        select="ancestor::textblock/leaves/leaf[@xml:id = $conjoinID]/q[1]/@position"
+                    />
                 </xsl:call-template>
             </xsl:variable>
             <!-- Variable to generate a unique ID that puts together conjoined leaf positions in the correct order -->
@@ -602,8 +605,7 @@
                         </xsl:when>
                     </xsl:choose>
                     <xsl:text>translate(</xsl:text>
-                    <xsl:value-of
-                        select="
+                    <xsl:value-of select="
                             $translationUnit + (1.5 * $delta) + (if ($text eq 1) then
                                 $translationUnit
                             else
@@ -676,13 +678,11 @@
                 <xsl:value-of select="$currentPosition"/>
             </xsl:when>
             <xsl:otherwise>
-                <xsl:value-of
-                    select="
+                <xsl:value-of select="
                         if (xs:integer($currentPosition) lt xs:integer($conjoinPosition)) then
                             concat($currentPosition, '-', $conjoinPosition)
                         else
-                            concat($conjoinPosition, '-', $currentPosition)"
-                />
+                            concat($conjoinPosition, '-', $currentPosition)"/>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
@@ -751,13 +751,11 @@
             </xsl:when>
             <!-- Regular bifolia -->
             <xsl:otherwise>
-                <xsl:value-of
-                    select="
+                <xsl:value-of select="
                         if (xs:integer($currentPosition) le xs:integer($centralLeftLeafPos)) then
                             1
                         else
-                            2"
-                />
+                            2"/>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
@@ -940,9 +938,11 @@
                         test="(q[1]/single/@certainty != 1) or not((q[1]/single/@val = 'yes') or contains(q[1]/@n, '.'))">
                         <!-- Uncertainty levels -->
                         <xsl:choose>
-                            <xsl:when test="(q[1]/single/@certainty = 2) or (q[1]/single/@certainty = 3)">
+                            <xsl:when
+                                test="(q[1]/single/@certainty = 2) or (q[1]/single/@certainty = 3)">
                                 <xsl:call-template name="certainty">
-                                    <xsl:with-param name="certainty" select="q[1]/single/@certainty"/>
+                                    <xsl:with-param name="certainty" select="q[1]/single/@certainty"
+                                    />
                                 </xsl:call-template>
                             </xsl:when>
                             <xsl:when test="q[1]/conjoin/@certainty != 1">
@@ -989,13 +989,11 @@
                                 </xsl:when>
                                 <xsl:when test="q[2]">
                                     <xsl:call-template name="certainty">
-                                        <xsl:with-param name="certainty"
-                                            select="
+                                        <xsl:with-param name="certainty" select="
                                                 if (q[2]/@certainty) then
                                                     q[2]/@certainty
                                                 else
-                                                    3"
-                                        />
+                                                    3"/>
                                     </xsl:call-template>
                                 </xsl:when>
                             </xsl:choose>
@@ -1066,13 +1064,11 @@
                                 </xsl:when>
                                 <xsl:when test="q[2]">
                                     <xsl:call-template name="certainty">
-                                        <xsl:with-param name="certainty"
-                                            select="
+                                        <xsl:with-param name="certainty" select="
                                                 if (q[2]/@certainty) then
                                                     q[2]/@certainty
                                                 else
-                                                    3"
-                                        />
+                                                    3"/>
                                     </xsl:call-template>
                                 </xsl:when>
                             </xsl:choose>
@@ -1107,8 +1103,7 @@
                                             </xsl:variable>
                                             <!-- Quire number (avoiding subquire dot-numbers) -->
                                             <xsl:variable name="ownQuireN">
-                                                <xsl:value-of
-                                                  select="
+                                                <xsl:value-of select="
                                                         if (contains(parent::leaf/q[1]/@n, '.')) then
                                                             substring-before(parent::leaf/q[1]/@n, '.')
                                                         else
@@ -1122,17 +1117,16 @@
                                             <!-- Position of the leaf to which the leaf is attached -->
                                             <xsl:variable name="attachmentTargetPosition">
                                                 <xsl:value-of
-                                                    select="$textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@position"
+                                                  select="$textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@position"
                                                 />
                                             </xsl:variable>
                                             <!-- Checks the number of the quire to which the target leaf belongs: it avoids subquire dot-numbers -->
                                             <xsl:variable name="attachmentTargetQuire">
-                                                <xsl:value-of
-                                                  select="
+                                                <xsl:value-of select="
                                                         if (contains($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')) then
-                                                        substring-before($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')
+                                                            substring-before($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')
                                                         else
-                                                        $textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n"
+                                                            $textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n"
                                                 />
                                             </xsl:variable>
                                             <!-- Checks the deviation between the leaf and its attachment target: 
@@ -1159,8 +1153,7 @@
                                             <!-- Call template to draw the attachment method -->
                                             <xsl:call-template name="attachment-method">
                                                 <xsl:with-param name="Cx_A" select="$Cx"/>
-                                                <xsl:with-param name="Cy_A"
-                                                  select="
+                                                <xsl:with-param name="Cy_A" select="
                                                         $Cy + $parametricY - (if (xs:integer($attachmentDeviation) gt 0) then
                                                             $delta
                                                         else
@@ -1187,8 +1180,7 @@
                                                   <xsl:choose>
                                                   <xsl:when
                                                   test="xs:integer($leafPosition) eq $centralLeftLeafPos or xs:integer($leafPosition) eq ($centralLeftLeafPos + 1)">
-                                                  <xsl:value-of
-                                                  select="
+                                                  <xsl:value-of select="
                                                                     $Cy + $parametricY + ((if (xs:integer($left1_Right2) eq 1) then
                                                                         1
                                                                     else
@@ -1213,8 +1205,7 @@
                                                   <xsl:value-of
                                                   select="$posNextRegularLeaf - $ownPosition"/>
                                                   </xsl:variable>
-                                                  <xsl:value-of
-                                                  select="
+                                                  <xsl:value-of select="
                                                                     $Cy + $parametricY + ($delta div 2) + $delta * (if (xs:integer($difference) eq 1) then
                                                                         0
                                                                     else
@@ -1250,8 +1241,7 @@
                                                   <xsl:value-of
                                                   select="$ownPosition - $posPreviousRegularLeaf"/>
                                                   </xsl:variable>
-                                                  <xsl:value-of
-                                                  select="
+                                                  <xsl:value-of select="
                                                                     $Cy + $parametricY - ($delta div 2) + $delta * (if (xs:integer($difference) eq 1) then
                                                                         0
                                                                     else
@@ -1327,24 +1317,22 @@
         <!-- Subquire levels -->
         <xsl:variable name="subquireLevel" select="$subquires/tp:subquire[$counter]/@subquireLevel"/>
         <!-- Checks how many leaves before -->
-        <xsl:variable name="previousPositions_SQ"
-            select="
+        <xsl:variable name="previousPositions_SQ" select="
                 if ($subquires/tp:subquire[@subquireLevel = ($subquireLevel - 1)][$counter - 1]) then
                     xs:integer($subquires/tp:subquire[@subquireLevel = ($subquireLevel - 1)][1]/@positions_SQ)
                 else
                     0"/>
         <!-- Variable to assess the number of leaves in the subquire section -->
-        <xsl:variable name="odd1_Even2_SQ"
-            select="
+        <xsl:variable name="odd1_Even2_SQ" select="
                 if ($subquires/tp:subquire[$counter]/@positions_SQ mod 2 = 0) then
                     2
                 else
-                    1"
-            as="xs:integer"/>
+                    1" as="xs:integer"/>
         <!-- Variable to count the number of singletons in the subquire -->
         <xsl:variable name="countSingletons_SQ">
             <xsl:value-of
-                select="count($subquires/tp:subquire[$counter]/vc:leaf[vc:q[1]/vc:single/@val = 'yes'])"/>
+                select="count($subquires/tp:subquire[$counter]/vc:leaf[vc:q[1]/vc:single/@val = 'yes'])"
+            />
         </xsl:variable>
         <!-- Variable to find the left regular inner leaf position:
         it avoids singletons and leaves belonging to other subquires-->
@@ -1448,7 +1436,9 @@
             <xsl:variable name="ID-conjoined">
                 <xsl:call-template name="ID-conjoined">
                     <xsl:with-param name="currentPosition" select="$currentPosition_SQ"/>
-                    <xsl:with-param name="conjoinPosition" select="$conjoinPosition"/>
+                    <xsl:with-param name="conjoinPosition"
+                        select="if ($conjoinPosition = '') then xs:integer(0) else $conjoinPosition "
+                        as="xs:integer"/>
                 </xsl:call-template>
             </xsl:variable>
             <!-- Set group and drawing direction -->
@@ -1591,13 +1581,11 @@
             </xsl:when>
             <!-- Regular bifolia -->
             <xsl:otherwise>
-                <xsl:value-of
-                    select="
+                <xsl:value-of select="
                         if (xs:integer($currentPosition_SQ) le xs:integer($centralLeftLeafPos_SQ)) then
                             1
                         else
-                            2"
-                />
+                            2"/>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
@@ -1755,12 +1743,14 @@
             <!-- The arc is drawn only for complete bifolia -->
             <g>
                 <xsl:choose>
-                    <xsl:when test="(vc:q[1]/vc:single/@certainty != 1) or not(vc:q[1]/vc:single/@val = 'yes')">
+                    <xsl:when
+                        test="(vc:q[1]/vc:single/@certainty != 1) or not(vc:q[1]/vc:single/@val = 'yes')">
                         <!-- arc -->
                         <xsl:choose>
                             <xsl:when test="vc:q[1]/vc:single/@certainty = '2 | 3'">
                                 <xsl:call-template name="certainty">
-                                    <xsl:with-param name="certainty" select="vc:q[1]/vc:single/@certainty"/>
+                                    <xsl:with-param name="certainty"
+                                        select="vc:q[1]/vc:single/@certainty"/>
                                 </xsl:call-template>
                             </xsl:when>
                             <xsl:when test="vc:q[1]/vc:conjoin/@certainty != 1">
@@ -1807,13 +1797,11 @@
                                 </xsl:when>
                                 <xsl:when test="vc:q[2]">
                                     <xsl:call-template name="certainty">
-                                        <xsl:with-param name="certainty"
-                                            select="
+                                        <xsl:with-param name="certainty" select="
                                                 if (vc:q[2]/@certainty) then
                                                     vc:q[2]/@certainty
                                                 else
-                                                    3"
-                                        />
+                                                    3"/>
                                     </xsl:call-template>
                                 </xsl:when>
                             </xsl:choose>
@@ -1885,13 +1873,11 @@
                                 </xsl:when>
                                 <xsl:when test="vc:q[2]">
                                     <xsl:call-template name="certainty">
-                                        <xsl:with-param name="certainty"
-                                            select="
+                                        <xsl:with-param name="certainty" select="
                                                 if (vc:q[2]/@certainty) then
                                                     vc:q[2]/@certainty
                                                 else
-                                                    3"
-                                        />
+                                                    3"/>
                                     </xsl:call-template>
                                 </xsl:when>
                             </xsl:choose>
@@ -1925,8 +1911,7 @@
                                                   select="parent::vc:leaf/vc:q[1]/@position"/>
                                             </xsl:variable>
                                             <xsl:variable name="ownQuireN">
-                                                <xsl:value-of
-                                                  select="
+                                                <xsl:value-of select="
                                                         if (contains(parent::vc:leaf/vc:q[1]/@n, '.')) then
                                                             substring-before(parent::vc:leaf/vc:q[1]/@n, '.')
                                                         else
@@ -1943,12 +1928,11 @@
                                                 />
                                             </xsl:variable>
                                             <xsl:variable name="attachmentTargetQuire">
-                                                <xsl:value-of
-                                                  select="
-                                                  if (contains($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')) then
-                                                  substring-before($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')
+                                                <xsl:value-of select="
+                                                        if (contains($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')) then
+                                                            substring-before($textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n, '.')
                                                         else
-                                                        $textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n"
+                                                            $textblock/vc:textblock/vc:leaves/vc:leaf[@xml:id = $attachmentTargetID]/vc:q[1]/@n"
                                                 />
                                             </xsl:variable>
                                             <xsl:variable name="attachmentDeviation">
@@ -1971,8 +1955,7 @@
                                             </xsl:variable>
                                             <xsl:call-template name="attachment-method">
                                                 <xsl:with-param name="Cx_A" select="$Cx_SQ"/>
-                                                <xsl:with-param name="Cy_A"
-                                                  select="
+                                                <xsl:with-param name="Cy_A" select="
                                                         $Cy_SQ + $parametricY - (if (xs:integer($attachmentDeviation) gt 0) then
                                                             $delta
                                                         else
@@ -2007,8 +1990,7 @@
                                                   <xsl:choose>
                                                   <xsl:when
                                                   test="xs:integer($leafPosition) eq xs:integer($centralLeftLeafPos_SQ) or xs:integer($leafPosition) eq (xs:integer($centralLeftLeafPos_SQ) + 1)">
-                                                  <xsl:value-of
-                                                  select="
+                                                  <xsl:value-of select="
                                                                     $Cy_SQ + $parametricY + ((if (xs:integer($left1_Right2_SQ) eq 1) then
                                                                         1
                                                                     else
@@ -2017,8 +1999,7 @@
                                                   </xsl:when>
                                                   <xsl:when
                                                   test="xs:integer($leafPosition) lt xs:integer($centralLeftLeafPos_SQ)">
-                                                  <xsl:value-of
-                                                  select="
+                                                  <xsl:value-of select="
                                                                     $Cy_SQ + $parametricY + ((if (xs:integer($left1_Right2) eq 1) then
                                                                         1
                                                                     else
@@ -2027,8 +2008,7 @@
                                                   </xsl:when>
                                                   <xsl:when
                                                   test="xs:integer($leafPosition) gt (xs:integer($centralLeftLeafPos_SQ) + 1)">
-                                                  <xsl:value-of
-                                                  select="
+                                                  <xsl:value-of select="
                                                                     $Cy_SQ + $parametricY + ((if (xs:integer($left1_Right2_SQ) eq 1) then
                                                                         1
                                                                     else
@@ -2097,7 +2077,41 @@
         <xsl:param name="folioNumber"/>
         <xsl:param name="direction" tunnel="yes"/>
         <xsl:choose>
-            <xsl:when test="@xml:id eq $first">
+            <xsl:when test="$allNumbers = 0">
+                <xsl:choose>
+                    <xsl:when test="@xml:id eq $first">
+                        <text xmlns="http://www.w3.org/2000/svg" dy="{$Cy + $parametricY}"
+                            dx="{(($Cx + ($delta * $countRegularBifolia - 2)) + $lineLength) + ($delta div 2)}"
+                            class="folioNumber">
+                            <xsl:call-template name="writingDirRotation">
+                                <xsl:with-param name="direction" select="$direction"/>
+                                <xsl:with-param name="Cx" select="$Cx"/>
+                                <xsl:with-param name="leafLength" select="$leafLength"/>
+                                <xsl:with-param name="countRegularBifolia"
+                                    select="$countRegularBifolia"/>
+                                <xsl:with-param name="text" select="1"/>
+                            </xsl:call-template>
+                            <xsl:value-of select="$folioNumber"/>
+                        </text>
+                    </xsl:when>
+                    <xsl:when test="@xml:id eq $last">
+                        <text xmlns="http://www.w3.org/2000/svg" dy="{$Cy + $parametricY}"
+                            dx="{(($Cx + ($delta * $countRegularBifolia - 2)) + $lineLength) + ($delta div 2)}"
+                            class="folioNumber">
+                            <xsl:call-template name="writingDirRotation">
+                                <xsl:with-param name="direction" select="$direction"/>
+                                <xsl:with-param name="Cx" select="$Cx"/>
+                                <xsl:with-param name="leafLength" select="$leafLength"/>
+                                <xsl:with-param name="countRegularBifolia"
+                                    select="$countRegularBifolia"/>
+                                <xsl:with-param name="text" select="1"/>
+                            </xsl:call-template>
+                            <xsl:value-of select="$folioNumber"/>
+                        </text>
+                    </xsl:when>
+                </xsl:choose>
+            </xsl:when>
+            <xsl:otherwise>
                 <text xmlns="http://www.w3.org/2000/svg" dy="{$Cy + $parametricY}"
                     dx="{(($Cx + ($delta * $countRegularBifolia - 2)) + $lineLength) + ($delta div 2)}"
                     class="folioNumber">
@@ -2110,21 +2124,7 @@
                     </xsl:call-template>
                     <xsl:value-of select="$folioNumber"/>
                 </text>
-            </xsl:when>
-            <xsl:when test="@xml:id eq $last">
-                <text xmlns="http://www.w3.org/2000/svg" dy="{$Cy + $parametricY}"
-                    dx="{(($Cx + ($delta * $countRegularBifolia - 2)) + $lineLength) + ($delta div 2)}"
-                    class="folioNumber">
-                    <xsl:call-template name="writingDirRotation">
-                        <xsl:with-param name="direction" select="$direction"/>
-                        <xsl:with-param name="Cx" select="$Cx"/>
-                        <xsl:with-param name="leafLength" select="$leafLength"/>
-                        <xsl:with-param name="countRegularBifolia" select="$countRegularBifolia"/>
-                        <xsl:with-param name="text" select="1"/>
-                    </xsl:call-template>
-                    <xsl:value-of select="$folioNumber"/>
-                </text>
-            </xsl:when>
+            </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
 
@@ -2234,8 +2234,7 @@
                             <path>
                                 <xsl:attribute name="d">
                                     <xsl:text>M</xsl:text>
-                                    <xsl:value-of
-                                        select="
+                                    <xsl:value-of select="
                                             $Cx_A + ($delta * $countRegularBifolia - 2) + (if ($direction eq 'r-l') then
                                                 1
                                             else
@@ -2243,15 +2242,17 @@
                                     <xsl:text>,</xsl:text>
                                     <xsl:value-of select="$Cy_A - ($delta div 2)"/>
                                     <xsl:text>&#32;L</xsl:text>
-                                    <xsl:value-of
-                                        select="
+                                    <xsl:value-of select="
                                             $Cx_A + ($delta * $countRegularBifolia - 2) + (if ($direction eq 'r-l') then
                                                 1.5
                                             else
                                                 1) * $delta"/>
                                     <xsl:text>,</xsl:text>
-                                    <xsl:value-of
-                                        select="$Cy_A + ($delta * (if (xs:integer($attachmentDeviation) lt 0) then -$attachmentDeviation else $attachmentDeviation)) + ($delta div 2)"
+                                    <xsl:value-of select="
+                                            $Cy_A + ($delta * (if (xs:integer($attachmentDeviation) lt 0) then
+                                                -$attachmentDeviation
+                                            else
+                                                $attachmentDeviation)) + ($delta div 2)"
                                     />
                                 </xsl:attribute>
                             </path>
@@ -2277,14 +2278,13 @@
                 <xsl:when test="@type = 'stitched'">
                     <xsl:variable name="exitPoint">
                         <xsl:choose>
-                            <xsl:when
-                                test="
-                                every $leaf in current-group()
-                                satisfies $leaf/q[1]/single[@val = 'yes']">
+                            <xsl:when test="
+                                    every $leaf in current-group()
+                                        satisfies $leaf/q[1]/single[@val = 'yes']">
                                 <xsl:value-of select="$delta"/>
                             </xsl:when>
                             <xsl:otherwise>
-                                <xsl:value-of select="2 * $delta - (2*($delta div 3))"/>
+                                <xsl:value-of select="2 * $delta - (2 * ($delta div 3))"/>
                             </xsl:otherwise>
                         </xsl:choose>
                     </xsl:variable>
@@ -2345,9 +2345,9 @@
             <xsl:choose>                        
                 <xsl:when test="$embedCSS = 1">
                     <!-- copy the CSS file content into the SVG -->
-                    <xsl:text disable-output-escaping="yes">&lt;![CDATA[</xsl:text>    
+                    <xsl:text disable-output-escaping="yes"/>    
                     <xsl:copy-of select="unparsed-text($pathToCSS)"/>
-                    <xsl:text disable-output-escaping="yes">]]&gt;</xsl:text>                
+                    <xsl:text disable-output-escaping="yes"/>                
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:value-of select="concat('@import url(', $pathToCSS, ')')"/>
