@@ -6,51 +6,77 @@
     src: url('https://fonts.googleapis.com/css?family=Archivo+Narrow&display=swap');
 }
 
+@font-face{
+    font-family: 'Archivo', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Archivo&display=swap');
+}
+
+.gatheringNumber {
+    font-family: 'Archivo', sans-serif;
+    font-size: 6px;
+    alignment-baseline:hanging;
+}
+
+.gatheringNumber_L-R {
+    text-anchor: end;
+}
+
 .folioNumber {
     font-family: 'Archivo Narrow', sans-serif;
-    font-size: 0.5em;
+    font-size: 5px;
     alignment-baseline:middle;
 }
 
-.leaf{
+.folioNumber_R-L {
+    text-anchor: end;
+}
+
+.base {
+stroke-width:1pt;
+fill:none;
+stroke-linecap:round;
+}
+
+.leaf {
     stroke:#000000;
-    stroke-width:1pt;
-    fill:none;
-    stroke-linecap:round;
 }
 
 .current{
 stroke:red;
 }
 
+.goatskin {
+stroke:#CC6D68;
+}
+
+.sheepskin {
+stroke:#DBBD68;
+}
+
+.calfskin {
+stroke:#4F81BD;
+}
+
 .missingLeaf{
-    stroke:none;
-    stroke-width:1pt;
-    fill:none;
-    stroke-linecap:round;
+    stroke-width:0.8pt;
+    stroke:#000000;
+    stroke-dasharray:1,2;
 }
 
 .replacedLeaf{
-    stroke:#000000;
-    stroke-dasharray:0.25, 3, 4, 3;
-    stroke-width:1pt;
-    fill:none;
-    stroke-linecap:round;
+    stroke:#DCDCDC;
 }
 
 .addedLeaf{
     stroke:#000000;
-    stroke-dasharray:0.8, 2;
-    stroke-width:0.8pt;
-    fill:none;
-    stroke-linecap:square;
+    stroke-dasharray:0.25, 3, 4, 3;
 }
 
-.addedLeaf2{
-    stroke:#000000;
-    stroke-dasharray:0.8, 2;
-    stroke-width:1.8pt;
-    fill:none;
+.fleshside {
+}
+
+.hairside{
+    stroke-dasharray:0.5,2;
 }
 
 .glued{

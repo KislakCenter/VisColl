@@ -353,7 +353,29 @@
                             <name>map</name>
                             <optional>
                                 <attribute name="side">
-                                    <data type="NCName"/>
+                                    <choice>
+                                        <documentation
+                                            xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                            >The place on the left of the centre of a book opened as
+                                            if to be read. All the components or features of a
+                                            binding on this side of the book can therefore be
+                                            described as left (e.g. left board, left endleaves,
+                                            etc.). This removes any confusion about what is the
+                                            front board on books written in arabic or latin, for
+                                            instance
+                                            (http://w3id.org/lob/concept/2947).</documentation>
+                                        <value>left</value>
+                                        <documentation
+                                            xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                            >The place on the right of the centre of a book opened
+                                            as if to be read. All the components or features of a
+                                            binding on this side of the book can therefore be
+                                            described as right (e.g. right board, right endleaves,
+                                            etc.). This removes any confusion about what is the back
+                                            board on books written in arabic or latin, for instance
+                                            (http://w3id.org/lob/concept/3004).</documentation>
+                                        <value>right</value>
+                                    </choice>
                                 </attribute>
                             </optional>
                             <optional>
@@ -422,7 +444,7 @@
                     <data type="ID"/>
                 </attribute>
             </optional>
-            <zeroOrMore>                
+            <zeroOrMore>
                 <ref name="quire"/>
             </zeroOrMore>
         </element>
