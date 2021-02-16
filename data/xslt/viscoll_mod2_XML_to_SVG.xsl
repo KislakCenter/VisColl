@@ -1447,10 +1447,10 @@
                     <xsl:variable name="leftRightSide">
                         <xsl:choose>
                             <xsl:when test="$left1_Right2 = 1">
-                                <xsl:value-of select="'l'"/>
+                                <xsl:value-of select="'left'"/>
                             </xsl:when>
                             <xsl:when test="$left1_Right2 = 2">
-                                <xsl:value-of select="'r'"/>
+                                <xsl:value-of select="'right'"/>
                             </xsl:when>
                         </xsl:choose>
                     </xsl:variable>
@@ -1472,10 +1472,10 @@
             <xsl:variable name="leftRightSide">
                 <xsl:choose>
                     <xsl:when test="$left1_Right2 = 1">
-                        <xsl:value-of select="'r'"/>
+                        <xsl:value-of select="'right'"/>
                     </xsl:when>
                     <xsl:when test="$left1_Right2 = 2">
-                        <xsl:value-of select="'l'"/>
+                        <xsl:value-of select="'left'"/>
                     </xsl:when>
                 </xsl:choose>
             </xsl:variable>
@@ -2755,10 +2755,10 @@
                     <xsl:variable name="leftRightSide">
                         <xsl:choose>
                             <xsl:when test="$left1_Right2_SQ = 1">
-                                <xsl:value-of select="'l'"/>
+                                <xsl:value-of select="'left'"/>
                             </xsl:when>
                             <xsl:when test="$left1_Right2_SQ = 2">
-                                <xsl:value-of select="'r'"/>
+                                <xsl:value-of select="'right'"/>
                             </xsl:when>
                         </xsl:choose>
                     </xsl:variable>
@@ -2780,10 +2780,10 @@
             <xsl:variable name="leftRightSide">
                 <xsl:choose>
                     <xsl:when test="$left1_Right2_SQ = 1">
-                        <xsl:value-of select="'r'"/>
+                        <xsl:value-of select="'right'"/>
                     </xsl:when>
                     <xsl:when test="$left1_Right2_SQ = 2">
-                        <xsl:value-of select="'l'"/>
+                        <xsl:value-of select="'left'"/>
                     </xsl:when>
                 </xsl:choose>
             </xsl:variable>
