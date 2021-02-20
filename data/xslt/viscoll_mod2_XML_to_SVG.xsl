@@ -71,15 +71,15 @@
         <xd:desc>
             <xd:p>Some visualizations require two paths per folio to show differences in each side,
                 e.g., for parchment, hair and flesh side.</xd:p>
-            <xd:p>This variable looks for a specific taxonomy ID
-                <xd:pre>//taxonomy/@xml:id = 'id-sides'</xd:pre> to select whether double paths are
+            <xd:p>This variable looks for a specific taxonomy terms
+                (<xd:pre>'hairside' or 'fleshside'</xd:pre>) to select whether double paths are
                 needed.</xd:p>
             <xd:p>0 = no; 1 = yes</xd:p>
         </xd:desc>
     </xd:doc>
     <xsl:variable name="doublePaths">
         <xsl:choose>
-            <xsl:when test="//taxonomy/@xml:id = 'id-sides'">
+            <xsl:when test="//taxonomy/term/'hairside' or 'fleshside'">
                 <xsl:value-of select="1"/>
             </xsl:when>
             <xsl:otherwise>
