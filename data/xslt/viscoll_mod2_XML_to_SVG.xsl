@@ -1419,7 +1419,7 @@
             <xsl:value-of select="./q[1]/@position"/>
         </xsl:variable>
         <xsl:variable name="precPos">
-            <xsl:value-of select="preceding-sibling::leaf[1]/q[1]/@position"/>
+            <xsl:value-of select="preceding-sibling::leaf[1]/q[1][@n = $gatheringNumber]/@position"/>
         </xsl:variable>
         <!-- The line length varies to accommodate the stub for a singleton with the same position of a stub -->
         <xsl:variable name="lineLength">
