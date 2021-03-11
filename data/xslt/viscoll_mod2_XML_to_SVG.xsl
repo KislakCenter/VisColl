@@ -1808,22 +1808,11 @@
                                                                     $Cy + $parametricY + ($delta div 2) + $delta * (if (xs:integer($difference) eq 1) then
                                                                         0
                                                                     else
-                                                                        xs:integer($difference))"
+                                                                        xs:integer($difference)-1)"
                                                   />
                                                   </xsl:when>
                                                   <xsl:when
                                                   test="xs:integer($leafPosition) gt ($centralLeftLeafPos + 1)">
-                                                  <!--<xsl:value-of
-                                                  select="
-                                                                    $Cy + $parametricY + ((if (xs:integer($left1_Right2) eq 1) then
-                                                                        1
-                                                                    else
-                                                                        -1) * ($delta)) - ($delta div 2) + ($delta * $followingComponents)"
-                                                  />-->
-                                                  <!--<xsl:value-of
-                                                  select="
-                                                                    $Cy + $parametricY - ($delta div 2)"
-                                                  />-->
                                                   <xsl:variable name="ownPosition">
                                                   <xsl:value-of select="parent::leaf/q[1]/@position"
                                                   />
@@ -1844,7 +1833,7 @@
                                                                     $Cy + $parametricY - ($delta div 2) + $delta * (if (xs:integer($difference) eq 1) then
                                                                         0
                                                                     else
-                                                                        xs:integer($difference))"
+                                                                        xs:integer($difference)-1)"
                                                   />
                                                   </xsl:when>
                                                   </xsl:choose>
