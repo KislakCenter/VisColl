@@ -79,7 +79,7 @@
     </xd:doc>
     <xsl:variable name="doublePaths">
         <xsl:choose>
-            <xsl:when test="//taxonomy/term/'hairside' or 'fleshside'">
+            <xsl:when test="boolean(//taxonomy/term/'hairside' or //taxonomy/term/'fleshside')">
                 <xsl:value-of select="1"/>
             </xsl:when>
             <xsl:otherwise>
