@@ -255,7 +255,8 @@
                                             you see it (i.e., in the center of a quire). Stitching
                                             goes through the margin instead of through the fold.
                                             Stitching will have one @target identifying the exit
-                                            point.</documentation>
+                                            point. Tacketing works in a similar manner to sewing
+                                            through the fold.</documentation>
                                         <ref name="certainty"/>
                                         <optional>
                                             <ref name="target"/>
@@ -268,6 +269,7 @@
                                                   <value>tipped</value>
                                                   <value>drummed</value>
                                                   <value>stitched</value>
+                                                  <value>tacketed</value>
                                                   <value>other</value>
                                                 </choice>
                                             </attribute>
