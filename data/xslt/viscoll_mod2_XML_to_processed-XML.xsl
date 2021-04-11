@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:vc="http://schoenberginstitute.org/schema/collation"
+    xmlns:vc="http://viscoll.org/schema/collation"
     xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
     xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
-    xpath-default-namespace="http://schoenberginstitute.org/schema/collation"
+    xpath-default-namespace="http://viscoll.org/schema/collation"
     exclude-result-prefixes="svg xlink xs xd tei ss" version="2.0">
 
     <xsl:output name="processed-XML" method="xml" indent="yes" encoding="UTF-8"/>
@@ -199,6 +199,18 @@
                         <xsl:attribute name="n">
                             <xsl:value-of select="position()"/>
                         </xsl:attribute>
+                        <!-- Folio Number variable: by default takes the content of the folioNumber element. 
+            If empty, it'll take the value of folioNumber/@val. -->
+                        <xsl:variable name="folioNumberVar">
+                            <xsl:choose>
+                                <xsl:when test="folioNumber/text()">
+                                    <xsl:value-of select="folioNumber"/>
+                                    </xsl:when>
+                            <xsl:otherwise>
+                                    <xsl:value-of select="folioNumber/@val"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            </xsl:variable>
                         <inside>
                             <left>
                                 <xsl:call-template name="currentLeaf">
@@ -208,7 +220,7 @@
                                     <xsl:with-param name="folioID" select="$folioID"/>
                                     <xsl:with-param name="side" select="'v'"/>
                                     <xsl:with-param name="thisLeaf" select="."/>
-                                    <xsl:with-param name="folioNumber" select="folioNumber"/>
+                                    <xsl:with-param name="folioNumber" select="$folioNumberVar"/>
                                     <xsl:with-param name="missing"
                                         select="
                                             if (mode/@val = 'missing') then
@@ -224,6 +236,18 @@
                                     />
                                 </xsl:call-template>
                             </left>
+                            <!-- Folio Number variable (sibling): by default takes the content of the folioNumber element. 
+            If empty, it'll take the value of folioNumber/@val. -->
+                            <xsl:variable name="folioNumberVarSibl">
+                                <xsl:choose>
+                                    <xsl:when test="following-sibling::leaf[@xml:id eq $conjoinID]/folioNumber/text()">
+                                        <xsl:value-of select="following-sibling::leaf[@xml:id eq $conjoinID]/folioNumber"/>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:value-of select="following-sibling::leaf[@xml:id eq $conjoinID]/folioNumber/@val"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </xsl:variable>
                             <right>
                                 <xsl:call-template name="currentLeaf">
                                     <xsl:with-param name="image-list-spreadsheet-excel"
@@ -235,7 +259,7 @@
                                     <xsl:with-param name="thisLeaf"
                                         select="following-sibling::leaf[@xml:id eq $conjoinID]"/>
                                     <xsl:with-param name="folioNumber"
-                                        select="following-sibling::leaf[@xml:id eq $conjoinID]/folioNumber"/>
+                                        select="$folioNumberVarSibl"/>
                                     <xsl:with-param name="missing"
                                         select="
                                             if (following-sibling::leaf[@xml:id eq $conjoinID]/mode/@val = 'missing') then
@@ -251,8 +275,20 @@
                                     />
                                 </xsl:call-template>
                             </right>
-                        </inside>
-                        <outside>
+                        </inside>                        
+                        <!-- Folio Number variable (sibling): by default takes the content of the folioNumber element. 
+            If empty, it'll take the value of folioNumber/@val. -->
+                        <xsl:variable name="folioNumberVarSibl">
+                            <xsl:choose>
+                                <xsl:when test="following-sibling::leaf[@xml:id eq $conjoinID]/folioNumber/text()">
+                                    <xsl:value-of select="following-sibling::leaf[@xml:id eq $conjoinID]/folioNumber"/>
+                                    </xsl:when>
+                            <xsl:otherwise>
+                                    <xsl:value-of select="following-sibling::leaf[@xml:id eq $conjoinID]/folioNumber/@val"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            </xsl:variable>
+                    <outside>
                             <left>
                                 <xsl:call-template name="currentLeaf">
                                     <xsl:with-param name="image-list-spreadsheet-excel"
@@ -264,7 +300,7 @@
                                     <xsl:with-param name="thisLeaf"
                                         select="following-sibling::leaf[@xml:id eq $conjoinID]"/>
                                     <xsl:with-param name="folioNumber"
-                                        select="following-sibling::leaf[@xml:id eq $conjoinID]/folioNumber"/>
+                                        select="$folioNumberVarSibl"/>
                                     <xsl:with-param name="missing"
                                         select="
                                             if (following-sibling::leaf[@xml:id eq $conjoinID]/mode/@val = 'missing') then
@@ -279,7 +315,19 @@
                                                 'no'"
                                     />
                                 </xsl:call-template>
-                            </left>
+                            </left>                            
+                            <!-- Folio Number variable: by default takes the content of the folioNumber element. 
+            If empty, it'll take the value of folioNumber/@val. -->
+                            <xsl:variable name="folioNumberVar">
+                                <xsl:choose>
+                                    <xsl:when test="folioNumber/text()">
+                                        <xsl:value-of select="folioNumber"/>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:value-of select="folioNumber/@val"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </xsl:variable>
                             <right>
                                 <xsl:call-template name="currentLeaf">
                                     <xsl:with-param name="image-list-spreadsheet-excel"
@@ -288,7 +336,7 @@
                                     <xsl:with-param name="folioID" select="$folioID"/>
                                     <xsl:with-param name="side" select="'r'"/>
                                     <xsl:with-param name="thisLeaf" select="."/>
-                                    <xsl:with-param name="folioNumber" select="folioNumber"/>
+                                    <xsl:with-param name="folioNumber" select="$folioNumberVar"/>
                                     <xsl:with-param name="missing"
                                         select="
                                             if (mode/@val = 'missing') then
@@ -316,6 +364,18 @@
                         <xsl:attribute name="n">
                             <xsl:value-of select="position()"/>
                         </xsl:attribute>
+                        <!-- Folio Number variable: by default takes the content of the folioNumber element. 
+            If empty, it'll take the value of folioNumber/@val. -->
+                        <xsl:variable name="folioNumberVar">
+                            <xsl:choose>
+                                <xsl:when test="folioNumber/text()">
+                                    <xsl:value-of select="folioNumber"/>
+                                    </xsl:when>
+                            <xsl:otherwise>
+                                    <xsl:value-of select="folioNumber/@val"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:variable>
                         <inside>
                             <left>
                                 <xsl:call-template name="currentLeaf">
@@ -325,7 +385,7 @@
                                     <xsl:with-param name="folioID" select="$folioID"/>
                                     <xsl:with-param name="side" select="'r'"/>
                                     <xsl:with-param name="thisLeaf" select="."/>
-                                    <xsl:with-param name="folioNumber" select="folioNumber"/>
+                                    <xsl:with-param name="folioNumber" select="$folioNumberVar"/>
                                     <xsl:with-param name="missing"
                                         select="
                                             if (mode/@val = 'missing') then
@@ -342,6 +402,18 @@
                                 </xsl:call-template>
                             </left>
                         </inside>
+                    <!-- Folio Number variable: by default takes the content of the folioNumber element. 
+            If empty, it'll take the value of folioNumber/@val. -->
+                        <xsl:variable name="folioNumberVar">
+                            <xsl:choose>
+                                <xsl:when test="folioNumber/text()">
+                                    <xsl:value-of select="folioNumber"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="folioNumber/@val"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:variable>
                         <outside>
                             <left>
                                 <xsl:call-template name="currentLeaf">
@@ -351,7 +423,7 @@
                                     <xsl:with-param name="folioID" select="$folioID"/>
                                     <xsl:with-param name="side" select="'v'"/>
                                     <xsl:with-param name="thisLeaf" select="."/>
-                                    <xsl:with-param name="folioNumber" select="folioNumber"/>
+                                    <xsl:with-param name="folioNumber" select="$folioNumberVar"/>
                                     <xsl:with-param name="missing"
                                         select="
                                             if (mode/@val = 'missing') then
