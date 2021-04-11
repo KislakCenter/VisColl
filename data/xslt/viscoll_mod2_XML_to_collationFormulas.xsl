@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:vc="http://schoenberginstitute.org/schema/collation"
+    xmlns:vc="http://viscoll.org/schema/collation"
     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xpath-default-namespace="http://schoenberginstitute.org/schema/collation"
+    xpath-default-namespace="http://viscoll.org/schema/collation"
     exclude-result-prefixes="xlink xs xd tei" version="2.0">
 
     <xsl:output name="collationFormulasTXT" method="text"/>
