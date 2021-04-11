@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:vc="http://schoenberginstitute.org/schema/collation" xmlns:tp="temporaryTree"
+    xmlns:vc="http://viscoll.org/schema/collation" xmlns:tp="temporaryTree"
     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
-    xpath-default-namespace="http://schoenberginstitute.org/schema/collation"
+    xpath-default-namespace="http://viscoll.org/schema/collation"
     exclude-result-prefixes="svg xlink vc xs tp xd" version="2.0">
 
     <xd:doc scope="stylesheet">
@@ -79,7 +79,7 @@
     </xd:doc>
     <xsl:variable name="doublePaths">
         <xsl:choose>
-            <xsl:when test="boolean(//taxonomy/term/'hairside' or //taxonomy/term/'fleshside')">
+            <xsl:when test="boolean(//taxonomy/term/text() = 'hairside' or //taxonomy/term/text() = 'fleshside')">
                 <xsl:value-of select="1"/>
             </xsl:when>
             <xsl:otherwise>
@@ -1858,6 +1858,18 @@
                 </xsl:choose>
             </g>
         </g>
+        <!-- Folio Number variable: by default takes the content of the folioNumber element. 
+            If empty, it'll take the value of folioNumber/@val. -->
+        <xsl:variable name="folioNumberVar">
+            <xsl:choose>
+                <xsl:when test="folioNumber/text()">
+                    <xsl:value-of select="folioNumber"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="folioNumber/@val"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
         <!-- Add folio numbers to first and last -->
         <xsl:call-template name="firstLastFolioNumbers">
             <xsl:with-param name="first" select="$first"/>
@@ -1867,7 +1879,7 @@
             <xsl:with-param name="countRegularBifolia" select="$countRegularBifolia"/>
             <xsl:with-param name="lineLength" select="$parametricLeafLength"/>
             <xsl:with-param name="last" select="$last"/>
-            <xsl:with-param name="folioNumber" select="folioNumber"/>
+            <xsl:with-param name="folioNumber" select="$folioNumberVar"/>
             <xsl:with-param name="direction" select="$direction" tunnel="yes"/>
             <xsl:with-param name="endOfLineX" select="$endOfLineX"/>
         </xsl:call-template>
@@ -3137,6 +3149,18 @@
                 </xsl:choose>
             </g>
         </g>
+        <!-- Folio Number variable: by default takes the content of the folioNumber element. 
+            If empty, it'll take the value of folioNumber/@val. -->
+        <xsl:variable name="folioNumberVar">
+            <xsl:choose>
+                <xsl:when test="vc:folioNumber/text()">
+                    <xsl:value-of select="vc:folioNumber"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="vc:folioNumber/@val"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
         <!-- Add folio numbers to first and last -->
         <xsl:call-template name="firstLastFolioNumbers">
             <xsl:with-param name="first" select="$first"/>
@@ -3146,7 +3170,7 @@
             <xsl:with-param name="countRegularBifolia" select="$countRegularBifolia"/>
             <xsl:with-param name="lineLength" select="$parametricLeafLength"/>
             <xsl:with-param name="last" select="$last"/>
-            <xsl:with-param name="folioNumber" select="vc:folioNumber"/>
+            <xsl:with-param name="folioNumber" select="$folioNumberVar"/>
             <xsl:with-param name="direction" select="$direction" tunnel="yes"/>
             <xsl:with-param name="endOfLineX" select="$endOfLineX"/>
         </xsl:call-template>
@@ -3475,6 +3499,66 @@
                             </path>
                         </xsl:otherwise>
                     </xsl:choose>
+                </xsl:when>
+                <xsl:when test="@type = 'tacketed'">
+                    <path>
+                        <xsl:attribute name="d">
+                            <xsl:text>M</xsl:text>
+                            <xsl:value-of
+                                select="$Cx_A + ($delta * $countRegularBifolia - 2)"/>
+                            <xsl:text>,</xsl:text>
+                            <xsl:value-of select="$Cy_A - 3"/>
+                            <xsl:text>&#32;Q</xsl:text>
+                            <xsl:value-of
+                                select="$Cx_A + ($delta * $countRegularBifolia - 2)"/>
+                            <xsl:text>,</xsl:text>
+                            <xsl:value-of select="$Cy_A - 1"/>
+                            <xsl:text>&#32;</xsl:text>
+                            <xsl:value-of
+                                select="$Cx_A + ($delta * $countRegularBifolia - 2) - 2"/>
+                            <xsl:text>,</xsl:text>
+                            <xsl:value-of select="$Cy_A - 1"/>
+                            <xsl:text>M</xsl:text>
+                            <xsl:value-of
+                                select="$Cx_A + ($delta * $countRegularBifolia - 2) - 2"/>
+                            <xsl:text>,</xsl:text>
+                            <xsl:value-of select="$Cy_A - 1"/>
+                            <xsl:text>&#32;L</xsl:text>
+                            <xsl:value-of
+                                select="$Cx_A + ($delta * $countRegularBifolia - 2) - ($delta * ($countRegularBifolia2 + 2)) - (($delta div 2) * $positions_SQ)"/>
+                            <xsl:text>,</xsl:text>
+                            <xsl:value-of select="$Cy_A - 1"/>                             
+                        </xsl:attribute>
+                    </path>
+                    <path>
+                        <xsl:attribute name="d">
+                            <xsl:text>M</xsl:text>
+                            <xsl:value-of
+                                select="$Cx_A + ($delta * $countRegularBifolia - 2)"/>
+                            <xsl:text>,</xsl:text>
+                            <xsl:value-of select="$Cy_A + 3"/>
+                            <xsl:text>&#32;Q</xsl:text>
+                            <xsl:value-of
+                                select="$Cx_A + ($delta * $countRegularBifolia - 2)"/>
+                            <xsl:text>,</xsl:text>
+                            <xsl:value-of select="$Cy_A + 1"/>
+                            <xsl:text>&#32;</xsl:text>
+                            <xsl:value-of
+                                select="$Cx_A + ($delta * $countRegularBifolia - 2) - 2"/>
+                            <xsl:text>,</xsl:text>
+                            <xsl:value-of select="$Cy_A + 1"/>
+                            <xsl:text>M</xsl:text>
+                            <xsl:value-of
+                                select="$Cx_A + ($delta * $countRegularBifolia - 2) - 2"/>
+                            <xsl:text>,</xsl:text>
+                            <xsl:value-of select="$Cy_A + 1"/>
+                            <xsl:text>&#32;L</xsl:text>
+                            <xsl:value-of
+                                select="$Cx_A + ($delta * $countRegularBifolia - 2) - ($delta * ($countRegularBifolia2 + 2)) - (($delta div 2) * $positions_SQ)"/>
+                            <xsl:text>,</xsl:text>
+                            <xsl:value-of select="$Cy_A + 1"/>                             
+                        </xsl:attribute>
+                    </path>
                 </xsl:when>
                 <xsl:when test="@type = 'stitched'">
                     <xsl:variable name="exitPoint">
