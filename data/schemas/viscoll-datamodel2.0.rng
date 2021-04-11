@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar ns="http://schoenberginstitute.org/schema/collation"
+<grammar ns="http://viscoll.org/schema/collation/"
     xmlns="http://relaxng.org/ns/structure/1.0"
     datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
     <start>
@@ -9,7 +9,7 @@
                     viscoll document may contain multiple textblock elements</documentation>
                 <element name="textblock">
                     <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
-                        >Optional @url points to a record describing the textblock, e.g. a catalog
+                        >Optional url points to a record describing the textblock, e.g. a catalog
                         record</documentation>
                     <optional>
                         <element name="url">
@@ -20,7 +20,7 @@
                         <element name="title">
                             <documentation
                                 xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">Optional
-                                @title provides the title of the textblock as defined by the people
+                                title provides the title of the textblock as defined by the people
                                 or group doing the cataloging (viscoll does not define
                                 title)</documentation>
                             <text/>
@@ -64,18 +64,34 @@
                         <element name="format">
                             <documentation
                                 xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">refers
-                                to the format, usually of a printed book. Possible values are 2mo,
-                                4mo, 8mo, 12mo, 16mo, 32mo, 64mo</documentation>
+                                to the format, usually of a printed book. Possible values are fol.,
+                                4to, 8vo, 12mo, long 12mo, 16mo, 18mo, 24mo, long 24mo, 32mo, 48mo,
+                                64mo, 72mo, 96mo, 128mo based on the DCRM(B) standard, the national
+                                standard for cataloging rare books in library collections, generally
+                                adopted by English-speaking countries and some non-English-speaking
+                                countries.</documentation>
                             <attribute name="val">
                                 <choice>
-                                    <value>2mo</value>
-                                    <value>4mo</value>
-                                    <value>8mo</value>
+                                    <value>fol.</value>
+                                    <value>4to</value>
+                                    <value>8vo</value>
                                     <value>12mo</value>
+                                    <value>long 12mo</value>
                                     <value>16mo</value>
+                                    <value>18mo</value>
                                     <value>24mo</value>
+                                <value>long 24mo</value>
+                                    <value>32mo</value>
+                                    <value>48mo</value>
+                                    <value>64mo</value>
+                                    <value>72mo</value>
+                                    <value>96mo</value>
+                                    <value>128mo</value>
                                 </choice>
                             </attribute>
+                        <optional>
+                                <ref name="certainty"/>
+                            </optional>
                         </element>
                     </optional>
 
@@ -98,6 +114,9 @@
                                     <value>half-median</value>
                                 </choice>
                             </attribute>
+                        <optional>
+                                <ref name="certainty"/>
+                            </optional>
                         </element>
                     </optional>
 
@@ -174,33 +193,33 @@
                                                 <data type="NCName"/>
                                             </attribute>
                                         </optional>
+                                        <ref name="n"/>
+                                        <choice>
+                                            <optional>
+                                                <element name="conjoin">
+                                                  <ref name="certainty"/>
+                                                  <ref name="target"/>
+                                                  <!--<text/>-->
+                                                </element>
+                                                </optional>
                                         <optional>
-                                            <ref name="n"/>
-                                        </optional>
-                                        <optional>
-                                            <element name="conjoin">
-                                                <ref name="certainty"/>
-                                                <ref name="target"/>
-                                                <text/>
-                                            </element>
-                                        </optional>
-                                        <optional>
-                                            <element name="single">
-                                                <documentation
+                                                <element name="single">
+                                                  <documentation
                                                   xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
                                                   >single only has the value of "yes" and is only
                                                   used if the leaf is a singleton</documentation>
-                                                <attribute name="val">
+                                                  <attribute name="val">
                                                   <choice>
                                                   <value>yes</value>
                                                   </choice>
-                                                </attribute>
-                                                <optional>
+                                                  </attribute>
+                                                  <optional>
                                                   <ref name="certainty"/>
-                                                </optional>
-                                            </element>
-                                        </optional>
-                                    </element>
+                                                  </optional>
+                                                </element>
+                                            </optional>
+                                        </choice>
+                                        </element>
                                 </oneOrMore>
                                 <optional>
                                     <element name="firstLeaf">
@@ -261,19 +280,17 @@
                                         <optional>
                                             <ref name="target"/>
                                         </optional>
-                                        <optional>
-                                            <attribute name="type">
-                                                <choice>
-                                                  <value>sewn</value>
-                                                  <value>pasted</value>
+                                        <attribute name="type">
+                                            <choice>
+                                                <value>sewn</value>
+                                            <value>pasted</value>
                                                   <value>tipped</value>
                                                   <value>drummed</value>
                                                   <value>stitched</value>
                                                   <value>tacketed</value>
                                                   <value>other</value>
                                                 </choice>
-                                            </attribute>
-                                        </optional>
+                                        </attribute>
                                     </element>
                                 </zeroOrMore>
                             </element>
