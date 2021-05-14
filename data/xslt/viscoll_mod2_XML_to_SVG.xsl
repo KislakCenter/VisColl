@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:vc="http://viscoll.org/schema/collation" xmlns:tp="temporaryTree"
+    xmlns:vc="http://viscoll.org/schema/collation/" xmlns:tp="temporaryTree"
     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
-    xpath-default-namespace="http://viscoll.org/schema/collation"
+    xpath-default-namespace="http://viscoll.org/schema/collation/"
     exclude-result-prefixes="svg xlink vc xs tp xd" version="2.0">
 
     <xd:doc scope="stylesheet">
@@ -1808,7 +1808,7 @@
                                                                     $Cy + $parametricY + ($delta div 2) + $delta * (if (xs:integer($difference) eq 1) then
                                                                         0
                                                                     else
-                                                                        xs:integer($difference)-1)"
+                                                                        xs:integer($difference) - 1)"
                                                   />
                                                   </xsl:when>
                                                   <xsl:when
@@ -1833,7 +1833,7 @@
                                                                     $Cy + $parametricY - ($delta div 2) + $delta * (if (xs:integer($difference) eq 1) then
                                                                         0
                                                                     else
-                                                                        xs:integer($difference)-1)"
+                                                                        xs:integer($difference) - 1)"
                                                   />
                                                   </xsl:when>
                                                   </xsl:choose>

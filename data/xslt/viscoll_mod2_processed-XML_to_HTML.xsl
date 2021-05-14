@@ -10,7 +10,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:vc="http://viscoll.org/schema/collation"
+    xmlns:vc="http://viscoll.org/schema/collation/"
     exclude-result-prefixes="ss xd vc svg" version="2.0">
 
     <xsl:output name="html5" method="html" encoding="UTF-8" version="5" indent="yes"/>
