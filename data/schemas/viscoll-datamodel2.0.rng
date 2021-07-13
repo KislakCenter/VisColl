@@ -4,6 +4,9 @@
     datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
     <start>
         <element name="viscoll">
+            <attribute name="version">
+                <value>2.1.0</value>
+            </attribute>
             <oneOrMore>
                 <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">On
                     viscoll document may contain multiple textblock elements</documentation>
@@ -32,7 +35,7 @@
                     <optional>
                         <element name="date">
                             <documentation
-                                xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">@date is
+                                xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">date is
                                 optional and is undefined. Could be linked to a controlled
                                 vocabulary in tools (e.g., a list of centuries)</documentation>
                             <text/>
@@ -63,16 +66,29 @@
                     <optional>
                         <element name="format">
                             <documentation
-                                xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">refers
-                                to the format, usually of a printed book. Possible values are fol.,
-                                4to, 8vo, 12mo, long 12mo, 16mo, 18mo, 24mo, long 24mo, 32mo, 48mo,
-                                64mo, 72mo, 96mo, 128mo based on the DCRM(B) standard, the national
-                                standard for cataloging rare books in library collections, generally
-                                adopted by English-speaking countries and some non-English-speaking
-                                countries.</documentation>
+                                xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">
+                                <p>Refers to the format, usually of a printed book. Possible values
+                                    are fol.*, agenda 4to*, 4to*, 8vo*, 12mo, long 12mo, 16mo*,
+                                    18mo, 24mo, long 24mo, 32mo*, 48mo, 64mo*, 72mo, 96mo, 128mo
+                                    based on the DCRM(B) standard, the national standard for
+                                    cataloging rare books in library collections, generally adopted
+                                    by English-speaking countries and some non-English-speaking
+                                    countries, with the addition of "agenda quarto" (Needham, Paul.
+                                    2017. “Format and Paper Size in Fifteenth-Century Printing.” In
+                                        <i>Materielle Aspekte in Der Inkunabelforschung</i>, edited
+                                    by Christoph Reske and Wolfgang Schmitz, 59–108. Wolfenbüttel
+                                    Writings on the History of Bookkeeping 49. Wiesbaden:
+                                    Harrassowitz Verlag in Kommission.). * indicates formats
+                                    considered by the Needham Calculator
+                                    (http://www.needhamcalculator.net/), see paper size below. In
+                                    case of mixed formats, e.g., F° and 4°, or other options being
+                                    used in one textblock, the information should be mapped directly
+                                    to the sheets instead.</p>
+                            </documentation>
                             <attribute name="val">
                                 <choice>
                                     <value>fol.</value>
+                                    <value>agenda 4to</value>
                                     <value>4to</value>
                                     <value>8vo</value>
                                     <value>12mo</value>
@@ -87,6 +103,8 @@
                                     <value>72mo</value>
                                     <value>96mo</value>
                                     <value>128mo</value>
+                                <value>mixed format</value>
+                                    <value>other</value>
                                 </choice>
                             </attribute>
                         <optional>
@@ -96,14 +114,36 @@
                     </optional>
 
                     <optional>
-                        <element name="paper_flavor">
+                        <element name="paperSize">
                             <documentation
-                                xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">refers
-                                to the category list in the "Table of Fifteenth-Century Paper
-                                Flavors" for the Needham Calculator
-                                (http://www.needhamcalculator.net/)</documentation>
-                            <attribute name="val">
+                                xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">
+                                <p>Refers to the category list in the "Table of Fifteenth-Century
+                                    Paper Flavors" for the Needham Calculator
+                                    (http://www.needhamcalculator.net/). For more information see
+                                    also: Needham, Paul. 2017. “Format and Paper Size in
+                                    Fifteenth-Century Printing.” In <i>Materielle Aspekte in Der
+                                        Inkunabelforschung</i>, edited by Christoph Reske and
+                                    Wolfgang Schmitz, 59–108. Wolfenbüttel Writings on the History
+                                    of Bookkeeping 49. Wiesbaden: Harrassowitz Verlag in Kommission.
+                                    In case of mixed sizes or other options being used in one
+                                    textblock, the information should be mapped directly to the
+                                    sheets instead.</p>
+                                <ul>
+                                    <li>Papal: 56 x 38.5 cm (half sheet)</li>
+                                    <li>Imperial: 48 x 34 cm</li>
+                                    <li>Super-Royal (Reale Bolognese): 45 x 30 cm</li>
+                                    <li>Royal (Reale, Regal): 42 x 30 cm</li>
+                                    <li>Super-Median (Mezzana Grande?): 37 x 25 cm</li>
+                                    <li>Median (Mezzana): 34.5/35 x 25 cm</li>
+                                    <li>Super-Chancery: 33 x 23 cm</li>
+                                    <li>Chancery (Reçute, Comune, Kanzleiformat): 31/31.5 x 23
+                                        cm</li>
+                                <li>Half-Median: 25 x 17.5 cm</li>
+                                </ul>
+                            </documentation>
+                        <attribute name="val">
                                 <choice>
+                                    <value>papal</value>
                                     <value>imperial</value>
                                     <value>super-royal</value>
                                     <value>royal</value>
@@ -112,9 +152,11 @@
                                     <value>super-chancery</value>
                                     <value>chancery</value>
                                     <value>half-median</value>
+                                    <value>mixed_sizes</value>
+                                    <value>other</value>
                                 </choice>
                             </attribute>
-                        <optional>
+                            <optional>
                                 <ref name="certainty"/>
                             </optional>
                         </element>
@@ -194,6 +236,9 @@
                                             </attribute>
                                         </optional>
                                         <ref name="n"/>
+                                        <optional>
+                                            <ref name="signature"/>
+                                        </optional>
                                         <choice>
                                             <optional>
                                                 <element name="conjoin">
@@ -351,7 +396,14 @@
                                 <name ns="http://www.w3.org/XML/1998/namespace">id</name>
                                 <data type="NCName"/>
                             </attribute>
-                            <text/>
+                            <optional>
+                                <element name="scopeNote">
+                                    <text/>
+                                </element>
+                            </optional>
+                        <element name="label">
+                                <text/>
+                            </element>
                         </element>
                     </oneOrMore>
                 </element>
@@ -372,6 +424,11 @@
                             <name>map</name>
                             <optional>
                                 <attribute name="side">
+                                    <documentation
+                                        xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                        >The @side attribute permits the mapping of features on one
+                                        of the two surfaces of a sheet. The possible values are
+                                        'left' and 'right'.</documentation>
                                     <choice>
                                         <documentation
                                             xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
@@ -398,15 +455,119 @@
                                 </attribute>
                             </optional>
                             <optional>
+                                <attribute name="location">
+                                    <documentation
+                                        xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">
+                                        <p>The location attribute permits the mapping of features on
+                                            the surface of a page. The model provides a list of
+                                            possible values, but the user can add values too. If
+                                            more than one location is to be selected, the values
+                                            should be separated by a space, for this reason, spaces
+                                            are not allowed in the location values, use camelCasing,
+                                            _underscore, or similar instead.</p>
+                                        <p>Suggested values, as defined in the Language of Bindings
+                                            or the Getty's AAT, are: <ul>
+                                                <li>head: the top of a bound book as placed
+                                                  vertically on a shelf. <a
+                                                  href="http://w3id.org/lob/concept/3803"
+                                                  >http://w3id.org/lob/concept/3803</a></li>
+                                                <li>tail: the bottom of a bound book as placed
+                                                  vertically on a shelf. <a
+                                                  href="http://w3id.org/lob/concept/3805"
+                                                  >http://w3id.org/lob/concept/3805</a></li>
+                                                <li>fore-edge: the edge of a codex-form book from
+                                                  which it is opened, opposite the spine. <a
+                                                  href="http://w3id.org/lob/concept/3808"
+                                                  >http://w3id.org/lob/concept/3808</a></li>
+                                                <li>inner: the edge of a codex-form book closer to
+                                                  the inside of the binding. <a
+                                                  href="http://w3id.org/lob/concept/3812"
+                                                  >http://w3id.org/lob/concept/3812</a></li>
+                                                <li>margins: the areas of a page between the
+                                                  printed, written, or illustrative matter (text
+                                                  area) and the edges of the leaf. The four margins
+                                                  are usually called the 'head' (or top);
+                                                  'fore-edge' (or outer, outside, side); 'tail' (or
+                                                  bottom foot); and 'inner' (or gutter). <a
+                                                  href="http://w3id.org/lob/concept/4579"
+                                                  >http://w3id.org/lob/concept/4579</a></li>
+                                                <li>gutters: the adjoining inner margins of two
+                                                  facing pages, i.e. the margin at the sewn fold of
+                                                  a section. <a
+                                                  href="http://w3id.org/lob/concept/4577"
+                                                  >http://w3id.org/lob/concept/4577</a></li>
+                                                <li>corner: the meeting-place of converging sides or
+                                                  edges of a book, forming an angular extremity or
+                                                  projection. On books, they can be defined
+                                                  differently according to where they are found. The
+                                                  sides of a binding therefore will have upper and
+                                                  lower corners on either the inner (spine) or outer
+                                                  (fore-edge) edges whereas the spines or fore-edges
+                                                  of a book will have upper and lower corners at
+                                                  either the left or right sides. <a
+                                                  href="http://w3id.org/lob/concept/4543"
+                                                  >http://w3id.org/lob/concept/4543</a></li>
+                                                <li>text_area: The area of a page containing the
+                                                  printed, written, or illustrative matter, within
+                                                  the four margins. <a
+                                                  href="http://w3id.org/lob/concept/4583"
+                                                  >http://w3id.org/lob/concept/4583</a></li>
+                                                <li>upper: situated or passing above the level,
+                                                  surface, or base of measurement of something else.
+                                                  <a
+                                                  href="http://vocab.getty.edu/page/aat/300010291"
+                                                  >http://vocab.getty.edu/page/aat/300010291</a></li>
+                                                <li>lower: situated or passing below the level,
+                                                  surface, or base of measurement of something else.
+                                                  <a
+                                                  href="http://vocab.getty.edu/page/aat/300010283"
+                                                  >http://vocab.getty.edu/page/aat/300010283</a></li>
+                                                <li>central: positioned at or near the middle of
+                                                  something. <a
+                                                  href="http://vocab.getty.edu/page/aat/300010273"
+                                                  >http://vocab.getty.edu/page/aat/300010273</a></li>
+                                                <li>projecting: jutting or sticking out beyond the
+                                                  general surface or adjacent parts. <a
+                                                  href="http://vocab.getty.edu/page/aat/300010286"
+                                                  >http://vocab.getty.edu/page/aat/300010286</a></li>
+                                                <li>parallel: extending in the same direction and
+                                                  everywhere equidistant; usually said of lines and
+                                                  linear objects and structures. <a
+                                                  href="http://vocab.getty.edu/page/aat/300010284"
+                                                  >http://vocab.getty.edu/page/aat/300010284</a></li>
+                                                <li>vertical: parallel relationships to a vertical
+                                                  axis in designs for graphic works, objects, and
+                                                  structures. <a
+                                                  href="http://vocab.getty.edu/page/aat/300056325"
+                                                  >http://vocab.getty.edu/page/aat/300056325</a></li>
+                                                <li>horizontal: parallel relationships to a
+                                                  horizontal axis in designs for graphic works,
+                                                  objects, and structures. <a
+                                                  href="http://vocab.getty.edu/page/aat/300065463"
+                                                  >http://vocab.getty.edu/page/aat/300065463</a></li>
+                                                <li>oblique: in form or position, a deviation from a
+                                                  parallel state, or perpendicularity. <a
+                                                  href="http://vocab.getty.edu/page/aat/300265773"
+                                                  >http://vocab.getty.edu/page/aat/300265773</a>
+                                                </li>
+                                            </ul>
+                                        </p>
+                                    </documentation>
+                                    <data type="NMTOKENS"/>
+                                </attribute>
+                            </optional>
+                            <optional>
                                 <ref name="target"/>
                             </optional>
                             <optional>                                
                                 <ref name="certainty"/>
                             </optional>
-                            <element>
-                                <name>term</name>
-                                <ref name="target"/>
-                            </element>
+                            <oneOrMore>
+                                <element>
+                                    <name>term</name>
+                                    <ref name="target"/>
+                                </element>
+                                </oneOrMore>
                         </element>
                     </oneOrMore>
                 </element>
@@ -416,6 +577,11 @@
     <define name="n">
         <attribute name="n">
             <data type="NMTOKEN"/>
+        </attribute>
+    </define>
+    <define name="signature">
+        <attribute name="signature">
+            <data type="token"/>
         </attribute>
     </define>
     <define name="certainty">
@@ -454,6 +620,12 @@
                 <ref name="certainty"/>
             </optional>
             <ref name="n"/>
+            <optional>
+                <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">For
+                    printed books, the alphanumerical code printed (or derived) for the
+                    gathering.</documentation>
+                <ref name="signature"/>
+            </optional>
             <!--<optional>
                 <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">subquires must point to a parent quire</documentation>
                 <attribute name="parent">
