@@ -4,9 +4,14 @@
     datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
     <start>
         <element name="viscoll">
-            <attribute name="version">
-                <value>2.1.0</value>
-            </attribute>
+            <optional>
+                <attribute name="version">
+                    <choice>
+                        <value>2.0.0</value>
+                        <data type="NMTOKEN"/>
+                    </choice>                    
+                </attribute>
+            </optional>
             <oneOrMore>
                 <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">On
                     viscoll document may contain multiple textblock elements</documentation>
