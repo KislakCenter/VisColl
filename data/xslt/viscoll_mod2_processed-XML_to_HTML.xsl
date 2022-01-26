@@ -8,10 +8,10 @@
 -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+    xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:vc="http://viscoll.org/schema/collation/"
-    exclude-result-prefixes="ss xd vc svg" version="2.0">
+    xmlns:vc="http://viscoll.org/schema/collation/" xmlns:java="http://www.java.com/" exclude-result-prefixes="xs ss xd vc svg java"
+    version="2.0">
 
     <xsl:output name="html5" method="html" encoding="UTF-8" version="5" indent="yes"/>
 
@@ -22,6 +22,8 @@
             <xd:p><xd:b>Modified on:</xd:b>April 29, 2016</xd:p>
             <xd:p><xd:b>Modified by:</xd:b> Dot Porter</xd:p>
             <xd:p><xd:b>Modified on:</xd:b> 2019-06-06</xd:p>
+            <xd:p><xd:b>Modified by:</xd:b> Alberto Campagnolo</xd:p>
+            <xd:p><xd:b>Modified on:</xd:b> 2022-01-26</xd:p>
             <xd:p><xd:b>Modified by:</xd:b> Alberto Campagnolo</xd:p>
             <xd:p>This document takes as its input the output from
                 viscoll_mod2_XML_to_processed-XML.xsl</xd:p>
@@ -36,6 +38,21 @@
             <xd:p>Congratulations! You are done!</xd:p>
         </xd:desc>
     </xd:doc>
+    
+    <xd:doc>
+        <xd:desc>
+            <xd:p>Function to check for the existence of a file.</xd:p>
+        </xd:desc>
+        <xd:param name="file">The filename.</xd:param>
+        <xd:param name="base-uri">The path to the folder that is supposed to contain the file.</xd:param>
+    </xd:doc>
+    <xsl:function name="java:file-exists" xmlns:file="java.io.File" as="xs:boolean">
+        <xsl:param name="file" as="xs:string"/>
+        <xsl:param name="base-uri" as="xs:string"/>
+        
+        <xsl:variable name="absolute-uri" select="resolve-uri($file, $base-uri)" as="xs:anyURI"/>
+        <xsl:sequence select="file:exists(file:new($absolute-uri))"/>
+    </xsl:function>
 
     <!-- Variable to find the path to the top folder of the textblock 
         (containing all the XML, SVG, HTML, CSS, JS, etc. files) -->
@@ -60,7 +77,7 @@
 
     <!--Variable setting the URL to the Stub Visualization-->
     <xsl:variable name="stubVis">
-        <!-- Link to a stub visulization -->
+        <!-- Link to a stub visualization -->
         <xsl:text>STUB</xsl:text>
     </xsl:variable>
 
@@ -179,15 +196,29 @@
                     </p>
                     <p>
                         <xsl:text>Formula 1: </xsl:text>
-                        <xsl:copy-of
-                            select="unparsed-text(concat($base-uri, 'XML/', $idno, '-formula_01.txt'))"
-                        />
+                        <xsl:choose>
+                            <xsl:when test="java:file-exists(concat($idno, '-formula_01.txt'), base-uri())">                                
+                                <xsl:copy-of
+                                    select="unparsed-text(concat($base-uri, 'XML/', $idno, '-formula_01.txt'))"
+                                />
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:text>Formula not found</xsl:text>
+                            </xsl:otherwise>
+                        </xsl:choose>
                     </p>
                     <p>
                         <xsl:text>Formula 2: </xsl:text>
-                        <xsl:copy-of
-                            select="unparsed-text(concat($base-uri, 'XML/', $idno, '-formula_02.txt'))"
-                        />
+                        <xsl:choose>
+                            <xsl:when test="java:file-exists(concat($idno, '-formula_02.txt'), base-uri())">                                
+                                <xsl:copy-of
+                                    select="unparsed-text(concat($base-uri, 'XML/', $idno, '-formula_02.txt'))"
+                                />
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:text>Formula not found</xsl:text>
+                            </xsl:otherwise>
+                        </xsl:choose>
                     </p>
                 </body>
             </html>
@@ -920,16 +951,28 @@
                                     <xsl:attribute name="value"><xsl:value-of
                                             select="concat($idno, '-', @n, '.html')"
                                         /></xsl:attribute> Gathering <xsl:value-of select="@n"/>
-                                        (<xsl:value-of select="@positions"/>) </xsl:element>
+                                    <xsl:choose>
+                                        <xsl:when test="@signature">
+                                            <xsl:text>: </xsl:text>
+                                            <xsl:value-of select="@signature"/>
+                                            <xsl:text> </xsl:text>
+                                        </xsl:when>
+                                    </xsl:choose> (<xsl:value-of select="@positions"/>)
+                                </xsl:element>
                             </xsl:for-each>
                         </select>
                     </div>
-                    <br/> Gathering <xsl:value-of select="$gatheringNo"/> (<xsl:value-of
+                    <br/> Gathering <xsl:value-of select="$gatheringNo"/>
+                    <xsl:choose>
+                        <xsl:when test="@signature">
+                            <xsl:text>: </xsl:text>
+                            <xsl:value-of select="@signature"/>
+                            <xsl:text> </xsl:text>
+                        </xsl:when>
+                    </xsl:choose>(<xsl:value-of
                         select="$positions"/>)<xsl:text> </xsl:text><xsl:text> </xsl:text>
                     <xsl:for-each select="units/unit">
-                        <xsl:comment>
-                                begin set
-                            </xsl:comment>
+                        <xsl:comment> begin set </xsl:comment>
                         <!-- This sets up the pairs -->
                         <!--Variables set for the left and right positions, inside-->
                         <xsl:variable name="bi1" select="inside/left/leaf/vc:q/@position"/>
