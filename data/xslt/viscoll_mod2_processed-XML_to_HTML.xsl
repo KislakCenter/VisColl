@@ -196,29 +196,15 @@
                     </p>
                     <p>
                         <xsl:text>Formula 1: </xsl:text>
-                        <xsl:choose>
-                            <xsl:when test="java:file-exists(concat($idno, '-formula_01.txt'), base-uri())">                                
-                                <xsl:copy-of
-                                    select="unparsed-text(concat($base-uri, 'XML/', $idno, '-formula_01.txt'))"
-                                />
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <xsl:text>Formula not found</xsl:text>
-                            </xsl:otherwise>
-                        </xsl:choose>
+                        <xsl:copy-of
+                            select="unparsed-text(concat($base-uri, 'XML/', $idno, '-formula_01.txt'))"
+                        />
                     </p>
                     <p>
                         <xsl:text>Formula 2: </xsl:text>
-                        <xsl:choose>
-                            <xsl:when test="java:file-exists(concat($idno, '-formula_02.txt'), base-uri())">                                
-                                <xsl:copy-of
-                                    select="unparsed-text(concat($base-uri, 'XML/', $idno, '-formula_02.txt'))"
-                                />
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <xsl:text>Formula not found</xsl:text>
-                            </xsl:otherwise>
-                        </xsl:choose>
+                        <xsl:copy-of
+                            select="unparsed-text(concat($base-uri, 'XML/', $idno, '-formula_02.txt'))"
+                        />
                     </p>
                 </body>
             </html>
@@ -1195,14 +1181,7 @@
         <xsl:param name="fol"/>
         <xsl:param name="gatheringNo"/>
         <xsl:param name="bi1"/>
-        <xsl:choose>
-            <xsl:when test="$fol = $folNoX">
-                <xsl:value-of select="concat($folNoX, $gatheringNo, $bi1)"/>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:value-of select="$fol"/>
-            </xsl:otherwise>
-        </xsl:choose>
+        <xsl:value-of select="concat('F',$fol, '_G',$gatheringNo, '-P',$bi1)"/>
     </xsl:template>
 
     <xd:doc>
@@ -1540,25 +1519,8 @@
         </xd:desc>
     </xd:doc>
     <xsl:template name="js-highlight">
-        <script type="text/javascript"><![CDATA[
-        // Find all html object element for the SVG files
-        const svgObjects = document.querySelectorAll("object");
-        // Iterate code for each SVG object
-        for (let i = 0; i < svgObjects.length; i++) {
-            // wait for each SVG object to load
-            svgObjects[i].addEventListener("load", function () {
-                // get data-attribute value of the SVG object in question
-                var currentID = this.getAttribute("data-current-id");
-                // If data-attribute of SVG object is equal to the leaf path class value, then assign "current" class
-                const doc = this.contentDocument.querySelectorAll("g." + currentID);
-                // capture both arcs and lines of the current leaf
-                for (let i = 0; i < doc.length; i++) {
-                    // change the class to current for highlight
-                    doc[i].classList = "leaf current";
-                };
-            });
-        };//]]>
-        </script>
+        <!-- Add code to highlight current SVG leaf -->
+        <script src="https://cdn.jsdelivr.net/gh/KislakCenter/VisColl/data/support/highlight.min.js"><xsl:text> </xsl:text></script>
     </xsl:template>
 
 </xsl:stylesheet>
