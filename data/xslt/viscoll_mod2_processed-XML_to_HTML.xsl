@@ -10,7 +10,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:vc="http://viscoll.org/schema/collation/" xmlns:java="http://www.java.com/" exclude-result-prefixes="xs ss xd vc svg java"
+    xmlns:vc="http://viscoll.org/schema/collation/" exclude-result-prefixes="xs ss xd vc svg"
     version="2.0">
 
     <xsl:output name="html5" method="html" encoding="UTF-8" version="5" indent="yes"/>
@@ -38,21 +38,6 @@
             <xd:p>Congratulations! You are done!</xd:p>
         </xd:desc>
     </xd:doc>
-    
-    <xd:doc>
-        <xd:desc>
-            <xd:p>Function to check for the existence of a file.</xd:p>
-        </xd:desc>
-        <xd:param name="file">The filename.</xd:param>
-        <xd:param name="base-uri">The path to the folder that is supposed to contain the file.</xd:param>
-    </xd:doc>
-    <xsl:function name="java:file-exists" xmlns:file="java.io.File" as="xs:boolean">
-        <xsl:param name="file" as="xs:string"/>
-        <xsl:param name="base-uri" as="xs:string"/>
-        
-        <xsl:variable name="absolute-uri" select="resolve-uri($file, $base-uri)" as="xs:anyURI"/>
-        <xsl:sequence select="file:exists(file:new($absolute-uri))"/>
-    </xsl:function>
 
     <!-- Variable to find the path to the top folder of the textblock 
         (containing all the XML, SVG, HTML, CSS, JS, etc. files) -->
