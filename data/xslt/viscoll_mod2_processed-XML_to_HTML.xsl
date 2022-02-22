@@ -385,7 +385,7 @@
                                 <xsl:call-template name="folFileName">
                                     <xsl:with-param name="fol" select="$rightFol"/>
                                     <xsl:with-param name="gatheringNo" select="$gatheringNo"/>
-                                    <xsl:with-param name="bi1" select="$bi1"/>
+                                    <xsl:with-param name="bi1" select="$bi2"/>
                                 </xsl:call-template>
                             </xsl:variable>
                             <xsl:call-template name="newGathering">
@@ -1068,7 +1068,7 @@
                             <xsl:call-template name="folFileName">
                                 <xsl:with-param name="fol" select="$rightFol"/>
                                 <xsl:with-param name="gatheringNo" select="$gatheringNo"/>
-                                <xsl:with-param name="bi1" select="$bi1"/>
+                                <xsl:with-param name="bi1" select="$bi2"/>
                             </xsl:call-template>
                         </xsl:variable>
                         <xsl:variable name="divsetNo" select="@n"/>
