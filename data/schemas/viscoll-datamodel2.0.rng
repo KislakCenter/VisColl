@@ -7,9 +7,9 @@
             <optional>
                 <attribute name="version">
                     <choice>
-                        <value>2.1.0</value>
+                        <value>2.2.0</value>
                         <data type="NMTOKEN"/>
-                    </choice>                    
+                    </choice>
                 </attribute>
             </optional>
             <oneOrMore>
@@ -55,8 +55,6 @@
                             <text/>
                         </element>
                     </optional>
-
-
                     <element name="direction">
                         <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
                             >direction is required and the default value is l-r</documentation>
@@ -67,7 +65,6 @@
                             </choice>
                         </attribute>
                     </element>
-
                     <optional>
                         <element name="format">
                             <documentation
@@ -101,23 +98,22 @@
                                     <value>16mo</value>
                                     <value>18mo</value>
                                     <value>24mo</value>
-                                <value>long 24mo</value>
+                                    <value>long 24mo</value>
                                     <value>32mo</value>
                                     <value>48mo</value>
                                     <value>64mo</value>
                                     <value>72mo</value>
                                     <value>96mo</value>
                                     <value>128mo</value>
-                                <value>mixed format</value>
+                                    <value>mixed format</value>
                                     <value>other</value>
                                 </choice>
                             </attribute>
-                        <optional>
+                            <optional>
                                 <ref name="certainty"/>
                             </optional>
                         </element>
                     </optional>
-
                     <optional>
                         <element name="paperSize">
                             <documentation
@@ -143,10 +139,10 @@
                                     <li>Super-Chancery: 33 x 23 cm</li>
                                     <li>Chancery (Reçute, Comune, Kanzleiformat): 31/31.5 x 23
                                         cm</li>
-                                <li>Half-Median: 25 x 17.5 cm</li>
+                                    <li>Half-Median: 25 x 17.5 cm</li>
                                 </ul>
                             </documentation>
-                        <attribute name="val">
+                            <attribute name="val">
                                 <choice>
                                     <value>papal</value>
                                     <value>imperial</value>
@@ -166,8 +162,6 @@
                             </optional>
                         </element>
                     </optional>
-
-
                     <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">The
                         textblock begins with a list of quires</documentation>
                     <element name="quires">
@@ -175,7 +169,6 @@
                             <ref name="quire"/>
                         </oneOrMore>
                     </element>
-
                     <element name="leaves">
                         <oneOrMore>
                             <documentation
@@ -251,8 +244,8 @@
                                                   <ref name="target"/>
                                                   <!--<text/>-->
                                                 </element>
-                                                </optional>
-                                        <optional>
+                                            </optional>
+                                            <optional>
                                                 <element name="single">
                                                   <documentation
                                                   xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
@@ -269,7 +262,7 @@
                                                 </element>
                                             </optional>
                                         </choice>
-                                        </element>
+                                    </element>
                                 </oneOrMore>
                                 <optional>
                                     <element name="firstLeaf">
@@ -325,7 +318,10 @@
                                             goes through the margin instead of through the fold.
                                             Stitching will have one @target identifying the exit
                                             point. Tacketing works in a similar manner to sewing
-                                            through the fold.</documentation>
+                                            through the fold. "Conjoined" here indicates a leaf
+                                            conjoined with another not as part of the gathering
+                                            constitution, as is the case of doubled
+                                            endleaves.</documentation>
                                         <ref name="certainty"/>
                                         <optional>
                                             <ref name="target"/>
@@ -333,14 +329,16 @@
                                         <attribute name="type">
                                             <choice>
                                                 <value>sewn</value>
-                                            <value>pasted</value>
-                                                  <value>tipped</value>
-                                                  <value>drummed</value>
-                                                  <value>stitched</value>
-                                                  <value>tacketed</value>
-                                                  <value>other</value>
-                                                </choice>
+                                                <value>pasted</value>
+                                                <value>tipped</value>
+                                                <value>drummed</value>
+                                                <value>stitched</value>
+                                                <value>tacketed</value>
+                                                <value>conjoined</value>
+                                                <value>other</value>
+                                            </choice>
                                         </attribute>
+
                                     </element>
                                 </zeroOrMore>
                             </element>
@@ -349,9 +347,144 @@
                     <zeroOrMore>
                         <element name="note">
                             <ref name="target"/>
+                            <optional>
+                                <attribute name="side">
+                                    <documentation
+                                        xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                        >The @side attribute permits the mapping of features on one
+                                        of the two surfaces of a sheet. The possible values are
+                                        'left' and 'right'.</documentation>
+                                    <choice>
+                                        <documentation
+                                            xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                            >The place on the left of the centre of a book opened as
+                                            if to be read. All the components or features of a
+                                            binding on this side of the book can therefore be
+                                            described as left (e.g. left board, left endleaves,
+                                            etc.). This removes any confusion about what is the
+                                            front board on books written in arabic or latin, for
+                                            instance
+                                            (http://w3id.org/lob/concept/2947).</documentation>
+                                        <value>left</value>
+                                        <documentation
+                                            xmlns="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                            >The place on the right of the centre of a book opened
+                                            as if to be read. All the components or features of a
+                                            binding on this side of the book can therefore be
+                                            described as right (e.g. right board, right endleaves,
+                                            etc.). This removes any confusion about what is the back
+                                            board on books written in arabic or latin, for instance
+                                            (http://w3id.org/lob/concept/3004).</documentation>
+                                        <value>right</value>
+                                    </choice>
+                                </attribute>
+                            </optional>
+                            <optional>
+                                <attribute name="location">
+                                    <documentation
+                                        xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">
+                                        <p>The location attribute permits the mapping of features on
+                                            the surface of a page. The model provides a list of
+                                            possible values, but the user can add values too. If
+                                            more than one location is to be selected, the values
+                                            should be separated by a space, for this reason, spaces
+                                            are not allowed in the location values, use camelCasing,
+                                            _underscore, or similar instead.</p>
+                                        <p>Suggested values, as defined in the Language of Bindings
+                                            or the Getty's AAT, are: <ul>
+                                                <li>head: the top of a bound book as placed
+                                                  vertically on a shelf. <a
+                                                  href="http://w3id.org/lob/concept/3803"
+                                                  >http://w3id.org/lob/concept/3803</a></li>
+                                                <li>tail: the bottom of a bound book as placed
+                                                  vertically on a shelf. <a
+                                                  href="http://w3id.org/lob/concept/3805"
+                                                  >http://w3id.org/lob/concept/3805</a></li>
+                                                <li>fore-edge: the edge of a codex-form book from
+                                                  which it is opened, opposite the spine. <a
+                                                  href="http://w3id.org/lob/concept/3808"
+                                                  >http://w3id.org/lob/concept/3808</a></li>
+                                                <li>inner: the edge of a codex-form book closer to
+                                                  the inside of the binding. <a
+                                                  href="http://w3id.org/lob/concept/3812"
+                                                  >http://w3id.org/lob/concept/3812</a></li>
+                                                <li>margins: the areas of a page between the
+                                                  printed, written, or illustrative matter (text
+                                                  area) and the edges of the leaf. The four margins
+                                                  are usually called the 'head' (or top);
+                                                  'fore-edge' (or outer, outside, side); 'tail' (or
+                                                  bottom foot); and 'inner' (or gutter). <a
+                                                  href="http://w3id.org/lob/concept/4579"
+                                                  >http://w3id.org/lob/concept/4579</a></li>
+                                                <li>gutters: the adjoining inner margins of two
+                                                  facing pages, i.e. the margin at the sewn fold of
+                                                  a section. <a
+                                                  href="http://w3id.org/lob/concept/4577"
+                                                  >http://w3id.org/lob/concept/4577</a></li>
+                                                <li>corner: the meeting-place of converging sides or
+                                                  edges of a book, forming an angular extremity or
+                                                  projection. On books, they can be defined
+                                                  differently according to where they are found. The
+                                                  sides of a binding therefore will have upper and
+                                                  lower corners on either the inner (spine) or outer
+                                                  (fore-edge) edges whereas the spines or fore-edges
+                                                  of a book will have upper and lower corners at
+                                                  either the left or right sides. <a
+                                                  href="http://w3id.org/lob/concept/4543"
+                                                  >http://w3id.org/lob/concept/4543</a></li>
+                                                <li>text_area: The area of a page containing the
+                                                  printed, written, or illustrative matter, within
+                                                  the four margins. <a
+                                                  href="http://w3id.org/lob/concept/4583"
+                                                  >http://w3id.org/lob/concept/4583</a></li>
+                                                <li>upper: situated or passing above the level,
+                                                  surface, or base of measurement of something else.
+                                                  <a
+                                                  href="http://vocab.getty.edu/page/aat/300010291"
+                                                  >http://vocab.getty.edu/page/aat/300010291</a></li>
+                                                <li>lower: situated or passing below the level,
+                                                  surface, or base of measurement of something else.
+                                                  <a
+                                                  href="http://vocab.getty.edu/page/aat/300010283"
+                                                  >http://vocab.getty.edu/page/aat/300010283</a></li>
+                                                <li>central: positioned at or near the middle of
+                                                  something. <a
+                                                  href="http://vocab.getty.edu/page/aat/300010273"
+                                                  >http://vocab.getty.edu/page/aat/300010273</a></li>
+                                                <li>projecting: jutting or sticking out beyond the
+                                                  general surface or adjacent parts. <a
+                                                  href="http://vocab.getty.edu/page/aat/300010286"
+                                                  >http://vocab.getty.edu/page/aat/300010286</a></li>
+                                                <li>parallel: extending in the same direction and
+                                                  everywhere equidistant; usually said of lines and
+                                                  linear objects and structures. <a
+                                                  href="http://vocab.getty.edu/page/aat/300010284"
+                                                  >http://vocab.getty.edu/page/aat/300010284</a></li>
+                                                <li>vertical: parallel relationships to a vertical
+                                                  axis in designs for graphic works, objects, and
+                                                  structures. <a
+                                                  href="http://vocab.getty.edu/page/aat/300056325"
+                                                  >http://vocab.getty.edu/page/aat/300056325</a></li>
+                                                <li>horizontal: parallel relationships to a
+                                                  horizontal axis in designs for graphic works,
+                                                  objects, and structures. <a
+                                                  href="http://vocab.getty.edu/page/aat/300065463"
+                                                  >http://vocab.getty.edu/page/aat/300065463</a></li>
+                                                <li>oblique: in form or position, a deviation from a
+                                                  parallel state, or perpendicularity. <a
+                                                  href="http://vocab.getty.edu/page/aat/300265773"
+                                                  >http://vocab.getty.edu/page/aat/300265773</a>
+                                                </li>
+                                            </ul>
+                                        </p>
+                                    </documentation>
+                                    <data type="NMTOKENS"/>
+                                </attribute>
+                            </optional>
                             <attribute name="type">
                                 <choice>
                                     <value>certainty</value>
+                                    <value>annotation</value>
                                     <text/>
                                 </choice>
                             </attribute>
@@ -406,7 +539,7 @@
                                     <text/>
                                 </element>
                             </optional>
-                        <element name="label">
+                            <element name="label">
                                 <text/>
                             </element>
                         </element>
@@ -564,7 +697,7 @@
                             <optional>
                                 <ref name="target"/>
                             </optional>
-                            <optional>                                
+                            <optional>
                                 <ref name="certainty"/>
                             </optional>
                             <oneOrMore>
@@ -572,7 +705,7 @@
                                     <name>term</name>
                                     <ref name="target"/>
                                 </element>
-                                </oneOrMore>
+                            </oneOrMore>
                         </element>
                     </oneOrMore>
                 </element>
@@ -662,6 +795,5 @@
             </attribute>
             <text/>
         </element>
-
     </define>
 </grammar>
