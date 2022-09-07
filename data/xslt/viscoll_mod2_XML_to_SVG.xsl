@@ -79,7 +79,8 @@
     </xd:doc>
     <xsl:variable name="doublePaths">
         <xsl:choose>
-            <xsl:when test="boolean(//taxonomy/term/text() = 'hairside' or //taxonomy/term/text() = 'fleshside')">
+            <xsl:when
+                test="boolean(//taxonomy/term/label/text() = 'hairside' or //taxonomy/term/label/text() = 'fleshside')">
                 <xsl:value-of select="1"/>
             </xsl:when>
             <xsl:otherwise>
@@ -117,15 +118,15 @@
 
     <xd:doc>
         <xd:desc>
-            <xd:p>This variable creates a temporary tree to store all the targets of each map The
+            <xd:p>This variable creates a temporary tree to store all the targets of each map. The
                 tree looks like this:</xd:p>
             <xd:p>
                 <xd:pre><tp:targetLists xmlns:tp="temporaryTree">
                             <tp:targetList side="l" term="#id-fs">
-                            <tp:target IDvalue="#id-ItIX876226_q1-1"/>
-                            <tp:target IDvalue="#id-ItIX876226_q1-3"/>
-                            <tp:target IDvalue="#id-ItIX876226_q1-5"/>
-                             ... 
+                                <tp:target IDvalue="#id-ItIX876226_q1-1"/>
+                                <tp:target IDvalue="#id-ItIX876226_q1-3"/>
+                                <tp:target IDvalue="#id-ItIX876226_q1-5"/>
+                                ... 
                             </tp:targetList>
                         </tp:targetLists></xd:pre>
             </xd:p>
@@ -133,6 +134,20 @@
     </xd:doc>
     <xsl:variable name="targetLists">
         <tp:targetLists>
+            <!-- Copies the whole tree in a variable for navigation -->
+            <xsl:variable name="copyTree">
+                <xsl:copy-of select="/viscoll"/>
+            </xsl:variable>
+            <!-- Variable to store the quire IDs -->
+            <xsl:variable name="quireIDs">
+                <tp:quireIDS>
+                    <xsl:for-each select="/viscoll/textblock/quires/quire">
+                        <tp:quireID>
+                            <xsl:value-of select="@xml:id"/>
+                        </tp:quireID>
+                    </xsl:for-each>
+                </tp:quireIDS>
+            </xsl:variable>
             <xsl:for-each select="//viscoll/mapping/map">
                 <tp:targetList>
                     <xsl:choose>
@@ -142,11 +157,33 @@
                             </xsl:attribute>
                         </xsl:when>
                     </xsl:choose>
+                    <xsl:choose>
+                        <xsl:when test="@certainty">
+                            <xsl:attribute name="certainty">
+                                <xsl:value-of select="@certainty"/>
+                            </xsl:attribute>
+                        </xsl:when>
+                    </xsl:choose>
                     <xsl:attribute name="term">
                         <xsl:value-of select="term/@target"/>
                     </xsl:attribute>
                     <xsl:for-each select="tokenize(@target, ' ')">
+                        <xsl:variable name="current-refID">
+                            <xsl:value-of select="."/>
+                        </xsl:variable>
                         <xsl:choose>
+                            <!-- This allows for targeting full gatherings and outputting the single leaves -->
+                            <xsl:when
+                                test="translate(., '#', '') = $copyTree/vc:viscoll/vc:textblock/vc:quires/vc:quire/@xml:id">
+                                <xsl:for-each
+                                    select="$copyTree/vc:viscoll/vc:textblock/vc:leaves/vc:leaf[q/@target = $current-refID]">
+                                    <tp:target>
+                                        <xsl:attribute name="IDvalue">
+                                            <xsl:value-of select="@xml:id"/>
+                                        </xsl:attribute>
+                                    </tp:target>
+                                </xsl:for-each>
+                            </xsl:when>
                             <xsl:when test=". != ''">
                                 <tp:target>
                                     <xsl:attribute name="IDvalue">
@@ -364,7 +401,7 @@
                             <xsl:choose>
                                 <xsl:when test="./mode/@val eq 'missing'">
                                     <xsl:value-of
-                                        select="following-sibling::leaf[mode/@val != 'missing'][1]/@xml:id"
+                                        select="following-sibling::leaf[mode/@val != 'missing'][not(@stub)][1]/@xml:id"
                                     />
                                 </xsl:when>
                                 <xsl:when test="@stub">
@@ -627,6 +664,22 @@
                 select="$leafLength + ((($maxRegFolIn1Gathering div 2) - $countRegularBifolia2) * $delta)"
             />
         </xsl:variable>
+        <!-- Variable to record the gathering's signature, if present -->
+        <xsl:variable name="signature">
+            <xsl:choose>
+                <xsl:when test="q/@signature">
+                    <xsl:value-of select="q/@signature"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:variable name="quireREFID">
+                        <xsl:value-of select="tokenize(q/@target, '#')[2]"/>
+                    </xsl:variable>
+                    <xsl:value-of
+                        select="ancestor::textblock/quires/quire[@xml:id = $quireREFID]/@signature"
+                    />
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
         <!-- Each quire is drawn on a different SVG file -->
         <xsl:result-document href="{concat('../SVG/', $tbID, '-', $gatheringNumber, '.svg')}"
             method="xml" indent="yes" encoding="utf-8" doctype-public="-//W3C//DTD SVG 1.1//EN"
@@ -699,6 +752,7 @@
                                 <xsl:copy-of select="$textblock"/>
                             </xsl:with-param>
                             <xsl:with-param name="gatheringNumber" select="$gatheringNumber"/>
+                            <xsl:with-param name="signature" select="$signature"/>
                             <xsl:with-param name="countSingletons" select="$countSingletons"/>
                             <xsl:with-param name="countSubquireLeaves" select="$countSubquireLeaves"/>
                             <xsl:with-param name="countRegularBifolia" select="$countRegularBifolia"/>
@@ -733,6 +787,9 @@
         </xd:param>
         <xd:param name="gatheringNumber">
             <xd:p>The gathering number.</xd:p>
+        </xd:param>
+        <xd:param name="signature">
+            <xd:p>The alphanumerical code printed (or derived) for the gathering.</xd:p>
         </xd:param>
         <xd:param name="countSingletons">
             <xd:p>Variable to count the number of singletons in the quire</xd:p>
@@ -783,6 +840,7 @@
         <xsl:param name="positions" select="1"/>
         <xsl:param name="subquires"/>
         <xsl:param name="gatheringNumber"/>
+        <xsl:param name="signature"/>
         <xsl:param name="countSingletons"/>
         <xsl:param name="countSubquireLeaves"/>
         <xsl:param name="countRegularBifolia"/>
@@ -891,6 +949,7 @@
                     <xsl:with-param name="ID-conjoined" select="$ID-conjoined"/>
                     <xsl:with-param name="endOfLineX" select="$endOfLineX"/>
                     <xsl:with-param name="gatheringNumber" select="$gatheringNumber"/>
+                    <xsl:with-param name="signature" select="$signature"/>
                 </xsl:call-template>
             </g>
         </xsl:for-each>
@@ -917,6 +976,7 @@
                     <xsl:with-param name="NSubquires" select="$NSubquires" as="xs:integer"/>
                     <xsl:with-param name="endOfLineX" select="$endOfLineX"/>
                     <xsl:with-param name="gatheringNumber" select="$gatheringNumber"/>
+                    <xsl:with-param name="signature" select="$signature"/>
                 </xsl:call-template>
             </xsl:when>
         </xsl:choose>
@@ -1356,6 +1416,9 @@
         <xd:param name="gatheringNumber">
             <xd:p>The gathering number.</xd:p>
         </xd:param>
+        <xd:param name="signature">
+            <xd:p>The alphanumerical code printed (or derived) for the gathering.</xd:p>
+        </xd:param>
     </xd:doc>
     <xsl:template name="leafPath">
         <xsl:param name="positions"/>
@@ -1376,6 +1439,7 @@
         <xsl:param name="direction" tunnel="yes"/>
         <xsl:param name="endOfLineX"/>
         <xsl:param name="gatheringNumber"/>
+        <xsl:param name="signature"/>
         <!-- FolioID for JS highlighting -->
         <xsl:variable name="folioID">
             <xsl:call-template name="folioID">
@@ -1388,7 +1452,7 @@
         <!-- Calculates the absolute value of the y coordinate -->
         <xsl:variable name="absoluteY" select="$delta + ($delta * $followingComponents)"/>
         <!-- Parametric Y values for each leaf: positive or negative depending on wether the leaf
-            is in the left or right half pf the quire -->
+            is in the left or right half of the quire -->
         <xsl:variable name="parametricY">
             <xsl:choose>
                 <xsl:when test="xs:integer($left1_Right2) eq 1">
@@ -1435,7 +1499,7 @@
         <!-- Variable to define the visualization of the mode of the folio.
                         Regularly, these are coded in the XML model, however, for parchment leaves,
                         the visualization requires to indicate flesh and hair sides, 
-                        modes (missing, replaced, added) cannot also be visualized.
+                        modes (replaced, added) cannot also be visualized.
                         This variable is called only for path1-->
         <xsl:variable name="folioMode">
             <xsl:choose>
@@ -1443,26 +1507,33 @@
                     <xsl:value-of select="mode/@val"/>
                 </xsl:when>
                 <xsl:when test="$doublePaths = 1">
-                    <!-- Variable to decide if the path1 is drawn for the left or right side -->
-                    <xsl:variable name="leftRightSide">
-                        <xsl:choose>
-                            <xsl:when test="$left1_Right2 = 1">
-                                <xsl:value-of select="'left'"/>
-                            </xsl:when>
-                            <xsl:when test="$left1_Right2 = 2">
-                                <xsl:value-of select="'right'"/>
-                            </xsl:when>
-                        </xsl:choose>
-                    </xsl:variable>
                     <xsl:choose>
-                        <xsl:when
-                            test="$targetLists/tp:targetLists/tp:targetList[@side = $leftRightSide][@term = '#id-fs']/tp:target/@IDvalue = concat('#', @xml:id)">
-                            <xsl:value-of select="'fleshside'"/>
+                        <xsl:when test="mode/@val = 'missing'">
+                            <xsl:value-of select="mode/@val"/>
                         </xsl:when>
-                        <xsl:when
-                            test="$targetLists/tp:targetLists/tp:targetList[@side = $leftRightSide][@term = '#id-hs']/tp:target/@IDvalue = concat('#', @xml:id)">
-                            <xsl:value-of select="'hairside'"/>
-                        </xsl:when>
+                        <xsl:otherwise>
+                            <!-- Variable to decide if the path1 is drawn for the left or right side -->
+                            <xsl:variable name="leftRightSide">
+                                <xsl:choose>
+                                    <xsl:when test="$left1_Right2 = 1">
+                                        <xsl:value-of select="'left'"/>
+                                    </xsl:when>
+                                    <xsl:when test="$left1_Right2 = 2">
+                                        <xsl:value-of select="'right'"/>
+                                    </xsl:when>
+                                </xsl:choose>
+                            </xsl:variable>
+                            <xsl:choose>
+                                <xsl:when
+                                    test="$targetLists/tp:targetLists/tp:targetList[@side = $leftRightSide][@term = '#id-fs']/tp:target/@IDvalue = concat('#', @xml:id)">
+                                    <xsl:value-of select="'fleshside'"/>
+                                </xsl:when>
+                                <xsl:when
+                                    test="$targetLists/tp:targetLists/tp:targetList[@side = $leftRightSide][@term = '#id-hs']/tp:target/@IDvalue = concat('#', @xml:id)">
+                                    <xsl:value-of select="'hairside'"/>
+                                </xsl:when>
+                            </xsl:choose>
+                        </xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
             </xsl:choose>
@@ -1511,6 +1582,7 @@
             <xsl:with-param name="countRegularBifolia2" select="$countRegularBifolia2"/>
             <xsl:with-param name="endOfLineX" select="$endOfLineX"/>
             <xsl:with-param name="gatheringNumber" select="$gatheringNumber"/>
+            <xsl:with-param name="signature" select="$signature"/>
             <xsl:with-param name="positions_SQ" select="0"/>
         </xsl:call-template>
         <g xmlns="http://www.w3.org/2000/svg">
@@ -1598,7 +1670,7 @@
                         <!-- When double paths are needed to encode visualizations for leaf sides, this draws
                             the left side or right side depending on the position of the leaf (left or right of the centre)-->
                         <xsl:choose>
-                            <xsl:when test="$doublePaths = 1">
+                            <xsl:when test="$doublePaths = 1 and $folioMode != 'missing'">
                                 <xsl:call-template name="arcPaths">
                                     <xsl:with-param name="folioID" select="$folioID"/>
                                     <xsl:with-param name="arcPath" select="$arcPath2"/>
@@ -1680,7 +1752,7 @@
                         <!-- When double paths are needed to encode visualizations for leaf sides, this draws
                             the left side or right side depending on the position of the leaf (left or right of the centre)-->
                         <xsl:choose>
-                            <xsl:when test="$doublePaths = 1">
+                            <xsl:when test="$doublePaths = 1 and $folioMode != 'missing'">
                                 <xsl:call-template name="linepaths">
                                     <xsl:with-param name="folioID" select="$folioID"/>
                                     <xsl:with-param name="linePath" select="$linePath2"/>
@@ -1751,6 +1823,8 @@
                                             </xsl:variable>
                                             <!-- Call template to draw the attachment method -->
                                             <xsl:call-template name="attachment-method">
+                                                <xsl:with-param name="Cx" select="$Cx"/>
+                                                <xsl:with-param name="Cy" select="$Cy"/>
                                                 <xsl:with-param name="Cx_A" select="$Cx"/>
                                                 <xsl:with-param name="Cy_A" select="
                                                         $Cy + $parametricY - (if (xs:integer($attachmentDeviation) gt 0) then
@@ -1767,15 +1841,35 @@
                                                   select="$parametricY"/>
                                                 <xsl:with-param name="attachmentDeviation"
                                                   select="$attachmentDeviation"/>
+                                                <xsl:with-param name="ownPosition"
+                                                  select="$ownPosition"/>
+                                                <xsl:with-param name="attachmentTargetPosition"
+                                                  select="$attachmentTargetPosition"/>
                                                 <xsl:with-param name="certainty" select="@certainty"
                                                 />
+                                                <xsl:with-param name="leftOrRight"
+                                                  select="$leftOrRight"/>
+                                                <xsl:with-param name="folioMode" select="$folioMode"/>
+                                                <xsl:with-param name="folioMode2"
+                                                  select="$folioMode2"/>
+                                                <xsl:with-param name="folioID" select="$folioID"/>
+                                                <xsl:with-param name="Q1_SQ2" select="1"/>
+                                                <xsl:with-param name="left1_Right2"
+                                                  select="$left1_Right2"/>
                                             </xsl:call-template>
                                         </xsl:when>
                                         <xsl:otherwise>
                                             <!-- For patterns without the attachment target -->
                                             <xsl:call-template name="attachment-method">
+                                                <xsl:with-param name="Cx" select="$Cx"/>
+                                                <xsl:with-param name="Cy" select="$Cy"/>
                                                 <xsl:with-param name="Cx_A" select="$Cx"/>
                                                 <xsl:with-param name="Cy_A">
+                                                  <xsl:variable name="singleton" select="
+                                                            if (parent::leaf/q[1]/single[@val = 'yes']) then
+                                                                1
+                                                            else
+                                                                0"/>
                                                   <xsl:choose>
                                                   <xsl:when
                                                   test="xs:integer($leafPosition) eq $centralLeftLeafPos or xs:integer($leafPosition) eq ($centralLeftLeafPos + 1)">
@@ -1783,7 +1877,10 @@
                                                                     $Cy + $parametricY + ((if (xs:integer($left1_Right2) eq 1) then
                                                                         1
                                                                     else
-                                                                        -1) * ($delta)) + ($delta * $followingComponents)"
+                                                                        -1) * ($delta)) + ($delta * $followingComponents) + (if ($singleton = 1) then
+                                                                        $delta
+                                                                    else
+                                                                        0)"
                                                   />
                                                   </xsl:when>
                                                   <xsl:when
@@ -1848,6 +1945,15 @@
                                                   select="$parametricY"/>
                                                 <xsl:with-param name="certainty" select="@certainty"
                                                 />
+                                                <xsl:with-param name="leftOrRight"
+                                                  select="$leftOrRight"/>
+                                                <xsl:with-param name="folioMode" select="$folioMode"/>
+                                                <xsl:with-param name="folioMode2"
+                                                  select="$folioMode2"/>
+                                                <xsl:with-param name="folioID" select="$folioID"/>
+                                                <xsl:with-param name="Q1_SQ2" select="1"/>
+                                                <xsl:with-param name="left1_Right2"
+                                                  select="$left1_Right2"/>
                                             </xsl:call-template>
                                         </xsl:otherwise>
                                     </xsl:choose>
@@ -1911,6 +2017,9 @@
         <xd:param name="gatheringNumber">
             <xd:p>The gathering number.</xd:p>
         </xd:param>
+        <xd:param name="signature">
+            <xd:p>The alphanumerical code printed (or derived) for the gathering.</xd:p>
+        </xd:param>
         <xd:param name="positions_SQ">
             <xd:p>Parameter to count the number of leaves in the current subquire.</xd:p>
         </xd:param>
@@ -1930,6 +2039,7 @@
         <xsl:param name="countRegularBifolia2"/>
         <xsl:param name="endOfLineX"/>
         <xsl:param name="gatheringNumber"/>
+        <xsl:param name="signature"/>
         <xsl:param name="positions_SQ"/>
         <xsl:variable name="dx">
             <xsl:choose>
@@ -1961,8 +2071,16 @@
                                     <xsl:with-param name="text" select="2"/>
                                     <xsl:with-param name="endOfLineX" select="$endOfLineX"/>
                                 </xsl:call-template>
-                                <!-- Print the gathering number -->
-                                <xsl:value-of select="format-integer($gatheringNumber, 'I')"/>
+                                <!-- Print the gathering number or the signature-->
+                                <xsl:choose>
+                                    <xsl:when test="$signature != ''">
+                                        <xsl:value-of select="$signature"/>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:value-of select="format-integer($gatheringNumber, 'I')"
+                                        />
+                                    </xsl:otherwise>
+                                </xsl:choose>
                             </text>
                         </g>
                     </xsl:when>
@@ -2073,6 +2191,9 @@
             <xd:p>This template draws the folio. When double paths are needed to encode
                 visualizations for leaf sides, this draws the left side or right side depending on
                 the position of the leaf (left or right of the centre)</xd:p>
+            <xd:p>When called to draw the arc of the conjoined attachment method, if two paths are
+                needed, the template selects the correct visualization (e.g., fleshside or hairside)
+            </xd:p>
         </xd:desc>
         <xd:param name="folioID">
             <xd:p>FolioID for JS highlighting</xd:p>
@@ -2112,6 +2233,7 @@
                 <xsl:with-param name="folioMode" select="$folioMode"/>
                 <xsl:with-param name="folioID" select="$folioID"/>
             </xsl:call-template>
+            <!-- Arc -->
             <xsl:copy-of select="$arcPath"/>
         </g>
     </xsl:template>
@@ -2163,6 +2285,9 @@
         <xd:param name="gatheringNumber">
             <xd:p>The gathering number.</xd:p>
         </xd:param>
+        <xd:param name="signature">
+            <xd:p>The alphanumerical code printed (or derived) for the gathering.</xd:p>
+        </xd:param>
     </xd:doc>
     <xsl:template name="bifoliaDiagram_SQ">
         <xsl:param name="first"/>
@@ -2177,6 +2302,7 @@
         <xsl:param name="NSubquires" as="xs:integer" select="1"/>
         <xsl:param name="endOfLineX"/>
         <xsl:param name="gatheringNumber"/>
+        <xsl:param name="signature"/>
         <!-- Variable to count the number of leaves in the current subquire -->
         <xsl:variable name="positions_SQ" select="$subquires/tp:subquire[$counter]/@positions_SQ"/>
         <!-- Subquire levels -->
@@ -2344,6 +2470,7 @@
                     <xsl:with-param name="ID-conjoined" select="$ID-conjoined"/>
                     <xsl:with-param name="endOfLineX" select="$endOfLineX"/>
                     <xsl:with-param name="gatheringNumber" select="$gatheringNumber"/>
+                    <xsl:with-param name="signature" select="$signature"/>
                     <xsl:with-param name="countSingletons_SQ" select="$countSingletons_SQ"/>
                 </xsl:call-template>
             </g>
@@ -2608,6 +2735,9 @@
         <xd:param name="gatheringNumber">
             <xd:p>The gathering number.</xd:p>
         </xd:param>
+        <xd:param name="signature">
+            <xd:p>The alphanumerical code printed (or derived) for the gathering.</xd:p>
+        </xd:param>
         <xd:param name="countSingletons_SQ">
             <xd:p>Parameter to count the number of singletons in the subquire.</xd:p>
         </xd:param>
@@ -2635,6 +2765,7 @@
         <xsl:param name="direction" tunnel="yes"/>
         <xsl:param name="endOfLineX"/>
         <xsl:param name="gatheringNumber"/>
+        <xsl:param name="signature"/>
         <xsl:param name="countSingletons_SQ"/>
         <!-- FolioID for JS highlighting -->
         <xsl:variable name="folioID">
@@ -2744,7 +2875,7 @@
         <!-- Variable to define the visualization of the mode of the folio.
                         Regularly, these are coded in the XML model, however, for parchment leaves,
                         the visualization requires to indicate flesh and hair sides, 
-                        modes (missing, replaced, added) cannot also be visualized.
+                        modes (replaced, added) cannot also be visualized.
                         This variable is called only for path1 -->
         <xsl:variable name="folioMode">
             <xsl:choose>
@@ -2752,26 +2883,33 @@
                     <xsl:value-of select="vc:mode/@val"/>
                 </xsl:when>
                 <xsl:when test="$doublePaths = 1">
-                    <!-- Variable to decide if the path1 is drawn for the left or right side -->
-                    <xsl:variable name="leftRightSide">
-                        <xsl:choose>
-                            <xsl:when test="$left1_Right2_SQ = 1">
-                                <xsl:value-of select="'left'"/>
-                            </xsl:when>
-                            <xsl:when test="$left1_Right2_SQ = 2">
-                                <xsl:value-of select="'right'"/>
-                            </xsl:when>
-                        </xsl:choose>
-                    </xsl:variable>
                     <xsl:choose>
-                        <xsl:when
-                            test="$targetLists/tp:targetLists/tp:targetList[@side = $leftRightSide][@term = '#id-fs']/tp:target/@IDvalue = concat('#', @xml:id)">
-                            <xsl:value-of select="'fleshside'"/>
+                        <xsl:when test="mode/@val = 'missing'">
+                            <xsl:value-of select="mode/@val"/>
                         </xsl:when>
-                        <xsl:when
-                            test="$targetLists/tp:targetLists/tp:targetList[@side = $leftRightSide][@term = '#id-hs']/tp:target/@IDvalue = concat('#', @xml:id)">
-                            <xsl:value-of select="'hairside'"/>
-                        </xsl:when>
+                        <xsl:otherwise>
+                            <!-- Variable to decide if the path1 is drawn for the left or right side -->
+                            <xsl:variable name="leftRightSide">
+                                <xsl:choose>
+                                    <xsl:when test="$left1_Right2_SQ = 1">
+                                        <xsl:value-of select="'left'"/>
+                                    </xsl:when>
+                                    <xsl:when test="$left1_Right2_SQ = 2">
+                                        <xsl:value-of select="'right'"/>
+                                    </xsl:when>
+                                </xsl:choose>
+                            </xsl:variable>
+                            <xsl:choose>
+                                <xsl:when
+                                    test="$targetLists/tp:targetLists/tp:targetList[@side = $leftRightSide][@term = '#id-fs']/tp:target/@IDvalue = concat('#', @xml:id)">
+                                    <xsl:value-of select="'fleshside'"/>
+                                </xsl:when>
+                                <xsl:when
+                                    test="$targetLists/tp:targetLists/tp:targetList[@side = $leftRightSide][@term = '#id-hs']/tp:target/@IDvalue = concat('#', @xml:id)">
+                                    <xsl:value-of select="'hairside'"/>
+                                </xsl:when>
+                            </xsl:choose>
+                        </xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
             </xsl:choose>
@@ -2824,6 +2962,7 @@
             <xsl:with-param name="countRegularBifolia2" select="$countRegularBifolia2"/>
             <xsl:with-param name="endOfLineX" select="$endOfLineX"/>
             <xsl:with-param name="gatheringNumber" select="$gatheringNumber"/>
+            <xsl:with-param name="signature" select="$signature"/>
             <xsl:with-param name="positions_SQ" select="$positions_SQ"/>
         </xsl:call-template>
         <g xmlns="http://www.w3.org/2000/svg">
@@ -2920,7 +3059,7 @@
                         <!-- When double paths are needed to encode visualizations for leaf sides, this draws
                             the left side or right side depending on the position of the leaf (left or right of the centre)-->
                         <xsl:choose>
-                            <xsl:when test="$doublePaths = 1">
+                            <xsl:when test="$doublePaths = 1 and $folioMode != 'missing'">
                                 <xsl:call-template name="arcPaths">
                                     <xsl:with-param name="folioID" select="$folioID"/>
                                     <xsl:with-param name="arcPath" select="$arcPath_SQ2"/>
@@ -3000,7 +3139,7 @@
                         <!-- When double paths are needed to encode visualizations for leaf sides, this draws
                             the left side or right side depending on the position of the leaf (left or right of the centre)-->
                         <xsl:choose>
-                            <xsl:when test="$doublePaths = 1">
+                            <xsl:when test="$doublePaths = 1 and $folioMode != 'missing'">
                                 <xsl:call-template name="linepaths">
                                     <xsl:with-param name="folioID" select="$folioID"/>
                                     <xsl:with-param name="linePath" select="$linePath_SQ2"/>
@@ -3064,6 +3203,8 @@
                                                 </xsl:choose>
                                             </xsl:variable>
                                             <xsl:call-template name="attachment-method">
+                                                <xsl:with-param name="Cx" select="$Cx_SQ"/>
+                                                <xsl:with-param name="Cy" select="$Cy_SQ"/>
                                                 <xsl:with-param name="Cx_A" select="$Cx_SQ"/>
                                                 <xsl:with-param name="Cy_A" select="
                                                         $Cy_SQ + $parametricY - (if (xs:integer($attachmentDeviation) gt 0) then
@@ -3080,13 +3221,28 @@
                                                   select="$parametricY"/>
                                                 <xsl:with-param name="attachmentDeviation"
                                                   select="$attachmentDeviation"/>
+                                                <xsl:with-param name="ownPosition"
+                                                  select="$ownPosition"/>
+                                                <xsl:with-param name="attachmentTargetPosition"
+                                                  select="$attachmentTargetPosition"/>
                                                 <xsl:with-param name="certainty" select="@certainty"
                                                 />
+                                                <xsl:with-param name="leftOrRight"
+                                                  select="$leftOrRight"/>
+                                                <xsl:with-param name="folioMode" select="$folioMode"/>
+                                                <xsl:with-param name="folioMode2"
+                                                  select="$folioMode2"/>
+                                                <xsl:with-param name="folioID" select="$folioID"/>
+                                                <xsl:with-param name="Q1_SQ2" select="2"/>
+                                                <xsl:with-param name="left1_Right2"
+                                                  select="$left1_Right2"/>
                                             </xsl:call-template>
                                         </xsl:when>
                                         <xsl:otherwise>
                                             <!-- For patterns without the attachment target -->
                                             <xsl:call-template name="attachment-method">
+                                                <xsl:with-param name="Cx" select="$Cx_SQ"/>
+                                                <xsl:with-param name="Cy" select="$Cy_SQ"/>
                                                 <xsl:with-param name="Cx_A" select="$Cx_SQ"/>
                                                 <!--
                                                 <xsl:with-param name="Cy_A"
@@ -3139,6 +3295,15 @@
                                                   select="$positions_SQ"/>
                                                 <xsl:with-param name="certainty" select="@certainty"
                                                 />
+                                                <xsl:with-param name="leftOrRight"
+                                                  select="$leftOrRight"/>
+                                                <xsl:with-param name="folioMode" select="$folioMode"/>
+                                                <xsl:with-param name="folioMode2"
+                                                  select="$folioMode2"/>
+                                                <xsl:with-param name="folioID" select="$folioID"/>
+                                                <xsl:with-param name="Q1_SQ2" select="2"/>
+                                                <xsl:with-param name="left1_Right2"
+                                                  select="$left1_Right2"/>
                                             </xsl:call-template>
                                         </xsl:otherwise>
                                     </xsl:choose>
@@ -3240,7 +3405,8 @@
             <xsl:when test="$allNumbers = 0">
                 <xsl:choose>
                     <xsl:when test="@xml:id eq $first">
-                        <text xmlns="http://www.w3.org/2000/svg" dy="{$Cy + $parametricY}"
+                        <text xmlns="http://www.w3.org/2000/svg"
+                            dy="{$Cy + $parametricY + (if ($doublePaths = 1) then $doublePathDisplacementValue else 0)}"
                             dx="{(($Cx + ($delta * $countRegularBifolia - 2)) + $lineLength) + ($delta div 2)}"
                             class="{$numberClass}">
                             <xsl:call-template name="writingDirRotation">
@@ -3252,7 +3418,8 @@
                         </text>
                     </xsl:when>
                     <xsl:when test="@xml:id eq $last">
-                        <text xmlns="http://www.w3.org/2000/svg" dy="{$Cy + $parametricY}"
+                        <text xmlns="http://www.w3.org/2000/svg"
+                            dy="{$Cy + $parametricY + (if ($doublePaths = 1) then $doublePathDisplacementValue else 0)}"
                             dx="{(($Cx + ($delta * $countRegularBifolia - 2)) + $lineLength) + ($delta div 2)}"
                             class="{$numberClass}">
                             <xsl:call-template name="writingDirRotation">
@@ -3266,7 +3433,8 @@
                 </xsl:choose>
             </xsl:when>
             <xsl:otherwise>
-                <text xmlns="http://www.w3.org/2000/svg" dy="{$Cy + $parametricY}"
+                <text xmlns="http://www.w3.org/2000/svg"
+                    dy="{$Cy + $parametricY + (if ($doublePaths = 1) then $doublePathDisplacementValue else 0)}"
                     dx="{(($Cx + ($delta * $countRegularBifolia - 2)) + $lineLength) + ($delta div 2)}"
                     class="{$numberClass}">
                     <xsl:call-template name="writingDirRotation">
@@ -3353,17 +3521,40 @@
                 <xsl:when test="$animalSpecies = 1">
                     <xsl:choose>
                         <xsl:when
-                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-calf']/tp:target/@IDvalue = concat('#', @xml:id)">
+                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-calf'][not(@certainty) or @certainty = '1']/tp:target/@IDvalue = concat('#', @xml:id)">
                             <xsl:text>calfskin </xsl:text>
                         </xsl:when>
                         <xsl:when
-                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-sheep']/tp:target/@IDvalue = concat('#', @xml:id)">
+                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-calf'][@certainty gt '1']/tp:target/@IDvalue = concat('#', @xml:id)">
+                            <xsl:text>calfskin-uncertain </xsl:text>
+                        </xsl:when>
+                        <xsl:when
+                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-sheep'][not(@certainty) or @certainty = '1']/tp:target/@IDvalue = concat('#', @xml:id)">
                             <xsl:text>sheepskin </xsl:text>
                         </xsl:when>
                         <xsl:when
-                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-goat']/tp:target/@IDvalue = concat('#', @xml:id)">
+                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-sheep'][@certainty gt '1']/tp:target/@IDvalue = concat('#', @xml:id)">
+                            <xsl:text>sheepskin-uncertain </xsl:text>
+                        </xsl:when>
+                        <xsl:when
+                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-goat'][not(@certainty) or @certainty = '1']/tp:target/@IDvalue = concat('#', @xml:id)">
                             <xsl:text>goatskin </xsl:text>
                         </xsl:when>
+                        <xsl:when
+                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-goat'][@certainty gt '1']/tp:target/@IDvalue = concat('#', @xml:id)">
+                            <xsl:text>goatskin-uncertain </xsl:text>
+                        </xsl:when>
+                        <xsl:when
+                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-caprinae'][not(@certainty) or @certainty = '1']/tp:target/@IDvalue = concat('#', @xml:id)">
+                            <xsl:text>caprinaeskin </xsl:text>
+                        </xsl:when>
+                        <xsl:when
+                            test="$targetLists/tp:targetLists/tp:targetList[@term = '#id-noID'][not(@certainty) or @certainty = '1']/tp:target/@IDvalue = concat('#', @xml:id)">
+                            <xsl:text>noSpeciesID </xsl:text>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:text>leaf </xsl:text>
+                        </xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
             </xsl:choose>
@@ -3391,6 +3582,12 @@
             <xd:p>This template draws the attachment methods. The parameters necessary to draw the
                 gatherings are passed from the previous template.</xd:p>
         </xd:desc>
+        <xd:param name="Cx">
+            <xd:p>The value of Cx, used for conjoined attachemnt.</xd:p>
+        </xd:param>
+        <xd:param name="Cy">
+            <xd:p>The value of Cy, used for conjoined attachemnt.</xd:p>
+        </xd:param>
         <xd:param name="Cx_A">
             <xd:p>The value of Cx for the attachment method.</xd:p>
         </xd:param>
@@ -3425,11 +3622,44 @@
         <xd:param name="certainty">
             <xd:p>Certainty value.</xd:p>
         </xd:param>
+        <xd:param name="ownPosition">
+            <xd:p>Position of the current leaf</xd:p>
+        </xd:param>
+        <xd:param name="attachmentTargetPosition">
+            <xd:p>Position of the leaf to which the leaf is attached</xd:p>
+        </xd:param>
         <xd:param name="direction">
             <xd:p>Writing direction.</xd:p>
         </xd:param>
+        <xd:param name="leftOrRight">
+            <xd:p>Parameter to select the displacement for double paths</xd:p>
+        </xd:param>
+        <xd:param name="folioMode">
+            <xd:p>Variable to define the visualization of the mode of the folio. Regularly, these
+                are coded in the XML model, however, for parchment leaves, the visualization
+                requires to indicate flesh and hair sides, modes (replaced, added) cannot also be
+                visualized. This variable is called only for path1</xd:p>
+        </xd:param>
+        <xd:param name="folioMode2">
+            <xd:p>Variable to define the visualization of the mode of the folio. Regularly, these
+                are coded in the XML model, however, for parchment leaves, the visualization
+                requires to indicate flesh and hair sides, modes (replaced, added) cannot also be
+                visualized. This variable is called only for path2</xd:p>
+        </xd:param>
+        <xd:param name="folioID">
+            <xd:p>FolioID for JS highlighting</xd:p>
+        </xd:param>
+        <xd:param name="Q1_SQ2">
+            <xd:p>Whether the current leaf is in the main gathering or in a subquire.</xd:p>
+        </xd:param>
+        <xd:param name="left1_Right2">
+            <xd:p>Variable to determine if the current folio is in the left or the right half in the
+                principal quire</xd:p>
+        </xd:param>
     </xd:doc>
     <xsl:template name="attachment-method">
+        <xsl:param name="Cx"/>
+        <xsl:param name="Cy"/>
         <xsl:param name="Cx_A"/>
         <xsl:param name="Cy_A"/>
         <xsl:param name="countRegularBifolia"/>
@@ -3438,20 +3668,35 @@
         <xsl:param name="lineLength"/>
         <xsl:param name="parametricY"/>
         <xsl:param name="attachmentDeviation" select="1"/>
+        <xsl:param name="ownPosition"/>
+        <xsl:param name="attachmentTargetPosition"/>
         <xsl:param name="certainty"/>
         <xsl:param name="direction" tunnel="yes"/>
+        <xsl:param name="leftOrRight"/>
+        <xsl:param name="folioMode"/>
+        <xsl:param name="folioMode2"/>
+        <xsl:param name="folioID"/>
+        <xsl:param name="Q1_SQ2"/>
+        <xsl:param name="left1_Right2"/>
+        <!-- Description -->
+        <desc xmlns="http://www.w3.org/2000/svg">
+            <xsl:text>Attachment method - </xsl:text>
+            <xsl:value-of select="@type"/>
+        </desc>
         <g xmlns="http://www.w3.org/2000/svg">
-            <!-- Uncertainty -->
-            <xsl:call-template name="certainty">
-                <xsl:with-param name="certainty" select="$certainty"/>
-            </xsl:call-template>
-            <xsl:attribute name="class">
-                <xsl:text>leaf</xsl:text>
-            </xsl:attribute>
-            <desc xmlns="http://www.w3.org/2000/svg">
-                <xsl:text>Attachment method - </xsl:text>
-                <xsl:value-of select="@type"/>
-            </desc>
+            <xsl:choose>
+                <!-- Conjoined attachment method requires a specific set of CSS properties  -->
+                <xsl:when test="@type != 'conjoined'">
+                    <!-- Uncertainty -->
+                    <xsl:call-template name="certainty">
+                        <xsl:with-param name="certainty" select="$certainty"/>
+                    </xsl:call-template>
+                    <!-- CSS Class -->
+                    <xsl:attribute name="class">
+                        <xsl:text>base leaf</xsl:text>
+                    </xsl:attribute>
+                </xsl:when>
+            </xsl:choose>
             <xsl:choose>
                 <xsl:when test="@type = 'sewn'">
                     <xsl:choose>
@@ -3527,7 +3772,7 @@
                             <xsl:value-of
                                 select="$Cx_A + ($delta * $countRegularBifolia - 2) - ($delta * ($countRegularBifolia2 + 2)) - (($delta div 2) * $positions_SQ)"/>
                             <xsl:text>,</xsl:text>
-                            <xsl:value-of select="$Cy_A - 1"/>                             
+                            <xsl:value-of select="$Cy_A - 1"/>
                         </xsl:attribute>
                     </path>
                     <path>
@@ -3556,7 +3801,7 @@
                             <xsl:value-of
                                 select="$Cx_A + ($delta * $countRegularBifolia - 2) - ($delta * ($countRegularBifolia2 + 2)) - (($delta div 2) * $positions_SQ)"/>
                             <xsl:text>,</xsl:text>
-                            <xsl:value-of select="$Cy_A + 1"/>                             
+                            <xsl:value-of select="$Cy_A + 1"/>
                         </xsl:attribute>
                     </path>
                 </xsl:when>
@@ -3616,6 +3861,149 @@
                         width="{$lineLength div 10}" height="{$delta}" fill="url(#gluedPattern)"
                         stroke-opacity="0.0"/>
                 </xsl:when>
+                <xsl:when test="@type = 'conjoined'">
+                    <xsl:variable name="currentLeafPosition"/>
+                    <xsl:variable name="arcDisplacement"
+                        select="(abs(xs:integer($ownPosition) - xs:integer($attachmentTargetPosition)) * $delta div 2)"/>
+                    <!-- The arc of the attachment goes upwards for the bottom half of the curve -->
+                    <xsl:variable name="Y-arcDisplacement">
+                        <xsl:choose>
+                            <xsl:when
+                                test="xs:integer($ownPosition) lt xs:integer($attachmentTargetPosition)">
+                                <xsl:value-of select="$arcDisplacement"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="-$arcDisplacement"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:variable>                    
+                    <!-- Arc path: bezier curve with controls set at a 90° angle  -->
+                    <!-- When double paths are needed to encode visualizations for leaf sides, this corresponds to
+                            the left side or right side depending on the position of the leaf (left or right of the centre)-->
+                    <xsl:variable name="arcPath">
+                        <!-- For double paths, the arc of the attachment curve needs a mirror displacement for recto and verso-->
+                        <xsl:variable name="arc-doublePathDisplacement">
+                            <xsl:choose>
+                                <xsl:when test="$doublePaths = 1">
+                                    <xsl:choose>
+                                        <xsl:when test="$left1_Right2 = 1">
+                                            <xsl:choose>
+                                                <xsl:when test="xs:integer($ownPosition) lt xs:integer($attachmentTargetPosition)">
+                                                    <xsl:value-of select="$doublePathDisplacementValue div 3"/>
+                                                </xsl:when>
+                                                <xsl:otherwise>
+                                                    <xsl:value-of select="-$doublePathDisplacementValue"/>
+                                                </xsl:otherwise>
+                                            </xsl:choose>
+                                        </xsl:when>
+                                        <xsl:when test="$left1_Right2 = 2">
+                                            <xsl:choose>
+                                                <xsl:when test="xs:integer($ownPosition) lt xs:integer($attachmentTargetPosition)">
+                                                    <xsl:value-of select="-$doublePathDisplacementValue"/>
+                                                </xsl:when>
+                                                <xsl:otherwise>
+                                                    <xsl:value-of select="$doublePathDisplacementValue div 3"/>
+                                                </xsl:otherwise>
+                                            </xsl:choose>
+                                        </xsl:when>
+                                    </xsl:choose>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="0"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            
+                        </xsl:variable>
+                        <path>
+                            <xsl:attribute name="d">
+                                <xsl:text>M</xsl:text>
+                                <xsl:value-of
+                                    select="$Cx + ($delta * $countRegularBifolia - 2) + $lineLength"/>
+                                <xsl:text>,</xsl:text>
+                                <xsl:value-of select="$Cy + $parametricY"/>
+                                <xsl:text>&#32;Q</xsl:text>
+                                <xsl:value-of
+                                    select="$Cx + ($delta * $countRegularBifolia - 2) + $lineLength + $arcDisplacement + $arc-doublePathDisplacement"/>
+                                <xsl:text>,</xsl:text>
+                                <xsl:value-of select="$Cy + $parametricY"/>
+                                <xsl:text>&#32;</xsl:text>
+                                <xsl:value-of
+                                    select="$Cx + ($delta * $countRegularBifolia - 2) + $lineLength + $arcDisplacement + $arc-doublePathDisplacement"/>
+                                <xsl:text>,</xsl:text>
+                                <xsl:value-of select="($Cy + $parametricY + $Y-arcDisplacement)"/>
+                            </xsl:attribute>
+                        </path>
+                    </xsl:variable>
+                    <!-- When double paths are needed to encode visualizations for leaf sides, this path is drawn and it corresponds to
+                            the left side or right side depending on the position of the leaf (left or right of the centre)-->
+                    <!--<xsl:variable name="arcPath2"-->
+                    <xsl:variable name="arcPath2">
+                        <!-- For double paths, the arc of the attachment curve needs a mirror displacement for recto and verso-->
+                        <xsl:variable name="arc-doublePathDisplacement">
+                            <xsl:choose>
+                                <xsl:when test="$left1_Right2 = 1">
+                                    <xsl:choose>
+                                        <xsl:when test="xs:integer($ownPosition) lt xs:integer($attachmentTargetPosition)">
+                                            <xsl:value-of select="-$doublePathDisplacementValue"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="$doublePathDisplacementValue div 3"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </xsl:when>
+                                <xsl:when test="$left1_Right2 = 2">
+                                    <xsl:choose>
+                                        <xsl:when test="xs:integer($ownPosition) lt xs:integer($attachmentTargetPosition)">
+                                            <xsl:value-of select="$doublePathDisplacementValue div 3"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="-$doublePathDisplacementValue"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </xsl:when>
+                            </xsl:choose>
+                        </xsl:variable>
+                        <path>
+                            <xsl:attribute name="d">
+                                <xsl:text>M</xsl:text>
+                                <xsl:value-of
+                                    select="$Cx + ($delta * $countRegularBifolia - 2) + $lineLength"/>
+                                <xsl:text>,</xsl:text>
+                                <xsl:value-of select="$Cy + $parametricY + $leftOrRight"/>
+                                <xsl:text>&#32;Q</xsl:text>
+                                <xsl:value-of
+                                    select="$Cx + ($delta * $countRegularBifolia - 2) + $lineLength + $arcDisplacement + $arc-doublePathDisplacement"/>
+                                <xsl:text>,</xsl:text>
+                                <xsl:value-of select="$Cy + $parametricY + $leftOrRight"/>
+                                <xsl:text>&#32;</xsl:text>
+                                <xsl:value-of
+                                    select="$Cx + ($delta * $countRegularBifolia - 2) + $lineLength + $arcDisplacement + $arc-doublePathDisplacement"/>
+                                <xsl:text>,</xsl:text>
+                                <xsl:value-of select="($Cy + $parametricY + $Y-arcDisplacement)"/>
+                            </xsl:attribute>
+                        </path>
+                    </xsl:variable>
+                    <!-- This draws the arc. When double paths are needed to encode visualizations for leaf sides, this draws
+                            the left side or right side depending on the position of the leaf (left or right of the centre)-->
+                    <xsl:call-template name="arcPaths">
+                        <xsl:with-param name="folioID" select="$folioID"/>
+                        <xsl:with-param name="arcPath" select="$arcPath"/>
+                        <xsl:with-param name="folioMode" select="$folioMode"/>
+                        <xsl:with-param name="Q1_SQ2" select="$Q1_SQ2"/>
+                    </xsl:call-template>
+                    <!-- When double paths are needed to encode visualizations for leaf sides, this draws
+                            the left side or right side depending on the position of the leaf (left or right of the centre)-->
+                    <xsl:choose>
+                        <xsl:when test="$doublePaths = 1 and $folioMode != 'missing'">
+                            <xsl:call-template name="arcPaths">
+                                <xsl:with-param name="folioID" select="$folioID"/>
+                                <xsl:with-param name="arcPath" select="$arcPath2"/>
+                                <xsl:with-param name="folioMode" select="$folioMode2"/>
+                                <xsl:with-param name="Q1_SQ2" select="$Q1_SQ2"/>
+                            </xsl:call-template>
+                        </xsl:when>
+                    </xsl:choose>
+                </xsl:when>
             </xsl:choose>
         </g>
     </xsl:template>
@@ -3657,6 +4045,14 @@
                 <desc>Glue pattern</desc>
                 <path d="{concat('M 0,0 L 4,',2*$delta)}" class="glued"/>
             </pattern>
+            <!-- Species identification for caprinae (sheep or goat) requires a double colour pattern -->
+            <linearGradient id="caprinaeGradient" x1="0" x2="5" gradientUnits="userSpaceOnUse"
+                spreadMethod="repeat" gradientTransform="rotate(45)">
+                <stop offset="0" stop-color="#CC6D68"/>
+                <stop offset="50%" stop-color="#CC6D68"/>
+                <stop offset="51%" stop-color="#DBBD68"/>
+                <stop offset="100%" stop-color="#DBBD68"/>
+            </linearGradient>
         </defs>
     </xsl:template>
 
